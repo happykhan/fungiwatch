@@ -1,0 +1,15 @@
+[project]
+name = "fungiwatch"
+version = "0.1.0"
+description = "WHO Fungal Priority Pathogens genome metadata tracker"
+channels = ["conda-forge", "bioconda"]
+platforms = ["osx-arm64", "osx-64", "linux-64"]
+
+[dependencies]
+python = ">=3.11"
+ncbi-datasets-cli = "*"
+pip = "*"
+
+[pypi-dependencies]
+jinja2 = "*"
+pytest = "*"
