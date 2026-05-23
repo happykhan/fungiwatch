@@ -21,7 +21,7 @@
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_982397225.1",
@@ -333,7 +333,7 @@
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000151335.1",
@@ -357,7 +357,7 @@
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000150245.1",

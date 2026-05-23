@@ -401,7 +401,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "The Hong Kong Polytechnic University",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",

@@ -73160,7 +73160,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137400",
@@ -73183,7 +73183,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137401",
@@ -73206,7 +73206,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137402",
@@ -73229,7 +73229,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137403",
@@ -73252,7 +73252,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137404",
@@ -73275,7 +73275,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137405",
@@ -73298,7 +73298,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137406",
@@ -73321,7 +73321,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137407",
@@ -73344,7 +73344,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36137408",
@@ -73367,7 +73367,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36125791",
@@ -111882,7 +111882,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "St George's, University of London",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -112204,7 +112204,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "St George's, University of London",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -112296,7 +112296,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "St George's, University of London",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -112319,7 +112319,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "St George's, University of London",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -142597,7 +142597,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022025",
@@ -142620,7 +142620,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022026",
@@ -142643,7 +142643,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022027",
@@ -142666,7 +142666,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022028",
@@ -142689,7 +142689,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022029",
@@ -142712,7 +142712,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022030",
@@ -142735,7 +142735,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022031",
@@ -142758,7 +142758,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022032",
@@ -142781,7 +142781,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022033",
@@ -142804,7 +142804,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022034",
@@ -142827,7 +142827,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022035",
@@ -142850,7 +142850,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022036",
@@ -142873,7 +142873,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022037",
@@ -142896,7 +142896,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022038",
@@ -142919,7 +142919,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022039",
@@ -142942,7 +142942,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34022040",
@@ -142965,7 +142965,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34016174",
@@ -261760,7 +261760,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR32177869",
@@ -265591,7 +265591,7 @@
     "isolation_source": "Aerobic Culture, G-Tube",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Wisconsin State Laboratory of Hygiene",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -267901,7 +267901,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088679",
@@ -267924,7 +267924,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088644",
@@ -267947,7 +267947,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088642",
@@ -267970,7 +267970,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088640",
@@ -267993,7 +267993,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088638",
@@ -268016,7 +268016,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088636",
@@ -268039,7 +268039,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088634",
@@ -268062,7 +268062,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088632",
@@ -268085,7 +268085,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088630",
@@ -268108,7 +268108,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088628",
@@ -268131,7 +268131,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088626",
@@ -268154,7 +268154,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088625",
@@ -268200,7 +268200,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088609",
@@ -268223,7 +268223,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088607",
@@ -268246,7 +268246,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088605",
@@ -268269,7 +268269,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088603",
@@ -268292,7 +268292,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088601",
@@ -268315,7 +268315,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088599",
@@ -268338,7 +268338,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088597",
@@ -268361,7 +268361,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088595",
@@ -268384,7 +268384,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088593",
@@ -268407,7 +268407,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088591",
@@ -268430,7 +268430,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088589",
@@ -268453,7 +268453,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088587",
@@ -268476,7 +268476,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088585",
@@ -268499,7 +268499,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088583",
@@ -268522,7 +268522,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088581",
@@ -268545,7 +268545,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088579",
@@ -268568,7 +268568,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088577",
@@ -268591,7 +268591,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088575",
@@ -268614,7 +268614,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088573",
@@ -268637,7 +268637,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088571",
@@ -268660,7 +268660,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088569",
@@ -268683,7 +268683,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088567",
@@ -268706,7 +268706,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088565",
@@ -268729,7 +268729,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088563",
@@ -268752,7 +268752,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088561",
@@ -268775,7 +268775,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088559",
@@ -268798,7 +268798,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088557",
@@ -268821,7 +268821,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088555",
@@ -268844,7 +268844,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088553",
@@ -268867,7 +268867,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088551",
@@ -268890,7 +268890,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088549",
@@ -268913,7 +268913,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088547",
@@ -268936,7 +268936,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088545",
@@ -268959,7 +268959,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088543",
@@ -268982,7 +268982,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088541",
@@ -269005,7 +269005,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088539",
@@ -269028,7 +269028,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088537",
@@ -269051,7 +269051,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088535",
@@ -269074,7 +269074,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088533",
@@ -269097,7 +269097,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088531",
@@ -269120,7 +269120,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088529",
@@ -269143,7 +269143,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088527",
@@ -269166,7 +269166,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088525",
@@ -269189,7 +269189,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088523",
@@ -269212,7 +269212,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088521",
@@ -269235,7 +269235,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088519",
@@ -269258,7 +269258,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088517",
@@ -269281,7 +269281,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088515",
@@ -269304,7 +269304,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088513",
@@ -269327,7 +269327,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088512",
@@ -269350,7 +269350,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088511",
@@ -269373,7 +269373,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088510",
@@ -269396,7 +269396,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088509",
@@ -269419,7 +269419,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088508",
@@ -269442,7 +269442,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088507",
@@ -269465,7 +269465,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088506",
@@ -269488,7 +269488,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088505",
@@ -269511,7 +269511,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088504",
@@ -269534,7 +269534,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088503",
@@ -269557,7 +269557,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088502",
@@ -269580,7 +269580,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088501",
@@ -269603,7 +269603,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088500",
@@ -269626,7 +269626,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088499",
@@ -269649,7 +269649,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088498",
@@ -269672,7 +269672,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088497",
@@ -269695,7 +269695,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088496",
@@ -269718,7 +269718,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088495",
@@ -269741,7 +269741,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088494",
@@ -269764,7 +269764,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32088493",
@@ -269787,7 +269787,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32079777",
@@ -292478,7 +292478,7 @@
     "isolation_source": "Kidney stone culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Wisconsin State Laboratory of Hygiene",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -293559,7 +293559,7 @@
     "isolation_source": "cultured from pulmonary sample",
     "host_disease": "pulmonary candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Epigenetiks Genetik Biyoinformatik Yazilim A.S.",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -365112,7 +365112,7 @@
     "isolation_source": "Axillary-rectal exudate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "FISABIO",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 550",
@@ -365204,7 +365204,7 @@
     "isolation_source": "Axillary-rectal exudate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "FISABIO",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 550",
@@ -365526,7 +365526,7 @@
     "isolation_source": "Axillary-rectal exudate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "FISABIO",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 550",
@@ -365641,7 +365641,7 @@
     "isolation_source": "Axillary-rectal exudate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "FISABIO",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 550",
@@ -366400,7 +366400,7 @@
     "isolation_source": "Respiratory culture",
     "host_disease": "Candida infection",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Columbia University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -418965,7 +418965,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28553516",
@@ -418988,7 +418988,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28553517",
@@ -419011,7 +419011,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28543402",
@@ -451017,7 +451017,7 @@
     "isolation_source": "Surgical Culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "NVSPHL",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -500306,7 +500306,7 @@
     "isolation_source": "surgical culture",
     "host_disease": "Fungal infection",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "NVSPHL",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525192,7 +525192,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525215,7 +525215,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -525284,7 +525284,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525330,7 +525330,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525491,7 +525491,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525606,7 +525606,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525652,7 +525652,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -525767,7 +525767,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -526066,7 +526066,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -526227,7 +526227,7 @@
     "isolation_source": "Axilla and Groin",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "cdc-ncezid-mdb",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -553216,7 +553216,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210799",
@@ -553239,7 +553239,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210800",
@@ -553262,7 +553262,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210801",
@@ -553285,7 +553285,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210802",
@@ -553308,7 +553308,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210803",
@@ -553331,7 +553331,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210804",
@@ -553354,7 +553354,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210805",
@@ -553377,7 +553377,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210806",
@@ -553400,7 +553400,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210807",
@@ -553423,7 +553423,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210808",
@@ -553446,7 +553446,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210809",
@@ -553469,7 +553469,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210810",
@@ -553492,7 +553492,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210811",
@@ -553515,7 +553515,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210812",
@@ -553538,7 +553538,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210813",
@@ -553561,7 +553561,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210814",
@@ -553584,7 +553584,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210815",
@@ -553607,7 +553607,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210816",
@@ -553630,7 +553630,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210817",
@@ -553653,7 +553653,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210818",
@@ -553676,7 +553676,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210819",
@@ -553699,7 +553699,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210820",
@@ -553722,7 +553722,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210821",
@@ -553745,7 +553745,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210822",
@@ -553768,7 +553768,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210823",
@@ -553791,7 +553791,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210824",
@@ -553814,7 +553814,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210825",
@@ -553837,7 +553837,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210826",
@@ -553860,7 +553860,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210827",
@@ -553883,7 +553883,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210828",
@@ -553906,7 +553906,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210829",
@@ -553929,7 +553929,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210830",
@@ -553952,7 +553952,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210831",
@@ -553975,7 +553975,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210832",
@@ -553998,7 +553998,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210833",
@@ -554021,7 +554021,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210834",
@@ -554044,7 +554044,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210835",
@@ -554067,7 +554067,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210836",
@@ -554090,7 +554090,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210837",
@@ -554113,7 +554113,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210838",
@@ -554136,7 +554136,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210839",
@@ -554159,7 +554159,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210840",
@@ -554182,7 +554182,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210841",
@@ -554205,7 +554205,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210842",
@@ -554228,7 +554228,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210843",
@@ -554251,7 +554251,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210844",
@@ -554274,7 +554274,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210845",
@@ -554297,7 +554297,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210846",
@@ -554320,7 +554320,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210847",
@@ -554343,7 +554343,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210848",
@@ -554366,7 +554366,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210849",
@@ -554389,7 +554389,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210850",
@@ -554412,7 +554412,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210851",
@@ -554435,7 +554435,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210852",
@@ -554458,7 +554458,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210853",
@@ -554481,7 +554481,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210854",
@@ -554504,7 +554504,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210855",
@@ -554527,7 +554527,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210856",
@@ -554550,7 +554550,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210857",
@@ -554573,7 +554573,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210858",
@@ -554596,7 +554596,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210859",
@@ -554619,7 +554619,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210860",
@@ -554642,7 +554642,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210861",
@@ -554665,7 +554665,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210862",
@@ -554688,7 +554688,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210863",
@@ -554711,7 +554711,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210864",
@@ -554734,7 +554734,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210865",
@@ -554757,7 +554757,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210866",
@@ -554780,7 +554780,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210867",
@@ -554803,7 +554803,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210868",
@@ -554826,7 +554826,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210870",
@@ -554849,7 +554849,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210871",
@@ -554872,7 +554872,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210872",
@@ -554895,7 +554895,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210873",
@@ -554918,7 +554918,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210874",
@@ -554941,7 +554941,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210875",
@@ -554964,7 +554964,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210869",
@@ -554987,7 +554987,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210876",
@@ -555010,7 +555010,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210877",
@@ -555033,7 +555033,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210878",
@@ -555056,7 +555056,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210879",
@@ -555079,7 +555079,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210880",
@@ -555102,7 +555102,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210881",
@@ -555125,7 +555125,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210882",
@@ -555148,7 +555148,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210883",
@@ -555171,7 +555171,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210884",
@@ -555194,7 +555194,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210885",
@@ -555217,7 +555217,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210886",
@@ -555240,7 +555240,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210887",
@@ -555263,7 +555263,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210888",
@@ -555286,7 +555286,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210889",
@@ -555309,7 +555309,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210890",
@@ -555332,7 +555332,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210891",
@@ -555355,7 +555355,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210892",
@@ -555378,7 +555378,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210893",
@@ -555401,7 +555401,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210894",
@@ -555424,7 +555424,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210895",
@@ -555447,7 +555447,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210896",
@@ -555470,7 +555470,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210897",
@@ -555493,7 +555493,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210898",
@@ -555516,7 +555516,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210899",
@@ -555539,7 +555539,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210900",
@@ -555562,7 +555562,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210901",
@@ -555585,7 +555585,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210902",
@@ -555608,7 +555608,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210903",
@@ -555631,7 +555631,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210904",
@@ -555654,7 +555654,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210905",
@@ -555677,7 +555677,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210906",
@@ -555700,7 +555700,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210907",
@@ -555723,7 +555723,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210908",
@@ -555746,7 +555746,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210909",
@@ -555769,7 +555769,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210910",
@@ -555792,7 +555792,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210911",
@@ -555815,7 +555815,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210912",
@@ -555838,7 +555838,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210913",
@@ -555861,7 +555861,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210914",
@@ -555884,7 +555884,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25210915",
@@ -555907,7 +555907,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25161354",
@@ -561496,7 +561496,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25036425",
@@ -561519,7 +561519,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25036426",
@@ -561542,7 +561542,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24895754",
@@ -573814,7 +573814,7 @@
     "isolation_source": "Unknown Surveillance Culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Wadsworth Center",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -597619,7 +597619,7 @@
     "isolation_source": "BLOOD CULTURE",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "NSPHL",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -600172,7 +600172,7 @@
     "isolation_source": "BLOOD CULTURE",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "NSPHL",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -601299,7 +601299,7 @@
     "isolation_source": "BLOOD CULTURE",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "NSPHL",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -610992,7 +610992,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR22541060",
@@ -611015,7 +611015,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR22393495",
@@ -614764,7 +614764,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943167",
@@ -614787,7 +614787,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943168",
@@ -614810,7 +614810,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943169",
@@ -614833,7 +614833,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943170",
@@ -614856,7 +614856,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943171",
@@ -614879,7 +614879,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943172",
@@ -614902,7 +614902,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943173",
@@ -614925,7 +614925,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943174",
@@ -614948,7 +614948,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943175",
@@ -614971,7 +614971,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943176",
@@ -614994,7 +614994,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943177",
@@ -615017,7 +615017,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943178",
@@ -615040,7 +615040,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943179",
@@ -615063,7 +615063,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943180",
@@ -615086,7 +615086,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943181",
@@ -615109,7 +615109,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943182",
@@ -615132,7 +615132,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943183",
@@ -615155,7 +615155,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943184",
@@ -615178,7 +615178,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943185",
@@ -615201,7 +615201,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943186",
@@ -615224,7 +615224,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943187",
@@ -615247,7 +615247,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943188",
@@ -615270,7 +615270,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943189",
@@ -615293,7 +615293,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943190",
@@ -615316,7 +615316,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943191",
@@ -615339,7 +615339,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943192",
@@ -615362,7 +615362,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943193",
@@ -615385,7 +615385,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943194",
@@ -615408,7 +615408,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943195",
@@ -615431,7 +615431,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943196",
@@ -615454,7 +615454,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943197",
@@ -615477,7 +615477,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943198",
@@ -615500,7 +615500,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943199",
@@ -615523,7 +615523,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943200",
@@ -615546,7 +615546,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943201",
@@ -615569,7 +615569,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943202",
@@ -615592,7 +615592,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943203",
@@ -615615,7 +615615,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943204",
@@ -615638,7 +615638,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943205",
@@ -615661,7 +615661,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943206",
@@ -615684,7 +615684,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943207",
@@ -615707,7 +615707,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943208",
@@ -615730,7 +615730,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943209",
@@ -615753,7 +615753,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943210",
@@ -615776,7 +615776,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943211",
@@ -615799,7 +615799,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943212",
@@ -615822,7 +615822,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943213",
@@ -615845,7 +615845,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943214",
@@ -615868,7 +615868,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943215",
@@ -615891,7 +615891,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943216",
@@ -615914,7 +615914,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943217",
@@ -615937,7 +615937,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943218",
@@ -615960,7 +615960,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943219",
@@ -615983,7 +615983,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943220",
@@ -616006,7 +616006,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943221",
@@ -616029,7 +616029,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943222",
@@ -616052,7 +616052,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943223",
@@ -616075,7 +616075,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943224",
@@ -616098,7 +616098,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943225",
@@ -616121,7 +616121,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943226",
@@ -616144,7 +616144,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943227",
@@ -616167,7 +616167,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943228",
@@ -616190,7 +616190,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943229",
@@ -616213,7 +616213,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943230",
@@ -616236,7 +616236,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943231",
@@ -616259,7 +616259,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943232",
@@ -616282,7 +616282,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943233",
@@ -616305,7 +616305,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943234",
@@ -616328,7 +616328,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943235",
@@ -616351,7 +616351,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943236",
@@ -616374,7 +616374,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943237",
@@ -616397,7 +616397,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943238",
@@ -616420,7 +616420,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943239",
@@ -616443,7 +616443,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943240",
@@ -616466,7 +616466,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21943241",
@@ -616489,7 +616489,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR21758524",
@@ -630095,7 +630095,7 @@
     "isolation_source": "blood culture",
     "host_disease": "Candidemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Epigenetiks Genetik Biyoinformatik Yazilim A.S.",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -638523,7 +638523,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192303",
@@ -638546,7 +638546,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192304",
@@ -638569,7 +638569,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192305",
@@ -638592,7 +638592,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192306",
@@ -638615,7 +638615,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192307",
@@ -638638,7 +638638,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192308",
@@ -638661,7 +638661,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192309",
@@ -638684,7 +638684,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192310",
@@ -638707,7 +638707,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192311",
@@ -638730,7 +638730,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192312",
@@ -638753,7 +638753,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192313",
@@ -638776,7 +638776,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192314",
@@ -638799,7 +638799,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192315",
@@ -638822,7 +638822,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192316",
@@ -638845,7 +638845,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192317",
@@ -638868,7 +638868,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192318",
@@ -638891,7 +638891,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15192319",
@@ -638914,7 +638914,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR15006561",
@@ -642653,7 +642653,7 @@
     "isolation_source": "Cultured bacteria",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Zoonosis Science Center",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -642676,7 +642676,7 @@
     "isolation_source": "Cultured bacteria",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Zoonosis Science Center",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -642699,7 +642699,7 @@
     "isolation_source": "Cultured bacteria",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Zoonosis Science Center",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -642722,7 +642722,7 @@
     "isolation_source": "Cultured bacteria",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Zoonosis Science Center",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -642745,7 +642745,7 @@
     "isolation_source": "Cultured bacteria",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Zoonosis Science Center",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -643008,7 +643008,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13908940",
@@ -643031,7 +643031,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13908939",
@@ -643054,7 +643054,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13908938",
@@ -643077,7 +643077,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13908937",
@@ -643100,7 +643100,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13768964",
@@ -643146,7 +643146,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710770",
@@ -643169,7 +643169,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710771",
@@ -643192,7 +643192,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710772",
@@ -643215,7 +643215,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710773",
@@ -643238,7 +643238,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710774",
@@ -643261,7 +643261,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710775",
@@ -643284,7 +643284,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710776",
@@ -643307,7 +643307,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710777",
@@ -643330,7 +643330,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710778",
@@ -643353,7 +643353,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710779",
@@ -643376,7 +643376,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710780",
@@ -643399,7 +643399,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710781",
@@ -643422,7 +643422,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710782",
@@ -643445,7 +643445,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710783",
@@ -643468,7 +643468,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710784",
@@ -643491,7 +643491,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710785",
@@ -643514,7 +643514,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710786",
@@ -643537,7 +643537,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710787",
@@ -643560,7 +643560,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710788",
@@ -643583,7 +643583,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710789",
@@ -643606,7 +643606,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710790",
@@ -643629,7 +643629,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710791",
@@ -643652,7 +643652,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710792",
@@ -643675,7 +643675,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710793",
@@ -643698,7 +643698,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710794",
@@ -643721,7 +643721,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710795",
@@ -643744,7 +643744,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710796",
@@ -643767,7 +643767,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710797",
@@ -643790,7 +643790,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710798",
@@ -643813,7 +643813,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710799",
@@ -643836,7 +643836,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710800",
@@ -643859,7 +643859,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710801",
@@ -643882,7 +643882,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710802",
@@ -643905,7 +643905,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710803",
@@ -643928,7 +643928,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710804",
@@ -643951,7 +643951,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710805",
@@ -643974,7 +643974,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710806",
@@ -643997,7 +643997,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710807",
@@ -644020,7 +644020,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710808",
@@ -644043,7 +644043,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710809",
@@ -644066,7 +644066,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710810",
@@ -644089,7 +644089,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710811",
@@ -644112,7 +644112,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR13710812",
@@ -644135,7 +644135,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "ERR5162392",
@@ -644802,7 +644802,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR13362217",
@@ -644825,7 +644825,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR13362218",
@@ -644848,7 +644848,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR13362219",
@@ -644871,7 +644871,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR13303958",
@@ -649852,7 +649852,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -649875,7 +649875,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650036,7 +650036,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650059,7 +650059,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650082,7 +650082,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650105,7 +650105,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650128,7 +650128,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650151,7 +650151,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650174,7 +650174,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650197,7 +650197,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Candidaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Institute of Clinical Pathology and Medical Research, Westmead Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -650713,7 +650713,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR10906828",
@@ -650736,7 +650736,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR10906829",
@@ -650759,7 +650759,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR10461211",
@@ -655060,7 +655060,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325914",
@@ -655083,7 +655083,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325915",
@@ -655106,7 +655106,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325916",
@@ -655129,7 +655129,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325917",
@@ -655152,7 +655152,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325918",
@@ -655175,7 +655175,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325919",
@@ -655198,7 +655198,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325920",
@@ -655221,7 +655221,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325921",
@@ -655244,7 +655244,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325922",
@@ -655267,7 +655267,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325923",
@@ -655290,7 +655290,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325924",
@@ -655313,7 +655313,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325925",
@@ -655336,7 +655336,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325926",
@@ -655359,7 +655359,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325927",
@@ -655382,7 +655382,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325928",
@@ -655405,7 +655405,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325929",
@@ -655428,7 +655428,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325930",
@@ -655451,7 +655451,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325931",
@@ -655474,7 +655474,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325932",
@@ -655497,7 +655497,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325933",
@@ -655520,7 +655520,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325934",
@@ -655543,7 +655543,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325935",
@@ -655566,7 +655566,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325936",
@@ -655589,7 +655589,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325937",
@@ -655612,7 +655612,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325938",
@@ -655635,7 +655635,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9325939",
@@ -655658,7 +655658,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316720",
@@ -655681,7 +655681,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316721",
@@ -655704,7 +655704,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316722",
@@ -655727,7 +655727,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316723",
@@ -655750,7 +655750,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316724",
@@ -655773,7 +655773,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316725",
@@ -655796,7 +655796,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316726",
@@ -655819,7 +655819,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316727",
@@ -655842,7 +655842,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316728",
@@ -655865,7 +655865,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316729",
@@ -655888,7 +655888,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316730",
@@ -655911,7 +655911,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316731",
@@ -655934,7 +655934,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316732",
@@ -655957,7 +655957,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316733",
@@ -655980,7 +655980,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316734",
@@ -656003,7 +656003,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316735",
@@ -656026,7 +656026,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316736",
@@ -656049,7 +656049,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316737",
@@ -656072,7 +656072,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316738",
@@ -656095,7 +656095,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316739",
@@ -656118,7 +656118,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316740",
@@ -656141,7 +656141,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316741",
@@ -656164,7 +656164,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316742",
@@ -656187,7 +656187,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316743",
@@ -656210,7 +656210,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316744",
@@ -656233,7 +656233,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316745",
@@ -656256,7 +656256,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316746",
@@ -656279,7 +656279,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316747",
@@ -656302,7 +656302,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316748",
@@ -656325,7 +656325,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316749",
@@ -656348,7 +656348,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316750",
@@ -656371,7 +656371,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316751",
@@ -656394,7 +656394,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316752",
@@ -656417,7 +656417,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316753",
@@ -656440,7 +656440,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316754",
@@ -656463,7 +656463,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316755",
@@ -656486,7 +656486,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316756",
@@ -656509,7 +656509,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316757",
@@ -656532,7 +656532,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316758",
@@ -656555,7 +656555,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316759",
@@ -656578,7 +656578,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316760",
@@ -656601,7 +656601,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316761",
@@ -656624,7 +656624,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316762",
@@ -656647,7 +656647,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316763",
@@ -656670,7 +656670,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316764",
@@ -656693,7 +656693,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316765",
@@ -656716,7 +656716,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316766",
@@ -656739,7 +656739,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316767",
@@ -656762,7 +656762,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316768",
@@ -656785,7 +656785,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316769",
@@ -656808,7 +656808,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316770",
@@ -656831,7 +656831,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316771",
@@ -656854,7 +656854,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316772",
@@ -656877,7 +656877,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316773",
@@ -656900,7 +656900,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316774",
@@ -656923,7 +656923,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316775",
@@ -656946,7 +656946,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316776",
@@ -656969,7 +656969,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316777",
@@ -656992,7 +656992,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316778",
@@ -657015,7 +657015,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316779",
@@ -657038,7 +657038,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316780",
@@ -657061,7 +657061,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316781",
@@ -657084,7 +657084,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316782",
@@ -657107,7 +657107,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316783",
@@ -657130,7 +657130,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316784",
@@ -657153,7 +657153,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316785",
@@ -657176,7 +657176,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316786",
@@ -657199,7 +657199,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316787",
@@ -657222,7 +657222,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316788",
@@ -657245,7 +657245,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316789",
@@ -657268,7 +657268,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316790",
@@ -657291,7 +657291,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316791",
@@ -657314,7 +657314,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316792",
@@ -657337,7 +657337,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316793",
@@ -657360,7 +657360,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316794",
@@ -657383,7 +657383,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316795",
@@ -657406,7 +657406,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316796",
@@ -657429,7 +657429,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316797",
@@ -657452,7 +657452,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316798",
@@ -657475,7 +657475,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316799",
@@ -657498,7 +657498,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316800",
@@ -657521,7 +657521,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316801",
@@ -657544,7 +657544,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316802",
@@ -657567,7 +657567,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316803",
@@ -657590,7 +657590,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316804",
@@ -657613,7 +657613,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316805",
@@ -657636,7 +657636,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316806",
@@ -657659,7 +657659,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316807",
@@ -657682,7 +657682,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316808",
@@ -657705,7 +657705,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316809",
@@ -657728,7 +657728,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316810",
@@ -657751,7 +657751,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316811",
@@ -657774,7 +657774,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316812",
@@ -657797,7 +657797,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316813",
@@ -657820,7 +657820,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316814",
@@ -657843,7 +657843,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316815",
@@ -657866,7 +657866,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316816",
@@ -657889,7 +657889,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9316817",
@@ -657912,7 +657912,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9201318",
@@ -658142,7 +658142,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976541",
@@ -658165,7 +658165,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976542",
@@ -658188,7 +658188,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976543",
@@ -658211,7 +658211,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976544",
@@ -658234,7 +658234,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976545",
@@ -658257,7 +658257,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976546",
@@ -658280,7 +658280,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976547",
@@ -658303,7 +658303,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976548",
@@ -658326,7 +658326,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976549",
@@ -658349,7 +658349,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976550",
@@ -658372,7 +658372,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976551",
@@ -658395,7 +658395,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976552",
@@ -658418,7 +658418,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976553",
@@ -658441,7 +658441,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976554",
@@ -658464,7 +658464,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976555",
@@ -658487,7 +658487,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976556",
@@ -658510,7 +658510,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976557",
@@ -658533,7 +658533,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976558",
@@ -658556,7 +658556,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976559",
@@ -658579,7 +658579,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976560",
@@ -658602,7 +658602,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976561",
@@ -658625,7 +658625,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976562",
@@ -658648,7 +658648,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976563",
@@ -658671,7 +658671,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976564",
@@ -658694,7 +658694,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976565",
@@ -658717,7 +658717,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976566",
@@ -658740,7 +658740,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976567",
@@ -658763,7 +658763,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976568",
@@ -658786,7 +658786,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976569",
@@ -658809,7 +658809,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976570",
@@ -658832,7 +658832,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976571",
@@ -658855,7 +658855,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976572",
@@ -658878,7 +658878,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976573",
@@ -658901,7 +658901,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976574",
@@ -658924,7 +658924,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976575",
@@ -658947,7 +658947,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976576",
@@ -658970,7 +658970,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976577",
@@ -658993,7 +658993,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976578",
@@ -659016,7 +659016,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976579",
@@ -659039,7 +659039,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976580",
@@ -659062,7 +659062,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976581",
@@ -659085,7 +659085,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976582",
@@ -659108,7 +659108,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976583",
@@ -659131,7 +659131,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976584",
@@ -659154,7 +659154,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976585",
@@ -659177,7 +659177,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976586",
@@ -659200,7 +659200,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976587",
@@ -659223,7 +659223,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976588",
@@ -659246,7 +659246,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976589",
@@ -659269,7 +659269,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976590",
@@ -659292,7 +659292,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976591",
@@ -659315,7 +659315,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976592",
@@ -659338,7 +659338,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976593",
@@ -659361,7 +659361,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976594",
@@ -659384,7 +659384,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976595",
@@ -659407,7 +659407,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976596",
@@ -659430,7 +659430,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976597",
@@ -659453,7 +659453,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976598",
@@ -659476,7 +659476,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976599",
@@ -659499,7 +659499,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976600",
@@ -659522,7 +659522,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976601",
@@ -659545,7 +659545,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976602",
@@ -659568,7 +659568,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976603",
@@ -659591,7 +659591,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976604",
@@ -659614,7 +659614,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976605",
@@ -659637,7 +659637,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976606",
@@ -659660,7 +659660,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976607",
@@ -659683,7 +659683,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976608",
@@ -659706,7 +659706,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976609",
@@ -659729,7 +659729,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976610",
@@ -659752,7 +659752,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976611",
@@ -659775,7 +659775,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976612",
@@ -659798,7 +659798,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976613",
@@ -659821,7 +659821,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976614",
@@ -659844,7 +659844,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976615",
@@ -659867,7 +659867,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976616",
@@ -659890,7 +659890,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7976617",
@@ -659913,7 +659913,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7909249",
@@ -671482,7 +671482,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR1519358",
@@ -671505,7 +671505,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR1519357",
@@ -671528,7 +671528,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR899743",
@@ -671551,7 +671551,7 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1664627",

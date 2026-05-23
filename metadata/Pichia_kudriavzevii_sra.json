@@ -6943,7 +6943,7 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR10982918",
@@ -11073,7 +11073,7 @@
     "isolation_source": "NRRL Collection",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "UW-Madison",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -11257,7 +11257,7 @@
     "isolation_source": "Farmhouse beer: liquid culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "VIB-KU Leuven Center for Microbiology",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -15200,7 +15200,7 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8982851",
@@ -15223,7 +15223,7 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8982852",
@@ -15246,7 +15246,7 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8982853",
@@ -15269,7 +15269,7 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8543840",

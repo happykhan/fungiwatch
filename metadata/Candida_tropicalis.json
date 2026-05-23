@@ -467,7 +467,7 @@
     "isolation_source": "NRRL Collection",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
@@ -981,7 +981,7 @@
     "source": "genome",
     "fppl_name": "Candida tropicalis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_032714655.1",
@@ -1005,7 +1005,7 @@
     "source": "genome",
     "fppl_name": "Candida tropicalis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_032714675.1",
@@ -1029,7 +1029,7 @@
     "source": "genome",
     "fppl_name": "Candida tropicalis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_032714735.1",
@@ -1053,7 +1053,7 @@
     "source": "genome",
     "fppl_name": "Candida tropicalis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_032714815.1",
@@ -1077,7 +1077,7 @@
     "source": "genome",
     "fppl_name": "Candida tropicalis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_035078345.1",

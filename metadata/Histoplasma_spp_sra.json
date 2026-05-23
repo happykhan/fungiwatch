@@ -5737,7 +5737,7 @@
     "isolation_source": "the sample came from strain G217B with spontaneous chromosome rearrangement during laboratory passage from frozen stocks",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "GridION",
@@ -5760,7 +5760,7 @@
     "isolation_source": "the sample came from strain G217B with spontaneous chromosome rearrangement during laboratory passage from frozen stocks",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq X Plus",
@@ -11727,7 +11727,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13433422",
@@ -11750,7 +11750,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13433402",
@@ -11773,7 +11773,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13423221",
@@ -11796,7 +11796,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13423209",
@@ -11819,7 +11819,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13423208",
@@ -11842,7 +11842,7 @@
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13218825",
@@ -12453,7 +12453,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "histoplasmosis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Northern Arizona University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -12476,7 +12476,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "histoplasmosis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Northern Arizona University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",

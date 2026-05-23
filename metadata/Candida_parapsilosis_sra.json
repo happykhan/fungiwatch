@@ -7610,7 +7610,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36556204",
@@ -7633,7 +7633,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36556205",
@@ -7656,7 +7656,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36556206",
@@ -7679,7 +7679,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR36462805",
@@ -7876,7 +7876,7 @@
     "isolation_source": "culture",
     "host_disease": "#",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Medical University of Innsbruck",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq X Plus",
@@ -9072,7 +9072,7 @@
     "isolation_source": "Hemoculture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "NATIONAL INSTITUTE OF HEALTH DR. RICARDO JORGE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -9141,7 +9141,7 @@
     "isolation_source": "Hemoculture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "NATIONAL INSTITUTE OF HEALTH DR. RICARDO JORGE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -9818,7 +9818,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754410",
@@ -9841,7 +9841,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754415",
@@ -9864,7 +9864,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "ERR12772878",
@@ -20089,7 +20089,7 @@
     "isolation_source": "contaminated culture of Saccharomyces cerevisiae",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Comenius University, Faculty of Mathematics, Physics and Informatics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -20112,7 +20112,7 @@
     "isolation_source": "contaminated culture of Saccharomyces cerevisiae",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Comenius University, Faculty of Mathematics, Physics and Informatics",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -20135,7 +20135,7 @@
     "isolation_source": "contaminated culture of Saccharomyces cerevisiae",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Comenius University, Faculty of Mathematics, Physics and Informatics",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -20158,7 +20158,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20181,7 +20181,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20204,7 +20204,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome, upper gastrointestinal bleed, cytomegalovirus",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20227,7 +20227,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome, Patent ductus arteriosus",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20250,7 +20250,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Duodenal atresis, acyanotic heart lesion",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20273,7 +20273,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress sysndrome, Necrotising enterocolitis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20296,7 +20296,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20319,7 +20319,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20342,7 +20342,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress sysndrome, Necrotising enterocolitis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20365,7 +20365,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Duodenal atresia, hepatitis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20388,7 +20388,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Hyaline mebrane disease, necrotising enterocolitis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20411,7 +20411,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Acute myeloid leukemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20434,7 +20434,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Necrotising enterocolitis, cytomegalovirus",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20457,7 +20457,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Gastroschesis, necrotising enterocolitis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20480,7 +20480,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Nephrotic syndrome",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20503,7 +20503,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Gastroschesis, collapsed right upper lung lobe",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20526,7 +20526,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome,pneumonia, Patent ductus arteriosus",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20549,7 +20549,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome, bowel obstruction",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20572,7 +20572,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Respiratory distress syndrome",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20595,7 +20595,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Trisomy 21",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "National Institute for Communicable Diseases",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20628,7 +20628,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505333",
@@ -20651,7 +20651,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505334",
@@ -20674,7 +20674,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505335",
@@ -20697,7 +20697,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505336",
@@ -20720,7 +20720,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505337",
@@ -20743,7 +20743,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29505338",
@@ -20766,7 +20766,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29413522",
@@ -28185,7 +28185,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "DNBSEQ",
     "instrument_model": "DNBSEQ-G400",
@@ -28208,7 +28208,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "DNBSEQ",
     "instrument_model": "DNBSEQ-G400",
@@ -29207,7 +29207,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25915995",
@@ -29230,7 +29230,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25915996",
@@ -29253,7 +29253,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25915997",
@@ -29276,7 +29276,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25915998",
@@ -29299,7 +29299,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25915999",
@@ -29322,7 +29322,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916000",
@@ -29345,7 +29345,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916001",
@@ -29368,7 +29368,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916002",
@@ -29391,7 +29391,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916003",
@@ -29414,7 +29414,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916004",
@@ -29437,7 +29437,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916005",
@@ -29460,7 +29460,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916006",
@@ -29483,7 +29483,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916007",
@@ -29506,7 +29506,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916008",
@@ -29529,7 +29529,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916009",
@@ -29552,7 +29552,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916010",
@@ -29575,7 +29575,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916011",
@@ -29598,7 +29598,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916012",
@@ -29621,7 +29621,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916013",
@@ -29644,7 +29644,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916014",
@@ -29667,7 +29667,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916015",
@@ -29690,7 +29690,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916016",
@@ -29713,7 +29713,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916017",
@@ -29736,7 +29736,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916018",
@@ -29759,7 +29759,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916019",
@@ -29782,7 +29782,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25916020",
@@ -29805,7 +29805,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25837511",
@@ -30564,7 +30564,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474549",
@@ -30587,7 +30587,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474550",
@@ -30610,7 +30610,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474551",
@@ -30633,7 +30633,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474552",
@@ -30656,7 +30656,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474554",
@@ -30679,7 +30679,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474557",
@@ -30702,7 +30702,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474559",
@@ -30725,7 +30725,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474560",
@@ -30748,7 +30748,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474561",
@@ -30771,7 +30771,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474562",
@@ -30794,7 +30794,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474563",
@@ -30817,7 +30817,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474564",
@@ -30840,7 +30840,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474565",
@@ -30863,7 +30863,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474567",
@@ -30886,7 +30886,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474568",
@@ -30909,7 +30909,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474569",
@@ -30932,7 +30932,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474570",
@@ -30955,7 +30955,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474571",
@@ -30978,7 +30978,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474572",
@@ -31001,7 +31001,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474573",
@@ -31024,7 +31024,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474576",
@@ -31047,7 +31047,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474578",
@@ -31070,7 +31070,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474579",
@@ -31093,7 +31093,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474580",
@@ -31116,7 +31116,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474581",
@@ -31139,7 +31139,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474582",
@@ -31162,7 +31162,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474583",
@@ -31185,7 +31185,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474584",
@@ -31208,7 +31208,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474585",
@@ -31231,7 +31231,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474586",
@@ -31254,7 +31254,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474587",
@@ -31277,7 +31277,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474589",
@@ -31300,7 +31300,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474590",
@@ -31323,7 +31323,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474591",
@@ -31346,7 +31346,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474592",
@@ -31369,7 +31369,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474593",
@@ -31392,7 +31392,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474594",
@@ -31415,7 +31415,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474595",
@@ -31438,7 +31438,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474596",
@@ -31461,7 +31461,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474597",
@@ -31484,7 +31484,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474598",
@@ -31507,7 +31507,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474600",
@@ -31530,7 +31530,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474601",
@@ -31553,7 +31553,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474602",
@@ -31576,7 +31576,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474603",
@@ -31599,7 +31599,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474604",
@@ -31622,7 +31622,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474605",
@@ -31645,7 +31645,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474606",
@@ -31668,7 +31668,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474607",
@@ -31691,7 +31691,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25474608",
@@ -31714,7 +31714,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR25357634",
@@ -31737,7 +31737,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357635",
@@ -31760,7 +31760,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357636",
@@ -31783,7 +31783,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357637",
@@ -31806,7 +31806,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357638",
@@ -31829,7 +31829,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357639",
@@ -31852,7 +31852,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357640",
@@ -31875,7 +31875,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357641",
@@ -31898,7 +31898,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357642",
@@ -31921,7 +31921,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357643",
@@ -31944,7 +31944,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357644",
@@ -31967,7 +31967,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357645",
@@ -31990,7 +31990,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357646",
@@ -32013,7 +32013,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357647",
@@ -32036,7 +32036,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357648",
@@ -32059,7 +32059,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357649",
@@ -32082,7 +32082,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357650",
@@ -32105,7 +32105,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357651",
@@ -32128,7 +32128,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357652",
@@ -32151,7 +32151,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357653",
@@ -32174,7 +32174,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357654",
@@ -32197,7 +32197,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357655",
@@ -32220,7 +32220,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357656",
@@ -32243,7 +32243,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357657",
@@ -32266,7 +32266,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357658",
@@ -32289,7 +32289,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357659",
@@ -32312,7 +32312,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357660",
@@ -32335,7 +32335,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357661",
@@ -32358,7 +32358,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357662",
@@ -32381,7 +32381,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357664",
@@ -32404,7 +32404,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357665",
@@ -32427,7 +32427,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357666",
@@ -32450,7 +32450,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357667",
@@ -32473,7 +32473,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357668",
@@ -32496,7 +32496,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357669",
@@ -32519,7 +32519,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357670",
@@ -32542,7 +32542,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357671",
@@ -32565,7 +32565,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357672",
@@ -32588,7 +32588,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357673",
@@ -32611,7 +32611,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357674",
@@ -32634,7 +32634,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357675",
@@ -32657,7 +32657,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357676",
@@ -32680,7 +32680,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357677",
@@ -32703,7 +32703,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357678",
@@ -32726,7 +32726,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357679",
@@ -32749,7 +32749,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357680",
@@ -32772,7 +32772,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357681",
@@ -32795,7 +32795,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357682",
@@ -32818,7 +32818,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357683",
@@ -32841,7 +32841,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357684",
@@ -32864,7 +32864,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357685",
@@ -32887,7 +32887,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357686",
@@ -32910,7 +32910,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357687",
@@ -32933,7 +32933,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357688",
@@ -32956,7 +32956,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357689",
@@ -32979,7 +32979,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357690",
@@ -33002,7 +33002,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357691",
@@ -33025,7 +33025,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357692",
@@ -33048,7 +33048,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357693",
@@ -33071,7 +33071,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357694",
@@ -33094,7 +33094,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357695",
@@ -33117,7 +33117,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357696",
@@ -33140,7 +33140,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357697",
@@ -33163,7 +33163,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357698",
@@ -33186,7 +33186,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357699",
@@ -33209,7 +33209,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357700",
@@ -33232,7 +33232,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357701",
@@ -33255,7 +33255,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357702",
@@ -33278,7 +33278,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25357703",
@@ -33301,7 +33301,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25177393",
@@ -33324,7 +33324,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177395",
@@ -33347,7 +33347,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177396",
@@ -33370,7 +33370,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177399",
@@ -33393,7 +33393,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177400",
@@ -33416,7 +33416,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168892",
@@ -33439,7 +33439,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168893",
@@ -33462,7 +33462,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168895",
@@ -33485,7 +33485,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168896",
@@ -33508,7 +33508,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168897",
@@ -33531,7 +33531,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24086010",
@@ -33738,7 +33738,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR23021028",
@@ -33761,7 +33761,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR23021029",
@@ -33784,7 +33784,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR23021030",
@@ -33807,7 +33807,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR23021031",
@@ -33830,7 +33830,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22413775",
@@ -35315,7 +35315,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -35338,7 +35338,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -35361,7 +35361,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -35384,7 +35384,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University College Dublin",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "MinION",
@@ -36222,7 +36222,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258906",
@@ -36245,7 +36245,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258907",
@@ -36268,7 +36268,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258908",
@@ -36291,7 +36291,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258909",
@@ -36314,7 +36314,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258910",
@@ -36337,7 +36337,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258911",
@@ -36360,7 +36360,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258912",
@@ -36383,7 +36383,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258913",
@@ -36406,7 +36406,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258914",
@@ -36429,7 +36429,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258915",
@@ -36452,7 +36452,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17258916",
@@ -36475,7 +36475,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231003",
@@ -36498,7 +36498,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231004",
@@ -36521,7 +36521,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231005",
@@ -36544,7 +36544,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231006",
@@ -36567,7 +36567,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231007",
@@ -36590,7 +36590,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231008",
@@ -36613,7 +36613,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231009",
@@ -36636,7 +36636,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231010",
@@ -36659,7 +36659,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231011",
@@ -36682,7 +36682,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231012",
@@ -36705,7 +36705,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231013",
@@ -36728,7 +36728,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231014",
@@ -36751,7 +36751,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231015",
@@ -36774,7 +36774,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231016",
@@ -36797,7 +36797,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231017",
@@ -36820,7 +36820,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231018",
@@ -36843,7 +36843,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231019",
@@ -36866,7 +36866,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231020",
@@ -36889,7 +36889,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231021",
@@ -36912,7 +36912,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231022",
@@ -36935,7 +36935,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231023",
@@ -36958,7 +36958,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231024",
@@ -36981,7 +36981,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231025",
@@ -37004,7 +37004,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231026",
@@ -37027,7 +37027,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231027",
@@ -37050,7 +37050,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231028",
@@ -37073,7 +37073,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231029",
@@ -37096,7 +37096,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231030",
@@ -37119,7 +37119,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231031",
@@ -37142,7 +37142,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231032",
@@ -37165,7 +37165,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231033",
@@ -37188,7 +37188,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231034",
@@ -37211,7 +37211,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231035",
@@ -37234,7 +37234,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231036",
@@ -37257,7 +37257,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231037",
@@ -37280,7 +37280,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231038",
@@ -37303,7 +37303,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231039",
@@ -37326,7 +37326,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231040",
@@ -37349,7 +37349,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231041",
@@ -37372,7 +37372,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231042",
@@ -37395,7 +37395,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231043",
@@ -37418,7 +37418,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231044",
@@ -37441,7 +37441,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231045",
@@ -37464,7 +37464,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231046",
@@ -37487,7 +37487,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231047",
@@ -37510,7 +37510,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231048",
@@ -37533,7 +37533,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231049",
@@ -37556,7 +37556,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231050",
@@ -37579,7 +37579,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231051",
@@ -37602,7 +37602,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231052",
@@ -37625,7 +37625,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231053",
@@ -37648,7 +37648,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231054",
@@ -37671,7 +37671,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231055",
@@ -37694,7 +37694,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231056",
@@ -37717,7 +37717,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231057",
@@ -37740,7 +37740,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231058",
@@ -37763,7 +37763,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231059",
@@ -37786,7 +37786,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231060",
@@ -37809,7 +37809,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231061",
@@ -37832,7 +37832,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231062",
@@ -37855,7 +37855,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231063",
@@ -37878,7 +37878,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231064",
@@ -37901,7 +37901,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231066",
@@ -37924,7 +37924,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231067",
@@ -37947,7 +37947,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231068",
@@ -37970,7 +37970,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231069",
@@ -37993,7 +37993,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231070",
@@ -38016,7 +38016,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231071",
@@ -38039,7 +38039,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231072",
@@ -38062,7 +38062,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231073",
@@ -38085,7 +38085,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231075",
@@ -38108,7 +38108,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231076",
@@ -38131,7 +38131,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231077",
@@ -38154,7 +38154,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231078",
@@ -38177,7 +38177,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231079",
@@ -38200,7 +38200,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231080",
@@ -38223,7 +38223,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231081",
@@ -38246,7 +38246,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231082",
@@ -38269,7 +38269,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231083",
@@ -38292,7 +38292,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17231084",
@@ -38315,7 +38315,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17061253",
@@ -38338,7 +38338,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR17061254",
@@ -38361,7 +38361,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR16974334",
@@ -38374,7 +38374,7 @@
     "isolation_source": "NRRL Collection",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "UW-Madison",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -38397,7 +38397,7 @@
     "isolation_source": "Blood Culture",
     "host_disease": "Sepsis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -38420,7 +38420,7 @@
     "isolation_source": "Blood Culture",
     "host_disease": "Sepsis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -39902,7 +39902,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335716",
@@ -39925,7 +39925,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335717",
@@ -39948,7 +39948,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335719",
@@ -39971,7 +39971,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335730",
@@ -39994,7 +39994,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335741",
@@ -40017,7 +40017,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335751",
@@ -40040,7 +40040,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335752",
@@ -40063,7 +40063,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335753",
@@ -40086,7 +40086,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335754",
@@ -40109,7 +40109,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335755",
@@ -40132,7 +40132,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335756",
@@ -40155,7 +40155,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335757",
@@ -40178,7 +40178,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335758",
@@ -40201,7 +40201,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335759",
@@ -40224,7 +40224,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335760",
@@ -40247,7 +40247,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335761",
@@ -40270,7 +40270,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335762",
@@ -40293,7 +40293,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335763",
@@ -40316,7 +40316,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335764",
@@ -40339,7 +40339,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335765",
@@ -40362,7 +40362,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335766",
@@ -40385,7 +40385,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335767",
@@ -40408,7 +40408,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335768",
@@ -40431,7 +40431,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335769",
@@ -40454,7 +40454,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335770",
@@ -40477,7 +40477,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335771",
@@ -40500,7 +40500,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335772",
@@ -40523,7 +40523,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335773",
@@ -40546,7 +40546,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335774",
@@ -40569,7 +40569,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10335775",
@@ -40592,7 +40592,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR10147627",
@@ -40684,7 +40684,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984831",
@@ -40707,7 +40707,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984833",
@@ -40730,7 +40730,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984832",
@@ -40753,7 +40753,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984827",
@@ -40776,7 +40776,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984828",
@@ -40799,7 +40799,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984830",
@@ -40822,7 +40822,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984829",
@@ -40845,7 +40845,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984821",
@@ -40868,7 +40868,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984822",
@@ -40891,7 +40891,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984823",
@@ -40914,7 +40914,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984825",
@@ -40937,7 +40937,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984824",
@@ -40960,7 +40960,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984826",
@@ -40983,7 +40983,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984820",
@@ -41006,7 +41006,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984817",
@@ -41029,7 +41029,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984819",
@@ -41052,7 +41052,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8984818",
@@ -41075,7 +41075,7 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8466795",

@@ -2885,7 +2885,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -2908,7 +2908,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -2931,7 +2931,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -5162,7 +5162,7 @@
     "isolation_source": "Hemoculture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -5323,7 +5323,7 @@
     "isolation_source": "Hemoculture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -5576,7 +5576,7 @@
     "isolation_source": "Hemoculture",
     "host_disease": "Colonization or Candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -6036,7 +6036,7 @@
     "isolation_source": "blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of Wuerzburg",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -6059,7 +6059,7 @@
     "isolation_source": "blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of Wuerzburg",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -6151,7 +6151,7 @@
     "isolation_source": "blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of Wuerzburg",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -6174,7 +6174,7 @@
     "isolation_source": "blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of Wuerzburg",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -6220,7 +6220,7 @@
     "isolation_source": "blood culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "University of Wuerzburg",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -6322,7 +6322,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR33409500",
@@ -6345,7 +6345,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR33411312",
@@ -6368,7 +6368,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR33245981",
@@ -6391,7 +6391,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR33245982",
@@ -6414,7 +6414,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR32568590",
@@ -7012,7 +7012,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754392",
@@ -7035,7 +7035,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754393",
@@ -7058,7 +7058,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754397",
@@ -7081,7 +7081,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754398",
@@ -7104,7 +7104,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754399",
@@ -7127,7 +7127,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754401",
@@ -7150,7 +7150,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754402",
@@ -7173,7 +7173,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754404",
@@ -7196,7 +7196,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754406",
@@ -7219,7 +7219,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754407",
@@ -7242,7 +7242,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754408",
@@ -7265,7 +7265,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754412",
@@ -7288,7 +7288,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754413",
@@ -7311,7 +7311,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754414",
@@ -7334,7 +7334,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754416",
@@ -7357,7 +7357,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754417",
@@ -7380,7 +7380,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754418",
@@ -7403,7 +7403,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754419",
@@ -7426,7 +7426,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754420",
@@ -7449,7 +7449,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754421",
@@ -7472,7 +7472,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31754423",
@@ -7495,7 +7495,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31487770",
@@ -9128,7 +9128,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617366",
@@ -9151,7 +9151,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617367",
@@ -9174,7 +9174,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617368",
@@ -9197,7 +9197,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617369",
@@ -9220,7 +9220,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617370",
@@ -9243,7 +9243,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617371",
@@ -9266,7 +9266,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617372",
@@ -9289,7 +9289,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617373",
@@ -9312,7 +9312,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617374",
@@ -9335,7 +9335,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617375",
@@ -9358,7 +9358,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617376",
@@ -9381,7 +9381,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617377",
@@ -9404,7 +9404,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617378",
@@ -9427,7 +9427,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617379",
@@ -9450,7 +9450,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617380",
@@ -9473,7 +9473,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617381",
@@ -9496,7 +9496,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617382",
@@ -9519,7 +9519,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617383",
@@ -9542,7 +9542,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617384",
@@ -9565,7 +9565,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617385",
@@ -9588,7 +9588,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617386",
@@ -9611,7 +9611,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617387",
@@ -9634,7 +9634,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617388",
@@ -9657,7 +9657,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617389",
@@ -9680,7 +9680,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617390",
@@ -9703,7 +9703,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617391",
@@ -9726,7 +9726,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617392",
@@ -9749,7 +9749,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617393",
@@ -9772,7 +9772,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617394",
@@ -9795,7 +9795,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617395",
@@ -9818,7 +9818,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617396",
@@ -9841,7 +9841,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617397",
@@ -9864,7 +9864,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617398",
@@ -9887,7 +9887,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617399",
@@ -9910,7 +9910,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617400",
@@ -9933,7 +9933,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617401",
@@ -9956,7 +9956,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617402",
@@ -9979,7 +9979,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617403",
@@ -10002,7 +10002,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617404",
@@ -10025,7 +10025,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617405",
@@ -10048,7 +10048,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617406",
@@ -10071,7 +10071,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617407",
@@ -10094,7 +10094,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617408",
@@ -10117,7 +10117,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617409",
@@ -10140,7 +10140,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617410",
@@ -10163,7 +10163,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617414",
@@ -10186,7 +10186,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617411",
@@ -10209,7 +10209,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617412",
@@ -10232,7 +10232,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617413",
@@ -10255,7 +10255,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617415",
@@ -10278,7 +10278,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617416",
@@ -10301,7 +10301,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617418",
@@ -10324,7 +10324,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617419",
@@ -10347,7 +10347,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617417",
@@ -10370,7 +10370,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617421",
@@ -10393,7 +10393,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29617422",
@@ -10416,7 +10416,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29364674",
@@ -16994,7 +16994,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177397",
@@ -17017,7 +17017,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177398",
@@ -17040,7 +17040,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177401",
@@ -17063,7 +17063,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25177402",
@@ -17086,7 +17086,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25169056",
@@ -17109,7 +17109,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25169057",
@@ -17132,7 +17132,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25169058",
@@ -17155,7 +17155,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25169059",
@@ -17178,7 +17178,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25169060",
@@ -17201,7 +17201,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168783",
@@ -17224,7 +17224,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168784",
@@ -17247,7 +17247,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168785",
@@ -17270,7 +17270,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168786",
@@ -17293,7 +17293,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168787",
@@ -17316,7 +17316,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168788",
@@ -17339,7 +17339,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168789",
@@ -17362,7 +17362,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168790",
@@ -17385,7 +17385,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168791",
@@ -17408,7 +17408,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25168792",
@@ -17431,7 +17431,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25130064",
@@ -17638,7 +17638,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890088",
@@ -17661,7 +17661,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890089",
@@ -17684,7 +17684,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890090",
@@ -17707,7 +17707,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890091",
@@ -17730,7 +17730,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890092",
@@ -17753,7 +17753,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890093",
@@ -17776,7 +17776,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890094",
@@ -17799,7 +17799,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890095",
@@ -17822,7 +17822,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890096",
@@ -17845,7 +17845,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890097",
@@ -17868,7 +17868,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890098",
@@ -17891,7 +17891,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890099",
@@ -17914,7 +17914,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890100",
@@ -17937,7 +17937,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890101",
@@ -17960,7 +17960,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890102",
@@ -17983,7 +17983,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890103",
@@ -18006,7 +18006,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890104",
@@ -18029,7 +18029,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890105",
@@ -18052,7 +18052,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890106",
@@ -18075,7 +18075,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890107",
@@ -18098,7 +18098,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890108",
@@ -18121,7 +18121,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890109",
@@ -18144,7 +18144,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890110",
@@ -18167,7 +18167,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890111",
@@ -18190,7 +18190,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890112",
@@ -18213,7 +18213,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890113",
@@ -18236,7 +18236,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890114",
@@ -18259,7 +18259,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890115",
@@ -18282,7 +18282,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890116",
@@ -18305,7 +18305,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890117",
@@ -18328,7 +18328,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890118",
@@ -18351,7 +18351,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890119",
@@ -18374,7 +18374,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890120",
@@ -18397,7 +18397,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890121",
@@ -18420,7 +18420,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890122",
@@ -18443,7 +18443,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890123",
@@ -18466,7 +18466,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890124",
@@ -18489,7 +18489,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890125",
@@ -18512,7 +18512,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890126",
@@ -18535,7 +18535,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890127",
@@ -18558,7 +18558,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890128",
@@ -18581,7 +18581,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890129",
@@ -18604,7 +18604,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890130",
@@ -18627,7 +18627,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890131",
@@ -18650,7 +18650,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890132",
@@ -18673,7 +18673,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890133",
@@ -18696,7 +18696,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890134",
@@ -18719,7 +18719,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890135",
@@ -18742,7 +18742,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890136",
@@ -18765,7 +18765,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890137",
@@ -18788,7 +18788,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890138",
@@ -18811,7 +18811,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890139",
@@ -18834,7 +18834,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890140",
@@ -18857,7 +18857,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890141",
@@ -18880,7 +18880,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890142",
@@ -18903,7 +18903,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890143",
@@ -18926,7 +18926,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890144",
@@ -18949,7 +18949,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890145",
@@ -18972,7 +18972,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890146",
@@ -18995,7 +18995,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890147",
@@ -19018,7 +19018,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890148",
@@ -19041,7 +19041,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890149",
@@ -19064,7 +19064,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890150",
@@ -19087,7 +19087,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890151",
@@ -19110,7 +19110,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890152",
@@ -19133,7 +19133,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890153",
@@ -19156,7 +19156,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890154",
@@ -19179,7 +19179,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890155",
@@ -19202,7 +19202,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890156",
@@ -19225,7 +19225,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890157",
@@ -19248,7 +19248,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890158",
@@ -19271,7 +19271,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890159",
@@ -19294,7 +19294,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890160",
@@ -19317,7 +19317,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890161",
@@ -19340,7 +19340,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890162",
@@ -19363,7 +19363,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890163",
@@ -19386,7 +19386,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890164",
@@ -19409,7 +19409,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890165",
@@ -19432,7 +19432,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24890166",
@@ -19455,7 +19455,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR24010543",
@@ -22215,7 +22215,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348499",
@@ -22238,7 +22238,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348500",
@@ -22261,7 +22261,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348501",
@@ -22284,7 +22284,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348502",
@@ -22307,7 +22307,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348503",
@@ -22330,7 +22330,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR22348504",
@@ -22353,7 +22353,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR9706985",
@@ -22412,7 +22412,7 @@
     "isolation_source": "NRRL Collection",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "UW-Madison",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -22435,7 +22435,7 @@
     "isolation_source": "Blood Culture",
     "host_disease": "Sepsis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Public Health Agency of Canada",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -22468,7 +22468,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498424",
@@ -22491,7 +22491,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498425",
@@ -22514,7 +22514,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498426",
@@ -22537,7 +22537,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498427",
@@ -22560,7 +22560,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498428",
@@ -22583,7 +22583,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498429",
@@ -22606,7 +22606,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498430",
@@ -22629,7 +22629,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498431",
@@ -22652,7 +22652,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498432",
@@ -22675,7 +22675,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498433",
@@ -22698,7 +22698,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498434",
@@ -22721,7 +22721,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498435",
@@ -22744,7 +22744,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498436",
@@ -22767,7 +22767,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498437",
@@ -22790,7 +22790,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498438",
@@ -22813,7 +22813,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498439",
@@ -22836,7 +22836,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498440",
@@ -22859,7 +22859,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498441",
@@ -22882,7 +22882,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498442",
@@ -22905,7 +22905,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498443",
@@ -22928,7 +22928,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498444",
@@ -22951,7 +22951,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498445",
@@ -22974,7 +22974,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498446",
@@ -22997,7 +22997,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498447",
@@ -23020,7 +23020,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498448",
@@ -23043,7 +23043,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498449",
@@ -23066,7 +23066,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498450",
@@ -23089,7 +23089,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498451",
@@ -23112,7 +23112,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498452",
@@ -23135,7 +23135,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498453",
@@ -23158,7 +23158,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498454",
@@ -23181,7 +23181,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498455",
@@ -23204,7 +23204,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498456",
@@ -23227,7 +23227,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498457",
@@ -23250,7 +23250,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498458",
@@ -23273,7 +23273,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498459",
@@ -23296,7 +23296,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498460",
@@ -23319,7 +23319,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498461",
@@ -23342,7 +23342,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498462",
@@ -23365,7 +23365,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498463",
@@ -23388,7 +23388,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498464",
@@ -23411,7 +23411,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498465",
@@ -23434,7 +23434,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498466",
@@ -23457,7 +23457,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498467",
@@ -23480,7 +23480,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498468",
@@ -23503,7 +23503,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498469",
@@ -23526,7 +23526,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498470",
@@ -23549,7 +23549,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498471",
@@ -23572,7 +23572,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498472",
@@ -23595,7 +23595,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498473",
@@ -23618,7 +23618,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498474",
@@ -23641,7 +23641,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498475",
@@ -23664,7 +23664,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498476",
@@ -23687,7 +23687,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498477",
@@ -23710,7 +23710,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498478",
@@ -23733,7 +23733,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498479",
@@ -23756,7 +23756,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498480",
@@ -23779,7 +23779,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498481",
@@ -23802,7 +23802,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498482",
@@ -23825,7 +23825,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498483",
@@ -23848,7 +23848,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498484",
@@ -23871,7 +23871,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498485",
@@ -23894,7 +23894,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498486",
@@ -23917,7 +23917,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498487",
@@ -23940,7 +23940,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498488",
@@ -23963,7 +23963,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498489",
@@ -23986,7 +23986,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498490",
@@ -24009,7 +24009,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498491",
@@ -24032,7 +24032,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498492",
@@ -24055,7 +24055,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498493",
@@ -24078,7 +24078,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498494",
@@ -24101,7 +24101,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498495",
@@ -24124,7 +24124,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498496",
@@ -24147,7 +24147,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498497",
@@ -24170,7 +24170,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498498",
@@ -24193,7 +24193,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498499",
@@ -24216,7 +24216,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498500",
@@ -24239,7 +24239,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498501",
@@ -24262,7 +24262,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498502",
@@ -24285,7 +24285,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR15498503",
@@ -24308,7 +24308,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR14844978",
@@ -25034,7 +25034,7 @@
     "isolation_source": "Blood culture of a hematopoietic stem cell transplant recipient",
     "host_disease": "Invasive candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Pontificia Universidad Javeriana",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina Genome Analyzer",
@@ -25057,7 +25057,7 @@
     "isolation_source": "Blood and urine cultures",
     "host_disease": "Invasive candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Pontificia Universidad Javeriana",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina Genome Analyzer",
@@ -25080,7 +25080,7 @@
     "isolation_source": "Blood and urine cultures",
     "host_disease": "Invasive candidiasis",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Pontificia Universidad Javeriana",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina Genome Analyzer",
@@ -34763,7 +34763,7 @@
     "isolation_source": "Blood culture",
     "host_disease": "Myloblastic leukaemia",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "Centre for genomic regulation",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -37533,7 +37533,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925772",
@@ -37556,7 +37556,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925771",
@@ -37579,7 +37579,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925770",
@@ -37602,7 +37602,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925769",
@@ -37625,7 +37625,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925768",
@@ -37648,7 +37648,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925767",
@@ -37671,7 +37671,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925766",
@@ -37694,7 +37694,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925765",
@@ -37717,7 +37717,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925764",
@@ -37740,7 +37740,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925763",
@@ -37763,7 +37763,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925762",
@@ -37786,7 +37786,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925761",
@@ -37809,7 +37809,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925760",
@@ -37832,7 +37832,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925759",
@@ -37855,7 +37855,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925758",
@@ -37878,7 +37878,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925757",
@@ -37901,7 +37901,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925756",
@@ -37924,7 +37924,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925755",
@@ -37947,7 +37947,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925754",
@@ -37970,7 +37970,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925753",
@@ -37993,7 +37993,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925752",
@@ -38016,7 +38016,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925751",
@@ -38039,7 +38039,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925750",
@@ -38062,7 +38062,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925749",
@@ -38085,7 +38085,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925748",
@@ -38108,7 +38108,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925747",
@@ -38131,7 +38131,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925746",
@@ -38154,7 +38154,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925745",
@@ -38177,7 +38177,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925744",
@@ -38200,7 +38200,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925743",
@@ -38223,7 +38223,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925742",
@@ -38246,7 +38246,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925741",
@@ -38269,7 +38269,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925740",
@@ -38292,7 +38292,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925739",
@@ -38315,7 +38315,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925738",
@@ -38338,7 +38338,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925737",
@@ -38361,7 +38361,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925736",
@@ -38384,7 +38384,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925735",
@@ -38407,7 +38407,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925734",
@@ -38430,7 +38430,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925733",
@@ -38453,7 +38453,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3925732",
@@ -38476,7 +38476,7 @@
     "source": "sra",
     "fppl_name": "Nakaseomyces glabrata",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3154238",

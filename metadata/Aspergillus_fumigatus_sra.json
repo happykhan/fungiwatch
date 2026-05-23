@@ -14602,7 +14602,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36461013",
@@ -14625,7 +14625,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36461014",
@@ -14648,7 +14648,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36461015",
@@ -14671,7 +14671,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36461016",
@@ -14694,7 +14694,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36461017",
@@ -14717,7 +14717,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR36408670",
@@ -37776,7 +37776,7 @@
     "isolation_source": "Minimal Growth Liquid Media Culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Massachusetts General Hospital",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -38397,7 +38397,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "Nanjing Normal University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -38420,7 +38420,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "Nanjing Normal University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -38443,7 +38443,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "Nanjing Normal University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -38466,7 +38466,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "Nanjing Normal University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -38489,7 +38489,7 @@
     "isolation_source": "Clinic",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "Nanjing Normal University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -44502,7 +44502,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810611",
@@ -44525,7 +44525,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810612",
@@ -44548,7 +44548,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810613",
@@ -44571,7 +44571,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810614",
@@ -44594,7 +44594,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810615",
@@ -44617,7 +44617,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810616",
@@ -44640,7 +44640,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810617",
@@ -44663,7 +44663,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810618",
@@ -44686,7 +44686,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810619",
@@ -44709,7 +44709,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810620",
@@ -44732,7 +44732,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810621",
@@ -44755,7 +44755,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810622",
@@ -44778,7 +44778,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810623",
@@ -44801,7 +44801,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810624",
@@ -44824,7 +44824,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810625",
@@ -44847,7 +44847,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810626",
@@ -44870,7 +44870,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810627",
@@ -44893,7 +44893,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810628",
@@ -44916,7 +44916,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810629",
@@ -44939,7 +44939,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810630",
@@ -44962,7 +44962,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810631",
@@ -44985,7 +44985,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810632",
@@ -45008,7 +45008,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810633",
@@ -45031,7 +45031,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810634",
@@ -45054,7 +45054,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810635",
@@ -45077,7 +45077,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810636",
@@ -45100,7 +45100,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810637",
@@ -45123,7 +45123,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810638",
@@ -45146,7 +45146,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810639",
@@ -45169,7 +45169,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810640",
@@ -45192,7 +45192,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810641",
@@ -45215,7 +45215,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810642",
@@ -45238,7 +45238,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810643",
@@ -45261,7 +45261,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810644",
@@ -45284,7 +45284,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810645",
@@ -45307,7 +45307,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810646",
@@ -45330,7 +45330,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810647",
@@ -45353,7 +45353,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810648",
@@ -45376,7 +45376,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810649",
@@ -45399,7 +45399,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810650",
@@ -45422,7 +45422,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810651",
@@ -45445,7 +45445,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810652",
@@ -45468,7 +45468,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31810653",
@@ -45491,7 +45491,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "commercial"
   },
   {
     "accession": "SRR31645666",
@@ -51300,7 +51300,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51323,7 +51323,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51346,7 +51346,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51369,7 +51369,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51392,7 +51392,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51415,7 +51415,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51438,7 +51438,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51461,7 +51461,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51484,7 +51484,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51507,7 +51507,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51530,7 +51530,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51553,7 +51553,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -51576,7 +51576,7 @@
     "isolation_source": "Petri dish",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Tel Aviv University",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",
@@ -52128,7 +52128,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52151,7 +52151,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52174,7 +52174,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52197,7 +52197,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52220,7 +52220,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52243,7 +52243,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52266,7 +52266,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52289,7 +52289,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52312,7 +52312,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52335,7 +52335,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52358,7 +52358,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52381,7 +52381,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52404,7 +52404,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52427,7 +52427,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52450,7 +52450,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52473,7 +52473,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52496,7 +52496,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52519,7 +52519,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52542,7 +52542,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52565,7 +52565,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52588,7 +52588,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52611,7 +52611,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52634,7 +52634,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -52657,7 +52657,7 @@
     "isolation_source": "laboratory culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -54208,7 +54208,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495431",
@@ -54231,7 +54231,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495430",
@@ -54254,7 +54254,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495429",
@@ -54277,7 +54277,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495428",
@@ -54300,7 +54300,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495427",
@@ -54323,7 +54323,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495426",
@@ -54346,7 +54346,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495425",
@@ -54369,7 +54369,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495424",
@@ -54392,7 +54392,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495423",
@@ -54415,7 +54415,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495422",
@@ -54438,7 +54438,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495421",
@@ -54461,7 +54461,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495420",
@@ -54484,7 +54484,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495419",
@@ -54507,7 +54507,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495418",
@@ -54530,7 +54530,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495417",
@@ -54553,7 +54553,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495416",
@@ -54576,7 +54576,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495415",
@@ -54599,7 +54599,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495414",
@@ -54622,7 +54622,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495413",
@@ -54645,7 +54645,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495412",
@@ -54668,7 +54668,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495411",
@@ -54691,7 +54691,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495410",
@@ -54714,7 +54714,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495409",
@@ -54737,7 +54737,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495408",
@@ -54760,7 +54760,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495407",
@@ -54783,7 +54783,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495406",
@@ -54806,7 +54806,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495405",
@@ -54829,7 +54829,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495404",
@@ -54852,7 +54852,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495403",
@@ -54875,7 +54875,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495402",
@@ -54898,7 +54898,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495401",
@@ -54921,7 +54921,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495400",
@@ -54944,7 +54944,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495399",
@@ -54967,7 +54967,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495398",
@@ -54990,7 +54990,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495397",
@@ -55013,7 +55013,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495396",
@@ -55036,7 +55036,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495395",
@@ -55059,7 +55059,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495394",
@@ -55082,7 +55082,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495393",
@@ -55105,7 +55105,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495392",
@@ -55128,7 +55128,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495391",
@@ -55151,7 +55151,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495390",
@@ -55174,7 +55174,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495389",
@@ -55197,7 +55197,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495388",
@@ -55220,7 +55220,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495387",
@@ -55243,7 +55243,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495386",
@@ -55266,7 +55266,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495385",
@@ -55289,7 +55289,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495384",
@@ -55312,7 +55312,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495383",
@@ -55335,7 +55335,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495382",
@@ -55358,7 +55358,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495381",
@@ -55381,7 +55381,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495380",
@@ -55404,7 +55404,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495379",
@@ -55427,7 +55427,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495378",
@@ -55450,7 +55450,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495377",
@@ -55473,7 +55473,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495376",
@@ -55496,7 +55496,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495375",
@@ -55519,7 +55519,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495374",
@@ -55542,7 +55542,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495373",
@@ -55565,7 +55565,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495372",
@@ -55588,7 +55588,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495371",
@@ -55611,7 +55611,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495370",
@@ -55634,7 +55634,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495369",
@@ -55657,7 +55657,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495368",
@@ -55680,7 +55680,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495434",
@@ -55703,7 +55703,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495367",
@@ -55726,7 +55726,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495366",
@@ -55749,7 +55749,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495365",
@@ -55772,7 +55772,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495364",
@@ -55795,7 +55795,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495363",
@@ -55818,7 +55818,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495362",
@@ -55841,7 +55841,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495361",
@@ -55864,7 +55864,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495360",
@@ -55887,7 +55887,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495359",
@@ -55910,7 +55910,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495358",
@@ -55933,7 +55933,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495357",
@@ -55956,7 +55956,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495356",
@@ -55979,7 +55979,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495355",
@@ -56002,7 +56002,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495354",
@@ -56025,7 +56025,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495353",
@@ -56048,7 +56048,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495352",
@@ -56071,7 +56071,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495351",
@@ -56094,7 +56094,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495350",
@@ -56117,7 +56117,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495349",
@@ -56140,7 +56140,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495348",
@@ -56163,7 +56163,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495347",
@@ -56186,7 +56186,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495346",
@@ -56209,7 +56209,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495345",
@@ -56232,7 +56232,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495344",
@@ -56255,7 +56255,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495343",
@@ -56278,7 +56278,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR495342",
@@ -56301,7 +56301,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25759124",
@@ -57533,7 +57533,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57556,7 +57556,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57579,7 +57579,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57602,7 +57602,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57648,7 +57648,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57671,7 +57671,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57809,7 +57809,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57832,7 +57832,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57855,7 +57855,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57878,7 +57878,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57901,7 +57901,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57924,7 +57924,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57947,7 +57947,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -57970,7 +57970,7 @@
     "isolation_source": "Herbs",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58706,7 +58706,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58729,7 +58729,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58752,7 +58752,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58775,7 +58775,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58798,7 +58798,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58844,7 +58844,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58867,7 +58867,7 @@
     "isolation_source": "Tulips",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58890,7 +58890,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58913,7 +58913,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58936,7 +58936,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58959,7 +58959,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -58982,7 +58982,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59051,7 +59051,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59074,7 +59074,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59097,7 +59097,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59120,7 +59120,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59603,7 +59603,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59626,7 +59626,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59649,7 +59649,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -59672,7 +59672,7 @@
     "isolation_source": "Tulips(imported)/Hemp",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Georgia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -60868,7 +60868,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -60891,7 +60891,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -60914,7 +60914,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -60937,7 +60937,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -60960,7 +60960,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -60983,7 +60983,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -61006,7 +61006,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -61029,7 +61029,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61052,7 +61052,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61075,7 +61075,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61098,7 +61098,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61121,7 +61121,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61144,7 +61144,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61167,7 +61167,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61190,7 +61190,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61213,7 +61213,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61236,7 +61236,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61259,7 +61259,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61282,7 +61282,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61305,7 +61305,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61328,7 +61328,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61351,7 +61351,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61374,7 +61374,7 @@
     "isolation_source": "culture media",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61397,7 +61397,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61420,7 +61420,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61443,7 +61443,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61466,7 +61466,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61489,7 +61489,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61512,7 +61512,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61535,7 +61535,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61558,7 +61558,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61581,7 +61581,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61604,7 +61604,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61627,7 +61627,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -61650,7 +61650,7 @@
     "isolation_source": "culture plate",
     "host_disease": "",
     "env_broad_scale": "laboratory",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "Wageningen University",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -62948,7 +62948,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR377377",
@@ -62971,7 +62971,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR17970479",
@@ -68100,7 +68100,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944266",
@@ -68123,7 +68123,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944267",
@@ -68146,7 +68146,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944268",
@@ -68169,7 +68169,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944269",
@@ -68192,7 +68192,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944270",
@@ -68215,7 +68215,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944271",
@@ -68238,7 +68238,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944272",
@@ -68261,7 +68261,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944273",
@@ -68284,7 +68284,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944274",
@@ -68307,7 +68307,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944275",
@@ -68330,7 +68330,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944276",
@@ -68353,7 +68353,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944277",
@@ -68376,7 +68376,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944278",
@@ -68399,7 +68399,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944279",
@@ -68422,7 +68422,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944280",
@@ -68445,7 +68445,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944281",
@@ -68468,7 +68468,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944282",
@@ -68491,7 +68491,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944283",
@@ -68514,7 +68514,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944284",
@@ -68537,7 +68537,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944285",
@@ -68560,7 +68560,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944286",
@@ -68583,7 +68583,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944287",
@@ -68606,7 +68606,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944288",
@@ -68629,7 +68629,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944289",
@@ -68652,7 +68652,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944290",
@@ -68675,7 +68675,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944291",
@@ -68698,7 +68698,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944292",
@@ -68721,7 +68721,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944293",
@@ -68744,7 +68744,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944294",
@@ -68767,7 +68767,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944295",
@@ -68790,7 +68790,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944296",
@@ -68813,7 +68813,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944297",
@@ -68836,7 +68836,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944298",
@@ -68859,7 +68859,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944299",
@@ -68882,7 +68882,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944300",
@@ -68905,7 +68905,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944301",
@@ -68928,7 +68928,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944302",
@@ -68951,7 +68951,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944303",
@@ -68974,7 +68974,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944304",
@@ -68997,7 +68997,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944305",
@@ -69020,7 +69020,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944306",
@@ -69043,7 +69043,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944307",
@@ -69066,7 +69066,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944308",
@@ -69089,7 +69089,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944309",
@@ -69112,7 +69112,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944310",
@@ -69135,7 +69135,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944311",
@@ -69158,7 +69158,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944312",
@@ -69181,7 +69181,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944313",
@@ -69204,7 +69204,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944314",
@@ -69227,7 +69227,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944315",
@@ -69250,7 +69250,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944316",
@@ -69273,7 +69273,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944317",
@@ -69296,7 +69296,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944318",
@@ -69319,7 +69319,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944319",
@@ -69342,7 +69342,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944320",
@@ -69365,7 +69365,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944321",
@@ -69388,7 +69388,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944322",
@@ -69411,7 +69411,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944323",
@@ -69434,7 +69434,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944324",
@@ -69457,7 +69457,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944325",
@@ -69480,7 +69480,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944326",
@@ -69503,7 +69503,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944327",
@@ -69526,7 +69526,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944328",
@@ -69549,7 +69549,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944329",
@@ -69572,7 +69572,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944330",
@@ -69595,7 +69595,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944331",
@@ -69618,7 +69618,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944332",
@@ -69641,7 +69641,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944333",
@@ -69664,7 +69664,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944334",
@@ -69687,7 +69687,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944335",
@@ -69710,7 +69710,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944336",
@@ -69733,7 +69733,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944337",
@@ -69756,7 +69756,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944338",
@@ -69779,7 +69779,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944339",
@@ -69802,7 +69802,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944340",
@@ -69825,7 +69825,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944341",
@@ -69848,7 +69848,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944342",
@@ -69871,7 +69871,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944343",
@@ -69894,7 +69894,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944344",
@@ -69917,7 +69917,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944345",
@@ -69940,7 +69940,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944346",
@@ -69963,7 +69963,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944347",
@@ -69986,7 +69986,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944348",
@@ -70009,7 +70009,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944349",
@@ -70032,7 +70032,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944350",
@@ -70055,7 +70055,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944351",
@@ -70078,7 +70078,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944352",
@@ -70101,7 +70101,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944353",
@@ -70124,7 +70124,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944354",
@@ -70147,7 +70147,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944355",
@@ -70170,7 +70170,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944356",
@@ -70193,7 +70193,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944357",
@@ -70216,7 +70216,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944358",
@@ -70239,7 +70239,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944359",
@@ -70262,7 +70262,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944360",
@@ -70285,7 +70285,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944361",
@@ -70308,7 +70308,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944362",
@@ -70331,7 +70331,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944363",
@@ -70354,7 +70354,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944364",
@@ -70377,7 +70377,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944365",
@@ -70400,7 +70400,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944366",
@@ -70423,7 +70423,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944367",
@@ -70446,7 +70446,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944368",
@@ -70469,7 +70469,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944369",
@@ -70492,7 +70492,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944370",
@@ -70515,7 +70515,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944371",
@@ -70538,7 +70538,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944372",
@@ -70561,7 +70561,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944373",
@@ -70584,7 +70584,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944374",
@@ -70607,7 +70607,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944375",
@@ -70630,7 +70630,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944376",
@@ -70653,7 +70653,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944377",
@@ -70676,7 +70676,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944378",
@@ -70699,7 +70699,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944379",
@@ -70722,7 +70722,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944380",
@@ -70745,7 +70745,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944381",
@@ -70768,7 +70768,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944382",
@@ -70791,7 +70791,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944383",
@@ -70814,7 +70814,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944384",
@@ -70837,7 +70837,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944385",
@@ -70860,7 +70860,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944386",
@@ -70883,7 +70883,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944387",
@@ -70906,7 +70906,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944388",
@@ -70929,7 +70929,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944389",
@@ -70952,7 +70952,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944390",
@@ -70975,7 +70975,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944391",
@@ -70998,7 +70998,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944392",
@@ -71021,7 +71021,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944393",
@@ -71044,7 +71044,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944394",
@@ -71067,7 +71067,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944395",
@@ -71090,7 +71090,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944396",
@@ -71113,7 +71113,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944397",
@@ -71136,7 +71136,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944398",
@@ -71159,7 +71159,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944399",
@@ -71182,7 +71182,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944400",
@@ -71205,7 +71205,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944401",
@@ -71228,7 +71228,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944402",
@@ -71251,7 +71251,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944403",
@@ -71274,7 +71274,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944404",
@@ -71297,7 +71297,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944405",
@@ -71320,7 +71320,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944406",
@@ -71343,7 +71343,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944407",
@@ -71366,7 +71366,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944408",
@@ -71389,7 +71389,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944409",
@@ -71412,7 +71412,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944410",
@@ -71435,7 +71435,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944411",
@@ -71458,7 +71458,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944412",
@@ -71481,7 +71481,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944413",
@@ -71504,7 +71504,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944414",
@@ -71527,7 +71527,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944415",
@@ -71550,7 +71550,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944416",
@@ -71573,7 +71573,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944417",
@@ -71596,7 +71596,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944418",
@@ -71619,7 +71619,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944419",
@@ -71642,7 +71642,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944420",
@@ -71665,7 +71665,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944421",
@@ -71688,7 +71688,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944422",
@@ -71711,7 +71711,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944423",
@@ -71734,7 +71734,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944424",
@@ -71757,7 +71757,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944425",
@@ -71780,7 +71780,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944426",
@@ -71803,7 +71803,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944427",
@@ -71826,7 +71826,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944428",
@@ -71849,7 +71849,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944429",
@@ -71872,7 +71872,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944430",
@@ -71895,7 +71895,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944431",
@@ -71918,7 +71918,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944432",
@@ -71941,7 +71941,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944433",
@@ -71964,7 +71964,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944434",
@@ -71987,7 +71987,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944435",
@@ -72010,7 +72010,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944436",
@@ -72033,7 +72033,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944437",
@@ -72056,7 +72056,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944438",
@@ -72079,7 +72079,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944439",
@@ -72102,7 +72102,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944440",
@@ -72125,7 +72125,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944441",
@@ -72148,7 +72148,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944442",
@@ -72171,7 +72171,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944443",
@@ -72194,7 +72194,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944444",
@@ -72217,7 +72217,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944445",
@@ -72240,7 +72240,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944446",
@@ -72263,7 +72263,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944447",
@@ -72286,7 +72286,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944448",
@@ -72309,7 +72309,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944449",
@@ -72332,7 +72332,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944450",
@@ -72355,7 +72355,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944451",
@@ -72378,7 +72378,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944452",
@@ -72401,7 +72401,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944453",
@@ -72424,7 +72424,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944454",
@@ -72447,7 +72447,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944455",
@@ -72470,7 +72470,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944456",
@@ -72493,7 +72493,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944457",
@@ -72516,7 +72516,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944458",
@@ -72539,7 +72539,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944459",
@@ -72562,7 +72562,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944460",
@@ -72585,7 +72585,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944461",
@@ -72608,7 +72608,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944462",
@@ -72631,7 +72631,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944463",
@@ -72654,7 +72654,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944464",
@@ -72677,7 +72677,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944465",
@@ -72700,7 +72700,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944466",
@@ -72723,7 +72723,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944467",
@@ -72746,7 +72746,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944468",
@@ -72769,7 +72769,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944469",
@@ -72792,7 +72792,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944470",
@@ -72815,7 +72815,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944471",
@@ -72838,7 +72838,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944472",
@@ -72861,7 +72861,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944473",
@@ -72884,7 +72884,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944474",
@@ -72907,7 +72907,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944475",
@@ -72930,7 +72930,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944476",
@@ -72953,7 +72953,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944477",
@@ -72976,7 +72976,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944478",
@@ -72999,7 +72999,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944479",
@@ -73022,7 +73022,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944480",
@@ -73045,7 +73045,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944481",
@@ -73068,7 +73068,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944482",
@@ -73091,7 +73091,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944483",
@@ -73114,7 +73114,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944484",
@@ -73137,7 +73137,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944485",
@@ -73160,7 +73160,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944486",
@@ -73183,7 +73183,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944487",
@@ -73206,7 +73206,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944488",
@@ -73229,7 +73229,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944489",
@@ -73252,7 +73252,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944490",
@@ -73275,7 +73275,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944491",
@@ -73298,7 +73298,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944492",
@@ -73321,7 +73321,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944493",
@@ -73344,7 +73344,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16944494",
@@ -73367,7 +73367,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16539748",
@@ -73449,7 +73449,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -73472,7 +73472,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -73495,7 +73495,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -73518,7 +73518,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -73633,7 +73633,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -74070,7 +74070,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -74323,7 +74323,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -74438,7 +74438,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -74507,7 +74507,7 @@
     "isolation_source": "liver",
     "host_disease": "Aspergillosis",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "human",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -74540,7 +74540,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16287628",
@@ -74563,7 +74563,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR16079626",
@@ -74655,7 +74655,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290046",
@@ -74678,7 +74678,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290045",
@@ -74701,7 +74701,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290044",
@@ -74724,7 +74724,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290043",
@@ -74747,7 +74747,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290042",
@@ -74770,7 +74770,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290041",
@@ -74793,7 +74793,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290040",
@@ -74816,7 +74816,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290039",
@@ -74839,7 +74839,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290038",
@@ -74862,7 +74862,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290037",
@@ -74885,7 +74885,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290036",
@@ -74908,7 +74908,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290035",
@@ -74931,7 +74931,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290034",
@@ -74954,7 +74954,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290033",
@@ -74977,7 +74977,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290032",
@@ -75000,7 +75000,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290031",
@@ -75023,7 +75023,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR295875",
@@ -75046,7 +75046,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR295874",
@@ -75069,7 +75069,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR295873",
@@ -75092,7 +75092,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR15597330",
@@ -75207,7 +75207,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290854",
@@ -75230,7 +75230,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290853",
@@ -75253,7 +75253,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290852",
@@ -75276,7 +75276,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290851",
@@ -75299,7 +75299,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290850",
@@ -75322,7 +75322,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290849",
@@ -75345,7 +75345,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR290848",
@@ -75368,7 +75368,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "ERR3415715",
@@ -77530,7 +77530,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR289669",
@@ -77553,7 +77553,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR289668",
@@ -77576,7 +77576,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR289667",
@@ -77599,7 +77599,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR289666",
@@ -77622,7 +77622,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14584215",
@@ -86063,7 +86063,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190175",
@@ -86086,7 +86086,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190176",
@@ -86109,7 +86109,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190177",
@@ -86132,7 +86132,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190178",
@@ -86155,7 +86155,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190179",
@@ -86178,7 +86178,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190180",
@@ -86201,7 +86201,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190181",
@@ -86224,7 +86224,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190182",
@@ -86247,7 +86247,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12190183",
@@ -86270,7 +86270,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12081224",
@@ -86316,7 +86316,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977810",
@@ -86339,7 +86339,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977811",
@@ -86362,7 +86362,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977812",
@@ -86385,7 +86385,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977813",
@@ -86408,7 +86408,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977814",
@@ -86431,7 +86431,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977815",
@@ -86454,7 +86454,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977816",
@@ -86477,7 +86477,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977817",
@@ -86500,7 +86500,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977818",
@@ -86523,7 +86523,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977819",
@@ -86546,7 +86546,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977820",
@@ -86569,7 +86569,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977821",
@@ -86592,7 +86592,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977822",
@@ -86615,7 +86615,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977823",
@@ -86638,7 +86638,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977824",
@@ -86661,7 +86661,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977825",
@@ -86684,7 +86684,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977826",
@@ -86707,7 +86707,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977827",
@@ -86730,7 +86730,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977828",
@@ -86753,7 +86753,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977829",
@@ -86776,7 +86776,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977830",
@@ -86799,7 +86799,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977831",
@@ -86822,7 +86822,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977832",
@@ -86845,7 +86845,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977833",
@@ -86868,7 +86868,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977834",
@@ -86891,7 +86891,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977835",
@@ -86914,7 +86914,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977836",
@@ -86937,7 +86937,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977837",
@@ -86960,7 +86960,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977838",
@@ -86983,7 +86983,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977839",
@@ -87006,7 +87006,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977840",
@@ -87029,7 +87029,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977841",
@@ -87052,7 +87052,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977842",
@@ -87075,7 +87075,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977843",
@@ -87098,7 +87098,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977844",
@@ -87121,7 +87121,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977845",
@@ -87144,7 +87144,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977846",
@@ -87167,7 +87167,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977847",
@@ -87190,7 +87190,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977848",
@@ -87213,7 +87213,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977849",
@@ -87236,7 +87236,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977850",
@@ -87259,7 +87259,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977851",
@@ -87282,7 +87282,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977852",
@@ -87305,7 +87305,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977853",
@@ -87328,7 +87328,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977854",
@@ -87351,7 +87351,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977855",
@@ -87374,7 +87374,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977856",
@@ -87397,7 +87397,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977857",
@@ -87420,7 +87420,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977858",
@@ -87443,7 +87443,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977859",
@@ -87466,7 +87466,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977860",
@@ -87489,7 +87489,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977861",
@@ -87512,7 +87512,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977862",
@@ -87535,7 +87535,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977863",
@@ -87558,7 +87558,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977864",
@@ -87581,7 +87581,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977865",
@@ -87604,7 +87604,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11977866",
@@ -87627,7 +87627,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR11785055",
@@ -94987,7 +94987,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9265316",
@@ -95010,7 +95010,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9265317",
@@ -95033,7 +95033,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9265318",
@@ -95056,7 +95056,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR2864485",
@@ -96068,7 +96068,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR7418922",
@@ -96794,7 +96794,7 @@
     "isolation_source": "Petri dish from hypoxic chamber",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -99058,7 +99058,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1614171",
@@ -99081,7 +99081,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1614170",
@@ -99104,7 +99104,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1614169",
@@ -99127,7 +99127,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1614168",
@@ -99150,7 +99150,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1614167",
@@ -99173,7 +99173,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "DRR022927",
@@ -99196,7 +99196,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022926",
@@ -99219,7 +99219,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022925",
@@ -99242,7 +99242,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022923",
@@ -99265,7 +99265,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022921",
@@ -99288,7 +99288,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022920",
@@ -99311,7 +99311,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022918",
@@ -99334,7 +99334,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR022915",
@@ -99357,7 +99357,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015102",
@@ -99380,7 +99380,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017561",
@@ -99403,7 +99403,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017542",
@@ -99426,7 +99426,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017540",
@@ -99449,7 +99449,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017547",
@@ -99472,7 +99472,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017556",
@@ -99495,7 +99495,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017550",
@@ -99518,7 +99518,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015091",
@@ -99541,7 +99541,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015094",
@@ -99564,7 +99564,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015105",
@@ -99587,7 +99587,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015111",
@@ -99610,7 +99610,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017537",
@@ -99633,7 +99633,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015099",
@@ -99656,7 +99656,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017544",
@@ -99679,7 +99679,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR017554",
@@ -99702,7 +99702,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015089",
@@ -99725,7 +99725,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "DRR015108",
@@ -99748,7 +99748,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "university"
   },
   {
     "accession": "SRR1187383",
@@ -99771,7 +99771,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1187382",
@@ -99794,7 +99794,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617744",
@@ -99817,7 +99817,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617743",
@@ -99840,7 +99840,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617742",
@@ -99863,7 +99863,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617741",
@@ -99886,7 +99886,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617740",
@@ -99909,7 +99909,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617739",
@@ -99932,7 +99932,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617738",
@@ -99955,7 +99955,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617737",
@@ -99978,7 +99978,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617736",
@@ -100001,7 +100001,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617735",
@@ -100024,7 +100024,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617734",
@@ -100047,7 +100047,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617733",
@@ -100070,7 +100070,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617732",
@@ -100093,7 +100093,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617731",
@@ -100116,7 +100116,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617730",
@@ -100139,7 +100139,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617729",
@@ -100162,7 +100162,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617728",
@@ -100185,7 +100185,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617727",
@@ -100208,7 +100208,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617726",
@@ -100231,7 +100231,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617725",
@@ -100254,7 +100254,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617724",
@@ -100277,7 +100277,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617723",
@@ -100300,7 +100300,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617722",
@@ -100323,7 +100323,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617721",
@@ -100346,7 +100346,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617720",
@@ -100369,7 +100369,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR332407",
@@ -100392,7 +100392,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR332274",
@@ -100415,7 +100415,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR332251",
@@ -100438,7 +100438,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR189665",
@@ -100461,7 +100461,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR189664",
@@ -100484,7 +100484,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR189663",
@@ -100507,7 +100507,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR068950",
@@ -100530,7 +100530,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR617745",
@@ -100553,7 +100553,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR159254",
@@ -100576,7 +100576,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR159253",
@@ -100599,7 +100599,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR159252",
@@ -100622,7 +100622,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343152",
@@ -100645,7 +100645,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343150",
@@ -100668,7 +100668,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343149",
@@ -100691,7 +100691,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343146",
@@ -100714,7 +100714,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343145",
@@ -100737,7 +100737,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343143",
@@ -100760,7 +100760,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343142",
@@ -100783,7 +100783,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343141",
@@ -100806,7 +100806,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343140",
@@ -100829,7 +100829,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343139",
@@ -100852,7 +100852,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343138",
@@ -100875,7 +100875,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343137",
@@ -100898,7 +100898,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343136",
@@ -100921,7 +100921,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343135",
@@ -100944,7 +100944,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR343134",
@@ -100967,7 +100967,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR334209",
@@ -100990,7 +100990,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR159251",
@@ -101013,7 +101013,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR068952",
@@ -101036,7 +101036,7 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR068951",
@@ -101059,6 +101059,6 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   }
 ]

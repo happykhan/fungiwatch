@@ -39,7 +39,7 @@ order = ["laboratory", "human", "clinical_other", "plant", "animal", "food", "en
 [host.laboratory]
 description = "Lab-derived strains (not real-world sampling). Checked first because metadata often duplicates a clinical host name on top of a lab-evolved label."
 keywords = [
-    "in vitro", "in-vitro", "evolved", "evolution experiment",
+    "in vitro", "in-vitro", "evolved", "evovled", "evolution experiment",
     "lab experiment", "laboratory experiment", "crispr",
     "transformed", "transformant", "mutant strain", "knockout",
     "engineered", "synthetic", "passaged", "serial passage",
@@ -47,6 +47,10 @@ keywords = [
     "voriconazole evolved", "amphotericin evolved",
     "lab evolved", "lab-evolved", "in vitro selection",
     "lab adapted", "lab-adapted",
+    "culture media", "ypd culture", " ypd ", "ypd",
+    "frozen stock", "petri dish", "lab strain", "nrrl",
+    "progeny strains", "mixed of progeny",
+    "culture", "culture collection",
 ]
 
 [host.human]
@@ -58,8 +62,8 @@ keywords = [
     "cerebrospinal", "nail", "skin scraping", "vaginal", "urine",
     "stool", "throat swab", "ear swab", "blood", "oropharynx",
     "oropharanyx", "pharyngeal", "pulmonary", "lung", "tracheal",
-    "wound", "bile", "peritoneal",
-    "clinical",
+    "wound", "bile", "peritoneal", "axilla", "groin", "liver",
+    "clinical", "clinic",
 ]
 
 [host.clinical_other]
@@ -99,6 +103,10 @@ keywords = [
     "olea", "coffea", "theobroma", "saccharum", "humulus", "nicotiana",
     "hevea", "elaeis", "manihot", "ipomoea", "capsicum", "daucus",
     "beta vulgaris", "trifolium",
+    "phalaenopsis", "cannabis", "leymus", "elettaria", "lolium",
+    "megathyrsus", "gastrodia", "matthiola", "narcissus", "zingiber",
+    "xyris", "lagenaria", "physalis", "gladiolus", "tulip", "hemp",
+    "triticale", "ryegrass", "herbs", "orchid",
 ]
 
 [host.animal]
@@ -131,6 +139,8 @@ keywords = [
     "macaca", "rattus", "mus musculus", "anas platyrhynchos", "gallus",
     "meleagris", "danio rerio", "drosophila", "apis mellifera",
     "caenorhabditis", "cepaea",
+    "dasypus", "armadillo", "euwallacea", "hypothenemus",
+    "rhizomys", "mareca", "sturnus", "thrips",
 ]
 
 [host.food]
@@ -166,7 +176,7 @@ description = "Government public health labs, CDCs, ministries of health, nation
 # Use for short codes that would be dangerous as substrings.
 exact_aliases = ["uphl", "uphl_id", "nvsphl", "nsphl", "riphl", "lacphl", "ocphl_ca",
                   "mdh_csl", "mdhhs-gs", "mdhhs", "txdshs", "tn doh", "tn-doh",
-                  "wsdoh"]
+                  "wsdoh", "nml", "nvwa"]
 keywords = [
     # PHL-ish substrings that catch composite codes like "fda_NSPHL" or "MDUPHL".
     # Distinctive enough that false positives in submitter names are unlikely.
@@ -177,6 +187,10 @@ keywords = [
     "department of health", "ministry of health",
     "national institute for communicable diseases",
     "national institute for biological standards",
+    "national health laboratory service",
+    "national microbiology laboratory",
+    "national centre for infectious diseases",
+    "national center for infectious diseases",
     "ukhsa", "public health england", "ecdc",
     "robert koch", "rki",
     "santé publique", "sante publique",
@@ -206,10 +220,12 @@ keywords = [
 [submitter.hospital_clinical]
 description = "Hospitals, medical centres, clinical research units."
 keywords = [
-    "hospital", "hôpital", "klinikum", "medical center",
+    "hospital", "hosipital", "hôpital", "klinikum", "medical center",
     "medical centre", "medical college",
     "medical research unit", "clinical research unit",
     "school of medicine", "faculty of medicine",
+    "cancer center", "cancer centre",
+    "sloan kettering", "sidra medicine",
     "radboudumc", "amc ", "amsterdam umc",
     "umc ", " umc",
     "nhs ", " nhs",
@@ -218,17 +234,20 @@ keywords = [
 
 [submitter.university]
 description = "Academic universities."
+exact_aliases = ["chiba_u", "fsu jena", "modmedmicoxford"]
 keywords = [
     "university", "université", "universidad", "universidade",
     "universität", "universitet", "universiteit", "università",
     "college", "polytechnic", "ecole ", "écoles",
     "instituto politécnico",
     "academia ",
+    "umass", "amherst",
 ]
 
 [submitter.research_institute]
 description = "Non-university research institutes (Broad, Pasteur, Sanger, EMBL/EBI, JGI, etc.)."
-exact_aliases = ["bi", "jgi", "ebi"]
+exact_aliases = ["bi", "jgi", "ebi", "tgen", "tgen north", "nisc", "jcvi",
+                  "umigs", "ibimed", "irb barcelona"]
 keywords = [
     "broad institute",
     "wellcome trust sanger", "sanger institute",
@@ -246,6 +265,13 @@ keywords = [
     "fungal genome", "genome institute", "institute of genomics",
     "biotech institute", "bioinformatics institute",
     "kazusa", "doe-jgi",
+    "translational genomics", "j. craig venter",
+    "institute of microbiology", "institution of microbiology",
+    "chinese academy of sciences",
+    "supercomputing center", "supercomputing centre",
+    "shanghai institute", "institute of biomedicine",
+    "institute for genome sciences", "institute of clinical pathology",
+    "vallabhbhai patel",
 ]
 
 [submitter.commercial]
@@ -255,4 +281,5 @@ keywords = [
     " corp", "biotech ", "biosciences", "genomics inc",
     "labcorp", "quest diagnostics", "illumina ",
     "pacific biosciences", "oxford nanopore",
+    "jmi laboratories", "element - jmi",
 ]

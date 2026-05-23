@@ -1850,7 +1850,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Vellore Institute of Technology",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "PromethION",
@@ -1873,7 +1873,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Vellore Institute of Technology",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -1896,7 +1896,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Vellore Institute of Technology",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6059,7 +6059,7 @@
     "isolation_source": "Platanus racemosa",
     "host_disease": "",
     "env_broad_scale": "ENVO:01001243",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6069,7 +6069,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497289",
@@ -6092,7 +6092,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497290",
@@ -6115,7 +6115,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497291",
@@ -6138,7 +6138,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497292",
@@ -6161,7 +6161,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497293",
@@ -6184,7 +6184,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497294",
@@ -6207,7 +6207,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497295",
@@ -6230,7 +6230,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497296",
@@ -6253,7 +6253,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497297",
@@ -6276,7 +6276,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497298",
@@ -6299,7 +6299,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497299",
@@ -6322,7 +6322,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497300",
@@ -6345,7 +6345,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497301",
@@ -6368,7 +6368,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497302",
@@ -6391,7 +6391,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497313",
@@ -6404,7 +6404,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6414,7 +6414,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497317",
@@ -6437,7 +6437,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497318",
@@ -6460,7 +6460,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497319",
@@ -6483,7 +6483,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497320",
@@ -6506,7 +6506,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497321",
@@ -6529,7 +6529,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497322",
@@ -6552,7 +6552,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497323",
@@ -6575,7 +6575,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497324",
@@ -6598,7 +6598,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497325",
@@ -6621,7 +6621,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497326",
@@ -6644,7 +6644,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497327",
@@ -6667,7 +6667,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497328",
@@ -6680,7 +6680,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6690,7 +6690,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497329",
@@ -6703,7 +6703,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6713,7 +6713,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497330",
@@ -6726,7 +6726,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6736,7 +6736,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497331",
@@ -6749,7 +6749,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6759,7 +6759,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497332",
@@ -6772,7 +6772,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6782,7 +6782,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497333",
@@ -6795,7 +6795,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6805,7 +6805,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497334",
@@ -6828,7 +6828,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497335",
@@ -6851,7 +6851,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497336",
@@ -6874,7 +6874,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497337",
@@ -6897,7 +6897,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497338",
@@ -6910,7 +6910,7 @@
     "isolation_source": "Acer negundo",
     "host_disease": "",
     "env_broad_scale": "ENVO:01001243",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6920,7 +6920,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497339",
@@ -6933,7 +6933,7 @@
     "isolation_source": "Acer negundo",
     "host_disease": "",
     "env_broad_scale": "ENVO:01001243",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6943,7 +6943,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497340",
@@ -6956,7 +6956,7 @@
     "isolation_source": "Acer negundo",
     "host_disease": "",
     "env_broad_scale": "ENVO:01001243",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6966,7 +6966,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497341",
@@ -6979,7 +6979,7 @@
     "isolation_source": "Acer negundo",
     "host_disease": "",
     "env_broad_scale": "ENVO:01001243",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -6989,7 +6989,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497342",
@@ -7012,7 +7012,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497343",
@@ -7035,7 +7035,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497344",
@@ -7058,7 +7058,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497345",
@@ -7081,7 +7081,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497346",
@@ -7104,7 +7104,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497347",
@@ -7127,7 +7127,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497348",
@@ -7150,7 +7150,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497349",
@@ -7173,7 +7173,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497350",
@@ -7196,7 +7196,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497351",
@@ -7219,7 +7219,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497352",
@@ -7232,7 +7232,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -7242,7 +7242,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497353",
@@ -7255,7 +7255,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7265,7 +7265,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497354",
@@ -7278,7 +7278,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -7288,7 +7288,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497355",
@@ -7301,7 +7301,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7311,7 +7311,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497356",
@@ -7324,7 +7324,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7334,7 +7334,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497357",
@@ -7357,7 +7357,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497358",
@@ -7380,7 +7380,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497359",
@@ -7403,7 +7403,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497360",
@@ -7416,7 +7416,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7426,7 +7426,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497361",
@@ -7449,7 +7449,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497362",
@@ -7472,7 +7472,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497363",
@@ -7495,7 +7495,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497364",
@@ -7508,7 +7508,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7518,7 +7518,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497365",
@@ -7531,7 +7531,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7541,7 +7541,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497366",
@@ -7564,7 +7564,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497371",
@@ -7577,7 +7577,7 @@
     "isolation_source": "Persea americana",
     "host_disease": "",
     "env_broad_scale": "ENVO:00000117",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "NVWA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -7587,7 +7587,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497382",
@@ -7610,7 +7610,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497383",
@@ -7633,7 +7633,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36497384",
@@ -7656,7 +7656,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR36459871",
@@ -12660,7 +12660,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "The University of Queensland",
     "platform": "PACBIO_SMRT",
     "instrument_model": "Revio",
@@ -13304,7 +13304,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13327,7 +13327,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13350,7 +13350,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13373,7 +13373,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13396,7 +13396,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13419,7 +13419,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13442,7 +13442,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13465,7 +13465,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13488,7 +13488,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13511,7 +13511,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13534,7 +13534,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13557,7 +13557,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13580,7 +13580,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13603,7 +13603,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13626,7 +13626,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13649,7 +13649,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13672,7 +13672,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13695,7 +13695,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13718,7 +13718,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13741,7 +13741,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13764,7 +13764,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13787,7 +13787,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13810,7 +13810,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13833,7 +13833,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13856,7 +13856,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13879,7 +13879,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -13902,7 +13902,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14569,7 +14569,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14592,7 +14592,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14615,7 +14615,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14638,7 +14638,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14661,7 +14661,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14684,7 +14684,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14707,7 +14707,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -14730,7 +14730,7 @@
     "isolation_source": "culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Missouri-Columbia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 1000",
@@ -15719,7 +15719,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "AgResearch Ltd",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -15742,7 +15742,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "AgResearch Ltd",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "PromethION",
@@ -15936,7 +15936,7 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR29979859",
@@ -16156,7 +16156,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Chinese Academy of Forestry",
     "platform": "BGISEQ",
     "instrument_model": "BGISEQ-500",
@@ -16432,7 +16432,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "NIAB",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -16501,7 +16501,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "NIAB",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "GridION",
@@ -20457,7 +20457,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20710,7 +20710,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -20963,7 +20963,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21009,7 +21009,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21032,7 +21032,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21055,7 +21055,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21078,7 +21078,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21101,7 +21101,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21216,7 +21216,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21538,7 +21538,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21561,7 +21561,7 @@
     "isolation_source": "Triticale",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "INRAE",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 2000",
@@ -21791,7 +21791,7 @@
     "isolation_source": "Blood Culture",
     "host_disease": "infection",
     "env_broad_scale": "",
-    "host_category": "human",
+    "host_category": "laboratory",
     "submitter": "UCLA",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -24045,7 +24045,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "USDA-ARS-NCAUR",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -24068,7 +24068,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "USDA-ARS-NCAUR",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -37339,7 +37339,7 @@
     "isolation_source": "Orchid",
     "host_disease": "Fusariosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Academia Sinica",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -37362,7 +37362,7 @@
     "isolation_source": "Orchid",
     "host_disease": "Fusariosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Academia Sinica",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -37385,7 +37385,7 @@
     "isolation_source": "Orchid",
     "host_disease": "Fusariosis",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Academia Sinica",
     "platform": "OXFORD_NANOPORE",
     "instrument_model": "GridION",
@@ -37615,7 +37615,7 @@
     "isolation_source": "YPD agar plate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Massachusetts Amherts",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -37638,7 +37638,7 @@
     "isolation_source": "YPD agar plate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Massachusetts Amherts",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -37661,7 +37661,7 @@
     "isolation_source": "YPD agar plate",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "laboratory",
     "submitter": "University of Massachusetts Amherts",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -41755,7 +41755,7 @@
     "isolation_source": "Homogenized Flower",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Medicinal Genomics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -41778,7 +41778,7 @@
     "isolation_source": "Homogenized Flower",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Medicinal Genomics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -41801,7 +41801,7 @@
     "isolation_source": "Homogenized Flower",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Medicinal Genomics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -41824,7 +41824,7 @@
     "isolation_source": "Homogenized Flower",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Medicinal Genomics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -41847,7 +41847,7 @@
     "isolation_source": "Homogenized Flower",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Medicinal Genomics",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2000",
@@ -44446,7 +44446,7 @@
     "isolation_source": "24 h hyphae of YEPD culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "clinical_other",
+    "host_category": "laboratory",
     "submitter": "Northwest A&F University",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -44469,7 +44469,7 @@
     "isolation_source": "24 h hyphae of YEPD culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "clinical_other",
+    "host_category": "laboratory",
     "submitter": "Northwest A&F University",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -44492,7 +44492,7 @@
     "isolation_source": "24 h hyphae of YEPD culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "clinical_other",
+    "host_category": "laboratory",
     "submitter": "Northwest A&F University",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -44515,7 +44515,7 @@
     "isolation_source": "24 h hyphae of YEPD culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "clinical_other",
+    "host_category": "laboratory",
     "submitter": "Northwest A&F University",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -44538,7 +44538,7 @@
     "isolation_source": "24 h hyphae of YEPD culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "clinical_other",
+    "host_category": "laboratory",
     "submitter": "Northwest A&F University",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -44584,7 +44584,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Chinese Academy of Forestry",
     "platform": "PACBIO_SMRT",
     "instrument_model": "PacBio RS II",
@@ -44607,7 +44607,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "Chinese Academy of Forestry",
     "platform": "PACBIO_SMRT",
     "instrument_model": "PacBio RS II",
@@ -48494,7 +48494,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Massachusetts Amherst",
     "platform": "PACBIO_SMRT",
     "instrument_model": "PacBio RS II",
@@ -48517,7 +48517,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Massachusetts Amherst",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -52864,7 +52864,7 @@
     "isolation_source": "obtained from the American Type Culture Collection",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "plant",
+    "host_category": "laboratory",
     "submitter": "Institute of Vegetables and Flowers",
     "platform": "ILLUMINA",
     "instrument_model": "HiSeq X Ten",
@@ -53048,7 +53048,7 @@
     "isolation_source": "Narcissus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -53163,7 +53163,7 @@
     "isolation_source": "Narcissus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68113,7 +68113,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68136,7 +68136,7 @@
     "isolation_source": "infected tulip bulb",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68159,7 +68159,7 @@
     "isolation_source": "infected tulip bulb",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68228,7 +68228,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68251,7 +68251,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68274,7 +68274,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68297,7 +68297,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68343,7 +68343,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68366,7 +68366,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68389,7 +68389,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68412,7 +68412,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68435,7 +68435,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68504,7 +68504,7 @@
     "isolation_source": "Narcissus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -68688,7 +68688,7 @@
     "isolation_source": "Euwallacea interjectus gallery on box elder",
     "host_disease": "",
     "env_broad_scale": "forest biome",
-    "host_category": "environment",
+    "host_category": "animal",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -69010,7 +69010,7 @@
     "isolation_source": "Narcissus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69171,7 +69171,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69194,7 +69194,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69217,7 +69217,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69240,7 +69240,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69263,7 +69263,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69286,7 +69286,7 @@
     "isolation_source": "Gladiolus sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69309,7 +69309,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69355,7 +69355,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69378,7 +69378,7 @@
     "isolation_source": "Lagenaria sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69447,7 +69447,7 @@
     "isolation_source": "infected tulip bulb",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69470,7 +69470,7 @@
     "isolation_source": "infected tulip bulb",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69493,7 +69493,7 @@
     "isolation_source": "Physalis sp.",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "University of Amsterdam",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 2500",
@@ -69516,7 +69516,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "University of California, Riverside",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",
@@ -69539,7 +69539,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "unknown",
+    "host_category": "animal",
     "submitter": "University of California, Riverside",
     "platform": "ION_TORRENT",
     "instrument_model": "Ion Torrent PGM",
@@ -70390,7 +70390,7 @@
     "isolation_source": "",
     "host_disease": "",
     "env_broad_scale": "Field",
-    "host_category": "unknown",
+    "host_category": "plant",
     "submitter": "NIAB-East Malling Research",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina MiSeq",

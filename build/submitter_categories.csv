@@ -1,20 +1,20 @@
 fppl_name,priority,public_health,hospital_clinical,university,research_institute,agriculture,commercial,other,total
-Aspergillus fumigatus,Critical,386,452,2644,556,9,0,722,4769
-Candida albicans,Critical,528,497,1433,1431,0,0,809,4698
-Candida auris,Critical,26305,1025,1077,67,0,0,1567,30041
-Candida parapsilosis,High,171,466,655,64,3,0,551,1910
-Candida tropicalis,High,5,738,404,39,2,0,247,1435
-Coccidioides spp.,Medium,28,0,204,31,0,0,165,428
-Cryptococcus gattii,Medium,1,1,87,148,0,0,134,371
-Cryptococcus neoformans,Critical,1,1224,1981,2474,0,1,1050,6731
+Aspergillus fumigatus,Critical,386,452,3099,628,9,50,145,4769
+Candida albicans,Critical,530,603,1433,1507,0,3,622,4698
+Candida auris,Critical,26449,1162,1155,323,0,0,952,30041
+Candida parapsilosis,High,208,640,731,94,3,3,231,1910
+Candida tropicalis,High,7,738,404,261,2,2,21,1435
+Coccidioides spp.,Medium,28,0,204,175,0,0,21,428
+Cryptococcus gattii,Medium,1,1,87,223,0,0,59,371
+Cryptococcus neoformans,Critical,1,1224,1981,2579,0,1,945,6731
 Eumycetoma agents,High,68,0,10,10,0,0,8,96
-Fusarium spp.,High,66,0,2541,503,1928,5,515,5558
-Histoplasma spp.,High,83,3,467,21,0,0,20,594
+Fusarium spp.,High,136,0,2542,507,1928,5,440,5558
+Histoplasma spp.,High,83,3,467,27,0,0,14,594
 Lomentospora prolificans,Medium,0,0,20,0,0,0,0,20
-Mucorales,High,0,176,206,1512,14,0,486,2394
-Nakaseomyces glabrata,High,526,373,258,79,1,15,566,1818
+Mucorales,High,0,176,206,1733,14,0,265,2394
+Nakaseomyces glabrata,High,626,373,258,272,1,37,251,1818
 Paracoccidioides spp.,Medium,0,0,67,38,0,0,5,110
-Pichia kudriavzevii,Medium,2,44,205,493,2,1,29,776
+Pichia kudriavzevii,Medium,2,44,205,499,2,1,23,776
 Pneumocystis jirovecii,Medium,0,0,0,9,0,0,3,12
 Scedosporium spp.,Medium,2,0,10,7,0,0,12,31
 Talaromyces marneffei,Medium,15,11,7,345,0,0,3,381

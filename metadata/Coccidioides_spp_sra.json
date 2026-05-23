@@ -1804,7 +1804,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1827,7 +1827,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1850,7 +1850,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1873,7 +1873,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1896,7 +1896,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1919,7 +1919,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1942,7 +1942,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1965,7 +1965,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -1988,7 +1988,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2011,7 +2011,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2034,7 +2034,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2057,7 +2057,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2080,7 +2080,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2103,7 +2103,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina NovaSeq 6000",
@@ -2126,7 +2126,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -2149,7 +2149,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -2172,7 +2172,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -2195,7 +2195,7 @@
     "isolation_source": "Laboratory mixed culture",
     "host_disease": "",
     "env_broad_scale": "",
-    "host_category": "animal",
+    "host_category": "laboratory",
     "submitter": "University of California, San Francisco",
     "platform": "ILLUMINA",
     "instrument_model": "Illumina HiSeq 4000",
@@ -4459,7 +4459,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295063",
@@ -4482,7 +4482,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295064",
@@ -4505,7 +4505,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295065",
@@ -4528,7 +4528,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295066",
@@ -4551,7 +4551,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295067",
@@ -4574,7 +4574,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21295068",
@@ -4597,7 +4597,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21292664",
@@ -4620,7 +4620,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21292480",
@@ -4643,7 +4643,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21292481",
@@ -4666,7 +4666,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21292482",
@@ -4689,7 +4689,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21292483",
@@ -4712,7 +4712,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204671",
@@ -4735,7 +4735,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204672",
@@ -4758,7 +4758,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204673",
@@ -4781,7 +4781,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204674",
@@ -4804,7 +4804,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204675",
@@ -4827,7 +4827,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204676",
@@ -4850,7 +4850,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204677",
@@ -4873,7 +4873,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204678",
@@ -4896,7 +4896,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204679",
@@ -4919,7 +4919,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204680",
@@ -4942,7 +4942,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204681",
@@ -4965,7 +4965,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204682",
@@ -4988,7 +4988,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204683",
@@ -5011,7 +5011,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204684",
@@ -5034,7 +5034,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204685",
@@ -5057,7 +5057,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204686",
@@ -5080,7 +5080,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204687",
@@ -5103,7 +5103,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204688",
@@ -5126,7 +5126,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204689",
@@ -5149,7 +5149,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204690",
@@ -5172,7 +5172,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204691",
@@ -5195,7 +5195,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204692",
@@ -5218,7 +5218,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204693",
@@ -5241,7 +5241,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204694",
@@ -5264,7 +5264,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204695",
@@ -5287,7 +5287,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204696",
@@ -5310,7 +5310,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204697",
@@ -5333,7 +5333,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204698",
@@ -5356,7 +5356,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204699",
@@ -5379,7 +5379,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204700",
@@ -5402,7 +5402,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204701",
@@ -5425,7 +5425,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204702",
@@ -5448,7 +5448,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204703",
@@ -5471,7 +5471,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204704",
@@ -5494,7 +5494,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204705",
@@ -5517,7 +5517,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204706",
@@ -5540,7 +5540,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204707",
@@ -5563,7 +5563,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204708",
@@ -5586,7 +5586,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204709",
@@ -5609,7 +5609,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204710",
@@ -5632,7 +5632,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204711",
@@ -5655,7 +5655,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204712",
@@ -5678,7 +5678,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204713",
@@ -5701,7 +5701,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204714",
@@ -5724,7 +5724,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204715",
@@ -5747,7 +5747,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204716",
@@ -5770,7 +5770,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204717",
@@ -5793,7 +5793,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204718",
@@ -5816,7 +5816,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204719",
@@ -5839,7 +5839,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204720",
@@ -5862,7 +5862,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204721",
@@ -5885,7 +5885,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204722",
@@ -5908,7 +5908,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204723",
@@ -5931,7 +5931,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204724",
@@ -5954,7 +5954,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204725",
@@ -5977,7 +5977,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204726",
@@ -6000,7 +6000,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204727",
@@ -6023,7 +6023,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204728",
@@ -6046,7 +6046,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204729",
@@ -6069,7 +6069,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204730",
@@ -6092,7 +6092,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204731",
@@ -6115,7 +6115,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR21204732",
@@ -6138,7 +6138,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9644374",
@@ -7288,7 +7288,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468080",
@@ -7311,7 +7311,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468079",
@@ -7334,7 +7334,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468078",
@@ -7357,7 +7357,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468077",
@@ -7380,7 +7380,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468076",
@@ -7403,7 +7403,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468075",
@@ -7426,7 +7426,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468074",
@@ -7449,7 +7449,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468073",
@@ -7472,7 +7472,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468072",
@@ -7495,7 +7495,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468071",
@@ -7518,7 +7518,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468070",
@@ -7541,7 +7541,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468069",
@@ -7564,7 +7564,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468068",
@@ -7587,7 +7587,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468067",
@@ -7610,7 +7610,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468066",
@@ -7633,7 +7633,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468065",
@@ -7656,7 +7656,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468064",
@@ -7679,7 +7679,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468063",
@@ -7702,7 +7702,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468062",
@@ -7725,7 +7725,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468061",
@@ -7748,7 +7748,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468060",
@@ -7771,7 +7771,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468059",
@@ -7794,7 +7794,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468058",
@@ -7817,7 +7817,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468057",
@@ -7840,7 +7840,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468056",
@@ -7863,7 +7863,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468055",
@@ -7886,7 +7886,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468054",
@@ -7909,7 +7909,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468053",
@@ -7932,7 +7932,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468052",
@@ -7955,7 +7955,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468051",
@@ -7978,7 +7978,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468050",
@@ -8001,7 +8001,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468049",
@@ -8024,7 +8024,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468048",
@@ -8047,7 +8047,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468047",
@@ -8070,7 +8070,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468046",
@@ -8093,7 +8093,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468045",
@@ -8116,7 +8116,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468044",
@@ -8139,7 +8139,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468043",
@@ -8162,7 +8162,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468042",
@@ -8185,7 +8185,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468041",
@@ -8208,7 +8208,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468040",
@@ -8231,7 +8231,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468039",
@@ -8254,7 +8254,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468038",
@@ -8277,7 +8277,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468037",
@@ -8300,7 +8300,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468036",
@@ -8323,7 +8323,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468035",
@@ -8346,7 +8346,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468034",
@@ -8369,7 +8369,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468033",
@@ -8392,7 +8392,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468032",
@@ -8415,7 +8415,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468031",
@@ -8438,7 +8438,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468030",
@@ -8461,7 +8461,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468029",
@@ -8484,7 +8484,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468028",
@@ -8507,7 +8507,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468027",
@@ -8530,7 +8530,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468026",
@@ -8553,7 +8553,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468025",
@@ -8576,7 +8576,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468024",
@@ -8599,7 +8599,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468023",
@@ -8622,7 +8622,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468022",
@@ -8645,7 +8645,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468021",
@@ -8668,7 +8668,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468020",
@@ -8691,7 +8691,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468019",
@@ -8714,7 +8714,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468018",
@@ -8737,7 +8737,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468017",
@@ -8760,7 +8760,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468016",
@@ -8783,7 +8783,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3468015",
@@ -8806,7 +8806,7 @@
     "source": "sra",
     "fppl_name": "Coccidioides spp.",
     "priority": "Medium",
-    "submitter_category": "other"
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1292228",
