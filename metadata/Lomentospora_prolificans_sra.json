@@ -1,0 +1,145 @@
+[
+  {
+    "accession": "SRR23262663",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2023-01-28 17:57:16",
+    "collection_date": "2018",
+    "geo_loc_name": "USA: Baltimore",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR23262664",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2023-01-28 17:59:54",
+    "collection_date": "2018",
+    "geo_loc_name": "USA: Baltimore",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR23262665",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2023-01-28 17:57:16",
+    "collection_date": "2018",
+    "geo_loc_name": "USA: Baltimore",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR23262666",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2023-01-28 18:11:11",
+    "collection_date": "2018",
+    "geo_loc_name": "USA: Baltimore",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510390",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2015-06-20",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510391",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2016-01-07",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510392",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2016-12-08",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510393",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2015-07-07",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510394",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2015-07-19",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510395",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "1988",
+    "geo_loc_name": "USA",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR8510396",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2019-09-01 01:25:40",
+    "collection_date": "2015-05-19",
+    "geo_loc_name": "Australia",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR5812844",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2017-08-02 14:02:16",
+    "collection_date": "2015-07",
+    "geo_loc_name": "USA: Baltimore, MD",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR5812813",
+    "organism_name": "Lomentospora prolificans",
+    "tax_id": 41688,
+    "release_date": "2017-07-08 13:51:12",
+    "collection_date": "2015-07",
+    "geo_loc_name": "USA: Baltimore, MD",
+    "source": "sra",
+    "fppl_name": "Lomentospora prolificans",
+    "priority": "Medium"
+  }
+]

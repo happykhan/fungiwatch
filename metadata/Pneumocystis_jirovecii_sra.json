@@ -1,0 +1,90 @@
+[
+  {
+    "accession": "SRR12304674",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2021-03-03 16:56:16",
+    "collection_date": "",
+    "geo_loc_name": "USA: Bethesda, Maryland",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR12304306",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2021-03-03 16:55:49",
+    "collection_date": "2018-06",
+    "geo_loc_name": "USA: Bethesda, Maryland",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR12300271",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2021-03-03 16:55:02",
+    "collection_date": "2018-11",
+    "geo_loc_name": "China: Chongqing",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR5822089",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2018-04-24 00:22:19",
+    "collection_date": "",
+    "geo_loc_name": "USA",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR5822088",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2018-04-24 00:22:19",
+    "collection_date": "",
+    "geo_loc_name": "Denmark",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR1043750",
+    "organism_name": "Pneumocystis jirovecii RU817",
+    "tax_id": 1408656,
+    "release_date": "2013-12-05 12:58:09",
+    "collection_date": "",
+    "geo_loc_name": "",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR1043749",
+    "organism_name": "Pneumocystis jirovecii RU7",
+    "tax_id": 1408657,
+    "release_date": "2013-12-05 12:58:08",
+    "collection_date": "",
+    "geo_loc_name": "",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "SRR1043747",
+    "organism_name": "Pneumocystis jirovecii RU12",
+    "tax_id": 1408655,
+    "release_date": "2013-12-05 12:58:03",
+    "collection_date": "",
+    "geo_loc_name": "",
+    "source": "sra",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  }
+]

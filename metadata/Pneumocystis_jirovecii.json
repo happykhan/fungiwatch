@@ -1,0 +1,58 @@
+[
+  {
+    "accession": "GCA_000333975.2",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2012-12-19",
+    "assembly_level": "Contig",
+    "collection_date": "2008",
+    "geo_loc_name": "",
+    "genome_size_bp": 8152515,
+    "gc_percent": 28.5,
+    "source": "genome",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "GCA_002571455.1",
+    "organism_name": "Pneumocystis jirovecii",
+    "tax_id": 42068,
+    "release_date": "2017-10-17",
+    "assembly_level": "Contig",
+    "collection_date": "2014-07-01",
+    "geo_loc_name": "Switzerland: Lausanne",
+    "genome_size_bp": 8088270,
+    "gc_percent": 28.0,
+    "source": "genome",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "GCF_001477535.1",
+    "organism_name": "Pneumocystis jirovecii RU7",
+    "tax_id": 1408657,
+    "release_date": "2015-12-22",
+    "assembly_level": "Contig",
+    "collection_date": "unknown",
+    "geo_loc_name": "USA: Bethesda, MD",
+    "genome_size_bp": 8396240,
+    "gc_percent": 28.5,
+    "source": "genome",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  },
+  {
+    "accession": "GCA_001477535.1",
+    "organism_name": "Pneumocystis jirovecii RU7",
+    "tax_id": 1408657,
+    "release_date": "2015-12-22",
+    "assembly_level": "Contig",
+    "collection_date": "unknown",
+    "geo_loc_name": "USA: Bethesda, MD",
+    "genome_size_bp": 8396240,
+    "gc_percent": 28.5,
+    "source": "genome",
+    "fppl_name": "Pneumocystis jirovecii",
+    "priority": "Medium"
+  }
+]

@@ -147,8 +147,18 @@ GCA_051295785.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,20
 GCA_051858795.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2023-04-19,Scaffold,NA,NA,18853525,48.0
 GCA_051858875.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2023-04-19,Scaffold,NA,NA,19434397,48.0
 GCA_052625715.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2025-09-15,Complete Genome,NA,NA,18861032,48.0
-GCA_055769325.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-03-10,Scaffold,,,12457094,48.0
-GCA_055769345.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-03-10,Scaffold,,,18495918,48.0
+GCA_055769325.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-03-10,Scaffold,2024-10,Thailand: Songkhla,12457094,48.0
+GCA_055769345.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-03-10,Scaffold,2024-10,Thailand: Songkhla,18495918,48.0
+GCA_056608965.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,Unknown,Botswana,18848201,48.0
+GCA_056621495.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,Unknown,Botswana,18974047,48.0
+GCA_056622355.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,2012-04,Botswana: Francistown,18986351,48.0
+GCA_056622635.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,Unknown,USA,18771257,48.0
+GCA_056632715.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,Unknown,France,19230112,48.0
+GCA_056632795.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,2000,Botswana,18880176,48.0
+GCA_056632815.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,2003,Botswana,19212430,48.5
+GCA_056632835.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,1999,Botswana,18969699,48.5
+GCA_056632885.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-04-07,Complete Genome,1998,Tanzania,19085568,48.0
+GCA_057381315.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2026-05-11,Complete Genome,2023-02-15,Pakistan: Islamabad,19744093,48.5
 GCA_900177155.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2017-04-19,Scaffold,2006,Viet Nam,18405114,48.0
 GCA_900177165.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2017-04-19,Scaffold,2006,Viet Nam,18447454,48.0
 GCA_900177175.1,Cryptococcus neoformans,5207,Cryptococcus neoformans,Critical,2017-04-19,Scaffold,2006,Viet Nam,18463082,48.0
@@ -838,6 +848,160 @@ GCA_054643575.1,Candidozyma auris,498019,Candida auris,Critical,2026-01-22,Conti
 GCA_054643595.1,Candidozyma auris,498019,Candida auris,Critical,2026-01-22,Contig,2025-01-09,USA: California,12277174,45.0
 GCA_054643615.1,Candidozyma auris,498019,Candida auris,Critical,2026-01-22,Contig,2025-10-09,USA: California,12255485,45.5
 GCA_054883665.1,Candidozyma auris,498019,Candida auris,Critical,2026-02-02,Complete Genome,2009,Japan,12247449,45.5
+GCA_056554835.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-08-22,USA: California,12268542,45.5
+GCA_056554855.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-18,USA: California,12286227,45.0
+GCA_056554875.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-07,USA: California,12256980,45.0
+GCA_056554895.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-07,USA: California,12270575,45.0
+GCA_056554915.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2026-01-06,USA: California,12268764,45.0
+GCA_056554925.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2026-02-14,USA: California,12286771,45.0
+GCA_056554955.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2026-01-30,USA: California,12287623,45.0
+GCA_056554975.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-06,USA: California,12285782,45.0
+GCA_056554995.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-08-17,USA: California,12267367,45.0
+GCA_056555015.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2026-02-12,USA: California,12283494,45.0
+GCA_056555035.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-08,USA: California,12284573,45.0
+GCA_056555055.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-08,USA: California,12287678,45.0
+GCA_056555075.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-03,Contig,2024-09-01,USA: California,12286559,45.0
+GCA_056915415.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-03,"Brazil:Minas Gerais, Belo Horizonte",12342789,45.0
+GCA_056915435.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-09-27,"Brazil:Minas Gerais, Belo Horizonte",12228794,45.0
+GCA_056915445.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-09-17,"Brazil:Minas Gerais, Belo Horizonte",12266768,45.0
+GCA_056915505.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-03,"Brazil:Minas Gerais, Belo Horizonte",12332892,45.0
+GCA_056915655.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-11,"Brazil:Minas Gerais, Belo Horizonte",12326563,45.0
+GCA_056915685.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-11,"Brazil:Minas Gerais, Belo Horizonte",12336396,45.0
+GCA_056915715.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-04,"Brazil:Minas Gerais, Belo Horizonte",12327528,45.0
+GCA_056915745.1,Candidozyma auris,498019,Candida auris,Critical,2026-04-27,Chromosome,2024-10-04,"Brazil:Minas Gerais, Belo Horizonte",12279414,45.0
+GCA_057189785.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2024-09-12,USA: California,12285635,45.0
+GCA_057189795.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-08,USA: California,12274459,45.5
+GCA_057189805.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-04,USA: California,12256029,45.5
+GCA_057189905.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-02-14,USA: California,12281284,45.0
+GCA_057189915.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2024-08-22,USA: California,12281476,45.0
+GCA_057189925.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-02-24,USA: California,12277883,45.0
+GCA_057190025.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-02-21,USA: California,12279886,45.0
+GCA_057190045.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-02-14,USA: California,12281429,45.0
+GCA_057190055.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-18,USA: California,12283394,45.0
+GCA_057190135.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-01-07,USA: California,12280080,45.0
+GCA_057190165.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-21,USA: California,12282289,45.0
+GCA_057190175.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-11,USA: California,12286870,45.0
+GCA_057190225.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2024-09-09,USA: California,12256661,45.0
+GCA_057190285.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-04,Contig,2026-03-10,USA: California,12294288,45.0
+GCA_057383425.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-27,USA: California,12266933,45.5
+GCA_057383435.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-31,USA: California,12232897,45.5
+GCA_057383465.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-28,USA: California,12270168,45.0
+GCA_057383485.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-17,USA: California,12275432,45.0
+GCA_057383495.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-28,USA: California,12282601,45.0
+GCA_057383525.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-30,USA: California,12271307,45.0
+GCA_057383545.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-31,USA: California,12261196,45.0
+GCA_057383555.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-25,USA: California,12287513,45.0
+GCA_057383585.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-30,USA: California,12282320,45.0
+GCA_057383605.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-20,USA: California,12299021,45.0
+GCA_057383615.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-27,USA: California,12272458,45.0
+GCA_057383645.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-11,Contig,2026-03-30,USA: California,12286873,45.0
+GCA_057658225.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-04-07,USA: California,12294482,45.0
+GCA_057658405.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-24,USA: California,12285597,45.0
+GCA_057658415.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-04-06,USA: California,12281164,45.0
+GCA_057658505.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-24,USA: California,12254628,45.0
+GCA_057658585.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-25,USA: California,12287200,45.0
+GCA_057658605.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-04-04,USA: California,12279060,45.0
+GCA_057658625.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-27,USA: California,12281276,45.0
+GCA_057658685.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-04-07,USA: California,12228985,45.0
+GCA_057658725.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-22,USA: California,12256103,45.5
+GCA_057658745.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-26,USA: California,12281422,45.0
+GCA_057658785.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-04-08,USA: California,12258060,45.0
+GCA_057658815.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-28,USA: California,12279206,45.0
+GCA_057658845.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-25,USA: California,12282476,45.0
+GCA_057658885.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-14,USA: California,12273540,45.0
+GCA_057658895.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-04,USA: California,12269130,45.5
+GCA_057658905.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-14,USA: California,12271478,45.5
+GCA_057659005.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-21,USA: California,12287948,45.0
+GCA_057659025.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-08-17,USA: California,12266041,45.0
+GCA_057659035.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-08-16,USA: California,12270486,45.0
+GCA_057659125.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-21,USA: California,12281016,45.0
+GCA_057659165.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-26,USA: California,12281027,45.0
+GCA_057659185.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-24,USA: California,12280724,45.0
+GCA_057659245.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-23,USA: California,12277167,45.0
+GCA_057659255.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-13,USA: California,12279226,45.0
+GCA_057659265.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-25,USA: California,12279677,45.0
+GCA_057659365.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-26,USA: California,12258870,45.0
+GCA_057659405.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-25,USA: California,12269229,45.5
+GCA_057659425.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-24,USA: California,12240426,45.0
+GCA_057659505.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-03-15,USA: California,12225041,45.0
+GCA_057659525.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-02-05,USA: California,12072991,45.5
+GCA_057659545.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-02-13,USA: California,12210017,45.5
+GCA_057659625.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-02-24,USA: California,12162585,45.5
+GCA_057659665.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-20,USA: California,12213022,45.5
+GCA_057659685.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-20,USA: California,12256342,45.5
+GCA_057659745.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-02-10,USA: California,12220321,45.5
+GCA_057659785.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-03-28,USA: California,12209498,45.5
+GCA_057659805.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-23,USA: California,12271024,45.5
+GCA_057659885.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-24,USA: California,12271159,45.0
+GCA_057659905.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-17,USA: California,12245607,45.5
+GCA_057659925.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-04-02,USA: California,12245364,45.5
+GCA_057659945.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-03-19,USA: California,12256636,45.5
+GCA_057660025.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-11-21,USA: California,12247133,45.0
+GCA_057660045.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-01-03,USA: California,12277432,45.0
+GCA_057660065.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-01-25,USA: California,12280660,45.0
+GCA_057660085.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-27,USA: California,12275067,45.5
+GCA_057660105.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-11-30,USA: California,12277903,45.0
+GCA_057660185.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-05,USA: California,12272542,45.0
+GCA_057660205.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-30,USA: California,12269505,45.5
+GCA_057660225.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-05-13,USA: California,12270436,45.0
+GCA_057660305.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-05-16,USA: California,12270655,45.0
+GCA_057660325.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-29,USA: California,12249008,45.5
+GCA_057660345.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-14,USA: California,12272887,45.0
+GCA_057660425.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-05-13,USA: California,12284925,45.0
+GCA_057660445.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-24,USA: California,12282282,45.0
+GCA_057660465.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-23,USA: California,12285911,45.0
+GCA_057660525.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-08,USA: California,12280956,45.0
+GCA_057660565.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-06,USA: California,12278841,45.0
+GCA_057660585.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-24,USA: California,12284195,45.0
+GCA_057660605.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-09,USA: California,12284159,45.0
+GCA_057660665.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-27,USA: California,12194190,45.5
+GCA_057660705.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12187093,45.5
+GCA_057660725.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-22,USA: California,12222779,45.5
+GCA_057660745.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-23,USA: California,12219799,45.5
+GCA_057660825.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-07,USA: California,12266905,45.5
+GCA_057660845.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-22,USA: California,12244763,45.5
+GCA_057660885.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12259833,45.5
+GCA_057660905.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12233513,45.5
+GCA_057660925.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12224620,45.5
+GCA_057660985.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-20,USA: California,12233801,45.5
+GCA_057661005.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12266046,45.5
+GCA_057661045.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12267749,45.5
+GCA_057661105.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-29,USA: California,12288690,45.0
+GCA_057661125.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-26,USA: California,12253367,45.5
+GCA_057661145.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-02,USA: California,12277124,45.0
+GCA_057661225.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-04,USA: California,12270995,45.5
+GCA_057661245.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-13,USA: California,12261540,45.0
+GCA_057661305.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-19,USA: California,12229706,45.5
+GCA_057661345.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-21,USA: California,12232829,45.0
+GCA_057661365.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-24,USA: California,12272814,45.0
+GCA_057661385.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-28,USA: California,12287104,45.0
+GCA_057661395.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-14,USA: California,12288950,45.0
+GCA_057661445.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-01,USA: California,12239731,45.0
+GCA_057661505.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-28,USA: California,12259030,45.0
+GCA_057661515.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-22,USA: California,12251380,45.0
+GCA_057661565.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2026-01-14,USA: California,12273038,45.0
+GCA_057661625.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12223249,45.5
+GCA_057661645.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-05,USA: California,12264532,45.0
+GCA_057661665.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-21,USA: California,12252645,45.5
+GCA_057661685.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-01-04,USA: California,12256653,45.5
+GCA_057661705.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-12-05,USA: California,12294056,45.0
+GCA_057661725.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-11-02,USA: California,12287506,45.0
+GCA_057661745.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-24,USA: California,12280510,45.0
+GCA_057661765.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-24,USA: California,12270633,45.0
+GCA_057661785.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-10-22,USA: California,12272742,45.0
+GCA_057661805.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-09-27,USA: California,12265414,45.5
+GCA_057661825.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-22,USA: California,12281166,45.0
+GCA_057661845.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-08,USA: California,12274758,45.5
+GCA_057661865.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-04,USA: California,12260784,45.0
+GCA_057661885.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-24,USA: California,12287779,45.0
+GCA_057661905.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-10-26,USA: California,12271815,45.0
+GCA_057661925.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12272045,45.0
+GCA_057661945.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12287930,45.0
+GCA_057661965.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12283815,45.0
+GCA_057661985.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12270675,45.0
+GCA_057662005.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2025-01-05,USA: California,12281059,45.0
+GCA_057662025.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12287453,45.0
+GCA_057662045.1,Candidozyma auris,498019,Candida auris,Critical,2026-05-20,Contig,2024-12-06,USA: California,12272224,45.0
 GCA_902703435.1,Candidozyma auris,498019,Candida auris,Critical,2020-02-10,Scaffold,2019,Saudi Arabia,12272639,45.0
 GCA_902703445.1,Candidozyma auris,498019,Candida auris,Critical,2020-02-10,Scaffold,2019,Saudi Arabia,12271370,45.0
 GCA_902703455.1,Candidozyma auris,498019,Candida auris,Critical,2020-02-10,Scaffold,2019,Saudi Arabia,12273000,45.0
@@ -1232,6 +1396,20 @@ GCA_049901915.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2025
 GCA_051225625.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2022-08-01,Complete Genome,1993,not applicable,29322347,49.5
 GCA_051911435.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2025-08-11,Contig,2025,Egypt: Cairo,27789320,49.5
 GCA_051942955.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2025-08-12,Scaffold,2023-12-10,"China: Shangahi, Donghua university",28576124,47.5
+GCA_056582505.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-04-03,Contig,2023-11-12,Thailand: Bangkok,28498435,49.5
+GCA_056582525.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-04-03,Contig,2023-11-12,Thailand: Bangkok,28185313,49.5
+GCA_056582545.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-04-03,Contig,2023-11-12,Thailand: Bangkok,28084955,49.5
+GCA_056582585.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-04-03,Contig,2023-11-12,Thailand: Bangkok,28282275,49.5
+GCA_057531195.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2015,Taiwan,28487733,49.5
+GCA_057538075.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2020,Taiwan,28602392,49.5
+GCA_057539005.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2018,Taiwan,28419892,49.5
+GCA_057541815.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2012,Taiwan,28478859,49.5
+GCA_057542545.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2019,Taiwan,28327347,49.5
+GCA_057543955.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2019,Taiwan,28429372,49.5
+GCA_057547645.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2018,Taiwan,28306735,49.5
+GCA_057549855.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2019,Taiwan,28504464,49.5
+GCA_057551925.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2018,Taiwan,28479022,49.5
+GCA_057553775.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-02-04,Contig,2018,Taiwan,28866842,49.5
 GCA_949125165.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2023-04-04,Contig,,,28290784,49.5
 GCA_949125185.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2023-04-04,Contig,,,28238457,49.5
 GCA_949125545.1,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2023-04-04,Contig,,,28904936,49.0
@@ -1336,6 +1514,18 @@ GCA_053525535.1,Candida albicans,5476,Candida albicans,Critical,2025-11-18,Conti
 GCA_053525565.1,Candida albicans,5476,Candida albicans,Critical,2025-11-18,Contig,2022,Lebanon: Byblos,14865660,33.5
 GCA_053525585.1,Candida albicans,5476,Candida albicans,Critical,2025-11-18,Contig,2022,Lebanon: Byblos,14896091,33.5
 GCA_053525615.1,Candida albicans,5476,Candida albicans,Critical,2025-11-18,Contig,2022,Lebanon: Byblos,14856816,33.5
+GCA_056150635.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-05,"USA: Houston, TX",15495318,33.5
+GCA_056150675.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-05,"USA: Houston, TX",15437656,33.5
+GCA_056150765.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-02,"USA: Houston, TX",15994989,33.5
+GCA_056150785.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-02,"USA: Houston, TX",15681865,33.5
+GCA_056150845.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-02,"USA: Houston, TX",15948369,33.5
+GCA_056150895.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2022-05,"USA: Houston, TX",15355402,33.5
+GCA_056151595.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-08,"USA: Houston, TX",15134727,33.5
+GCA_056151625.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-08,"USA: Houston, TX",15363114,33.5
+GCA_056151655.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-05,"USA: Houston, TX",15477306,33.5
+GCA_056151685.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-05,"USA: Houston, TX",15704560,33.5
+GCA_056151705.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-02,"USA: Houston, TX",15914054,33.5
+GCA_056151785.1,Candida albicans,5476,Candida albicans,Critical,2026-03-19,Scaffold,2023-05,"USA: Houston, TX",15622093,33.5
 GCA_937870745.1,Candida albicans,5476,Candida albicans,Critical,2023-01-12,Contig,2012-04-01,USA,13701703,33.5
 GCA_000773845.1,Candida albicans 12C,1094981,Candida albicans,Critical,2014-11-10,Scaffold,,missing,14897039,33.5
 GCA_000775445.1,Candida albicans 19F,1094987,Candida albicans,Critical,2014-11-10,Scaffold,unknown,USA: Michigan,14573765,33.5
@@ -1460,6 +1650,17 @@ GCA_051996855.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2025-08-1
 GCA_051996955.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2025-08-13,Contig,2019-06-10,Italy: Pavia,12190525,38.5
 GCA_052692795.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2025-09-17,Complete Genome,1917-01-01,Unknown,12697892,39.0
 GCA_052855765.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2025-09-26,Contig,2021-09-16,Russia: Moscow,12366113,38.5
+GCA_056150915.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2024-06,"USA: Houston, TX",12644623,37.0
+GCA_056150955.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2022-05,"USA: Houston, TX",13246905,38.5
+GCA_056150985.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2022-05,"USA: Houston, TX",12460252,38.5
+GCA_056151015.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-08,"USA: Houston, TX",11753870,37.0
+GCA_056151045.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-05,"USA: Houston, TX",13763372,38.5
+GCA_056151075.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-05,"USA: Houston, TX",13480085,39.0
+GCA_056151105.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-05,"USA: Houston, TX",13149181,39.0
+GCA_056151135.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-05,"USA: Houston, TX",12738564,38.5
+GCA_056151165.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-05,"USA: Houston, TX",13790250,39.0
+GCA_056151225.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-03-19,Scaffold,2021-02,"USA: Houston, TX",12712543,38.5
+GCA_056669465.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2026-04-10,Contig,2024-02-12,Costa Rica: San Jose,12265374,38.5
 GCA_900096545.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2017-10-25,Contig,,,12296340,38.5
 GCA_900166875.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2017-10-25,Contig,,,12296340,38.5
 GCA_937870575.1,Nakaseomyces glabratus,5478,Nakaseomyces glabrata,High,2023-01-12,Contig,2016-08-01,USA,11810450,38.5
@@ -1476,9 +1677,9 @@ GCA_000151005.2,Histoplasma capsulatum var. duboisii H88,544711,Histoplasma spp.
 GCA_017310615.1,Histoplasma capsulatum var. duboisii H88,544711,Histoplasma spp.,High,2021-03-09,Complete Genome,1900/1975,Belgium,37874276,42.0
 GCF_000149585.1,Histoplasma mississippiense,2059318,Histoplasma spp.,High,2007-07-02,Scaffold,,,32988475,46.0
 GCA_000149585.1,Histoplasma mississippiense,2059318,Histoplasma spp.,High,2007-07-02,Scaffold,,,32988475,46.0
-GCA_051312685.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2025-07-14,Complete Genome,1900/1973,USA:Louisiana,39446615,42.5
 GCA_000170615.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2007-12-14,Contig,,,41285890,42.5
 GCA_017607445.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2021-03-30,Contig,1900/1973,USA:Louisiana,39406053,42.5
+GCA_051312685.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2025-07-14,Complete Genome,1900/1973,USA:Louisiana,39446615,42.5
 GCA_051313235.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2025-07-14,Complete Genome,1900/1973,USA:Louisiana,39440103,42.5
 GCF_045866475.1,Madurella fahalii,1157608,Eumycetoma agents,High,2024-09-15,Contig,2022,Sudan,40045822,54.5
 GCA_029876055.1,Madurella fahalii,1157608,Eumycetoma agents,High,2023-04-26,Chromosome,2011,Sudan: Omdurman,39129897,55.0
@@ -1599,6 +1800,7 @@ GCA_037974945.1,Mucor circinelloides,36080,Mucorales,High,2024-04-05,Contig,2020
 GCA_048772875.1,Mucor circinelloides,36080,Mucorales,High,2025-03-21,Scaffold,2023-12-10,"China: Shangahi, Donghua university",32960975,39.5
 GCA_051307255.1,Mucor circinelloides,36080,Mucorales,High,2025-07-14,Contig,missing,missing,37217483,39.5
 GCA_054124215.1,Mucor circinelloides,36080,Mucorales,High,2025-12-22,Scaffold,2017,France,29625523,40.0
+GCA_057380895.1,Mucor circinelloides,36080,Mucorales,High,2026-05-11,Scaffold,2025-02-06,China:Chongqing,36247872,39.5
 GCA_973907015.1,Mucor circinelloides,36080,Mucorales,High,2025-10-26,Contig,2022-09-24,Norway,43122843,39.0
 GCA_000401635.1,Mucor circinelloides 1006PhL,1220926,Mucorales,High,2013-06-07,Scaffold,,missing,36348485,39.5
 GCA_000696935.1,Mucor circinelloides B8987,1274786,Mucorales,High,2014-06-02,Contig,2010,USA: Georgia,36700617,39.5
@@ -1694,6 +1896,7 @@ GCA_023630335.1,Rhizopus arrhizus,64495,Mucorales,High,2022-06-01,Scaffold,2019,
 GCA_024220505.1,Rhizopus arrhizus,64495,Mucorales,High,2022-07-12,Contig,2018-08,China:GuiZhou,50257186,35.5
 GCA_050389755.1,Rhizopus arrhizus,64495,Mucorales,High,2025-05-15,Scaffold,2024-06-12,"China: Guangxi, Yulin",30888935,35.0
 GCA_054130755.1,Rhizopus arrhizus,64495,Mucorales,High,2025-12-22,Contig,2024-10-01,Luxembourg: Hautcharage,48945150,35.5
+GCA_056247585.1,Rhizopus arrhizus,64495,Mucorales,High,2026-03-23,Contig,2011,Indonesia,57006150,37.5
 GCA_000697135.1,Rhizopus arrhizus 99-133,1279478,Mucorales,High,2014-06-02,Contig,,USA: Texas,41452913,35.5
 GCA_000697725.1,Rhizopus arrhizus 99-892,1279482,Mucorales,High,2014-06-06,Scaffold,,USA: Texas,39063757,35.0
 GCA_000696915.1,Rhizopus arrhizus B7407,1274785,Mucorales,High,2014-06-02,Contig,2008,USA: Georgia,43272308,35.0
@@ -1752,6 +1955,7 @@ GCA_040206765.1,Rhizopus microsporus var. oligosporus,4847,Mucorales,High,2024-0
 GCA_006680115.1,Rhizopus microsporus var. rhizopodiformis,90259,Mucorales,High,2019-07-05,Contig,2011,Argentina: Tucuman,27739979,37.5
 GCA_049863895.1,Rhizopus sp. FBL578,2528156,Mucorales,High,2025-04-23,Scaffold,2017,Poland,41484385,35.5
 GCA_025529335.1,Rhizopus sp. PT2906,2950514,Mucorales,High,2022-10-03,Scaffold,2019,China:Dalian,50205479,36.5
+GCA_057662165.1,Rhizopus sp. TYR1,3697201,Mucorales,High,2026-05-20,Contig,2023-03-10,China: Jiangsu,31477361,35.5
 GCA_054954275.1,Rhizopus stolonifer,4846,Mucorales,High,2026-02-09,Chromosome,2022,"China: Guangdong, Wuhua",48208381,36.0
 GCA_003325415.1,Rhizopus stolonifer,4846,Mucorales,High,2018-07-17,Scaffold,1992,USA: Louisiana,29727802,37.0
 GCA_040807145.1,Rhizopus stolonifer,4846,Mucorales,High,2024-07-22,Scaffold,2023,China:Dalian,18181348,36.0
@@ -1769,11 +1973,13 @@ GCA_002105135.1,Syncephalastrum racemosum,13706,Mucorales,High,2017-04-20,Contig
 GCA_000696955.1,Syncephalastrum racemosum B6101,1274787,Mucorales,High,2014-06-02,Contig,2001,USA: Ohio,29568285,47.0
 GCA_023630325.1,Syncephalastrum sp. PYS2702,2939551,Mucorales,High,2022-06-01,Scaffold,2019,China:Dalian,28267595,48.0
 GCA_023630315.1,Syncephalastrum sp. PYS2703,2939552,Mucorales,High,2022-06-01,Scaffold,2019,China:Dalian,28262224,48.0
-GCA_025201345.1,Thamnidium elegans,101142,Mucorales,High,2022-09-14,Contig,missing,missing,34252226,33.0
+GCA_056882155.1,Thamnidium elegans,101142,Mucorales,High,2026-04-24,Contig,2025-06,Poland: Warsaw,33575740,33.0
 GCA_016758935.1,Thamnidium elegans,101142,Mucorales,High,2021-01-27,Scaffold,2011,Poland,30942812,33.0
+GCA_025201345.1,Thamnidium elegans,101142,Mucorales,High,2022-09-14,Contig,missing,missing,34252226,33.0
 GCA_000787465.1,Thermomucor indicae-seudaticae,101121,Mucorales,High,2014-11-26,Contig,missing,"India: Maharashtra, Poona",29570904,46.0
 GCF_025766255.1,Zychaea mexicana,64656,Mucorales,High,2022-10-20,Contig,missing,missing,50638590,42.0
 GCA_025766255.1,Zychaea mexicana,64656,Mucorales,High,2022-10-20,Contig,missing,missing,50638590,42.0
+GCA_982397305.1,Zychaea mexicana,64656,Mucorales,High,2026-04-10,Contig,2022-04-08,India,33223317,44.0
 GCA_043643485.1,[Neocosmospora] mangrovei,2954835,Fusarium spp.,High,2024-10-23,Contig,2016,Thailand,49172478,50.0
 GCA_021655885.1,Fusarium abutilonis,2895621,Fusarium spp.,High,2022-01-28,Scaffold,missing,USA: Wisconsin,33865899,48.5
 GCA_017657105.1,Fusarium acaciae-mearnsii,282272,Fusarium spp.,High,2021-04-02,Scaffold,unknown,South Africa,36922138,48.0
@@ -2222,6 +2428,7 @@ GCA_900074845.1,Fusarium culmorum,5516,Fusarium spp.,High,2016-07-09,Chromosome,
 GCA_001680505.1,Fusarium cuneirostrum,235271,Fusarium spp.,High,2016-07-06,Contig,1992,USA:Michigan,49007756,51.0
 GCA_014824385.1,Fusarium cyanostomum,1237069,Fusarium spp.,High,2020-09-30,Scaffold,missing,France,38350644,52.0
 GCA_045528825.1,Fusarium cyanostomum,1237069,Fusarium spp.,High,2024-12-02,Scaffold,1999,France,37562893,52.5
+GCA_057128215.1,Fusarium decemcellulare,57161,Fusarium spp.,High,2026-04-30,Contig,2022-10,Colombia:Arauca,54628402,50.5
 GCA_013266205.1,Fusarium decemcellulare,57161,Fusarium spp.,High,2020-06-03,Scaffold,missing,Dominican Republic,53686487,52.0
 GCA_027627305.1,Fusarium decemcellulare,57161,Fusarium spp.,High,2023-01-10,Scaffold,2020,Viet Nam: Ba Be Nationalpark,50541515,50.0
 GCA_045526855.1,Fusarium delphinoides,582650,Fusarium spp.,High,2024-12-02,Scaffold,2006,South Africa,34493612,49.0
@@ -2470,6 +2677,7 @@ GCA_004367075.1,Fusarium incarnatum,298378,Fusarium spp.,High,2019-03-22,Scaffol
 GCA_003704985.1,Fusarium incarnatum,298378,Fusarium spp.,High,2018-10-31,Contig,2018-04-04,USA:MD,38219269,48.5
 GCA_003709435.1,Fusarium incarnatum,298378,Fusarium spp.,High,2018-11-01,Contig,2018-04-04,USA:MD,38211388,48.5
 GCA_044647245.1,Fusarium inflexum,42671,Fusarium spp.,High,2024-11-07,Scaffold,2017,USA: New Mexico,52609907,47.5
+GCA_056248065.1,Fusarium ipomoeae,2494465,Fusarium spp.,High,2026-03-23,Contig,2023-08,China:Henan Province,39368659,48.0
 GCA_044646535.1,Fusarium ipomoeae,2494465,Fusarium spp.,High,2024-11-07,Scaffold,2017,USA: North Carolina,38790018,48.0
 GCA_027945245.1,Fusarium irregulare,2494466,Fusarium spp.,High,2023-01-24,Scaffold,2016-03-17,USA:Florida,38174887,48.0
 GCA_004367085.1,Fusarium irregulare,2494466,Fusarium spp.,High,2019-03-22,Scaffold,missing,USA: Texas,37441600,48.5
@@ -2477,6 +2685,7 @@ GCA_027945235.1,Fusarium irregulare,2494466,Fusarium spp.,High,2023-01-24,Scaffo
 GCF_025433545.1,Fusarium keratoplasticum,1328300,Fusarium spp.,High,2022-10-03,Chromosome,2016-12-12,Malaysia: Melaka,49462855,51.0
 GCA_025433545.1,Fusarium keratoplasticum,1328300,Fusarium spp.,High,2022-10-03,Chromosome,2016-12-12,Malaysia: Melaka,49462855,51.0
 GCA_025433555.1,Fusarium keratoplasticum,1328300,Fusarium spp.,High,2022-10-03,Chromosome,2018-06-06,Taiwan: Hualien,53490075,51.5
+GCA_053895085.1,Fusarium kistleri,3420004,Fusarium spp.,High,2025-12-10,Scaffold,2022-10-26,Ethiopia,37126897,48.0
 GCA_003698175.1,Fusarium kuroshium,2010991,Fusarium spp.,High,2018-10-30,Scaffold,2015,"USA: San Diego County, California",46557493,51.5
 GCA_034753255.1,Fusarium kyushuense,56665,Fusarium spp.,High,2023-12-28,Chromosome,2018-10,South Korea: Boseong,36957249,47.5
 GCA_013184315.1,Fusarium kyushuense,56665,Fusarium spp.,High,2020-05-28,Scaffold,missing,Japan,36015118,47.5
@@ -3018,7 +3227,9 @@ GCA_055682585.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-04,Scaffold,N
 GCA_055682605.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-04,Scaffold,NA,NA,51691513,48.0
 GCA_055682865.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-04,Scaffold,NA,NA,52049972,47.5
 GCA_055853645.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-13,Chromosome,2016-06-01,Spain,57605083,47.5
-GCA_055878565.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-14,Contig,,,50097173,47.5
+GCA_055878565.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-03-14,Contig,2025-04-09,China:Dali,50097173,47.5
+GCA_057128245.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-04-30,Contig,2022-07,Colombia:Arauca,43692832,48.0
+GCA_057657705.1,Fusarium oxysporum,5507,Fusarium spp.,High,2026-05-20,Chromosome,2021,China: Yunnan,52869277,47.5
 GCA_900096695.1,Fusarium oxysporum,5507,Fusarium spp.,High,2017-10-06,Scaffold,,,49085590,47.5
 GCA_012922595.1,Fusarium oxysporum f. sp. albedinis,72712,Fusarium spp.,High,2020-04-28,Contig,1985,Morocco: Tissergate,56228901,47.5
 GCA_023509805.1,Fusarium oxysporum f. sp. albedinis,72712,Fusarium spp.,High,2022-05-19,Contig,missing,Morocco: Ziz Valley,65559131,47.5
@@ -3404,6 +3615,7 @@ GCA_013186395.1,Fusarium papillatum,2951362,Fusarium spp.,High,2020-05-28,Scaffo
 GCA_013623825.1,Fusarium parabolicum,3323875,Fusarium spp.,High,2020-07-24,Scaffold,missing,USA: Missouri,37335848,48.0
 GCA_027886155.1,Fusarium paranaense,1395126,Fusarium spp.,High,2023-01-17,Scaffold,2009-10,"Brazil:Goias, Cristalina",53409648,49.0
 GCA_013623535.1,Fusarium penzigii,587888,Fusarium spp.,High,2020-07-24,Scaffold,missing,Sri Lanka,36309415,49.0
+GCF_050370095.1,Fusarium phalaenopsidis,3417454,Fusarium spp.,High,2025-05-14,Contig,2021-12-01,Taiwan,52236286,51.0
 GCA_050370095.1,Fusarium phalaenopsidis,3417454,Fusarium spp.,High,2025-05-14,Contig,2021-12-01,Taiwan,52236286,51.0
 GCA_001680515.1,Fusarium phaseoli,120645,Fusarium spp.,High,2016-07-06,Contig,NA,USA:Michigan,50534409,50.0
 GCA_040822225.1,Fusarium phialophorum,2750198,Fusarium spp.,High,2024-07-23,Complete Genome,Na,Costa Rica,47999031,47.5
@@ -3423,6 +3635,7 @@ GCA_030719145.1,Fusarium poae,36050,Fusarium spp.,High,2023-08-14,Scaffold,1982,
 GCA_030719155.1,Fusarium poae,36050,Fusarium spp.,High,2023-08-14,Scaffold,1998,Austria,38641992,47.5
 GCA_046056315.1,Fusarium poae,36050,Fusarium spp.,High,2024-12-17,Complete Genome,2016,Canada: Saskatchewan,44910645,46.5
 GCA_051942535.1,Fusarium poae,36050,Fusarium spp.,High,2025-08-12,Scaffold,2025,Brazil: Rio Grande do Sul,37598808,47.5
+GCA_057381175.1,Fusarium poae,36050,Fusarium spp.,High,2026-05-11,Scaffold,2025,Brazil: Sao Paulo,37800726,47.5
 GCA_002093855.1,Fusarium praegraminearum,1824868,Fusarium spp.,High,2017-04-14,Scaffold,1984-05,New Zealand: Levin,35314756,48.5
 GCA_001705295.1,Fusarium proliferatum,948311,Fusarium spp.,High,2016-08-15,Scaffold,1997-09-11,"Spain: La Hiruela, Madrid",44182454,48.0
 GCA_002234285.1,Fusarium proliferatum,948311,Fusarium spp.,High,2017-07-27,Scaffold,1973,missing,64162265,47.5
@@ -3490,11 +3703,12 @@ GCA_017165645.1,Fusarium sacchari,42676,Fusarium spp.,High,2021-03-09,Contig,201
 GCA_033675115.1,Fusarium sacchari,42676,Fusarium spp.,High,2023-11-15,Contig,2021-12-30,China:Guangdong,44739610,48.5
 GCA_054858035.1,Fusarium sacchari,42676,Fusarium spp.,High,2026-01-30,Contig,2023-06-08,"India: Tamil Nadu, Cuddalore, Andipalayam",44565427,47.5
 GCA_055255615.1,Fusarium sacchari,42676,Fusarium spp.,High,2026-02-17,Scaffold,2024-08-15,Colombia: Antioquia,45877726,46.5
-GCA_050947815.1,Fusarium sambucinum,5128,Fusarium spp.,High,2025-06-17,Complete Genome,2019,USA: Oregon,38591179,47.0
+GCF_050947815.1,Fusarium sambucinum,5128,Fusarium spp.,High,2025-06-17,Complete Genome,2019,USA: Oregon,38591179,47.0
 GCA_001567575.1,Fusarium sambucinum,5128,Fusarium spp.,High,2016-02-24,Contig,2010-10-30,India,37784234,48.0
 GCA_014899025.1,Fusarium sambucinum,5128,Fusarium spp.,High,2020-10-20,Scaffold,missing,Germany,37499189,48.0
 GCA_041870755.1,Fusarium sambucinum,5128,Fusarium spp.,High,2024-09-09,Complete Genome,2019-06,"USA: Washington, Yakima Valley",38374918,47.0
 GCA_047301595.1,Fusarium sambucinum,5128,Fusarium spp.,High,2025-01-29,Contig,2023-04-01,China: Yuannan,38608882,47.0
+GCA_050947815.1,Fusarium sambucinum,5128,Fusarium spp.,High,2025-06-17,Complete Genome,2019,USA: Oregon,38591179,47.0
 GCA_013266185.1,Fusarium sarcochroum,1208366,Fusarium spp.,High,2020-06-03,Scaffold,missing,Switzerland,46449918,49.0
 GCA_004367495.1,Fusarium scirpi,2211609,Fusarium spp.,High,2019-03-22,Scaffold,missing,South Africa: Swellendam,39626180,48.5
 GCA_013363185.1,Fusarium secorum,1477011,Fusarium spp.,High,2020-06-19,Scaffold,missing,USA: Minnesota,51208246,48.0
@@ -3528,6 +3742,7 @@ GCA_051943245.1,Fusarium solani,169388,Fusarium spp.,High,2025-08-12,Scaffold,20
 GCA_053771435.1,Fusarium solani,169388,Fusarium spp.,High,2025-12-01,Contig,2016,India,52493983,51.5
 GCA_054370135.1,Fusarium solani,169388,Fusarium spp.,High,2026-01-06,Contig,missing,USA: Alabama,58072468,50.5
 GCA_055801755.1,Fusarium solani,169388,Fusarium spp.,High,2026-03-11,Scaffold,2015-09-11,Czech Republic,51516050,51.5
+GCA_057128285.1,Fusarium solani,169388,Fusarium spp.,High,2026-04-30,Contig,2022-07,Colombia:Arauca,53924041,49.0
 GCA_023101225.1,Fusarium solani-melongenae,2747967,Fusarium spp.,High,2022-04-25,Complete Genome,2021-01,China,49477711,50.5
 GCA_027886225.1,Fusarium solani-melongenae,2747967,Fusarium spp.,High,2023-01-17,Scaffold,2011-12,"Brazil:Bahia, Itubera",56240942,52.0
 GCA_017579625.1,Fusarium sororula,1604333,Fusarium spp.,High,2021-03-24,Scaffold,2005-11,Colombia:Angela Maria (Santa Rosa),47806863,46.0
@@ -3549,10 +3764,10 @@ GCA_017654865.1,Fusarium sp. FW16.1,2043490,Fusarium spp.,High,2021-03-31,Scaffo
 GCA_051527795.1,Fusarium sp. G73,3120201,Fusarium spp.,High,2025-07-24,Scaffold,2022-06-08,Denmark: Lyngby amose,37930002,47.5
 GCA_051527775.1,Fusarium sp. G74,3120202,Fusarium spp.,High,2025-07-24,Scaffold,2022-06-08,Denmark: Lyngby amose,36927138,48.0
 GCA_021223625.1,Fusarium sp. HKF-74,2885382,Fusarium spp.,High,2021-12-17,Contig,2017-05-05,India: Nagpur,43055881,48.0
+GCA_056098845.1,Fusarium sp. IMII-1,3387622,Fusarium spp.,High,2026-03-16,Scaffold,2023,Peru: Colcamar,40364155,46.0
 GCA_000966855.1,Fusarium sp. JS1030,1580212,Fusarium spp.,High,2015-03-31,Scaffold,2012-11-02,South Korea: Jeju island,53748257,51.5
 GCA_000966865.1,Fusarium sp. JS626,1580211,Fusarium spp.,High,2015-03-31,Scaffold,2012-05-29,South Korea: Goolupdo island,42866936,48.0
 GCA_013624395.1,Fusarium sp. KOD 1611,2736616,Fusarium spp.,High,2020-07-24,Scaffold,missing,missing,38904783,48.5
-GCA_053895085.1,Fusarium sp. LD-2025a,3420004,Fusarium spp.,High,2025-12-10,Scaffold,2022-10-26,Ethiopia,37126897,48.0
 GCA_025433615.1,Fusarium sp. LHS14.1,2898545,Fusarium spp.,High,2022-10-03,Chromosome,2018-06-06,Taiwan: Hualien,56318919,48.5
 GCA_052814515.1,Fusarium sp. M34D1,3455681,Fusarium spp.,High,2025-09-24,Scaffold,2021/2022,Uruguay,35589660,47.0
 GCA_037576055.1,Fusarium sp. M6JPR69,3132711,Fusarium spp.,High,2024-03-26,Scaffold,2020-10-30,Mexico: Sinaloa,60379983,49.5
@@ -3720,6 +3935,8 @@ GCA_041430675.1,Fusarium verticillioides,117187,Fusarium spp.,High,2024-08-22,Sc
 GCA_044646845.1,Fusarium verticillioides,117187,Fusarium spp.,High,2024-11-07,Scaffold,2017,USA: Arizona,42785068,48.5
 GCA_051167505.1,Fusarium verticillioides,117187,Fusarium spp.,High,2025-07-01,Chromosome,2022-08-15,"China: Shangzhuang, Beijing",43326821,48.0
 GCA_053843395.1,Fusarium verticillioides,117187,Fusarium spp.,High,2025-12-05,Complete Genome,2015,China: Liaoning,43540238,48.0
+GCA_056869795.1,Fusarium verticillioides,117187,Fusarium spp.,High,2026-04-23,Scaffold,2023,India: Gauribidanur,42661140,48.5
+GCA_964030585.1,Fusarium verticillioides,117187,Fusarium spp.,High,2026-03-29,Contig,2005,Italy,43645117,48.0
 GCF_000149555.1,Fusarium verticillioides 7600,334819,Fusarium spp.,High,2011-07-06,Chromosome,,,41791161,48.5
 GCA_000149555.1,Fusarium verticillioides 7600,334819,Fusarium spp.,High,2008-11-21,Chromosome,,,41791161,48.5
 GCA_041380375.1,Fusarium veterinarium,2502998,Fusarium spp.,High,2024-08-20,Scaffold,2020-06,Canada,44567257,47.5
@@ -3809,6 +4026,65 @@ GCA_050230425.1,Candida tropicalis,5482,Candida tropicalis,High,2025-05-07,Scaff
 GCA_051944405.1,Candida tropicalis,5482,Candida tropicalis,High,2025-08-12,Scaffold,1935,Missing,13954474,33.0
 GCA_052815135.1,Candida tropicalis,5482,Candida tropicalis,High,2025-09-24,Contig,2024,Iraq: Karbala,14327531,33.0
 GCA_052815155.1,Candida tropicalis,5482,Candida tropicalis,High,2025-09-24,Contig,2024,Iraq: Karbala,14320549,33.0
+GCA_056151195.1,Candida tropicalis,5482,Candida tropicalis,High,2026-03-19,Scaffold,2021-03,"USA: Houston, TX",15365093,33.0
+GCA_056506325.1,Candida tropicalis,5482,Candida tropicalis,High,2026-04-01,Contig,2016-09/2018-05,Lebanon: Beirut,16536474,33.0
+GCA_056506565.1,Candida tropicalis,5482,Candida tropicalis,High,2026-04-01,Contig,2016-09/2018-05,Lebanon: Beirut,16928623,33.0
+GCA_057382305.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-12-25,"China: Jiangxi, Nanchang",14405130,33.0
+GCA_057382315.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-12-30,"China: Jiangxi, Nanchang",14729138,33.0
+GCA_057382345.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-12-13,"China: Jiangxi, Nanchang",14756074,33.0
+GCA_057382365.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-11-22,"China: Jiangxi, Nanchang",14769383,33.0
+GCA_057382375.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-11-07,"China: Jiangxi, Nanchang",14321396,33.0
+GCA_057382405.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-10-09,"China: Jiangxi, Nanchang",14317791,33.0
+GCA_057382425.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-10-08,"China: Jiangxi, Nanchang",14350147,33.0
+GCA_057382435.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-08-19,"China: Jiangxi, Nanchang",14770246,33.0
+GCA_057382465.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-08-19,"China: Jiangxi, Nanchang",14341738,33.0
+GCA_057382485.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-08-22,"China: Jiangxi, Nanchang",14328352,33.0
+GCA_057382495.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-09-05,"China: Jiangxi, Nanchang",14304518,33.0
+GCA_057382525.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-08-27,"China: Jiangxi, Nanchang",14764774,33.0
+GCA_057382545.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-06-26,"China: Jiangxi, Nanchang",14790857,33.0
+GCA_057382555.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-07-02,"China: Jiangxi, Nanchang",14759426,33.0
+GCA_057382585.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-07-05,"China: Jiangxi, Nanchang",14400265,33.0
+GCA_057382605.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-06-27,"China: Jiangxi, Nanchang",14678378,33.0
+GCA_057382615.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-06-24,"China: Jiangxi, Nanchang",14772206,33.0
+GCA_057382645.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-06-27,"China: Jiangxi, Nanchang",14753731,33.0
+GCA_057382665.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-01-24,"China: Jiangxi, Nanchang",14767476,33.0
+GCA_057382675.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-12-26,"China: Jiangxi, Nanchang",14371021,33.0
+GCA_057382705.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-08,"China: Jiangxi, Nanchang",14654893,33.0
+GCA_057382725.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-06,"China: Jiangxi, Nanchang",14737764,33.0
+GCA_057382735.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-09-21,"China: Jiangxi, Nanchang",14290090,33.0
+GCA_057382765.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-10,"China: Jiangxi, Nanchang",14625344,33.0
+GCA_057382785.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-08-27,"China: Jiangxi, Nanchang",14442017,33.0
+GCA_057382795.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-08-30,"China: Jiangxi, Nanchang",14305473,33.0
+GCA_057382825.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-09-12,"China: Jiangxi, Nanchang",14347781,33.0
+GCA_057382845.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-06-09,"China: Jiangxi, Nanchang",14699704,33.0
+GCA_057382855.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-06-28,"China: Jiangxi, Nanchang",14320415,33.0
+GCA_057382865.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-05-11,"China: Jiangxi, Nanchang",14414317,33.0
+GCA_057382905.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-09-12,"China: Jiangxi, Nanchang",14433989,33.0
+GCA_057382915.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-09-11,"China: Jiangxi, Nanchang",14344402,33.0
+GCA_057382945.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-07-04,"China: Jiangxi, Nanchang",14359502,33.0
+GCA_057382965.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-04-17,"China: Jiangxi, Nanchang",14709849,33.0
+GCA_057382975.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-07-06,"China: Jiangxi, Nanchang",14417597,33.0
+GCA_057383005.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-10-03,"China: Jiangxi, Nanchang",14319370,33.0
+GCA_057383025.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-11-03,"China: Jiangxi, Nanchang",14315056,33.0
+GCA_057383035.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-06-18,"China: Jiangxi, Nanchang",14378119,33.0
+GCA_057383065.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-08-11,"China: Jiangxi, Nanchang",14322655,33.0
+GCA_057383085.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-08-20,"China: Jiangxi, Nanchang",14772583,33.0
+GCA_057383095.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-07-24,"China: Jiangxi, Nanchang",14765062,33.0
+GCA_057383125.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-07-04,"China: Jiangxi, Nanchang",14722348,33.0
+GCA_057383145.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-04-13,"China: Jiangxi, Nanchang",14771270,33.0
+GCA_057383165.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-07-13,"China: Jiangxi, Nanchang",14746568,33.0
+GCA_057383185.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2024-01-03,"China: Jiangxi, Nanchang",14780812,33.0
+GCA_057383195.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-02-24,"China: Jiangxi, Nanchang",14709530,33.0
+GCA_057383225.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-08-29,"China: Jiangxi, Nanchang",14346061,33.0
+GCA_057383245.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-12-22,"China: Jiangxi, Nanchang",14429352,33.0
+GCA_057383265.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-08,"China: Jiangxi, Nanchang",14782277,33.0
+GCA_057383285.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-07-24,"China: Jiangxi, Nanchang",14372121,33.0
+GCA_057383305.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-05-25,"China: Jiangxi, Nanchang",14722293,33.0
+GCA_057383315.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-07-25,"China: Jiangxi, Nanchang",14882221,33.0
+GCA_057383345.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-29,"China: Jiangxi, Nanchang",14762526,33.0
+GCA_057383365.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Contig,2023-10-20,"China: Jiangxi, Nanchang",14797265,33.0
+GCA_057383675.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2024-01-03,"China: Jiangxi, Nanchang",14248898,34.5
+GCA_057383725.1,Candida tropicalis,5482,Candida tropicalis,High,2026-05-11,Scaffold,2023-08-16,"China: Jiangxi, Nanchang",14329490,35.0
 GCF_000006335.3,Candida tropicalis MYA-3404,294747,Candida tropicalis,High,2009-06-18,Scaffold,,,14579835,33.0
 GCA_000006335.3,Candida tropicalis MYA-3404,294747,Candida tropicalis,High,2009-06-18,Scaffold,,,14579835,33.0
 GCA_006942135.1,Candida tropicalis MYA-3404,294747,Candida tropicalis,High,2019-07-12,Contig,Not applicable,Not applicable,15100058,33.5
@@ -3883,6 +4159,27 @@ GCA_055775165.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-10,S
 GCA_055775185.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-10,Scaffold,2015,Mexico,12799316,38.5
 GCA_055775205.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-10,Scaffold,2015,Mexico,12780268,38.5
 GCA_055775225.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-10,Contig,2015,Mexico,12854119,38.5
+GCA_056152225.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-10-22,South Africa: Bloemfontein,12903737,38.5
+GCA_056152265.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-04-07,South Africa: Bloemfontein,12911101,38.5
+GCA_056152285.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-04-15,South Africa: Bloemfontein,12905690,38.5
+GCA_056152305.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-09-21,South Africa: Bloemfontein,12910919,38.5
+GCA_056152325.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-04-05,South Africa: Bloemfontein,12906012,38.5
+GCA_056152345.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-05-02,South Africa: Bloemfontein,12907003,38.5
+GCA_056152365.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-06-16,South Africa: Bloemfontein,12913614,38.5
+GCA_056152385.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2020-03-06,South Africa: Bloemfontein,12907278,38.5
+GCA_056152405.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2018-12-20,South Africa: Bloemfontein,12916080,38.5
+GCA_056152425.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-01-17,South Africa: Bloemfontein,12925454,38.5
+GCA_056152445.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-05-27,South Africa: Bloemfontein,12922374,38.5
+GCA_056152465.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-11-18,South Africa: Bloemfontein,12906868,38.5
+GCA_056152485.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2018-11-24,South Africa: Bloemfontein,12906191,38.5
+GCA_056152505.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-11-08,South Africa: Bloemfontein,12931563,38.5
+GCA_056152525.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-04-25,South Africa: Bloemfontein,12913001,38.5
+GCA_056152545.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-08-31,South Africa: Bloemfontein,12905531,38.5
+GCA_056152565.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-01-30,South Africa: Bloemfontein,12907274,38.5
+GCA_056152585.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-06-04,South Africa: Bloemfontein,12919373,38.5
+GCA_056152605.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2019-03-22,South Africa: Bloemfontein,12939938,38.5
+GCA_056152625.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-03-19,Contig,2018-11-12,South Africa: Bloemfontein,12905290,38.5
+GCA_056747355.1,Candida parapsilosis,5480,Candida parapsilosis,High,2026-04-16,Complete Genome,2019-05-15,Italy: Pavia,12997341,38.5
 GCA_900004165.1,Candida parapsilosis,5480,Candida parapsilosis,High,2014-10-24,Scaffold,,,13044404,38.0
 GCA_903989565.1,Candida parapsilosis,5480,Candida parapsilosis,High,2021-10-09,Contig,,,13048447,38.5
 GCA_937873065.1,Candida parapsilosis,5480,Candida parapsilosis,High,2023-01-12,Contig,2014-07-01,USA,12670145,38.5
@@ -3902,12 +4199,13 @@ GCA_029532445.1,Scedosporium apiospermum,563466,Scedosporium spp.,Medium,2023-03
 GCA_029532475.1,Scedosporium apiospermum,563466,Scedosporium spp.,Medium,2023-03-31,Contig,not applicable,not applicable,16494989,56.0
 GCA_040285505.1,Scedosporium apiospermum,563466,Scedosporium spp.,Medium,2024-06-24,Scaffold,2015,Slovakia,43627419,50.0
 GCA_052249755.1,Scedosporium apiospermum,563466,Scedosporium spp.,Medium,2025-08-26,Scaffold,2017-01-09,Australia: Melbourne,43356729,50.5
+GCA_982397395.1,Scedosporium apiospermum,563466,Scedosporium spp.,Medium,2026-04-10,Contig,2022-04-08,India,43945035,50.0
 GCA_052249765.1,Scedosporium aurantiacum,315946,Scedosporium spp.,Medium,2025-08-26,Contig,2016-09-12,Australia: Darwin,39272335,50.0
 GCA_000812075.1,Scedosporium aurantiacum,315946,Scedosporium spp.,Medium,2014-12-31,Scaffold,2009,"Australia: Circular Quay, Sydney, NSW",39890731,49.0
 GCA_034774685.1,Scedosporium aurantiacum,315946,Scedosporium spp.,Medium,2023-12-28,Scaffold,2014-05,Italy: Pisa,44094410,50.0
-GCA_055860885.1,Scedosporium boydii,5597,Scedosporium spp.,Medium,2026-03-13,Contig,,,43552670,50.5
+GCA_055860885.1,Scedosporium boydii,5597,Scedosporium spp.,Medium,2026-03-13,Contig,Not applicable,USA: Missouri,43552670,50.5
 GCA_002221725.1,Scedosporium boydii,5597,Scedosporium spp.,Medium,2017-07-19,Contig,2009-11-26,France: Angers,43301991,50.5
-GCA_055860855.1,Scedosporium boydii,5597,Scedosporium spp.,Medium,2026-03-13,Contig,,,43273774,50.5
+GCA_055860855.1,Scedosporium boydii,5597,Scedosporium spp.,Medium,2026-03-13,Contig,Not applicable,USA: Pennsylvania,43273774,50.5
 GCA_002812735.1,Scedosporium dehoogii,563467,Scedosporium spp.,Medium,2017-12-06,Contig,2011-12-15,"France: Angers, Pellouailles-les-vignes",41189046,51.0
 GCA_034774675.1,Scedosporium minutisporum,315945,Scedosporium spp.,Medium,2023-12-28,Scaffold,2016-09,Italy: Fidenza,42337440,51.5
 GCA_001931805.1,Scedosporium sp. IMV 00882,2562444,Scedosporium spp.,Medium,2017-01-04,Contig,1997-11-14,Ukraine,40986545,51.0
@@ -3915,8 +4213,11 @@ GCA_029532625.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2
 GCA_002276285.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2017-09-15,Contig,2015-07,"USA: Baltimore, MD",37603105,51.5
 GCA_029532535.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2023-04-06,Scaffold,2018,USA: Baltimore,37029803,51.0
 GCA_029532575.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2023-04-06,Scaffold,2015-07,"USA: Baltimore, MD",36747631,51.0
-GCA_055860905.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2026-03-13,Contig,,,36742153,51.0
+GCA_055860905.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2026-03-13,Contig,Not applicable,USA: Massachusetts,36742153,51.0
+GCA_056847425.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2026-04-22,Contig,Not applicable,USA: Missouri,36633616,51.5
+GCA_056869895.1,Lomentospora prolificans,41688,Lomentospora prolificans,Medium,2026-04-23,Contig,Not applicable,USA: Pennsylvania,36771621,51.5
 GCA_004115165.2,Coccidioides immitis,5501,Coccidioides spp.,Medium,2019-07-01,Scaffold,2010,USA: Washington State,27474893,46.5
+GCA_982397225.1,Coccidioides immitis,5501,Coccidioides spp.,Medium,2026-04-10,Contig,2022-04-08,India,25154110,51.0
 GCA_000149815.1,Coccidioides immitis H538.4,396776,Coccidioides spp.,Medium,2006-09-25,Scaffold,,,27732018,47.0
 GCA_000149895.1,Coccidioides immitis RMSCC 2394,404692,Coccidioides spp.,Medium,2006-11-02,Scaffold,,,28816906,46.0
 GCA_000150085.1,Coccidioides immitis RMSCC 3703,454286,Coccidioides spp.,Medium,2007-07-18,Scaffold,,,27648536,47.0
@@ -3924,6 +4225,10 @@ GCF_000149335.2,Coccidioides immitis RS,246410,Coccidioides spp.,Medium,2009-10-
 GCA_000149335.2,Coccidioides immitis RS,246410,Coccidioides spp.,Medium,2009-10-29,Scaffold,,,28947925,46.0
 GCA_020976775.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2021-11-24,Contig,2000,Venezuela: Lara,27810164,46.5
 GCA_020976795.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2021-11-24,Contig,missing,Venezuela,28562314,46.5
+GCA_057381655.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2026-05-11,Contig,2023-02-14,USA:Arizona,27982386,46.5
+GCA_057381675.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2026-05-11,Contig,2021-05-10,USA:Arizona,27050072,46.5
+GCA_057381685.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2026-05-11,Contig,2024-06-21,USA:Arizona,27550857,46.5
+GCA_057381745.1,Coccidioides posadasii,199306,Coccidioides spp.,Medium,2026-05-11,Contig,2023-11-27,USA:Arizona,28020200,46.5
 GCF_000151335.2,Coccidioides posadasii C735 delta SOWgp,222929,Coccidioides spp.,Medium,2009-06-17,Contig,,,27013412,46.5
 GCA_000151335.1,Coccidioides posadasii C735 delta SOWgp,222929,Coccidioides spp.,Medium,2009-06-17,Contig,,,27013412,46.5
 GCA_000150245.1,Coccidioides posadasii CPA 0001,469472,Coccidioides spp.,Medium,2007-11-19,Scaffold,,,28618790,46.0
@@ -3999,6 +4304,7 @@ GCA_051996165.1,Pichia kudriavzevii,4909,Pichia kudriavzevii,Medium,2025-08-13,S
 GCA_937871405.1,Pichia kudriavzevii,4909,Pichia kudriavzevii,Medium,2023-01-12,Contig,not provided,not provided,9649947,38.5
 GCA_949610675.1,Pichia kudriavzevii,4909,Pichia kudriavzevii,Medium,2025-02-01,Contig,,Ghana,11035155,38.5
 GCA_949610685.1,Pichia kudriavzevii,4909,Pichia kudriavzevii,Medium,2025-02-01,Contig,,Ghana,11025938,38.5
+GCA_982397425.1,Pichia kudriavzevii,4909,Pichia kudriavzevii,Medium,2026-04-10,Contig,2022-04-08,India,9057256,38.0
 GCA_000286515.1,Pichia kudriavzevii M12,1213351,Pichia kudriavzevii,Medium,2012-08-10,Contig,,Malaysia,10448518,38.5
 GCA_014964225.1,Cryptococcus gattii,37769,Cryptococcus gattii,Medium,2020-10-26,Scaffold,unknown,Mexico,17228979,47.5
 GCA_031841975.1,Cryptococcus gattii,37769,Cryptococcus gattii,Medium,2023-09-22,Contig,2018,China:taizhou,17461700,48.0
@@ -4016,6 +4322,7 @@ GCA_009556855.1,Talaromyces marneffei,37727,Talaromyces marneffei,Medium,2019-11
 GCA_009650675.1,Talaromyces marneffei,37727,Talaromyces marneffei,Medium,2019-11-14,Chromosome,N/A,Viet Nam,28216733,47.0
 GCA_011320185.1,Talaromyces marneffei,37727,Talaromyces marneffei,Medium,2020-03-16,Scaffold,2019-06-19,China:Beijing,27617670,46.5
 GCA_013122295.1,Talaromyces marneffei,37727,Talaromyces marneffei,Medium,2020-05-19,Contig,2007,"China: Guangzhou, Guangdong",28376234,46.5
+GCA_057380945.1,Talaromyces marneffei,37727,Talaromyces marneffei,Medium,2026-05-11,Complete Genome,2024-01-17,China: Taizhou,28559455,46.5
 GCF_000001985.1,Talaromyces marneffei ATCC 18224,441960,Talaromyces marneffei,Medium,2008-10-29,Scaffold,,,28643865,46.5
 GCF_046127475.1,Talaromyces marneffei ATCC 18224,441960,Talaromyces marneffei,Medium,2024-12-17,Contig,NA,Viet Nam,28872128,47.0
 GCA_000001985.1,Talaromyces marneffei ATCC 18224,441960,Talaromyces marneffei,Medium,2008-10-29,Scaffold,,,28643865,46.5
@@ -4028,9 +4335,20 @@ GCF_001477535.1,Pneumocystis jirovecii RU7,1408657,Pneumocystis jirovecii,Medium
 GCA_001477535.1,Pneumocystis jirovecii RU7,1408657,Pneumocystis jirovecii,Medium,2015-12-22,Contig,unknown,"USA: Bethesda, MD",8396240,28.5
 GCA_001713645.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2016-08-25,Scaffold,1971,Venezuela,29399910,44.5
 GCA_001713695.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2016-08-25,Scaffold,2011,Colombia,29442093,44.0
+GCA_056247935.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,30574569,43.5
+GCA_056248015.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,30241532,44.0
+GCA_056248035.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,29969168,44.0
 GCA_000150475.2,Paracoccidioides brasiliensis Pb03,482561,Paracoccidioides spp.,Medium,2014-11-13,Scaffold,,,29062735,44.5
 GCF_000150735.1,Paracoccidioides brasiliensis Pb18,502780,Paracoccidioides spp.,Medium,2014-10-24,Scaffold,,,29952540,44.5
 GCA_000150735.2,Paracoccidioides brasiliensis Pb18,502780,Paracoccidioides spp.,Medium,2014-10-24,Scaffold,,,29952540,44.5
+GCA_056247755.1,Paracoccidioides lutzii,1048829,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,33602073,42.0
+GCA_056247775.1,Paracoccidioides lutzii,1048829,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,34031299,42.5
 GCF_000150705.2,Paracoccidioides lutzii Pb01,502779,Paracoccidioides spp.,Medium,2014-11-03,Scaffold,,,32925248,43.0
 GCA_000150705.2,Paracoccidioides lutzii Pb01,502779,Paracoccidioides spp.,Medium,2014-11-03,Scaffold,,,32925248,43.0
+GCA_056247795.1,Paracoccidioides restrepoana (nom. inval.),3569413,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Colombia,32449393,44.0
+GCA_056247835.1,Paracoccidioides restrepoana (nom. inval.),3569413,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Colombia,32337107,42.0
+GCA_056247865.1,Paracoccidioides restrepoana (nom. inval.),3569413,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,35807410,43.0
+GCA_056247895.1,Paracoccidioides sp. 'americana',2486200,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,31732663,43.5
+GCA_056247915.1,Paracoccidioides sp. 'americana',2486200,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Brazil,29782668,44.0
 GCA_042919335.1,Paracoccidioides sp. IMR-M-Pb 369,3110790,Paracoccidioides spp.,Medium,2024-10-15,Contig,2021-02-25,"Argentina: Embarcacion, Salta Province",28748227,44.5
+GCA_056247735.1,Paracoccidioides venezuelensis (nom. inval.),3569414,Paracoccidioides spp.,Medium,2026-03-23,Contig,Missing,Venezuela,30704676,44.0
