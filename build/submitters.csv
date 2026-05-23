@@ -1,0 +1,179 @@
+fppl_name,priority,submitter,record_count
+Aspergillus fumigatus,Critical,University of Birmingham,637
+Aspergillus fumigatus,Critical,Leibniz-HKI,504
+Aspergillus fumigatus,Critical,Imperial College London,391
+Aspergillus fumigatus,Critical,UMass Amherst,302
+Aspergillus fumigatus,Critical,Wageningen University,270
+Aspergillus fumigatus,Critical,radboudumc,245
+Aspergillus fumigatus,Critical,University of Georgia,227
+Aspergillus fumigatus,Critical,Yunnan University,226
+Aspergillus fumigatus,Critical,Centers for Disease Control and Prevention,203
+Aspergillus fumigatus,Critical,Wageningen University & Research,193
+Candida albicans,Critical,Institut Pasteur,770
+Candida albicans,Critical,SRG,380
+Candida albicans,Critical,Chinese Center for Disease Control and Prevention,370
+Candida albicans,Critical,Shanghai Tenth People's Hospital,304
+Candida albicans,Critical,TEL AVIV UNIVERSITY,291
+Candida albicans,Critical,University of Rochester,248
+Candida albicans,Critical,European Bioinformatics Institute,241
+Candida albicans,Critical,Broad Institute,197
+Candida albicans,Critical,BI,180
+Candida albicans,Critical,Public Health Agency of Canada,142
+Candida auris,Critical,UPHL_ID,5019
+Candida auris,Critical,NVSPHL,4512
+Candida auris,Critical,MDH_CSL,2501
+Candida auris,Critical,cdc-ncezid-mdb,2403
+Candida auris,Critical,MDHHS-GS,1742
+Candida auris,Critical,TXDSHS,1720
+Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1555
+Candida auris,Critical,RIPHL,1291
+Candida auris,Critical,NSPHL,1031
+Candida auris,Critical,Minnesota Department of Health Infectious Disease Laboratory Submission Group,821
+Candida parapsilosis,High,University College Dublin,375
+Candida parapsilosis,High,First Affiliated Hospital of Sun Yat-sen University,182
+Candida parapsilosis,High,Shenzhen Institute of Advanced Technology Chinese Academy of Science,125
+Candida parapsilosis,High,Memorial Sloan Kettering Cancer Center,123
+Candida parapsilosis,High,Fundacion para la Investigacion Biomedica del Hospital Gregorio Maranon,113
+Candida parapsilosis,High,Shanghai Tenth People's Hospital,103
+Candida parapsilosis,High,cdc-ncezid-mdb,90
+Candida parapsilosis,High,University of Pavia,82
+Candida parapsilosis,High,FSU Jena,76
+Candida parapsilosis,High,Sidra Medicine,51
+Candida tropicalis,High,Peking Union Medical College Hospital,459
+Candida tropicalis,High,Fudan University,278
+Candida tropicalis,High,Vallabhbhai Patel Chest Institute,133
+Candida tropicalis,High,Institute of Clinical Pathology and Medical Research,83
+Candida tropicalis,High,Canisius-Wilhelmina Hospital,82
+Candida tropicalis,High,University College Dublin,79
+Candida tropicalis,High,Jiangxi Cancer Hospital,56
+Candida tropicalis,High,National University Hospital,53
+Candida tropicalis,High,"Hospital Canselor Tuanku Muhriz, Pusat Perubatan UKM",48
+Candida tropicalis,High,Shanghai Tenth People's Hospital,31
+Coccidioides spp.,Medium,"University of California, San Francisco",96
+Coccidioides spp.,Medium,Translational Genomics Institute,74
+Coccidioides spp.,Medium,TGen North,68
+Coccidioides spp.,Medium,University of Utah,50
+Coccidioides spp.,Medium,Northern Arizona University,36
+Coccidioides spp.,Medium,BI,15
+Coccidioides spp.,Medium,Broad Institute of MIT and Harvard,14
+Coccidioides spp.,Medium,Centers for Disease Control and Prevention,14
+Coccidioides spp.,Medium,University of Brasilia,13
+Coccidioides spp.,Medium,ROBERT KOCH-INSTITUTE,12
+Cryptococcus gattii,Medium,Broad Institute,109
+Cryptococcus gattii,Medium,TGen North,63
+Cryptococcus gattii,Medium,Chinese Academy of Science,50
+Cryptococcus gattii,Medium,University of Exeter,39
+Cryptococcus gattii,Medium,BI,34
+Cryptococcus gattii,Medium,ShanghaiTech University,24
+Cryptococcus gattii,Medium,Imperial College,21
+Cryptococcus gattii,Medium,JCVI,12
+Cryptococcus gattii,Medium,UCL,7
+Cryptococcus gattii,Medium,Institut Pasteur,5
+Cryptococcus neoformans,Critical,Broad Institute,1298
+Cryptococcus neoformans,Critical,Duke University,872
+Cryptococcus neoformans,Critical,BI,807
+Cryptococcus neoformans,Critical,Shanghai Tenth People's Hospital,644
+Cryptococcus neoformans,Critical,Oxford University Clinical Research Unit,415
+Cryptococcus neoformans,Critical,Mateusiak/Brent,390
+Cryptococcus neoformans,Critical,IMPERIAL COLLEGE LONDON,316
+Cryptococcus neoformans,Critical,The Wellcome Trust Sanger Institute,228
+Cryptococcus neoformans,Critical,TEL AVIV UNIVERSITY,158
+Cryptococcus neoformans,Critical,"College of Life and Health Sciences, Northeastern University",150
+Eumycetoma agents,High,cdc-ncezid-mdb,68
+Eumycetoma agents,High,Umm Al Qura University,6
+Eumycetoma agents,High,ErasmusMC,4
+Eumycetoma agents,High,EBI,4
+Eumycetoma agents,High,Medical Mycology Research Center,2
+Eumycetoma agents,High,Westerdijk Fungal Biodiversity Institute,2
+Eumycetoma agents,High,National Center for Emerging and Zoonotic Infectious Diseases- Mycotic Diseases Branch,2
+Eumycetoma agents,High,DOE Joint Genome Institute,2
+Eumycetoma agents,High,Chiba University,2
+Eumycetoma agents,High,"Medical Mycology Research Center, Chiba University",2
+Fusarium spp.,High,Cook Lab - University of California at Davis,588
+Fusarium spp.,High,Wageningen University and Research,564
+Fusarium spp.,High,CSIRO,329
+Fusarium spp.,High,University of Amsterdam,289
+Fusarium spp.,High,University of Warmia and Mazury in Olsztyn,255
+Fusarium spp.,High,BI,238
+Fusarium spp.,High,"AGRIBIO, CENTRE FOR AGRIBIOSCIENC",202
+Fusarium spp.,High,United States Department of Agriculture,188
+Fusarium spp.,High,"US Department of Agriculture, Agriculture Research Service",166
+Fusarium spp.,High,Oregon State University,165
+Histoplasma spp.,High,"University of California, San Francisco",251
+Histoplasma spp.,High,University of North Carolina at Chapel Hill,103
+Histoplasma spp.,High,University of Brasilia,62
+Histoplasma spp.,High,Centers for Disease Control and Prevention,48
+Histoplasma spp.,High,National Institute For Communicable Diseases,33
+Histoplasma spp.,High,"University of North Carolina, Chapel Hill",30
+Histoplasma spp.,High,Northern Arizona University,18
+Histoplasma spp.,High,AB ProvLab,11
+Histoplasma spp.,High,BI,11
+Histoplasma spp.,High,Broad Institute of MIT and Harvard,6
+Lomentospora prolificans,Medium,Johns Hopkins University,10
+Lomentospora prolificans,Medium,Murdoch University,7
+Lomentospora prolificans,Medium,"University of Maryland, Baltimore",3
+Mucorales,High,JGI,1361
+Mucorales,High,Duke University School of Medicine,129
+Mucorales,High,UMIGS,87
+Mucorales,High,Institution of Microbiology,67
+Mucorales,High,J Craig Venter Institute,57
+Mucorales,High,DOE Joint Genome Institute,52
+Mucorales,High,"Christian Medical Collage, Vellore",50
+Mucorales,High,Tgen North,37
+Mucorales,High,University of Melbourne,35
+Mucorales,High,Institute for Genome Sciences University of MD School of Medicine,34
+Nakaseomyces glabrata,High,cdc-ncezid-mdb,312
+Nakaseomyces glabrata,High,Public Health Agency of Canada,149
+Nakaseomyces glabrata,High,University of Pittsburgh School of Medicine,105
+Nakaseomyces glabrata,High,Chonnam National University Medical School and Chonnam National University Hospital,89
+Nakaseomyces glabrata,High,Barcelona Supercomputing Center,88
+Nakaseomyces glabrata,High,National Centre for infectious Diseases,80
+Nakaseomyces glabrata,High,University of Exeter,72
+Nakaseomyces glabrata,High,Peking union medical college hospital,69
+Nakaseomyces glabrata,High,IRB Barcelona,60
+Nakaseomyces glabrata,High,MDUPHL,54
+Paracoccidioides spp.,Medium,Northern Arizona University,31
+Paracoccidioides spp.,Medium,BI,31
+Paracoccidioides spp.,Medium,University of North Carolina at Chapel Hill,22
+Paracoccidioides spp.,Medium,University of Brasilia,7
+Paracoccidioides spp.,Medium,Broad Institute of MIT and Harvard,5
+Paracoccidioides spp.,Medium,Corporacion Para Investigaciones Biologicas,5
+Paracoccidioides spp.,Medium,Universidad de Antioquia,4
+Paracoccidioides spp.,Medium,Instituto de Medicina Regional de la Universidad Nacional del Nordeste,3
+Paracoccidioides spp.,Medium,Broad Institute,2
+Pichia kudriavzevii,Medium,JGI,461
+Pichia kudriavzevii,Medium,Fudan university,86
+Pichia kudriavzevii,Medium,University College Dublin,35
+Pichia kudriavzevii,Medium,McMaster University,28
+Pichia kudriavzevii,Medium,Broad Institute,21
+Pichia kudriavzevii,Medium,Canisius-Wilhelmina Hospital,20
+Pichia kudriavzevii,Medium,Dalian Medical University,19
+Pichia kudriavzevii,Medium,"Faculty of Medicine, Universitas Indonesia",16
+Pichia kudriavzevii,Medium,Technical University of Denmark,7
+Pichia kudriavzevii,Medium,National University Hospital,6
+Pneumocystis jirovecii,Medium,National Institutes Of Health,3
+Pneumocystis jirovecii,Medium,BI,3
+Pneumocystis jirovecii,Medium,Broad Institute,2
+Pneumocystis jirovecii,Medium,NIH,2
+Pneumocystis jirovecii,Medium,EBI,1
+Pneumocystis jirovecii,Medium,Swiss Institute of Bioinformatics,1
+Scedosporium spp.,Medium,The Kids Research Institute Australia,6
+Scedosporium spp.,Medium,"INAIL-DIT, Research Area",4
+Scedosporium spp.,Medium,LUNAM - Angers University,2
+Scedosporium spp.,Medium,National Centre for Cell Science,2
+Scedosporium spp.,Medium,Pavol Jozef Safarik University in Kosice,2
+Scedosporium spp.,Medium,"University of Maryland, Baltimore",2
+Scedosporium spp.,Medium,University of the Sunshine Coast,2
+Scedosporium spp.,Medium,cdc-ncezid-mdb,2
+Scedosporium spp.,Medium,UCLA,2
+Scedosporium spp.,Medium,Universidad de los Andes,1
+Talaromyces marneffei,Medium,Broad Institute,345
+Talaromyces marneffei,Medium,Chongqing Public Health Medical Center,15
+Talaromyces marneffei,Medium,The First Affiliated Hospital of Guangxi Medical University,4
+Talaromyces marneffei,Medium,The Hong Kong Polytechnic University,3
+Talaromyces marneffei,Medium,"Guangzhou Eighth People's Hospital, Guangzhou Medical University",2
+Talaromyces marneffei,Medium,J. Craig Ventor Institute,2
+Talaromyces marneffei,Medium,"Faculty of Medicine, Chiang Mai University",2
+Talaromyces marneffei,Medium,Texas A&M University,2
+Talaromyces marneffei,Medium,"West China Hospital, Sichuan University",1
+Talaromyces marneffei,Medium,Peking Union Medical College Hospital,1
