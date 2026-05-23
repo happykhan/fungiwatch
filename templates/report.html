@@ -215,6 +215,7 @@ footer {
     <a href="genomes.csv" download class="btn" style="text-decoration:none;">Assembled Genomes CSV ({{ "{:,}".format(stats.total_genomes) }} records)</a>
     <a href="sra_runs.csv" download class="btn" style="text-decoration:none;">SRA WGS Runs CSV ({{ "{:,}".format(stats.total_sra) }} records)</a>
     <a href="host_categories.csv" download class="btn" style="text-decoration:none;">Sampling Context per Species (categories)</a>
+    <a href="submitter_categories.csv" download class="btn" style="text-decoration:none;">Submitter Categories per Species</a>
     <a href="submitters.csv" download class="btn" style="text-decoration:none;">Submitters per Species (top 10)</a>
   </div>
   <p style="color:var(--text-muted); font-size:0.8rem; margin-top:0.5rem;">Per-record CSVs include both raw NCBI fields (<code>host</code>, <code>isolation_source</code>, <code>host_disease</code>, <code>submitter</code>, <code>platform</code> etc.) and a derived <code>host_category</code> column.</p>
@@ -462,6 +463,28 @@ footer {
   </div>
 </section>
 
+<!-- Section 6: Submitter categories per species -->
+<section>
+  <h2>Submitter Category by Species</h2>
+  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Each submitter is classified into one of seven categories (public health agency, hospital / clinical, university, research institute, agriculture, commercial, other) using the curated keyword tables in <code>classifiers.toml</code>. The chart answers a different question to the sampling-context one: not <em>where</em> the pathogen came from biologically, but <em>what kind of organisation</em> is generating the data.</p>
+  <div class="filter-bar">
+    <label>Display:</label>
+    <select id="sub-display" onchange="renderSubmitterChart()">
+      <option value="proportion">Proportions (stacked to 100%)</option>
+      <option value="absolute">Absolute counts</option>
+    </select>
+  </div>
+  <div class="chart-container" id="sub-chart-container">
+    <!-- SVG rendered by JS -->
+  </div>
+  <div id="sub-legend" class="legend"></div>
+  <div class="download-bar">
+    <button class="btn" onclick="downloadSVG('sub-chart-svg')">Download SVG</button>
+    <button class="btn" onclick="downloadPNG('sub-chart-svg')">Download PNG</button>
+    <button class="btn" onclick="downloadSubmitterCategoryCSV()">Download CSV (categories)</button>
+  </div>
+</section>
+
 <!-- Methods -->
 <section>
   <h2>Methods</h2>
@@ -522,6 +545,8 @@ const barReleasePriority = {{ bar_release_priority | tojson }};
 const barReleaseSpecies = {{ bar_release_species | tojson }};
 const hostCategoryCounts = {{ stats.host_category_counts | tojson }};
 const hostCategories = {{ stats.host_categories | tojson }};
+const submitterCategoryCounts = {{ stats.submitter_category_counts | tojson }};
+const submitterCategories = {{ stats.submitter_categories | tojson }};
 const submittersCombined = {{ stats.submitters_combined | tojson }};
 const completenessData = {{ stats.combined_completeness | tojson }};
 const speciesPriorityMap = {{ stats.species_priority_map | tojson }};
@@ -751,6 +776,88 @@ function renderHostChart() {
   ).join('');
 }
 
+// --- Submitter Category Chart ---
+const submitterCategoryColors = {
+  public_health:     '#dc2626',
+  hospital_clinical: '#ec4899',
+  university:        '#3b82f6',
+  research_institute: '#06b6d4',
+  agriculture:       '#65a30d',
+  commercial:        '#a855f7',
+  other:             '#94a3b8',
+};
+const submitterCategoryLabels = {
+  public_health:     'Public health',
+  hospital_clinical: 'Hospital / clinical',
+  university:        'University',
+  research_institute: 'Research institute',
+  agriculture:       'Agriculture',
+  commercial:        'Commercial',
+  other:             'Other',
+};
+
+function renderSubmitterChart() {
+  const container = document.getElementById('sub-chart-container');
+  const legendEl = document.getElementById('sub-legend');
+  const mode = document.getElementById('sub-display').value; // absolute | proportion
+
+  const species = Object.keys(submitterCategoryCounts).sort();
+  if (!species.length) {
+    container.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:2rem;">No submitter data available.</p>';
+    legendEl.innerHTML = '';
+    return;
+  }
+
+  // Compute totals per species, for ordering
+  const totals = species.map(s => {
+    const c = submitterCategoryCounts[s] || {};
+    return submitterCategories.reduce((sum, cat) => sum + (c[cat] || 0), 0);
+  });
+  // Sort by public_health share descending, with totals as tiebreaker
+  const ordered = species
+    .map((s, i) => {
+      const c = submitterCategoryCounts[s] || {};
+      const phShare = totals[i] > 0 ? (c.public_health || 0) / totals[i] : 0;
+      return { s, total: totals[i], phShare };
+    })
+    .sort((a, b) => b.phShare - a.phShare || b.total - a.total);
+
+  const W = 900, rowH = 26, pad = {top: 30, right: 30, bottom: 30, left: 220};
+  const H = pad.top + pad.bottom + ordered.length * rowH;
+  const cw = W - pad.left - pad.right;
+  const maxAbs = mode === 'absolute' ? Math.max(...totals, 1) : 1;
+
+  let svg = `<svg id="sub-chart-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:${W}px;">`;
+  svg += `<rect width="${W}" height="${H}" fill="#1e293b" rx="8"/>`;
+  svg += `<text x="${pad.left + cw / 2}" y="20" fill="#94a3b8" font-size="11" text-anchor="middle">`;
+  svg += mode === 'proportion' ? 'Share of records by submitter category, ordered by public-health share' : 'Records by submitter category';
+  svg += `</text>`;
+
+  ordered.forEach((row, i) => {
+    const y = pad.top + i * rowH;
+    const counts = submitterCategoryCounts[row.s] || {};
+    const denom = mode === 'proportion' ? (row.total || 1) : maxAbs;
+    let x = pad.left;
+    svg += `<text x="${pad.left - 8}" y="${y + rowH / 2 + 4}" fill="#e2e8f0" font-size="11" text-anchor="end" font-style="italic">${row.s}</text>`;
+    svg += `<text x="${W - pad.right + 4}" y="${y + rowH / 2 + 4}" fill="#94a3b8" font-size="10" text-anchor="start">${row.total}</text>`;
+    submitterCategories.forEach(cat => {
+      const n = counts[cat] || 0;
+      if (!n) return;
+      const w = (n / denom) * cw;
+      svg += `<rect x="${x}" y="${y + 2}" width="${w}" height="${rowH - 4}" fill="${submitterCategoryColors[cat]}">`;
+      svg += `<title>${row.s} - ${submitterCategoryLabels[cat]}: ${n} (${(100 * n / row.total).toFixed(1)}%)</title></rect>`;
+      x += w;
+    });
+  });
+
+  svg += '</svg>';
+  container.innerHTML = svg;
+
+  legendEl.innerHTML = submitterCategories.map(cat =>
+    `<div class="legend-item"><div class="legend-swatch" style="background:${submitterCategoryColors[cat]}"></div>${submitterCategoryLabels[cat]}</div>`
+  ).join('');
+}
+
 // --- Download Helpers ---
 function downloadSVG(id) {
   const svg = document.getElementById(id);
@@ -872,6 +979,17 @@ function downloadHostCSV() {
     return [s, speciesPriorityMap[s] || '', ...cells, total];
   });
   downloadCSV(headers, rows, 'sampling_context_by_species.csv');
+}
+
+function downloadSubmitterCategoryCSV() {
+  const headers = ['Species', 'Priority', ...submitterCategories, 'Total'];
+  const rows = Object.keys(submitterCategoryCounts).sort().map(s => {
+    const c = submitterCategoryCounts[s] || {};
+    const cells = submitterCategories.map(cat => c[cat] || 0);
+    const total = cells.reduce((a, b) => a + b, 0);
+    return [s, speciesPriorityMap[s] || '', ...cells, total];
+  });
+  downloadCSV(headers, rows, 'submitter_categories_by_species.csv');
 }
 
 function downloadSubmittersCSV() {
@@ -1042,6 +1160,7 @@ document.addEventListener('DOMContentLoaded', () => {
   updateMap();
   updateBarChart();
   renderHostChart();
+  renderSubmitterChart();
   renderCompletenessChart();
   initSortableTable('species-table');
 });
