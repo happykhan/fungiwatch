@@ -148,14 +148,26 @@ EUTILS_BASE = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils"
 BATCH_SIZE = 400  # records per efetch call
 
 
-def entrez_request(endpoint: str, params: dict) -> bytes:
-    """Make an E-utilities request with rate limiting."""
+def entrez_request(endpoint: str, params: dict, retries: int = 5) -> bytes:
+    """Make an E-utilities request with rate limiting and retry on transient errors."""
+    import http.client
+    import urllib.error
+
     query_str = "&".join(f"{k}={urllib.request.quote(str(v))}" for k, v in params.items())
     url = f"{EUTILS_BASE}/{endpoint}?{query_str}"
     req = urllib.request.Request(url, headers={"User-Agent": "fungiwatch/0.1"})
     time.sleep(0.35)  # NCBI rate limit: 3 req/sec without API key
-    with urllib.request.urlopen(req, timeout=60) as resp:
-        return resp.read()
+
+    for attempt in range(1, retries + 1):
+        try:
+            with urllib.request.urlopen(req, timeout=90) as resp:
+                return resp.read()
+        except (http.client.IncompleteRead, urllib.error.URLError, TimeoutError, OSError) as e:
+            if attempt == retries:
+                raise
+            wait = 2 ** attempt
+            print(f"  Retrying ({attempt}/{retries}) after error: {e} — waiting {wait}s")
+            time.sleep(wait)
 
 
 def fetch_sra_metadata(query: str, min_date: str | None = None) -> list[dict]:
@@ -292,7 +304,11 @@ def main():
         seen_sra = set()
         new_sra = []
         for query in queries:
-            fetched = fetch_sra_metadata(query, min_date=last_fetch)
+            try:
+                fetched = fetch_sra_metadata(query, min_date=last_fetch)
+            except Exception as e:
+                print(f"  WARNING: SRA fetch failed for '{query}': {e} — skipping, will use cache")
+                fetched = []
             for rec in fetched:
                 if rec["accession"] not in seen_sra:
                     seen_sra.add(rec["accession"])
