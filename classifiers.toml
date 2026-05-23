@@ -69,8 +69,12 @@ keywords = [
 [host.clinical_other]
 description = "Healthcare-built environment (devices, surfaces, wards). Not patient samples."
 keywords = [
-    "hospital", "icu", "catheter", "ventilator", "endoscope",
-    "healthcare", "medical device", "surgical", "ward",
+    "hospital", "catheter", "ventilator", "endoscope",
+    "healthcare", "medical device", "surgical",
+    # Use bounded forms so 'icu' doesn't catch 'agriculture' / 'triticum'
+    # and 'ward' doesn't catch 'Edward' / 'forward'.
+    " icu ", " icu,", "icu/", " icu-", "icu_",
+    " ward", "ward ", "wards ", " wards",
 ]
 
 [host.plant]

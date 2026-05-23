@@ -263,7 +263,7 @@
     "isolation_source": "root",
     "host_disease": "",
     "env_broad_scale": "Botanical garden",
-    "host_category": "clinical_other",
+    "host_category": "plant",
     "submitter": "Pavol Jozef Safarik University in Kosice",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 500",

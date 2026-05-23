@@ -8704,7 +8704,7 @@
     "isolation_source": "",
     "host_disease": "histoplasmosis",
     "env_broad_scale": "wild mammal - brown rat",
-    "host_category": "clinical_other",
+    "host_category": "animal",
     "submitter": "University of Brasilia",
     "platform": "ILLUMINA",
     "instrument_model": "NextSeq 550",
