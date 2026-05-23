@@ -1,5 +1,6 @@
-metadata/
 .pixi/
 *.pyc
 __pycache__/
 .pytest_cache/
+.vercel
+metadata.backup*
