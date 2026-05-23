@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34917876",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34896681",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34896682",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34896683",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR34896684",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "ERR14883666",
@@ -151,7 +157,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR32471599",
@@ -173,7 +180,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR32471600",
@@ -195,7 +203,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR25621430",
@@ -217,7 +226,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR25621442",
@@ -239,7 +249,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR24948448",
@@ -261,7 +272,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR10590442",
@@ -283,7 +295,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR10590393",
@@ -305,6 +318,7 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   }
 ]

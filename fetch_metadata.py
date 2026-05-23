@@ -12,10 +12,29 @@ from pathlib import Path
 
 METADATA_DIR = Path("metadata")
 LAST_FETCH_FILE = METADATA_DIR / "last_fetch.json"
+CLASSIFIERS_FILE = Path(__file__).resolve().parent / "classifiers.toml"
 
 # Placeholder host/source values that should be treated as missing
 PLACEHOLDERS = {"missing", "not collected", "not applicable", "not provided",
                 "unknown", "na", "n/a", "none", ""}
+
+
+def _load_classifiers():
+    """Load the keyword tables from classifiers.toml. Cached after first call."""
+    if hasattr(_load_classifiers, "_cache"):
+        return _load_classifiers._cache
+    import tomllib  # Python 3.11+
+    with open(CLASSIFIERS_FILE, "rb") as f:
+        data = tomllib.load(f)
+    # Normalise: lowercase keywords and exact_aliases for case-insensitive match.
+    for section in ("host", "submitter"):
+        cfg = data.get(section, {})
+        for cat_name in cfg.get("order", []):
+            cat = cfg.get(cat_name, {})
+            cat["keywords"] = [k.lower() for k in cat.get("keywords", [])]
+            cat["exact_aliases"] = [a.lower() for a in cat.get("exact_aliases", [])]
+    _load_classifiers._cache = data
+    return data
 
 
 def _clean(value: str) -> str:
@@ -32,133 +51,60 @@ def classify_host(host: str, isolation_source: str, host_disease: str = "",
                   env_broad_scale: str = "") -> str:
     """Classify a BioSample into a coarse origin category.
 
-    Returns one of: human, animal, plant, environment, food, laboratory,
-    clinical_other, unknown. Looks at host, isolation_source, host_disease
-    and env_broad_scale together. The category is derived; the raw fields
-    are retained alongside it.
+    Joins host, isolation_source, host_disease and env_broad_scale into one
+    lowercase blob, then runs the categories listed in classifiers.toml
+    under [host.order] in order: first substring match wins. Returns one
+    of the category names defined there, or "unknown" if nothing matches.
+
+    Edit classifiers.toml to add or remove keywords; do not edit this
+    function unless the matching algorithm itself needs to change.
     """
     blob = " ".join(filter(None,
                           [host, isolation_source, host_disease, env_broad_scale])).lower()
     if not blob:
         return "unknown"
 
-    # Laboratory-derived strains first: these aren't real-world sampling and
-    # should not count toward host distribution. Catch them before any other
-    # category because the metadata often duplicates a clinical host on top.
-    lab_terms = ("in vitro", "in-vitro", "evolved", "evolution experiment",
-                 "lab experiment", "laboratory experiment", "crispr",
-                 "transformed", "transformant", "mutant strain", "knockout",
-                 "engineered", "synthetic", "passaged", "serial passage",
-                 "adapted", "drug-evolved", "fluconazole evolved",
-                 "voriconazole evolved", "amphotericin evolved",
-                 "lab evolved", "lab-evolved", "in vitro selection",
-                 "lab adapted", "lab-adapted")
-    if any(t in blob for t in lab_terms):
-        return "laboratory"
-
-    # Human: include the short / mis-spelt forms seen in NCBI free text
-    human_terms = ("homo sapiens", "human", "patient", "clinical isolate",
-                   "clinical sample", "clinical specimen", "clinical strain",
-                   "blood culture", "bronchoalveolar", "sputum", "csf",
-                   "cerebrospinal", "nail", "skin scraping", "vaginal", "urine",
-                   "stool", "throat swab", "ear swab", "blood", "oropharynx",
-                   "oropharanyx", "pharyngeal", "pulmonary", "lung", "tracheal",
-                   "wound", "bile", "peritoneal")
-    if any(t in blob for t in human_terms):
-        return "human"
-
-    # "clinical" alone (after the more specific lab/human matches above)
-    if "clinical" in blob:
-        return "human"
-
-    # Built-environment / hospital surfaces: still environmental but flag clinical_other
-    clinical_other = ("hospital", "icu", "catheter", "ventilator", "endoscope",
-                      "healthcare", "medical device", "surgical", "ward")
-    if any(t in blob for t in clinical_other):
-        return "clinical_other"
-
-    # Plant: common English names + lowercase + Latin binomials
-    plant_terms = (
-        # General terms
-        "plant", "leaf", "leaves", "root", "rhizosphere", "stem", "seed",
-        "fruit", "grain", "vine", "tree", "wood", "bark", "mycelium",
-        "phyllosphere", "rhizoplane", "phylloplane", "agriculture", "crop",
-        "nursery", "greenhouse",
-        # Common-name crops
-        "wheat", "maize", "corn", "rice", "banana", "tomato", "potato",
-        "coffee", "cacao", "cocoa", "cotton", "barley", "oat", "oats",
-        "rye", "sorghum", "millet", "soy", "soybean", "pea", "chickpea",
-        "lentil", "bean", "lupin", "alfalfa", "clover", "grape", "grapes",
-        "apple", "pear", "peach", "plum", "cherry", "strawberry", "raspberry",
-        "blueberry", "lettuce", "spinach", "cabbage", "broccoli", "cauliflower",
-        "kale", "onion", "garlic", "leek", "carrot", "celery", "cucumber",
-        "melon", "watermelon", "pumpkin", "squash", "courgette", "zucchini",
-        "pepper", "chili", "chilli", "eggplant", "aubergine", "citrus",
-        "orange", "lemon", "lime", "mango", "papaya", "pineapple", "avocado",
-        "olive", "palm", "pine", "spruce", "fir", "oak", "elm", "willow",
-        "poplar", "eucalyptus", "rubber", "tea", "tobacco", "hop", "hops",
-        "sugarcane", "sugar cane", "cassava", "yam", "ginger", "turmeric",
-        # Latin binomials (genus or genus species) commonly seen
-        "triticum", "zea mays", "oryza", "musa", "cicer arietinum", "lactuca",
-        "fragaria", "cucumis", "lathyrus", "spinacia", "pinus", "citrullus",
-        "allium", "solanum", "citrus", "gossypium", "hordeum", "avena",
-        "medicago", "glycine", "phoenix", "malus", "brassica", "vitis",
-        "olea", "coffea", "theobroma", "saccharum", "humulus", "nicotiana",
-        "hevea", "elaeis", "manihot", "ipomoea", "capsicum", "daucus",
-        "beta vulgaris", "trifolium")
-    if any(t in blob for t in plant_terms):
-        return "plant"
-
-    # Animal (non-human): broaden Latin binomials and lower-cased common forms
-    animal_terms = (
-        # General terms
-        "animal", "wildlife", "veterinary", "fur",
-        # Common-name mammals
-        "dog", "puppy", "cat", "kitten", "cattle", "bovine", "cow", "calf",
-        "horse", "equine", "foal", "donkey", "mule", "sheep", "lamb", "ovine",
-        "goat", "caprine", "pig", "swine", "porcine", "piglet", "boar",
-        "rabbit", "rodent", "rat", "mouse", "mice", "hamster", "guinea pig",
-        "ferret", "mink", "bat", "deer", "elk", "moose", "buffalo", "bison",
-        "camel", "llama", "alpaca", "monkey", "macaque", "marmoset", "baboon",
-        "chimpanzee", "gorilla", "lemur",
-        # Birds
-        "poultry", "chicken", "broiler", "layer", "turkey", "duck", "goose",
-        "pigeon", "parrot", "cockatoo", "bird", "owl", "raptor", "eagle",
-        # Aquatic
-        "fish", "salmon", "trout", "tilapia", "carp", "shrimp", "prawn",
-        "lobster", "crab", "oyster", "mussel", "shellfish", "frog", "toad",
-        "amphibian", "salamander",
-        # Reptiles
-        "reptile", "snake", "lizard", "tortoise", "turtle", "iguana", "gecko",
-        # Invertebrates
-        "insect", "bee", "beetle", "ant", "mosquito", "fly", "wasp", "termite",
-        "spider", "tick", "mite",
-        # Latin binomials commonly seen
-        "felis", "canis", "bos taurus", "sus scrofa", "ovis aries", "equus",
-        "macaca", "rattus", "mus musculus", "anas platyrhynchos", "gallus",
-        "meleagris", "danio rerio", "drosophila", "apis mellifera",
-        "caenorhabditis", "cepaea")
-    if any(t in blob for t in animal_terms):
-        return "animal"
-
-    # Food / fermentation
-    food_terms = ("food", "cheese", "wine", "beer", "fermented", "fermentation",
-                  "dairy", "yogurt", "yoghurt", "kefir", "bread", "kombucha",
-                  "miso", "soy sauce", "sake", "cider", "vinegar",
-                  "mycoprotein", "baijiu", "kimchi")
-    if any(t in blob for t in food_terms):
-        return "food"
-
-    # Environment (free-living, soil, water, air, built)
-    env_terms = ("soil", "sediment", "water", "marine", "freshwater",
-                 "groundwater", "river", "lake", "ocean", "sea", "air",
-                 "dust", "compost", "manure", "mud", "sludge", "wastewater",
-                 "sewage", "environment", "environmental", "indoor", "outdoor",
-                 "biofilm", "litter", "cave", "biome")
-    if any(t in blob for t in env_terms):
-        return "environment"
-
+    cfg = _load_classifiers().get("host", {})
+    for cat_name in cfg.get("order", []):
+        cat = cfg.get(cat_name, {})
+        if any(t in blob for t in cat.get("keywords", [])):
+            return cat_name
     return "unknown"
+
+
+def classify_submitter(submitter: str) -> str:
+    """Classify a submitting lab/centre into a coarse category.
+
+    Two-stage match: first checks `exact_aliases` (whole-string equality
+    against the trimmed lowercase submitter) for each category in
+    classifiers.toml [submitter.order], then falls back to substring
+    `keywords`. First hit wins. Returns "other" if nothing matches.
+
+    Edit classifiers.toml to curate the lists; do not edit this function
+    unless the matching algorithm itself needs to change.
+    """
+    if not submitter:
+        return "other"
+    s = submitter.strip().lower()
+    if not s:
+        return "other"
+
+    cfg = _load_classifiers().get("submitter", {})
+    order = cfg.get("order", [])
+
+    # Pass 1: exact_aliases across all categories (in order)
+    for cat_name in order:
+        cat = cfg.get(cat_name, {})
+        if s in cat.get("exact_aliases", []):
+            return cat_name
+
+    # Pass 2: substring keywords across all categories (in order)
+    for cat_name in order:
+        cat = cfg.get(cat_name, {})
+        if any(t in s for t in cat.get("keywords", [])):
+            return cat_name
+
+    return "other"
 
 # WHO Fungal Priority Pathogens List (19 entities)
 # Priority groups: Critical, High, Medium
@@ -305,6 +251,7 @@ def extract_record(report: dict) -> dict | None:
         "assembly_submitter": assembly_submitter,
         "biosample_owner": biosample_owner,
         "submitter": biosample_owner or assembly_submitter,
+        "submitter_category": classify_submitter(biosample_owner or assembly_submitter),
         "bioproject_accession": bioproject_accession,
         "genome_size_bp": int(assembly_stats["total_sequence_length"]) if assembly_stats.get("total_sequence_length") else None,
         "gc_percent": float(assembly_stats["gc_percent"]) if assembly_stats.get("gc_percent") else None,
@@ -482,6 +429,7 @@ def fetch_sra_metadata(query: str, min_date: str | None = None) -> list[dict]:
                 "env_broad_scale": env_broad,
                 "host_category": classify_host(host, isolation_source, host_disease, env_broad),
                 "submitter": _clean(center),
+                "submitter_category": classify_submitter(_clean(center)),
                 "bioproject_accession": bioproject_accession,
                 "study_accession": study_accession,
                 "platform": platform,

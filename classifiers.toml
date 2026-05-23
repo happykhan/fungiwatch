@@ -1,0 +1,258 @@
+# classifiers.toml — Curated keyword tables for host_category and submitter_category
+#
+# How matching works:
+#   - The classifier joins relevant fields into one lowercase string ("blob").
+#       host_category:      host + isolation_source + host_disease + env_broad_scale
+#       submitter_category: submitter
+#   - Categories are tried in the order listed in `order = [...]`. First match wins.
+#   - For each category, two kinds of matchers run:
+#       1. `exact_aliases`: matched against the WHOLE trimmed lowercase string.
+#          Use this for short codes that would be dangerous as substrings (e.g. "BI").
+#       2. `keywords`: substring matched anywhere in the blob.
+#   - Everything is case-insensitive; write keywords in lowercase.
+#
+# Curation workflow:
+#   1. Edit this file.
+#   2. Run `pixi run python reclassify_hosts.py` to re-classify cached records.
+#      (No NCBI re-fetch needed; classification is derived from existing fields.)
+#   3. Run `pixi run python generate_report.py` to refresh the report and CSVs.
+#   4. Optional: `pixi run python manuscript/metadata_richness_analysis.py` to
+#      regenerate the brief.
+#
+# Notes:
+#   - Priority order is intentional. `laboratory` is checked before `human`
+#     because lab-derived strains often duplicate a clinical host on top.
+#     `agriculture` is checked before `university` because labs like
+#     "Cook Lab - University of California at Davis" are plant-pathology
+#     groups despite the university affiliation.
+#   - To force a specific submitter into a different category, add it to that
+#     category's `exact_aliases` (safest) or add a distinctive substring to
+#     `keywords` and ensure that category sits higher in `order`.
+
+# =============================================================================
+# host_category — derived per record from BioSample free-text fields
+# =============================================================================
+
+[host]
+order = ["laboratory", "human", "clinical_other", "plant", "animal", "food", "environment"]
+
+[host.laboratory]
+description = "Lab-derived strains (not real-world sampling). Checked first because metadata often duplicates a clinical host name on top of a lab-evolved label."
+keywords = [
+    "in vitro", "in-vitro", "evolved", "evolution experiment",
+    "lab experiment", "laboratory experiment", "crispr",
+    "transformed", "transformant", "mutant strain", "knockout",
+    "engineered", "synthetic", "passaged", "serial passage",
+    "adapted", "drug-evolved", "fluconazole evolved",
+    "voriconazole evolved", "amphotericin evolved",
+    "lab evolved", "lab-evolved", "in vitro selection",
+    "lab adapted", "lab-adapted",
+]
+
+[host.human]
+description = "Human clinical samples. Specific source types first."
+keywords = [
+    "homo sapiens", "human", "patient",
+    "clinical isolate", "clinical sample", "clinical specimen", "clinical strain",
+    "blood culture", "bronchoalveolar", "sputum", "csf",
+    "cerebrospinal", "nail", "skin scraping", "vaginal", "urine",
+    "stool", "throat swab", "ear swab", "blood", "oropharynx",
+    "oropharanyx", "pharyngeal", "pulmonary", "lung", "tracheal",
+    "wound", "bile", "peritoneal",
+    "clinical",
+]
+
+[host.clinical_other]
+description = "Healthcare-built environment (devices, surfaces, wards). Not patient samples."
+keywords = [
+    "hospital", "icu", "catheter", "ventilator", "endoscope",
+    "healthcare", "medical device", "surgical", "ward",
+]
+
+[host.plant]
+description = "Plant hosts. Common names + Latin binomials + agriculture-context terms."
+keywords = [
+    # General
+    "plant", "leaf", "leaves", "root", "rhizosphere", "stem", "seed",
+    "fruit", "grain", "vine", "tree", "wood", "bark", "mycelium",
+    "phyllosphere", "rhizoplane", "phylloplane", "agriculture", "crop",
+    "nursery", "greenhouse",
+    # Common-name crops
+    "wheat", "maize", "corn", "rice", "banana", "tomato", "potato",
+    "coffee", "cacao", "cocoa", "cotton", "barley", "oat", "oats",
+    "rye", "sorghum", "millet", "soy", "soybean", "pea", "chickpea",
+    "lentil", "bean", "lupin", "alfalfa", "clover", "grape", "grapes",
+    "apple", "pear", "peach", "plum", "cherry", "strawberry", "raspberry",
+    "blueberry", "lettuce", "spinach", "cabbage", "broccoli", "cauliflower",
+    "kale", "onion", "garlic", "leek", "carrot", "celery", "cucumber",
+    "melon", "watermelon", "pumpkin", "squash", "courgette", "zucchini",
+    "pepper", "chili", "chilli", "eggplant", "aubergine", "citrus",
+    "orange", "lemon", "lime", "mango", "papaya", "pineapple", "avocado",
+    "olive", "palm", "pine", "spruce", "fir", "oak", "elm", "willow",
+    "poplar", "eucalyptus", "rubber", "tea", "tobacco", "hop", "hops",
+    "sugarcane", "sugar cane", "cassava", "yam", "ginger", "turmeric",
+    # Latin binomials (genus or genus + species)
+    "triticum", "zea mays", "oryza", "musa", "cicer arietinum", "lactuca",
+    "fragaria", "cucumis", "lathyrus", "spinacia", "pinus", "citrullus",
+    "allium", "solanum", "citrus", "gossypium", "hordeum", "avena",
+    "medicago", "glycine", "phoenix", "malus", "brassica", "vitis",
+    "olea", "coffea", "theobroma", "saccharum", "humulus", "nicotiana",
+    "hevea", "elaeis", "manihot", "ipomoea", "capsicum", "daucus",
+    "beta vulgaris", "trifolium",
+]
+
+[host.animal]
+description = "Non-human animals. Common names + Latin binomials."
+keywords = [
+    # General
+    "animal", "wildlife", "veterinary", "fur",
+    # Mammals
+    "dog", "puppy", "cat", "kitten", "cattle", "bovine", "cow", "calf",
+    "horse", "equine", "foal", "donkey", "mule", "sheep", "lamb", "ovine",
+    "goat", "caprine", "pig", "swine", "porcine", "piglet", "boar",
+    "rabbit", "rodent", "rat", "mouse", "mice", "hamster", "guinea pig",
+    "ferret", "mink", "bat", "deer", "elk", "moose", "buffalo", "bison",
+    "camel", "llama", "alpaca", "monkey", "macaque", "marmoset", "baboon",
+    "chimpanzee", "gorilla", "lemur",
+    # Birds
+    "poultry", "chicken", "broiler", "layer", "turkey", "duck", "goose",
+    "pigeon", "parrot", "cockatoo", "bird", "owl", "raptor", "eagle",
+    # Aquatic
+    "fish", "salmon", "trout", "tilapia", "carp", "shrimp", "prawn",
+    "lobster", "crab", "oyster", "mussel", "shellfish", "frog", "toad",
+    "amphibian", "salamander",
+    # Reptiles
+    "reptile", "snake", "lizard", "tortoise", "turtle", "iguana", "gecko",
+    # Invertebrates
+    "insect", "bee", "beetle", "ant", "mosquito", "fly", "wasp", "termite",
+    "spider", "tick", "mite",
+    # Latin binomials
+    "felis", "canis", "bos taurus", "sus scrofa", "ovis aries", "equus",
+    "macaca", "rattus", "mus musculus", "anas platyrhynchos", "gallus",
+    "meleagris", "danio rerio", "drosophila", "apis mellifera",
+    "caenorhabditis", "cepaea",
+]
+
+[host.food]
+description = "Food and fermentation products."
+keywords = [
+    "food", "cheese", "wine", "beer", "fermented", "fermentation",
+    "dairy", "yogurt", "yoghurt", "kefir", "bread", "kombucha",
+    "miso", "soy sauce", "sake", "cider", "vinegar",
+    "mycoprotein", "baijiu", "kimchi",
+]
+
+[host.environment]
+description = "Free-living environment (soil, water, air, built)."
+keywords = [
+    "soil", "sediment", "water", "marine", "freshwater",
+    "groundwater", "river", "lake", "ocean", "sea", "air",
+    "dust", "compost", "manure", "mud", "sludge", "wastewater",
+    "sewage", "environment", "environmental", "indoor", "outdoor",
+    "biofilm", "litter", "cave", "biome",
+]
+
+
+# =============================================================================
+# submitter_category — derived per record from the `submitter` field
+# =============================================================================
+
+[submitter]
+order = ["public_health", "agriculture", "hospital_clinical", "university", "research_institute", "commercial"]
+
+[submitter.public_health]
+description = "Government public health labs, CDCs, ministries of health, national reference labs."
+# Exact aliases match the whole trimmed lowercase submitter string.
+# Use for short codes that would be dangerous as substrings.
+exact_aliases = ["uphl", "uphl_id", "nvsphl", "nsphl", "riphl", "lacphl", "ocphl_ca",
+                  "mdh_csl", "mdhhs-gs", "mdhhs", "txdshs", "tn doh", "tn-doh",
+                  "wsdoh"]
+keywords = [
+    # PHL-ish substrings that catch composite codes like "fda_NSPHL" or "MDUPHL".
+    # Distinctive enough that false positives in submitter names are unlikely.
+    "uphl", "nsphl", "mduphl", "phl_", "_phl",
+    "public health", "centers for disease control",
+    "centre for disease control", "center for disease control",
+    "wisconsin state laboratory of hygiene",
+    "department of health", "ministry of health",
+    "national institute for communicable diseases",
+    "national institute for biological standards",
+    "ukhsa", "public health england", "ecdc",
+    "robert koch", "rki",
+    "santé publique", "sante publique",
+    "instituto de salud", "ministerio de salud",
+    "national reference",
+    "phl ", "phl_", "phl-",
+    "cdc-ncezid", "cdc ", "cdc_", "cdc-",
+    "anhui center for disease",
+    "chinese center for disease",
+    "korea centers for disease",
+    "africa cdc",
+    "wadsworth center",
+]
+
+[submitter.agriculture]
+description = "Agricultural research bodies, USDA, plant-pathology labs. Checked before university so 'Cook Lab - UC Davis' lands here."
+keywords = [
+    "usda", "united states department of agriculture",
+    "agriculture", "agricultural", "agribio", "agroscope",
+    "csiro", "inrae", "inra ", "embrapa", "rothamsted",
+    "ministry of agriculture", "department of agriculture",
+    "plant pathology", "plant protection",
+    "agroecology", "agroforestry",
+    "cook lab", "fusarium",
+]
+
+[submitter.hospital_clinical]
+description = "Hospitals, medical centres, clinical research units."
+keywords = [
+    "hospital", "hôpital", "klinikum", "medical center",
+    "medical centre", "medical college",
+    "medical research unit", "clinical research unit",
+    "school of medicine", "faculty of medicine",
+    "radboudumc", "amc ", "amsterdam umc",
+    "umc ", " umc",
+    "nhs ", " nhs",
+    "infirmary",
+]
+
+[submitter.university]
+description = "Academic universities."
+keywords = [
+    "university", "université", "universidad", "universidade",
+    "universität", "universitet", "universiteit", "università",
+    "college", "polytechnic", "ecole ", "écoles",
+    "instituto politécnico",
+    "academia ",
+]
+
+[submitter.research_institute]
+description = "Non-university research institutes (Broad, Pasteur, Sanger, EMBL/EBI, JGI, etc.)."
+exact_aliases = ["bi", "jgi", "ebi"]
+keywords = [
+    "broad institute",
+    "wellcome trust sanger", "sanger institute",
+    "institut pasteur", "pasteur ", "pasteur,",
+    "european bioinformatics institute", "embl",
+    "joint genome institute",
+    "leibniz-hki", "hans knöll", "hans knoll", "knoell",
+    "national institutes of health", "nih ",
+    "max planck", "fraunhofer",
+    "riken", "vib ",
+    "ncbi", "national center for biotechnology",
+    "icmr", "indian council of medical research",
+    "research institute", "research foundation", "research center",
+    "research centre", "research lab", "research laboratory",
+    "fungal genome", "genome institute", "institute of genomics",
+    "biotech institute", "bioinformatics institute",
+    "kazusa", "doe-jgi",
+]
+
+[submitter.commercial]
+description = "Biotech / commercial sequencing services."
+keywords = [
+    " inc.", " inc,", " inc ", " ltd", " plc", " gmbh",
+    " corp", "biotech ", "biosciences", "genomics inc",
+    "labcorp", "quest diagnostics", "illumina ",
+    "pacific biosciences", "oxford nanopore",
+]

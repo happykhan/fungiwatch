@@ -20,7 +20,8 @@
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002571455.1",
@@ -43,7 +44,8 @@
     "gc_percent": 28.0,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCF_001477535.1",
@@ -66,7 +68,8 @@
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001477535.1",
@@ -89,6 +92,7 @@
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   }
 ]

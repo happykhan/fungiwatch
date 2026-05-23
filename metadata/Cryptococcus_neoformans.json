@@ -20,7 +20,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215755.1",
@@ -43,7 +44,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002216725.1",
@@ -66,7 +68,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002217545.1",
@@ -89,7 +92,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002220045.1",
@@ -112,7 +116,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222015.1",
@@ -135,7 +140,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222025.1",
@@ -158,7 +164,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222095.1",
@@ -181,7 +188,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222115.1",
@@ -204,7 +212,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222135.1",
@@ -227,7 +236,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222145.1",
@@ -250,7 +260,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222155.1",
@@ -273,7 +284,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222165.1",
@@ -296,7 +308,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222245.1",
@@ -319,7 +332,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_003011985.1",
@@ -342,7 +356,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_010065285.1",
@@ -365,7 +380,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010065295.1",
@@ -388,7 +404,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010065305.1",
@@ -411,7 +428,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010065315.1",
@@ -434,7 +452,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010065385.1",
@@ -457,7 +476,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010065405.1",
@@ -480,7 +500,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010233705.1",
@@ -503,7 +524,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010233735.1",
@@ -526,7 +548,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_011057475.1",
@@ -549,7 +572,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_011057515.1",
@@ -572,7 +596,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_011057545.1",
@@ -595,7 +620,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_011057555.1",
@@ -618,7 +644,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_011057565.1",
@@ -641,7 +668,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019969275.1",
@@ -664,7 +692,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019969285.1",
@@ -687,7 +716,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019969295.1",
@@ -710,7 +740,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970125.1",
@@ -733,7 +764,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970135.1",
@@ -756,7 +788,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970145.1",
@@ -779,7 +812,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970155.1",
@@ -802,7 +836,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970185.1",
@@ -825,7 +860,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970275.1",
@@ -848,7 +884,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970285.1",
@@ -871,7 +908,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970295.1",
@@ -894,7 +932,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970315.1",
@@ -917,7 +956,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970345.1",
@@ -940,7 +980,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970415.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970445.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970455.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970465.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970475.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970565.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970585.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970605.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970615.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970625.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970715.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970725.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970755.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970785.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970795.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019970885.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975435.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975485.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975495.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975525.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975545.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975565.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975585.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975605.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975615.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975645.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975665.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975675.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020975705.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_022832995.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023650535.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023650555.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023650575.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023650595.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025531435.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025531515.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_028975465.1",
@@ -1791,7 +1868,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_028982725.1",
@@ -1814,7 +1892,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_030913545.1",
@@ -1837,7 +1916,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840755.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840765.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840775.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840785.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840795.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840855.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840865.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840875.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840885.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840895.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840955.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840965.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840975.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840985.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031840995.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841035.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841055.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841085.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841105.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841185.1",
@@ -2297,7 +2396,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841195.1",
@@ -2320,7 +2420,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841215.1",
@@ -2343,7 +2444,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841235.1",
@@ -2366,7 +2468,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841255.1",
@@ -2389,7 +2492,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841275.1",
@@ -2412,7 +2516,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841295.1",
@@ -2435,7 +2540,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841315.1",
@@ -2458,7 +2564,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841325.1",
@@ -2481,7 +2588,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841345.1",
@@ -2504,7 +2612,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841365.1",
@@ -2527,7 +2636,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841405.1",
@@ -2550,7 +2660,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841415.1",
@@ -2573,7 +2684,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841435.1",
@@ -2596,7 +2708,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841465.1",
@@ -2619,7 +2732,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841475.1",
@@ -2642,7 +2756,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841495.1",
@@ -2665,7 +2780,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841525.1",
@@ -2688,7 +2804,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841545.1",
@@ -2711,7 +2828,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841575.1",
@@ -2734,7 +2852,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841585.1",
@@ -2757,7 +2876,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841605.1",
@@ -2780,7 +2900,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841635.1",
@@ -2803,7 +2924,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841655.1",
@@ -2826,7 +2948,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841665.1",
@@ -2849,7 +2972,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841685.1",
@@ -2872,7 +2996,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841695.1",
@@ -2895,7 +3020,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841715.1",
@@ -2918,7 +3044,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841745.1",
@@ -2941,7 +3068,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841765.1",
@@ -2964,7 +3092,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841795.1",
@@ -2987,7 +3116,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841805.1",
@@ -3010,7 +3140,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841825.1",
@@ -3033,7 +3164,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841845.1",
@@ -3056,7 +3188,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841865.1",
@@ -3079,7 +3212,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841885.1",
@@ -3102,7 +3236,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841915.1",
@@ -3125,7 +3260,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841935.1",
@@ -3148,7 +3284,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841945.1",
@@ -3171,7 +3308,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031841985.1",
@@ -3194,7 +3332,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_031842005.1",
@@ -3217,7 +3356,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_043513835.1",
@@ -3240,7 +3380,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_043513845.1",
@@ -3263,7 +3404,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049242505.1",
@@ -3286,7 +3428,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051295775.1",
@@ -3309,7 +3452,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051295785.1",
@@ -3332,7 +3476,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051858795.1",
@@ -3355,7 +3500,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051858875.1",
@@ -3378,7 +3524,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_052625715.1",
@@ -3401,7 +3548,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_055769325.1",
@@ -3424,7 +3572,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_055769345.1",
@@ -3447,7 +3596,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056608965.1",
@@ -3470,7 +3620,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056621495.1",
@@ -3493,7 +3644,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056622355.1",
@@ -3516,7 +3668,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056622635.1",
@@ -3539,7 +3692,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056632715.1",
@@ -3562,7 +3716,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056632795.1",
@@ -3585,7 +3740,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056632815.1",
@@ -3608,7 +3764,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056632835.1",
@@ -3631,7 +3788,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056632885.1",
@@ -3654,7 +3812,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_057381315.1",
@@ -3677,7 +3836,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_900177155.1",
@@ -3700,7 +3860,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177165.1",
@@ -3723,7 +3884,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177175.1",
@@ -3746,7 +3908,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177185.1",
@@ -3769,7 +3932,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177195.1",
@@ -3792,7 +3956,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177205.1",
@@ -3815,7 +3980,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177215.1",
@@ -3838,7 +4004,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900177225.1",
@@ -3861,7 +4028,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215885.1",
@@ -3884,7 +4052,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002221985.1",
@@ -3907,7 +4076,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222375.1",
@@ -3930,7 +4100,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222215.1",
@@ -3953,7 +4124,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002220445.1",
@@ -3976,7 +4148,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215765.1",
@@ -3999,7 +4172,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215775.1",
@@ -4022,7 +4196,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215705.1",
@@ -4045,7 +4220,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222465.1",
@@ -4068,7 +4244,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222335.1",
@@ -4091,7 +4268,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002234625.1",
@@ -4114,7 +4292,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215835.1",
@@ -4137,7 +4316,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215825.1",
@@ -4160,7 +4340,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002215855.1",
@@ -4183,7 +4364,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222405.1",
@@ -4206,7 +4388,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222295.1",
@@ -4229,7 +4412,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222255.1",
@@ -4252,7 +4436,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002224005.1",
@@ -4275,7 +4460,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_000149245.1",
@@ -4298,7 +4484,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000149245.3",
@@ -4321,7 +4508,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_011801205.1",
@@ -4344,7 +4532,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002222455.1",
@@ -4367,7 +4556,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222395.1",
@@ -4390,7 +4580,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002220035.1",
@@ -4413,7 +4604,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525195.1",
@@ -4436,7 +4628,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525155.1",
@@ -4459,7 +4652,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525145.1",
@@ -4482,7 +4676,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525215.1",
@@ -4505,7 +4700,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525205.1",
@@ -4528,7 +4724,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525095.1",
@@ -4551,7 +4748,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525135.1",
@@ -4574,7 +4772,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525075.1",
@@ -4597,7 +4796,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_053525085.1",
@@ -4620,7 +4820,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222315.1",
@@ -4643,7 +4844,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222325.1",
@@ -4666,7 +4868,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222475.1",
@@ -4689,7 +4892,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222225.1",
@@ -4712,7 +4916,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002222385.1",
@@ -4735,6 +4940,7 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   }
 ]

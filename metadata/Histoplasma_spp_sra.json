@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286353",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286354",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286355",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286356",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286346",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286347",
@@ -151,7 +157,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286348",
@@ -173,7 +180,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286349",
@@ -195,7 +203,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286350",
@@ -217,7 +226,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34286351",
@@ -239,7 +249,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066866",
@@ -261,7 +272,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066867",
@@ -283,7 +295,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066868",
@@ -305,7 +318,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066869",
@@ -327,7 +341,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066870",
@@ -349,7 +364,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066871",
@@ -371,7 +387,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066872",
@@ -393,7 +410,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066873",
@@ -415,7 +433,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066874",
@@ -437,7 +456,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066875",
@@ -459,7 +479,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066876",
@@ -481,7 +502,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066877",
@@ -503,7 +525,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34066878",
@@ -525,7 +548,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33700783",
@@ -547,7 +571,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451955",
@@ -569,7 +594,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451956",
@@ -591,7 +617,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451957",
@@ -613,7 +640,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451958",
@@ -635,7 +663,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451959",
@@ -657,7 +686,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451960",
@@ -679,7 +709,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451961",
@@ -701,7 +732,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451962",
@@ -723,7 +755,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451963",
@@ -745,7 +778,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451964",
@@ -767,7 +801,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451965",
@@ -789,7 +824,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451966",
@@ -811,7 +847,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451967",
@@ -833,7 +870,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451968",
@@ -855,7 +893,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451969",
@@ -877,7 +916,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451970",
@@ -899,7 +939,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451971",
@@ -921,7 +962,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451972",
@@ -943,7 +985,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451973",
@@ -965,7 +1008,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451974",
@@ -987,7 +1031,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451975",
@@ -1009,7 +1054,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451976",
@@ -1031,7 +1077,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33451977",
@@ -1053,7 +1100,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403120",
@@ -1075,7 +1123,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403121",
@@ -1097,7 +1146,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403122",
@@ -1119,7 +1169,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403123",
@@ -1141,7 +1192,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403124",
@@ -1163,7 +1215,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403125",
@@ -1185,7 +1238,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403126",
@@ -1207,7 +1261,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403127",
@@ -1229,7 +1284,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403128",
@@ -1251,7 +1307,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403129",
@@ -1273,7 +1330,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403130",
@@ -1295,7 +1353,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403131",
@@ -1317,7 +1376,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403132",
@@ -1339,7 +1399,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403133",
@@ -1361,7 +1422,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403134",
@@ -1383,7 +1445,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403033",
@@ -1405,7 +1468,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403034",
@@ -1427,7 +1491,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403035",
@@ -1449,7 +1514,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403036",
@@ -1471,7 +1537,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403037",
@@ -1493,7 +1560,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403038",
@@ -1515,7 +1583,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403039",
@@ -1537,7 +1606,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403040",
@@ -1559,7 +1629,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403041",
@@ -1581,7 +1652,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403042",
@@ -1603,7 +1675,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403043",
@@ -1625,7 +1698,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403044",
@@ -1647,7 +1721,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403045",
@@ -1669,7 +1744,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403046",
@@ -1691,7 +1767,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403047",
@@ -1713,7 +1790,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403048",
@@ -1735,7 +1813,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403049",
@@ -1757,7 +1836,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403050",
@@ -1779,7 +1859,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403051",
@@ -1801,7 +1882,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403052",
@@ -1823,7 +1905,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403053",
@@ -1845,7 +1928,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403054",
@@ -1867,7 +1951,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403055",
@@ -1889,7 +1974,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403056",
@@ -1911,7 +1997,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403057",
@@ -1933,7 +2020,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403058",
@@ -1955,7 +2043,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403059",
@@ -1977,7 +2066,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403060",
@@ -1999,7 +2089,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403061",
@@ -2021,7 +2112,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403062",
@@ -2043,7 +2135,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403063",
@@ -2065,7 +2158,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403064",
@@ -2087,7 +2181,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403065",
@@ -2109,7 +2204,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403066",
@@ -2131,7 +2227,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403067",
@@ -2153,7 +2250,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403068",
@@ -2175,7 +2273,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403069",
@@ -2197,7 +2296,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403070",
@@ -2219,7 +2319,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403071",
@@ -2241,7 +2342,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403072",
@@ -2263,7 +2365,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403073",
@@ -2285,7 +2388,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403074",
@@ -2307,7 +2411,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403075",
@@ -2329,7 +2434,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403076",
@@ -2351,7 +2457,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403077",
@@ -2373,7 +2480,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403078",
@@ -2395,7 +2503,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403079",
@@ -2417,7 +2526,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403080",
@@ -2439,7 +2549,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403081",
@@ -2461,7 +2572,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403082",
@@ -2483,7 +2595,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403083",
@@ -2505,7 +2618,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403084",
@@ -2527,7 +2641,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403085",
@@ -2549,7 +2664,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403086",
@@ -2571,7 +2687,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403087",
@@ -2593,7 +2710,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403088",
@@ -2615,7 +2733,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403089",
@@ -2637,7 +2756,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403090",
@@ -2659,7 +2779,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403091",
@@ -2681,7 +2802,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403092",
@@ -2703,7 +2825,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403093",
@@ -2725,7 +2848,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403094",
@@ -2747,7 +2871,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403095",
@@ -2769,7 +2894,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403096",
@@ -2791,7 +2917,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403097",
@@ -2813,7 +2940,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403098",
@@ -2835,7 +2963,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403099",
@@ -2857,7 +2986,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403100",
@@ -2879,7 +3009,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403101",
@@ -2901,7 +3032,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403102",
@@ -2923,7 +3055,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403103",
@@ -2945,7 +3078,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403104",
@@ -2967,7 +3101,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403105",
@@ -2989,7 +3124,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403106",
@@ -3011,7 +3147,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403107",
@@ -3033,7 +3170,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403108",
@@ -3055,7 +3193,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403109",
@@ -3077,7 +3216,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403110",
@@ -3099,7 +3239,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403111",
@@ -3121,7 +3262,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403112",
@@ -3143,7 +3285,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403113",
@@ -3165,7 +3308,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403114",
@@ -3187,7 +3331,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403115",
@@ -3209,7 +3354,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403116",
@@ -3231,7 +3377,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403117",
@@ -3253,7 +3400,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403118",
@@ -3275,7 +3423,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33403119",
@@ -3297,7 +3446,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400204",
@@ -3319,7 +3469,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400180",
@@ -3341,7 +3492,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400181",
@@ -3363,7 +3515,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400182",
@@ -3385,7 +3538,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400183",
@@ -3407,7 +3561,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400184",
@@ -3429,7 +3584,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400185",
@@ -3451,7 +3607,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400186",
@@ -3473,7 +3630,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400187",
@@ -3495,7 +3653,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400188",
@@ -3517,7 +3676,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400189",
@@ -3539,7 +3699,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400190",
@@ -3561,7 +3722,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400191",
@@ -3583,7 +3745,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400192",
@@ -3605,7 +3768,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400193",
@@ -3627,7 +3791,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400194",
@@ -3649,7 +3814,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400195",
@@ -3671,7 +3837,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400196",
@@ -3693,7 +3860,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400197",
@@ -3715,7 +3883,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400198",
@@ -3737,7 +3906,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400199",
@@ -3759,7 +3929,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400200",
@@ -3781,7 +3952,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400201",
@@ -3803,7 +3975,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400202",
@@ -3825,7 +3998,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400203",
@@ -3847,7 +4021,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400206",
@@ -3869,7 +4044,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400207",
@@ -3891,7 +4067,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400208",
@@ -3913,7 +4090,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400209",
@@ -3935,7 +4113,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400210",
@@ -3957,7 +4136,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400211",
@@ -3979,7 +4159,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400212",
@@ -4001,7 +4182,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400213",
@@ -4023,7 +4205,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400214",
@@ -4045,7 +4228,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400215",
@@ -4067,7 +4251,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400216",
@@ -4089,7 +4274,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400217",
@@ -4111,7 +4297,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400218",
@@ -4133,7 +4320,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400219",
@@ -4155,7 +4343,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400220",
@@ -4177,7 +4366,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400221",
@@ -4199,7 +4389,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400222",
@@ -4221,7 +4412,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400223",
@@ -4243,7 +4435,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400224",
@@ -4265,7 +4458,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400225",
@@ -4287,7 +4481,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400226",
@@ -4309,7 +4504,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400227",
@@ -4331,7 +4527,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400228",
@@ -4353,7 +4550,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400229",
@@ -4375,7 +4573,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400230",
@@ -4397,7 +4596,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400231",
@@ -4419,7 +4619,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400205",
@@ -4441,7 +4642,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400232",
@@ -4463,7 +4665,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400233",
@@ -4485,7 +4688,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400234",
@@ -4507,7 +4711,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400235",
@@ -4529,7 +4734,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400236",
@@ -4551,7 +4757,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400237",
@@ -4573,7 +4780,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400238",
@@ -4595,7 +4803,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400239",
@@ -4617,7 +4826,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400240",
@@ -4639,7 +4849,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400241",
@@ -4661,7 +4872,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400242",
@@ -4683,7 +4895,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400243",
@@ -4705,7 +4918,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400244",
@@ -4727,7 +4941,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400245",
@@ -4749,7 +4964,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400246",
@@ -4771,7 +4987,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400247",
@@ -4793,7 +5010,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400248",
@@ -4815,7 +5033,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33400249",
@@ -4837,7 +5056,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380108",
@@ -4859,7 +5079,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380102",
@@ -4881,7 +5102,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380107",
@@ -4903,7 +5125,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380103",
@@ -4925,7 +5148,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380106",
@@ -4947,7 +5171,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380104",
@@ -4969,7 +5194,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380105",
@@ -4991,7 +5217,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380109",
@@ -5013,7 +5240,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR33380110",
@@ -5035,7 +5263,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121385",
@@ -5057,7 +5286,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121386",
@@ -5079,7 +5309,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121387",
@@ -5101,7 +5332,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121388",
@@ -5123,7 +5355,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121389",
@@ -5145,7 +5378,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121390",
@@ -5167,7 +5401,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121391",
@@ -5189,7 +5424,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121392",
@@ -5211,7 +5447,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121393",
@@ -5233,7 +5470,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121394",
@@ -5255,7 +5493,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121395",
@@ -5277,7 +5516,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121396",
@@ -5299,7 +5539,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121397",
@@ -5321,7 +5562,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121398",
@@ -5343,7 +5585,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121399",
@@ -5365,7 +5608,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121400",
@@ -5387,7 +5631,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121401",
@@ -5409,7 +5654,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32121402",
@@ -5431,7 +5677,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32029769",
@@ -5453,7 +5700,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32029770",
@@ -5475,7 +5723,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32027809",
@@ -5497,7 +5746,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR32027810",
@@ -5519,7 +5769,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893247",
@@ -5541,7 +5792,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893248",
@@ -5563,7 +5815,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893249",
@@ -5585,7 +5838,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893250",
@@ -5607,7 +5861,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893251",
@@ -5629,7 +5884,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893252",
@@ -5651,7 +5907,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893253",
@@ -5673,7 +5930,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893254",
@@ -5695,7 +5953,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893255",
@@ -5717,7 +5976,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893256",
@@ -5739,7 +5999,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893257",
@@ -5761,7 +6022,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893258",
@@ -5783,7 +6045,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893259",
@@ -5805,7 +6068,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893260",
@@ -5827,7 +6091,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893261",
@@ -5849,7 +6114,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893262",
@@ -5871,7 +6137,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893263",
@@ -5893,7 +6160,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893264",
@@ -5915,7 +6183,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893265",
@@ -5937,7 +6206,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893266",
@@ -5959,7 +6229,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893267",
@@ -5981,7 +6252,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893268",
@@ -6003,7 +6275,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893269",
@@ -6025,7 +6298,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893270",
@@ -6047,7 +6321,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893271",
@@ -6069,7 +6344,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893272",
@@ -6091,7 +6367,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893273",
@@ -6113,7 +6390,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893274",
@@ -6135,7 +6413,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893275",
@@ -6157,7 +6436,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893276",
@@ -6179,7 +6459,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893277",
@@ -6201,7 +6482,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893278",
@@ -6223,7 +6505,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893279",
@@ -6245,7 +6528,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893280",
@@ -6267,7 +6551,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893281",
@@ -6289,7 +6574,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893282",
@@ -6311,7 +6597,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893283",
@@ -6333,7 +6620,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893287",
@@ -6355,7 +6643,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893284",
@@ -6377,7 +6666,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893285",
@@ -6399,7 +6689,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893286",
@@ -6421,7 +6712,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893288",
@@ -6443,7 +6735,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893294",
@@ -6465,7 +6758,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893289",
@@ -6487,7 +6781,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893290",
@@ -6509,7 +6804,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893297",
@@ -6531,7 +6827,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893291",
@@ -6553,7 +6850,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893292",
@@ -6575,7 +6873,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893293",
@@ -6597,7 +6896,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893295",
@@ -6619,7 +6919,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893296",
@@ -6641,7 +6942,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893298",
@@ -6663,7 +6965,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893299",
@@ -6685,7 +6988,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893300",
@@ -6707,7 +7011,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893301",
@@ -6729,7 +7034,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893302",
@@ -6751,7 +7057,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893303",
@@ -6773,7 +7080,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893304",
@@ -6795,7 +7103,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893305",
@@ -6817,7 +7126,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893306",
@@ -6839,7 +7149,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893307",
@@ -6861,7 +7172,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893308",
@@ -6883,7 +7195,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893309",
@@ -6905,7 +7218,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893310",
@@ -6927,7 +7241,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893311",
@@ -6949,7 +7264,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893312",
@@ -6971,7 +7287,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31893313",
@@ -6993,7 +7310,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31797080",
@@ -7015,7 +7333,8 @@
     "library_selection": "Restriction Digest",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31751695",
@@ -7037,7 +7356,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31751696",
@@ -7059,7 +7379,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31751697",
@@ -7081,7 +7402,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31751698",
@@ -7103,7 +7425,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR31751699",
@@ -7125,7 +7448,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR29905395",
@@ -7147,7 +7471,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905396",
@@ -7169,7 +7494,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905397",
@@ -7191,7 +7517,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905398",
@@ -7213,7 +7540,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905399",
@@ -7235,7 +7563,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905400",
@@ -7257,7 +7586,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905401",
@@ -7279,7 +7609,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905402",
@@ -7301,7 +7632,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905403",
@@ -7323,7 +7655,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905404",
@@ -7345,7 +7678,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905405",
@@ -7367,7 +7701,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905406",
@@ -7389,7 +7724,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905407",
@@ -7411,7 +7747,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905408",
@@ -7433,7 +7770,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905409",
@@ -7455,7 +7793,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905410",
@@ -7477,7 +7816,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905411",
@@ -7499,7 +7839,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905412",
@@ -7521,7 +7862,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905413",
@@ -7543,7 +7885,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905414",
@@ -7565,7 +7908,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905415",
@@ -7587,7 +7931,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905416",
@@ -7609,7 +7954,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905417",
@@ -7631,7 +7977,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905418",
@@ -7653,7 +8000,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905419",
@@ -7675,7 +8023,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905420",
@@ -7697,7 +8046,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905421",
@@ -7719,7 +8069,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905422",
@@ -7741,7 +8092,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905423",
@@ -7763,7 +8115,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905424",
@@ -7785,7 +8138,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905425",
@@ -7807,7 +8161,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905426",
@@ -7829,7 +8184,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR29905427",
@@ -7851,7 +8207,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR27481863",
@@ -7873,7 +8230,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481864",
@@ -7895,7 +8253,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481865",
@@ -7917,7 +8276,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481866",
@@ -7939,7 +8299,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481867",
@@ -7961,7 +8322,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481868",
@@ -7983,7 +8345,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481869",
@@ -8005,7 +8368,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481870",
@@ -8027,7 +8391,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481871",
@@ -8049,7 +8414,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481872",
@@ -8071,7 +8437,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481873",
@@ -8093,7 +8460,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481874",
@@ -8115,7 +8483,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481875",
@@ -8137,7 +8506,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481876",
@@ -8159,7 +8529,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481877",
@@ -8181,7 +8552,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27481878",
@@ -8203,7 +8575,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25758805",
@@ -8225,7 +8598,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR25636130",
@@ -8247,7 +8621,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR25636145",
@@ -8269,7 +8644,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR25580010",
@@ -8291,7 +8667,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580011",
@@ -8313,7 +8690,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580012",
@@ -8335,7 +8713,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580013",
@@ -8357,7 +8736,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580014",
@@ -8379,7 +8759,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580015",
@@ -8401,7 +8782,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580016",
@@ -8423,7 +8805,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580017",
@@ -8445,7 +8828,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580018",
@@ -8467,7 +8851,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580019",
@@ -8489,7 +8874,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580020",
@@ -8511,7 +8897,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580021",
@@ -8533,7 +8920,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580022",
@@ -8555,7 +8943,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580023",
@@ -8577,7 +8966,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580024",
@@ -8599,7 +8989,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580025",
@@ -8621,7 +9012,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580026",
@@ -8643,7 +9035,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580027",
@@ -8665,7 +9058,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580028",
@@ -8687,7 +9081,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580029",
@@ -8709,7 +9104,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580030",
@@ -8731,7 +9127,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580031",
@@ -8753,7 +9150,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580032",
@@ -8775,7 +9173,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580033",
@@ -8797,7 +9196,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580034",
@@ -8819,7 +9219,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580035",
@@ -8841,7 +9242,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580036",
@@ -8863,7 +9265,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580037",
@@ -8885,7 +9288,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580038",
@@ -8907,7 +9311,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580039",
@@ -8929,7 +9334,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580040",
@@ -8951,7 +9357,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580041",
@@ -8973,7 +9380,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580042",
@@ -8995,7 +9403,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580043",
@@ -9017,7 +9426,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580044",
@@ -9039,7 +9449,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580045",
@@ -9061,7 +9472,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580046",
@@ -9083,7 +9495,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580047",
@@ -9105,7 +9518,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580048",
@@ -9127,7 +9541,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580049",
@@ -9149,7 +9564,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580050",
@@ -9171,7 +9587,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580051",
@@ -9193,7 +9610,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580052",
@@ -9215,7 +9633,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580053",
@@ -9237,7 +9656,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580054",
@@ -9259,7 +9679,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580055",
@@ -9281,7 +9702,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580056",
@@ -9303,7 +9725,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580057",
@@ -9325,7 +9748,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580058",
@@ -9347,7 +9771,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580059",
@@ -9369,7 +9794,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580060",
@@ -9391,7 +9817,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580061",
@@ -9413,7 +9840,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580062",
@@ -9435,7 +9863,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580063",
@@ -9457,7 +9886,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580064",
@@ -9479,7 +9909,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580065",
@@ -9501,7 +9932,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580066",
@@ -9523,7 +9955,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580067",
@@ -9545,7 +9978,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580068",
@@ -9567,7 +10001,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580069",
@@ -9589,7 +10024,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580070",
@@ -9611,7 +10047,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR25580071",
@@ -9633,7 +10070,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516101",
@@ -9655,7 +10093,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516102",
@@ -9677,7 +10116,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516103",
@@ -9699,7 +10139,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516104",
@@ -9721,7 +10162,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516105",
@@ -9743,7 +10185,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR24516106",
@@ -9765,7 +10208,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "ERR7414369",
@@ -9787,7 +10231,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "ERR7414368",
@@ -9809,7 +10254,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059726",
@@ -9831,7 +10277,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059727",
@@ -9853,7 +10300,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059728",
@@ -9875,7 +10323,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059729",
@@ -9897,7 +10346,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059730",
@@ -9919,7 +10369,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059731",
@@ -9941,7 +10392,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059732",
@@ -9963,7 +10415,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059733",
@@ -9985,7 +10438,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059734",
@@ -10007,7 +10461,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059735",
@@ -10029,7 +10484,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059736",
@@ -10051,7 +10507,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059737",
@@ -10073,7 +10530,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059738",
@@ -10095,7 +10553,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059739",
@@ -10117,7 +10576,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059740",
@@ -10139,7 +10599,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059741",
@@ -10161,7 +10622,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059742",
@@ -10183,7 +10645,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059743",
@@ -10205,7 +10668,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059744",
@@ -10227,7 +10691,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059745",
@@ -10249,7 +10714,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059746",
@@ -10271,7 +10737,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059747",
@@ -10293,7 +10760,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059748",
@@ -10315,7 +10783,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059749",
@@ -10337,7 +10806,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059750",
@@ -10359,7 +10829,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059751",
@@ -10381,7 +10852,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059752",
@@ -10403,7 +10875,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059753",
@@ -10425,7 +10898,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059754",
@@ -10447,7 +10921,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059755",
@@ -10469,7 +10944,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059756",
@@ -10491,7 +10967,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059757",
@@ -10513,7 +10990,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059758",
@@ -10535,7 +11013,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059759",
@@ -10557,7 +11036,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059760",
@@ -10579,7 +11059,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059761",
@@ -10601,7 +11082,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059762",
@@ -10623,7 +11105,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059763",
@@ -10645,7 +11128,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059764",
@@ -10667,7 +11151,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059765",
@@ -10689,7 +11174,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059766",
@@ -10711,7 +11197,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059767",
@@ -10733,7 +11220,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059768",
@@ -10755,7 +11243,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059769",
@@ -10777,7 +11266,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059770",
@@ -10799,7 +11289,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059771",
@@ -10821,7 +11312,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059772",
@@ -10843,7 +11335,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR21059773",
@@ -10865,7 +11358,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR20306114",
@@ -10887,7 +11381,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR20306115",
@@ -10909,7 +11404,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "SRR17307786",
@@ -10931,7 +11427,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307787",
@@ -10953,7 +11450,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307788",
@@ -10975,7 +11473,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307789",
@@ -10997,7 +11496,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307790",
@@ -11019,7 +11519,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307791",
@@ -11041,7 +11542,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307792",
@@ -11063,7 +11565,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307793",
@@ -11085,7 +11588,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307794",
@@ -11107,7 +11611,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307795",
@@ -11129,7 +11634,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR17307796",
@@ -11151,7 +11657,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13508697",
@@ -11173,7 +11680,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13508696",
@@ -11195,7 +11703,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13433424",
@@ -11217,7 +11726,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13433422",
@@ -11239,7 +11749,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13433402",
@@ -11261,7 +11772,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13423221",
@@ -11283,7 +11795,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13423209",
@@ -11305,7 +11818,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13423208",
@@ -11327,7 +11841,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13218825",
@@ -11349,7 +11864,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13213343",
@@ -11371,7 +11887,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398191",
@@ -11393,7 +11910,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398190",
@@ -11415,7 +11933,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398189",
@@ -11437,7 +11956,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398188",
@@ -11459,7 +11979,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398187",
@@ -11481,7 +12002,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398186",
@@ -11503,7 +12025,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398185",
@@ -11525,7 +12048,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398184",
@@ -11547,7 +12071,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398183",
@@ -11569,7 +12094,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398182",
@@ -11591,7 +12117,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR9398181",
@@ -11613,7 +12140,8 @@
     "library_selection": "unspecified",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR8426586",
@@ -11635,7 +12163,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8347492",
@@ -11657,7 +12186,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084704",
@@ -11679,7 +12209,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084705",
@@ -11701,7 +12232,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084706",
@@ -11723,7 +12255,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084707",
@@ -11745,7 +12278,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084708",
@@ -11767,7 +12301,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084709",
@@ -11789,7 +12324,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084710",
@@ -11811,7 +12347,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084711",
@@ -11833,7 +12370,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084712",
@@ -11855,7 +12393,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084713",
@@ -11877,7 +12416,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084714",
@@ -11899,7 +12439,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084715",
@@ -11921,7 +12462,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084716",
@@ -11943,7 +12485,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084717",
@@ -11965,7 +12508,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084718",
@@ -11987,7 +12531,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084719",
@@ -12009,7 +12554,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084720",
@@ -12031,7 +12577,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8084721",
@@ -12053,7 +12600,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243633",
@@ -12075,7 +12623,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243634",
@@ -12097,7 +12646,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243635",
@@ -12119,7 +12669,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243636",
@@ -12141,7 +12692,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243637",
@@ -12163,7 +12715,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243638",
@@ -12185,7 +12738,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243639",
@@ -12207,7 +12761,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243640",
@@ -12229,7 +12784,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243641",
@@ -12251,7 +12807,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243642",
@@ -12273,7 +12830,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243643",
@@ -12295,7 +12853,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243644",
@@ -12317,7 +12876,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243645",
@@ -12339,7 +12899,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243646",
@@ -12361,7 +12922,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243647",
@@ -12383,7 +12945,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243648",
@@ -12405,7 +12968,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243649",
@@ -12427,7 +12991,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243650",
@@ -12449,7 +13014,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243651",
@@ -12471,7 +13037,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243652",
@@ -12493,7 +13060,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243653",
@@ -12515,7 +13083,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243654",
@@ -12537,7 +13106,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243655",
@@ -12559,7 +13129,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243656",
@@ -12581,7 +13152,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243657",
@@ -12603,7 +13175,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243658",
@@ -12625,7 +13198,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243659",
@@ -12647,7 +13221,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243660",
@@ -12669,7 +13244,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243661",
@@ -12691,7 +13267,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR6243662",
@@ -12713,6 +13290,7 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   }
 ]

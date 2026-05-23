@@ -266,6 +266,8 @@ def _collection_year_counts_by_species(records: list[dict]) -> tuple[dict, dict,
 
 HOST_CATEGORIES = ["human", "animal", "plant", "environment",
                    "food", "clinical_other", "laboratory", "unknown"]
+SUBMITTER_CATEGORIES = ["public_health", "hospital_clinical", "university",
+                        "research_institute", "agriculture", "commercial", "other"]
 
 
 def _host_category_counts(records: list[dict]) -> dict:
@@ -273,6 +275,15 @@ def _host_category_counts(records: list[dict]) -> dict:
     counts = defaultdict(lambda: Counter({c: 0 for c in HOST_CATEGORIES}))
     for r in records:
         cat = r.get("host_category") or "unknown"
+        counts[r["fppl_name"]][cat] += 1
+    return {k: dict(v) for k, v in counts.items()}
+
+
+def _submitter_category_counts(records: list[dict]) -> dict:
+    """Per-species submitter_category counts. {species: {category: n}}."""
+    counts = defaultdict(lambda: Counter({c: 0 for c in SUBMITTER_CATEGORIES}))
+    for r in records:
+        cat = r.get("submitter_category") or "other"
         counts[r["fppl_name"]][cat] += 1
     return {k: dict(v) for k, v in counts.items()}
 
@@ -373,6 +384,11 @@ def compute_stats(genome_records: list[dict], sra_records: list[dict]) -> dict:
     host_cat_genomes = _host_category_counts(genome_records)
     host_cat_sra = _host_category_counts(sra_records)
 
+    # Submitter categories per species
+    submitter_cat_combined = _submitter_category_counts(all_records)
+    submitter_cat_genomes = _submitter_category_counts(genome_records)
+    submitter_cat_sra = _submitter_category_counts(sra_records)
+
     # Raw host / isolation_source top-N per species (combined)
     raw_host_top = _raw_host_top_n(all_records, n=15)
     raw_isolation_top = _isolation_source_top_n(all_records, n=15)
@@ -406,6 +422,10 @@ def compute_stats(genome_records: list[dict], sra_records: list[dict]) -> dict:
         "host_category_counts": host_cat_combined,
         "host_category_counts_genomes": host_cat_genomes,
         "host_category_counts_sra": host_cat_sra,
+        "submitter_category_counts": submitter_cat_combined,
+        "submitter_category_counts_genomes": submitter_cat_genomes,
+        "submitter_category_counts_sra": submitter_cat_sra,
+        "submitter_categories": SUBMITTER_CATEGORIES,
         "raw_host_top": raw_host_top,
         "raw_isolation_top": raw_isolation_top,
         "submitters_combined": submitters_combined,
@@ -459,7 +479,8 @@ def write_genome_csv(records: list[dict], path: Path):
     fields = ["accession", "organism_name", "tax_id", "fppl_name", "priority",
               "release_date", "assembly_level", "collection_date", "geo_loc_name",
               "host", "isolation_source", "host_disease", "env_broad_scale",
-              "host_category", "submitter", "biosample_owner", "assembly_submitter",
+              "host_category", "submitter", "submitter_category",
+              "biosample_owner", "assembly_submitter",
               "bioproject_accession", "genome_size_bp", "gc_percent"]
     with open(path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
@@ -472,8 +493,9 @@ def write_sra_csv(records: list[dict], path: Path):
     fields = ["accession", "organism_name", "tax_id", "fppl_name", "priority",
               "release_date", "collection_date", "geo_loc_name",
               "host", "isolation_source", "host_disease", "env_broad_scale",
-              "host_category", "submitter", "bioproject_accession",
-              "study_accession", "platform", "instrument_model",
+              "host_category", "submitter", "submitter_category",
+              "bioproject_accession", "study_accession",
+              "platform", "instrument_model",
               "library_strategy", "library_source", "library_selection"]
     with open(path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
@@ -494,6 +516,25 @@ def write_host_category_csv(host_cat_counts: dict, species_priority: dict, path:
             total = 0
             for cat in HOST_CATEGORIES:
                 n = counts.get(cat, 0)
+                row[cat] = n
+                total += n
+            row["total"] = total
+            writer.writerow(row)
+
+
+def write_submitter_categories_csv(counts: dict, species_priority: dict, path: Path):
+    """Write per-species submitter category counts as a wide CSV."""
+    fields = ["fppl_name", "priority"] + SUBMITTER_CATEGORIES + ["total"]
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for species in sorted(counts.keys()):
+            row_counts = counts[species]
+            row = {"fppl_name": species,
+                   "priority": species_priority.get(species, "")}
+            total = 0
+            for cat in SUBMITTER_CATEGORIES:
+                n = row_counts.get(cat, 0)
                 row[cat] = n
                 total += n
             row["total"] = total
@@ -606,6 +647,12 @@ def main():
         BUILD_DIR / "submitters.csv",
     )
     print(f"Submitters CSV written to {BUILD_DIR / 'submitters.csv'}")
+
+    write_submitter_categories_csv(
+        stats["submitter_category_counts"], stats["species_priority_map"],
+        BUILD_DIR / "submitter_categories.csv",
+    )
+    print(f"Submitter categories CSV written to {BUILD_DIR / 'submitter_categories.csv'}")
 
 
 if __name__ == "__main__":

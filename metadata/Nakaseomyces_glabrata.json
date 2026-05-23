@@ -20,7 +20,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCF_000002545.3",
@@ -43,7 +44,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000002545.2",
@@ -66,7 +68,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001466525.1",
@@ -89,7 +92,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001466535.1",
@@ -112,7 +116,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001466565.1",
@@ -135,7 +140,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001466575.1",
@@ -158,7 +164,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001466635.1",
@@ -181,7 +188,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001466685.1",
@@ -204,7 +212,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002219185.1",
@@ -227,7 +236,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002219195.1",
@@ -250,7 +260,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002259835.1",
@@ -273,7 +284,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_004332445.1",
@@ -296,7 +308,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_004332455.1",
@@ -319,7 +332,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_004332465.1",
@@ -342,7 +356,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_010111755.1",
@@ -365,7 +380,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_014217725.1",
@@ -388,7 +404,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020450195.1",
@@ -411,7 +428,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020450215.1",
@@ -434,7 +452,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020450235.1",
@@ -457,7 +476,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020450265.1",
@@ -480,7 +500,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797185.1",
@@ -503,7 +524,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797195.1",
@@ -526,7 +548,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797205.1",
@@ -549,7 +572,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797215.1",
@@ -572,7 +596,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797225.1",
@@ -595,7 +620,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797325.1",
@@ -618,7 +644,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020797355.1",
@@ -641,7 +668,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_021498365.1",
@@ -664,7 +692,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_021498375.1",
@@ -687,7 +716,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_021498385.1",
@@ -710,7 +740,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_021498435.1",
@@ -733,7 +764,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_022702475.2",
@@ -756,7 +788,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_023629135.1",
@@ -779,7 +812,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629155.1",
@@ -802,7 +836,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024195175.2",
@@ -825,7 +860,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024665945.1",
@@ -848,7 +884,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_024665985.1",
@@ -871,7 +908,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_024666015.1",
@@ -894,7 +932,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_025331885.1",
@@ -917,7 +956,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025331905.1",
@@ -940,7 +980,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025503555.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539265.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539545.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539665.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539755.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539885.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539955.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 40.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026539985.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026540005.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026540015.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_027480175.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_027480185.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_027480195.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "commercial"
   },
   {
     "accession": "GCA_030579235.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_037013435.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037039695.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_041121405.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121415.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121425.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121435.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121665.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121675.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121685.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121695.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121705.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041121715.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_043790645.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_043790665.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_043790705.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_043790815.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_043790835.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044592685.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_048569415.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_049307345.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_049307425.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_050859445.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051943915.2",
@@ -1791,7 +1868,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_051944255.2",
@@ -1814,7 +1892,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_051944275.2",
@@ -1837,7 +1916,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_051996735.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051996855.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051996955.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_052692795.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_052855765.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_056150915.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150955.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150985.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151015.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151045.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151075.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151105.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151135.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151165.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151225.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056669465.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_900096545.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900166875.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_937870575.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000497105.2",
@@ -2297,6 +2396,7 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   }
 ]

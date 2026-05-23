@@ -20,7 +20,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002259865.1",
@@ -43,7 +44,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002259875.1",
@@ -66,7 +68,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002259885.1",
@@ -89,7 +92,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002276455.1",
@@ -112,7 +116,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002835845.1",
@@ -135,7 +140,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_002837675.1",
@@ -158,7 +164,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_003454735.1",
@@ -181,7 +188,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_004026255.1",
@@ -204,7 +212,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_005890685.1",
@@ -227,7 +236,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_005890695.1",
@@ -250,7 +260,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_005890705.1",
@@ -273,7 +284,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_005890745.1",
@@ -296,7 +308,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_005890765.1",
@@ -319,7 +332,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_005890775.1",
@@ -342,7 +356,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_011037055.1",
@@ -365,7 +380,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_014049485.1",
@@ -388,7 +404,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_014825715.1",
@@ -411,7 +428,8 @@
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_015227795.1",
@@ -434,7 +452,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015344825.1",
@@ -457,7 +476,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015344855.1",
@@ -480,7 +500,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015344895.1",
@@ -503,7 +524,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345605.1",
@@ -526,7 +548,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345625.1",
@@ -549,7 +572,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345665.1",
@@ -572,7 +596,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345685.1",
@@ -595,7 +620,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345725.1",
@@ -618,7 +644,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345745.1",
@@ -641,7 +668,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345785.1",
@@ -664,7 +692,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345795.1",
@@ -687,7 +716,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345815.1",
@@ -710,7 +740,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_015345835.1",
@@ -733,7 +764,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_016906495.1",
@@ -756,7 +788,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020027055.1",
@@ -779,7 +812,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020027065.1",
@@ -802,7 +836,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_020027085.1",
@@ -825,7 +860,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_023623345.1",
@@ -848,7 +884,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023623395.1",
@@ -871,7 +908,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023623405.1",
@@ -894,7 +932,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766345.1",
@@ -917,7 +956,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766415.1",
@@ -940,7 +980,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766435.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766445.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766475.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766515.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766535.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766575.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766595.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025767555.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_028532805.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_028532825.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931495.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931505.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931515.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931525.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931585.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931595.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931615.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931635.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931665.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931675.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931695.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029931725.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_030582515.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032688725.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037039665.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037040415.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037040515.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037040595.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037041175.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_041438215.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_041438225.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_042860215.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_042860225.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_042860255.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044592555.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044592615.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044592765.1",
@@ -1791,7 +1868,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044592855.1",
@@ -1814,7 +1892,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049307185.1",
@@ -1837,7 +1916,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_049307325.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_049997665.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049997695.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049997725.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051940765.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_052855785.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_053525435.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525455.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525475.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525495.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525535.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525565.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525585.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_053525615.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150635.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150675.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150765.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150785.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150845.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056150895.1",
@@ -2297,7 +2396,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151595.1",
@@ -2320,7 +2420,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151625.1",
@@ -2343,7 +2444,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151655.1",
@@ -2366,7 +2468,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151685.1",
@@ -2389,7 +2492,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151705.1",
@@ -2412,7 +2516,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151785.1",
@@ -2435,7 +2540,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_937870745.1",
@@ -2458,7 +2564,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773845.1",
@@ -2481,7 +2588,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000775445.1",
@@ -2504,7 +2612,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447595.1",
@@ -2527,7 +2636,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447455.1",
@@ -2550,7 +2660,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447615.1",
@@ -2573,7 +2684,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447575.1",
@@ -2596,7 +2708,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447495.1",
@@ -2619,7 +2732,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447535.1",
@@ -2642,7 +2756,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447515.1",
@@ -2665,7 +2780,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447635.1",
@@ -2688,7 +2804,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447475.1",
@@ -2711,7 +2828,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000691765.2",
@@ -2734,7 +2852,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784695.1",
@@ -2757,7 +2876,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000447555.1",
@@ -2780,7 +2900,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_017309835.1",
@@ -2803,7 +2924,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000773735.1",
@@ -2826,7 +2948,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000775455.1",
@@ -2849,7 +2972,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000775465.1",
@@ -2872,7 +2996,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773745.1",
@@ -2895,7 +3020,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773825.1",
@@ -2918,7 +3044,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784515.1",
@@ -2941,7 +3068,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000775505.1",
@@ -2964,7 +3092,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773805.1",
@@ -2987,7 +3116,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784525.1",
@@ -3010,7 +3140,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784575.1",
@@ -3033,7 +3164,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784595.1",
@@ -3056,7 +3188,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000775525.1",
@@ -3079,7 +3212,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784505.1",
@@ -3102,7 +3236,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784495.1",
@@ -3125,7 +3260,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784615.1",
@@ -3148,7 +3284,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773725.1",
@@ -3171,7 +3308,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000774085.1",
@@ -3194,7 +3332,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000773755.1",
@@ -3217,7 +3356,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_000182965.3",
@@ -3240,7 +3380,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000182965.3",
@@ -3263,7 +3404,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000784635.1",
@@ -3286,7 +3428,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000784655.1",
@@ -3309,7 +3452,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000149445.2",
@@ -3332,6 +3476,7 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   }
 ]

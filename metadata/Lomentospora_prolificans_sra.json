@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR23262664",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR23262665",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR23262666",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510390",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510391",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510392",
@@ -151,7 +157,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510393",
@@ -173,7 +180,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510394",
@@ -195,7 +203,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510395",
@@ -217,7 +226,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR8510396",
@@ -239,7 +249,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR5812844",
@@ -261,7 +272,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR5812813",
@@ -283,6 +295,7 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   }
 ]

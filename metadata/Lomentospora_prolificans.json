@@ -20,7 +20,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002276285.1",
@@ -43,7 +44,8 @@
     "gc_percent": 51.5,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029532535.1",
@@ -66,7 +68,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029532575.1",
@@ -89,7 +92,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_055860905.1",
@@ -112,7 +116,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056847425.1",
@@ -135,7 +140,8 @@
     "gc_percent": 51.5,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056869895.1",
@@ -158,6 +164,7 @@
     "gc_percent": 51.5,
     "source": "genome",
     "fppl_name": "Lomentospora prolificans",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   }
 ]

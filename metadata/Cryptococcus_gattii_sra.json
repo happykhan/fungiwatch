@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113447",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113454",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113459",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113455",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113458",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113456",
@@ -151,7 +157,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113457",
@@ -173,7 +180,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113461",
@@ -195,7 +203,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113466",
@@ -217,7 +226,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113462",
@@ -239,7 +249,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113465",
@@ -261,7 +272,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113463",
@@ -283,7 +295,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113464",
@@ -305,7 +318,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113467",
@@ -327,7 +341,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113468",
@@ -349,7 +364,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113469",
@@ -371,7 +387,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113470",
@@ -393,7 +410,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113471",
@@ -415,7 +433,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113472",
@@ -437,7 +456,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113473",
@@ -459,7 +479,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113474",
@@ -481,7 +502,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113475",
@@ -503,7 +525,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113476",
@@ -525,7 +548,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113477",
@@ -547,7 +571,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113478",
@@ -569,7 +594,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113479",
@@ -591,7 +617,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113480",
@@ -613,7 +640,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113485",
@@ -635,7 +663,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113484",
@@ -657,7 +686,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113482",
@@ -679,7 +709,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113483",
@@ -701,7 +732,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113486",
@@ -723,7 +755,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113492",
@@ -745,7 +778,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113488",
@@ -767,7 +801,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113491",
@@ -789,7 +824,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113489",
@@ -811,7 +847,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113490",
@@ -833,7 +870,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR34113494",
@@ -855,7 +893,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR28807718",
@@ -877,7 +916,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807719",
@@ -899,7 +939,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807720",
@@ -921,7 +962,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807722",
@@ -943,7 +985,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807723",
@@ -965,7 +1008,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807724",
@@ -987,7 +1031,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807725",
@@ -1009,7 +1054,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807726",
@@ -1031,7 +1077,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807727",
@@ -1053,7 +1100,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807728",
@@ -1075,7 +1123,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807729",
@@ -1097,7 +1146,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807730",
@@ -1119,7 +1169,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807731",
@@ -1141,7 +1192,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807732",
@@ -1163,7 +1215,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807733",
@@ -1185,7 +1238,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807734",
@@ -1207,7 +1261,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807735",
@@ -1229,7 +1284,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807736",
@@ -1251,7 +1307,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807737",
@@ -1273,7 +1330,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807739",
@@ -1295,7 +1353,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807740",
@@ -1317,7 +1376,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807741",
@@ -1339,7 +1399,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807742",
@@ -1361,7 +1422,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807743",
@@ -1383,7 +1445,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807744",
@@ -1405,7 +1468,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807745",
@@ -1427,7 +1491,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807746",
@@ -1449,7 +1514,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807747",
@@ -1471,7 +1537,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807748",
@@ -1493,7 +1560,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807750",
@@ -1515,7 +1583,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807751",
@@ -1537,7 +1606,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807752",
@@ -1559,7 +1629,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807339",
@@ -1581,7 +1652,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807340",
@@ -1603,7 +1675,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807341",
@@ -1625,7 +1698,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807344",
@@ -1647,7 +1721,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807345",
@@ -1669,7 +1744,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807346",
@@ -1691,7 +1767,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807347",
@@ -1713,7 +1790,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807348",
@@ -1735,7 +1813,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807349",
@@ -1757,7 +1836,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807350",
@@ -1779,7 +1859,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807351",
@@ -1801,7 +1882,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807352",
@@ -1823,7 +1905,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807353",
@@ -1845,7 +1928,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807355",
@@ -1867,7 +1951,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807356",
@@ -1889,7 +1974,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807357",
@@ -1911,7 +1997,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807358",
@@ -1933,7 +2020,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807359",
@@ -1955,7 +2043,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807360",
@@ -1977,7 +2066,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807361",
@@ -1999,7 +2089,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807362",
@@ -2021,7 +2112,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807363",
@@ -2043,7 +2135,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807364",
@@ -2065,7 +2158,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807366",
@@ -2087,7 +2181,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807367",
@@ -2109,7 +2204,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807368",
@@ -2131,7 +2227,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807369",
@@ -2153,7 +2250,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807370",
@@ -2175,7 +2273,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807371",
@@ -2197,7 +2296,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807372",
@@ -2219,7 +2319,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807373",
@@ -2241,7 +2342,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807374",
@@ -2263,7 +2365,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807375",
@@ -2285,7 +2388,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807377",
@@ -2307,7 +2411,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807378",
@@ -2329,7 +2434,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807379",
@@ -2351,7 +2457,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807380",
@@ -2373,7 +2480,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807381",
@@ -2395,7 +2503,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807382",
@@ -2417,7 +2526,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807383",
@@ -2439,7 +2549,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807384",
@@ -2461,7 +2572,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807385",
@@ -2483,7 +2595,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807386",
@@ -2505,7 +2618,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807387",
@@ -2527,7 +2641,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807388",
@@ -2549,7 +2664,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807389",
@@ -2571,7 +2687,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807390",
@@ -2593,7 +2710,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807391",
@@ -2615,7 +2733,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807392",
@@ -2637,7 +2756,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807393",
@@ -2659,7 +2779,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807395",
@@ -2681,7 +2802,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807091",
@@ -2703,7 +2825,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807092",
@@ -2725,7 +2848,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807093",
@@ -2747,7 +2871,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807094",
@@ -2769,7 +2894,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807095",
@@ -2791,7 +2917,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807096",
@@ -2813,7 +2940,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807097",
@@ -2835,7 +2963,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807098",
@@ -2857,7 +2986,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807099",
@@ -2879,7 +3009,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807100",
@@ -2901,7 +3032,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807102",
@@ -2923,7 +3055,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807103",
@@ -2945,7 +3078,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807104",
@@ -2967,7 +3101,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807105",
@@ -2989,7 +3124,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807106",
@@ -3011,7 +3147,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807107",
@@ -3033,7 +3170,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807108",
@@ -3055,7 +3193,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807109",
@@ -3077,7 +3216,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807110",
@@ -3099,7 +3239,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807111",
@@ -3121,7 +3262,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR28807113",
@@ -3143,7 +3285,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR27350343",
@@ -3165,7 +3308,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350350",
@@ -3187,7 +3331,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350351",
@@ -3209,7 +3354,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350353",
@@ -3231,7 +3377,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350354",
@@ -3253,7 +3400,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350358",
@@ -3275,7 +3423,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350359",
@@ -3297,7 +3446,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350360",
@@ -3319,7 +3469,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350363",
@@ -3341,7 +3492,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350365",
@@ -3363,7 +3515,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350366",
@@ -3385,7 +3538,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350367",
@@ -3407,7 +3561,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350369",
@@ -3429,7 +3584,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350371",
@@ -3451,7 +3607,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350375",
@@ -3473,7 +3630,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350378",
@@ -3495,7 +3653,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350379",
@@ -3517,7 +3676,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350380",
@@ -3539,7 +3699,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350381",
@@ -3561,7 +3722,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350382",
@@ -3583,7 +3745,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350383",
@@ -3605,7 +3768,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350385",
@@ -3627,7 +3791,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350386",
@@ -3649,7 +3814,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350387",
@@ -3671,7 +3837,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350389",
@@ -3693,7 +3860,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350390",
@@ -3715,7 +3883,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350392",
@@ -3737,7 +3906,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350394",
@@ -3759,7 +3929,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350395",
@@ -3781,7 +3952,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350396",
@@ -3803,7 +3975,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350397",
@@ -3825,7 +3998,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350399",
@@ -3847,7 +4021,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350400",
@@ -3869,7 +4044,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350404",
@@ -3891,7 +4067,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350407",
@@ -3913,7 +4090,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350416",
@@ -3935,7 +4113,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350418",
@@ -3957,7 +4136,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350419",
@@ -3979,7 +4159,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350420",
@@ -4001,7 +4182,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350421",
@@ -4023,7 +4205,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350424",
@@ -4045,7 +4228,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350430",
@@ -4067,7 +4251,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27350436",
@@ -4089,7 +4274,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295210",
@@ -4111,7 +4297,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295215",
@@ -4133,7 +4320,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295220",
@@ -4155,7 +4343,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295221",
@@ -4177,7 +4366,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295222",
@@ -4199,7 +4389,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295225",
@@ -4221,7 +4412,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR27295229",
@@ -4243,7 +4435,8 @@
     "library_selection": "DNase",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR24010549",
@@ -4265,7 +4458,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR14695747",
@@ -4287,7 +4481,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695748",
@@ -4309,7 +4504,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695749",
@@ -4331,7 +4527,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695750",
@@ -4353,7 +4550,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695751",
@@ -4375,7 +4573,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695752",
@@ -4397,7 +4596,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695753",
@@ -4419,7 +4619,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695754",
@@ -4441,7 +4642,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695755",
@@ -4463,7 +4665,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695756",
@@ -4485,7 +4688,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695757",
@@ -4507,7 +4711,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695763",
@@ -4529,7 +4734,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695764",
@@ -4551,7 +4757,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695765",
@@ -4573,7 +4780,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695766",
@@ -4595,7 +4803,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695767",
@@ -4617,7 +4826,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695768",
@@ -4639,7 +4849,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695769",
@@ -4661,7 +4872,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695770",
@@ -4683,7 +4895,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695771",
@@ -4705,7 +4918,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695772",
@@ -4727,7 +4941,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695773",
@@ -4749,7 +4964,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695774",
@@ -4771,7 +4987,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14695775",
@@ -4793,7 +5010,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR14658099",
@@ -4815,7 +5033,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR13742181",
@@ -4837,7 +5056,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13742183",
@@ -4859,7 +5079,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13742184",
@@ -4881,7 +5102,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13742186",
@@ -4903,7 +5125,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR13742189",
@@ -4925,7 +5148,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR7345523",
@@ -4947,7 +5171,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345524",
@@ -4969,7 +5194,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345528",
@@ -4991,7 +5217,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345538",
@@ -5013,7 +5240,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345547",
@@ -5035,7 +5263,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345549",
@@ -5057,7 +5286,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR7345550",
@@ -5079,7 +5309,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707854",
@@ -5101,7 +5332,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707853",
@@ -5123,7 +5355,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707852",
@@ -5145,7 +5378,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707851",
@@ -5167,7 +5401,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707850",
@@ -5189,7 +5424,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707849",
@@ -5211,7 +5447,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707848",
@@ -5233,7 +5470,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707847",
@@ -5255,7 +5493,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707846",
@@ -5277,7 +5516,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707845",
@@ -5299,7 +5539,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707844",
@@ -5321,7 +5562,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707843",
@@ -5343,7 +5585,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707841",
@@ -5365,7 +5608,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707840",
@@ -5387,7 +5631,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707839",
@@ -5409,7 +5654,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707838",
@@ -5431,7 +5677,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707837",
@@ -5453,7 +5700,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707836",
@@ -5475,7 +5723,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707835",
@@ -5497,7 +5746,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707834",
@@ -5519,7 +5769,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707833",
@@ -5541,7 +5792,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707831",
@@ -5563,7 +5815,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707830",
@@ -5585,7 +5838,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707829",
@@ -5607,7 +5861,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707828",
@@ -5629,7 +5884,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707827",
@@ -5651,7 +5907,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707826",
@@ -5673,7 +5930,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707825",
@@ -5695,7 +5953,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707824",
@@ -5717,7 +5976,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707823",
@@ -5739,7 +5999,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707822",
@@ -5761,7 +6022,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707821",
@@ -5783,7 +6045,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707820",
@@ -5805,7 +6068,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707803",
@@ -5827,7 +6091,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707802",
@@ -5849,7 +6114,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707801",
@@ -5871,7 +6137,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707784",
@@ -5893,7 +6160,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707783",
@@ -5915,7 +6183,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707781",
@@ -5937,7 +6206,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707780",
@@ -5959,7 +6229,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707779",
@@ -5981,7 +6252,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707778",
@@ -6003,7 +6275,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707777",
@@ -6025,7 +6298,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707776",
@@ -6047,7 +6321,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707775",
@@ -6069,7 +6344,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707774",
@@ -6091,7 +6367,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707773",
@@ -6113,7 +6390,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707772",
@@ -6135,7 +6413,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707771",
@@ -6157,7 +6436,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707770",
@@ -6179,7 +6459,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707769",
@@ -6201,7 +6482,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707768",
@@ -6223,7 +6505,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707767",
@@ -6245,7 +6528,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707766",
@@ -6267,7 +6551,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707765",
@@ -6289,7 +6574,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707764",
@@ -6311,7 +6597,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707762",
@@ -6333,7 +6620,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707761",
@@ -6355,7 +6643,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707760",
@@ -6377,7 +6666,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707759",
@@ -6399,7 +6689,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707758",
@@ -6421,7 +6712,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707757",
@@ -6443,7 +6735,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR3707756",
@@ -6465,7 +6758,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "ERR299603",
@@ -6487,7 +6781,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105735",
@@ -6509,7 +6804,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105729",
@@ -6531,7 +6827,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105728",
@@ -6553,7 +6850,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105727",
@@ -6575,7 +6873,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105726",
@@ -6597,7 +6896,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105725",
@@ -6619,7 +6919,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105724",
@@ -6641,7 +6942,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105723",
@@ -6663,7 +6965,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105722",
@@ -6685,7 +6988,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105706",
@@ -6707,7 +7011,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105705",
@@ -6729,7 +7034,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1105704",
@@ -6751,7 +7057,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR965988",
@@ -6773,7 +7080,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR965987",
@@ -6795,7 +7103,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR965984",
@@ -6817,7 +7126,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR825335",
@@ -6839,7 +7149,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798864",
@@ -6861,7 +7172,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798860",
@@ -6883,7 +7195,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798757",
@@ -6905,7 +7218,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798684",
@@ -6927,7 +7241,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798658",
@@ -6949,7 +7264,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798655",
@@ -6971,7 +7287,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798594",
@@ -6993,7 +7310,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798267",
@@ -7015,7 +7333,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798258",
@@ -7037,7 +7356,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR798168",
@@ -7059,7 +7379,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR797806",
@@ -7081,7 +7402,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR797788",
@@ -7103,7 +7425,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062979",
@@ -7125,7 +7448,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062980",
@@ -7147,7 +7471,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062981",
@@ -7169,7 +7494,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062973",
@@ -7191,7 +7517,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062972",
@@ -7213,7 +7540,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062975",
@@ -7235,7 +7563,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062971",
@@ -7257,7 +7586,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062965",
@@ -7279,7 +7609,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062966",
@@ -7301,7 +7632,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062958",
@@ -7323,7 +7655,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062963",
@@ -7345,7 +7678,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062960",
@@ -7367,7 +7701,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062953",
@@ -7389,7 +7724,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062951",
@@ -7411,7 +7747,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062952",
@@ -7433,7 +7770,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062947",
@@ -7455,7 +7793,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062945",
@@ -7477,7 +7816,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1062944",
@@ -7499,7 +7839,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR643918",
@@ -7521,7 +7862,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643937",
@@ -7543,7 +7885,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643935",
@@ -7565,7 +7908,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643934",
@@ -7587,7 +7931,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643933",
@@ -7609,7 +7954,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643932",
@@ -7631,7 +7977,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643931",
@@ -7653,7 +8000,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643930",
@@ -7675,7 +8023,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643929",
@@ -7697,7 +8046,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643928",
@@ -7719,7 +8069,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643927",
@@ -7741,7 +8092,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643926",
@@ -7763,7 +8115,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643925",
@@ -7785,7 +8138,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643924",
@@ -7807,7 +8161,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643923",
@@ -7829,7 +8184,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643922",
@@ -7851,7 +8207,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643921",
@@ -7873,7 +8230,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643920",
@@ -7895,7 +8253,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643919",
@@ -7917,7 +8276,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643917",
@@ -7939,7 +8299,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR643914",
@@ -7961,6 +8322,7 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   }
 ]

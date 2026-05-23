@@ -19,7 +19,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125504",
@@ -41,7 +42,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125505",
@@ -63,7 +65,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125506",
@@ -85,7 +88,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125507",
@@ -107,7 +111,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125508",
@@ -129,7 +134,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125509",
@@ -151,7 +157,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125510",
@@ -173,7 +180,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125511",
@@ -195,7 +203,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125512",
@@ -217,7 +226,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR37125513",
@@ -239,7 +249,8 @@
     "library_selection": "other",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR35798941",
@@ -261,7 +272,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR35798942",
@@ -283,7 +295,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR35798943",
@@ -305,7 +318,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR35798944",
@@ -327,7 +341,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR35798945",
@@ -349,7 +364,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR30468353",
@@ -371,7 +387,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR27374312",
@@ -393,7 +410,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267631",
@@ -415,7 +433,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267632",
@@ -437,7 +456,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267633",
@@ -459,7 +479,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267634",
@@ -481,7 +502,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267635",
@@ -503,7 +525,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267636",
@@ -525,7 +548,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR13267637",
@@ -547,7 +571,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12032014",
@@ -569,7 +594,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12032015",
@@ -591,7 +617,8 @@
     "library_selection": "RANDOM PCR",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12032016",
@@ -613,7 +640,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR12032017",
@@ -635,7 +663,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736748",
@@ -657,7 +686,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736749",
@@ -679,7 +709,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736750",
@@ -701,7 +732,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736751",
@@ -723,7 +755,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736752",
@@ -745,7 +778,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736753",
@@ -767,7 +801,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736754",
@@ -789,7 +824,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736755",
@@ -811,7 +847,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736756",
@@ -833,7 +870,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736757",
@@ -855,7 +893,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736758",
@@ -877,7 +916,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736759",
@@ -899,7 +939,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736760",
@@ -921,7 +962,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736761",
@@ -943,7 +985,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736762",
@@ -965,7 +1008,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736763",
@@ -987,7 +1031,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736764",
@@ -1009,7 +1054,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736765",
@@ -1031,7 +1077,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736769",
@@ -1053,7 +1100,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736766",
@@ -1075,7 +1123,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736767",
@@ -1097,7 +1146,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736768",
@@ -1119,7 +1169,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736770",
@@ -1141,7 +1192,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736771",
@@ -1163,7 +1215,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736772",
@@ -1185,7 +1238,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736773",
@@ -1207,7 +1261,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736774",
@@ -1229,7 +1284,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736775",
@@ -1251,7 +1307,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736776",
@@ -1273,7 +1330,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736777",
@@ -1295,7 +1353,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR9736778",
@@ -1317,7 +1376,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR4024741",
@@ -1339,7 +1399,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4023335",
@@ -1361,7 +1422,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024790",
@@ -1383,7 +1445,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024789",
@@ -1405,7 +1468,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024750",
@@ -1427,7 +1491,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024748",
@@ -1449,7 +1514,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024745",
@@ -1471,7 +1537,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024744",
@@ -1493,7 +1560,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024743",
@@ -1515,7 +1583,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024742",
@@ -1537,7 +1606,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024740",
@@ -1559,7 +1629,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024739",
@@ -1581,7 +1652,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024738",
@@ -1603,7 +1675,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024737",
@@ -1625,7 +1698,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024736",
@@ -1647,7 +1721,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024735",
@@ -1669,7 +1744,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024734",
@@ -1691,7 +1767,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024733",
@@ -1713,7 +1790,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024732",
@@ -1735,7 +1813,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024731",
@@ -1757,7 +1836,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024730",
@@ -1779,7 +1859,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024729",
@@ -1801,7 +1882,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024728",
@@ -1823,7 +1905,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024727",
@@ -1845,7 +1928,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024726",
@@ -1867,7 +1951,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024725",
@@ -1889,7 +1974,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024724",
@@ -1911,7 +1997,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4024723",
@@ -1933,7 +2020,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4023673",
@@ -1955,7 +2043,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4023518",
@@ -1977,7 +2066,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR3727854",
@@ -1999,6 +2089,7 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Paracoccidioides spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   }
 ]

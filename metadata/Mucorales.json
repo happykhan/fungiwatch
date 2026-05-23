@@ -20,7 +20,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900079185.1",
@@ -43,7 +44,8 @@
     "gc_percent": 44.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_019677225.1",
@@ -66,7 +68,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002105175.1",
@@ -89,7 +92,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_019677255.1",
@@ -112,7 +116,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_050656845.1",
@@ -135,7 +140,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_050656855.1",
@@ -158,7 +164,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_026027325.1",
@@ -181,7 +188,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_001599635.1",
@@ -204,7 +212,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000696995.1",
@@ -227,7 +236,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_014839865.1",
@@ -250,7 +260,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_016097715.1",
@@ -273,7 +284,8 @@
     "gc_percent": 43.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_016097735.1",
@@ -296,7 +308,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_016097755.1",
@@ -319,7 +332,8 @@
     "gc_percent": 43.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000696975.1",
@@ -342,7 +356,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002749535.1",
@@ -365,7 +380,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_024140565.1",
@@ -388,7 +404,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024140275.1",
@@ -411,7 +428,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025399235.1",
@@ -434,7 +452,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_024140265.1",
@@ -457,7 +476,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024140195.1",
@@ -480,7 +500,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139275.1",
@@ -503,7 +524,8 @@
     "gc_percent": 32.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139405.1",
@@ -526,7 +548,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139395.1",
@@ -549,7 +572,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024140155.1",
@@ -572,7 +596,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139485.1",
@@ -595,7 +620,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139495.1",
@@ -618,7 +644,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024139415.1",
@@ -641,7 +668,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024140245.1",
@@ -664,7 +692,8 @@
     "gc_percent": 32.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024140375.1",
@@ -687,7 +716,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766325.1",
@@ -710,7 +740,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025331445.1",
@@ -733,7 +764,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025330725.1",
@@ -756,7 +788,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025331435.1",
@@ -779,7 +812,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001683725.1",
@@ -802,7 +836,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049334105.2",
@@ -825,7 +860,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_016758965.1",
@@ -848,7 +884,8 @@
     "gc_percent": 32.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025093555.1",
@@ -871,7 +908,8 @@
     "gc_percent": 32.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_025118155.1",
@@ -894,7 +932,8 @@
     "gc_percent": 30.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025118155.1",
@@ -917,7 +956,8 @@
     "gc_percent": 30.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000697235.1",
@@ -940,7 +980,8 @@
     "gc_percent": 30.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_044232465.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 24.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_037043795.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 25.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697215.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 25.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697315.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 24.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_054130635.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 26.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_017871115.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 26.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_977110925.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 27.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_977110915.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 25.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025201675.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 26.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000697015.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 24.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_025716815.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025266875.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 44.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_025201335.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_024294565.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_025201335.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_054601915.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025201375.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001650995.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCF_025201355.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025201355.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_040366295.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_025677825.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002104935.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023629935.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037042095.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697175.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697475.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000723665.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025094155.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_029851405.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_029851405.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_008728235.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000945115.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023629915.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029582045.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_037041495.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037042035.1",
@@ -1791,7 +1868,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_048164995.1",
@@ -1814,7 +1892,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000738555.1",
@@ -1837,7 +1916,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697395.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 41.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_023629895.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000950595.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_052058875.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_052058895.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_051295215.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_001276145.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_001599575.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023629755.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629775.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629815.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629835.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629855.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023629875.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630435.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630465.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630475.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630555.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025504485.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025504515.1",
@@ -2297,7 +2396,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037974945.1",
@@ -2320,7 +2420,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_048772875.1",
@@ -2343,7 +2444,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051307255.1",
@@ -2366,7 +2468,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_054124215.1",
@@ -2389,7 +2492,8 @@
     "gc_percent": 40.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_057380895.1",
@@ -2412,7 +2516,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_973907015.1",
@@ -2435,7 +2540,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000401635.1",
@@ -2458,7 +2564,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000696935.1",
@@ -2481,7 +2588,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040367835.1",
@@ -2504,7 +2612,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_977110935.1",
@@ -2527,7 +2636,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_977110905.1",
@@ -2550,7 +2660,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000697295.1",
@@ -2573,7 +2684,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000587855.1",
@@ -2596,7 +2708,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_000697435.1",
@@ -2619,7 +2732,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_054123175.1",
@@ -2642,7 +2756,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_040256725.1",
@@ -2665,7 +2780,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_010203745.1",
@@ -2688,7 +2804,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001638945.1",
@@ -2711,7 +2828,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_025094135.1",
@@ -2734,7 +2852,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025094135.1",
@@ -2757,7 +2876,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_943193625.1",
@@ -2780,7 +2900,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_943193635.1",
@@ -2803,7 +2924,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_016758945.1",
@@ -2826,7 +2948,8 @@
     "gc_percent": 31.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_055471225.1",
@@ -2849,7 +2972,8 @@
     "gc_percent": 32.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_027405735.1",
@@ -2872,7 +2996,8 @@
     "gc_percent": 32.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697255.1",
@@ -2895,7 +3020,8 @@
     "gc_percent": 32.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_016758985.1",
@@ -2918,7 +3044,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037040325.1",
@@ -2941,7 +3068,8 @@
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040807105.1",
@@ -2964,7 +3092,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCF_035048745.1",
@@ -2987,7 +3116,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_035048745.1",
@@ -3010,7 +3140,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_000696895.1",
@@ -3033,7 +3164,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCF_025528875.1",
@@ -3056,7 +3188,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025528875.1",
@@ -3079,7 +3212,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025201805.1",
@@ -3102,7 +3236,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000938895.1",
@@ -3125,7 +3260,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025677815.1",
@@ -3148,7 +3284,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_040209145.1",
@@ -3171,7 +3308,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_040209185.1",
@@ -3194,7 +3332,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_001638985.1",
@@ -3217,7 +3356,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001638985.2",
@@ -3240,7 +3380,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_022702545.1",
@@ -3263,7 +3404,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025531835.1",
@@ -3286,7 +3428,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025716855.1",
@@ -3309,7 +3452,8 @@
     "gc_percent": 32.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025528865.1",
@@ -3332,7 +3476,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_025331425.1",
@@ -3355,7 +3500,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025331425.1",
@@ -3378,7 +3524,8 @@
     "gc_percent": 43.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_040807125.1",
@@ -3401,7 +3548,8 @@
     "gc_percent": 44.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000611695.1",
@@ -3424,7 +3572,8 @@
     "gc_percent": 44.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCF_041956525.1",
@@ -3447,7 +3596,8 @@
     "gc_percent": 45.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023512895.1",
@@ -3470,7 +3620,8 @@
     "gc_percent": 45.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_041956525.1",
@@ -3493,7 +3644,8 @@
     "gc_percent": 45.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_900175165.2",
@@ -3516,7 +3668,8 @@
     "gc_percent": 45.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_048164915.1",
@@ -3539,7 +3692,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697195.1",
@@ -3562,7 +3716,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_011763645.1",
@@ -3585,7 +3740,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763775.1",
@@ -3608,7 +3764,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763875.1",
@@ -3631,7 +3788,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763935.1",
@@ -3654,7 +3812,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763955.1",
@@ -3677,7 +3836,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763975.1",
@@ -3700,7 +3860,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763995.1",
@@ -3723,7 +3884,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764025.1",
@@ -3746,7 +3908,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764055.1",
@@ -3769,7 +3932,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764125.1",
@@ -3792,7 +3956,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764185.1",
@@ -3815,7 +3980,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764225.1",
@@ -3838,7 +4004,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764265.1",
@@ -3861,7 +4028,8 @@
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011800955.2",
@@ -3884,7 +4052,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011800985.2",
@@ -3907,7 +4076,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801035.2",
@@ -3930,7 +4100,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801055.2",
@@ -3953,7 +4124,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801305.2",
@@ -3976,7 +4148,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801335.2",
@@ -3999,7 +4172,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801385.2",
@@ -4022,7 +4196,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801495.1",
@@ -4045,7 +4220,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801505.2",
@@ -4068,7 +4244,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801555.2",
@@ -4091,7 +4268,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801575.2",
@@ -4114,7 +4292,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801605.2",
@@ -4137,7 +4316,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801645.2",
@@ -4160,7 +4340,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801675.2",
@@ -4183,7 +4364,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801705.2",
@@ -4206,7 +4388,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801725.2",
@@ -4229,7 +4412,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801785.2",
@@ -4252,7 +4436,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011801815.2",
@@ -4275,7 +4460,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011950945.2",
@@ -4298,7 +4484,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011950985.2",
@@ -4321,7 +4508,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011951285.2",
@@ -4344,7 +4532,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011951295.2",
@@ -4367,7 +4556,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011952045.2",
@@ -4390,7 +4580,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011952115.2",
@@ -4413,7 +4604,8 @@
     "gc_percent": 40.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011952145.2",
@@ -4436,7 +4628,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011952175.2",
@@ -4459,7 +4652,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_019828915.1",
@@ -4482,7 +4676,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_023630295.1",
@@ -4505,7 +4700,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630335.1",
@@ -4528,7 +4724,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024220505.1",
@@ -4551,7 +4748,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_050389755.1",
@@ -4574,7 +4772,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_054130755.1",
@@ -4597,7 +4796,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_056247585.1",
@@ -4620,7 +4820,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697135.1",
@@ -4643,7 +4844,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697725.1",
@@ -4666,7 +4868,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000696915.1",
@@ -4689,7 +4892,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697605.1",
@@ -4712,7 +4916,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697075.1",
@@ -4735,7 +4940,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697095.1",
@@ -4758,7 +4964,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697115.1",
@@ -4781,7 +4988,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_003325435.1",
@@ -4804,7 +5012,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697155.1",
@@ -4827,7 +5036,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_011763585.1",
@@ -4850,7 +5060,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763605.1",
@@ -4873,7 +5084,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763695.1",
@@ -4896,7 +5108,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763715.1",
@@ -4919,7 +5132,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763735.1",
@@ -4942,7 +5156,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763755.1",
@@ -4965,7 +5180,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763795.1",
@@ -4988,7 +5204,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763815.1",
@@ -5011,7 +5228,8 @@
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763835.1",
@@ -5034,7 +5252,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763855.1",
@@ -5057,7 +5276,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763895.1",
@@ -5080,7 +5300,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763915.1",
@@ -5103,7 +5324,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764145.1",
@@ -5126,7 +5348,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_019022795.1",
@@ -5149,7 +5372,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_054127015.1",
@@ -5172,7 +5396,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCF_000149305.1",
@@ -5195,7 +5420,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000149305.1",
@@ -5218,7 +5444,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000738605.1",
@@ -5241,7 +5468,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000738595.1",
@@ -5264,7 +5492,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000738585.1",
@@ -5287,7 +5516,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000825725.1",
@@ -5310,7 +5540,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002083735.1",
@@ -5333,7 +5564,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_011762625.1",
@@ -5356,7 +5588,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011762635.1",
@@ -5379,7 +5612,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763475.1",
@@ -5402,7 +5636,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011763565.1",
@@ -5425,7 +5660,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_011764045.1",
@@ -5448,7 +5684,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_019022815.1",
@@ -5471,7 +5708,8 @@
     "gc_percent": 40.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_034509365.1",
@@ -5494,7 +5732,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_039881115.1",
@@ -5517,7 +5756,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_046865755.1",
@@ -5540,7 +5780,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_051997045.1",
@@ -5563,7 +5804,8 @@
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051997065.1",
@@ -5586,7 +5828,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051997195.1",
@@ -5609,7 +5852,8 @@
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_900000135.1",
@@ -5632,7 +5876,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_964213375.1",
@@ -5655,7 +5900,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_977110955.1",
@@ -5678,7 +5924,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCF_002708625.1",
@@ -5701,7 +5948,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_002708625.1",
@@ -5724,7 +5972,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000697275.1",
@@ -5747,7 +5996,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000738565.1",
@@ -5770,7 +6020,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_051997165.1",
@@ -5793,7 +6044,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000325505.1",
@@ -5816,7 +6068,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002083745.1",
@@ -5839,7 +6092,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_051997145.1",
@@ -5862,7 +6116,8 @@
     "gc_percent": 40.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040206765.1",
@@ -5885,7 +6140,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_006680115.1",
@@ -5908,7 +6164,8 @@
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_049863895.1",
@@ -5931,7 +6188,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025529335.1",
@@ -5954,7 +6212,8 @@
     "gc_percent": 36.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_057662165.1",
@@ -5977,7 +6236,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_054954275.1",
@@ -6000,7 +6260,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_003325415.1",
@@ -6023,7 +6284,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040807145.1",
@@ -6046,7 +6308,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_977110985.1",
@@ -6069,7 +6332,8 @@
     "gc_percent": 36.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000697035.1",
@@ -6092,7 +6356,8 @@
     "gc_percent": 35.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697495.1",
@@ -6115,7 +6380,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_000697055.1",
@@ -6138,7 +6404,8 @@
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_025094145.1",
@@ -6161,7 +6428,8 @@
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025677835.1",
@@ -6184,7 +6452,8 @@
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_013461545.1",
@@ -6207,7 +6476,8 @@
     "gc_percent": 47.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630305.1",
@@ -6230,7 +6500,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037042155.1",
@@ -6253,7 +6524,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000697355.1",
@@ -6276,7 +6548,8 @@
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_002105135.1",
@@ -6299,7 +6572,8 @@
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000696955.1",
@@ -6322,7 +6596,8 @@
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_023630325.1",
@@ -6345,7 +6620,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023630315.1",
@@ -6368,7 +6644,8 @@
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056882155.1",
@@ -6391,7 +6668,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_016758935.1",
@@ -6414,7 +6692,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025201345.1",
@@ -6437,7 +6716,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000787465.1",
@@ -6460,7 +6740,8 @@
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCF_025766255.1",
@@ -6483,7 +6764,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_025766255.1",
@@ -6506,7 +6788,8 @@
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_982397305.1",
@@ -6529,6 +6812,7 @@
     "gc_percent": 44.0,
     "source": "genome",
     "fppl_name": "Mucorales",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   }
 ]

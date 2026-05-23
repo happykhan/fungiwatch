@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR12304306",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR12300271",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR5822089",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR5822088",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR1043750",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1043749",
@@ -151,7 +157,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR1043747",
@@ -173,6 +180,7 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   }
 ]

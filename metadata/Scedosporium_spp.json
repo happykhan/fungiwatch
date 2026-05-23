@@ -20,7 +20,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_000732125.1",
@@ -43,7 +44,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002158515.1",
@@ -66,7 +68,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029532445.1",
@@ -89,7 +92,8 @@
     "gc_percent": 56.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_029532475.1",
@@ -112,7 +116,8 @@
     "gc_percent": 56.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_040285505.1",
@@ -135,7 +140,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_052249755.1",
@@ -158,7 +164,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_982397395.1",
@@ -181,7 +188,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_052249765.1",
@@ -204,7 +212,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000812075.1",
@@ -227,7 +236,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_034774685.1",
@@ -250,7 +260,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_055860885.1",
@@ -273,7 +284,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002221725.1",
@@ -296,7 +308,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_055860855.1",
@@ -319,7 +332,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002812735.1",
@@ -342,7 +356,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_034774675.1",
@@ -365,7 +380,8 @@
     "gc_percent": 51.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_001931805.1",
@@ -388,6 +404,7 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium"
+    "priority": "Medium",
+    "submitter_category": "other"
   }
 ]

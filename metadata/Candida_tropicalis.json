@@ -20,7 +20,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002864075.1",
@@ -43,7 +44,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_013177555.1",
@@ -66,7 +68,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_017315405.1",
@@ -89,7 +92,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_019239295.1",
@@ -112,7 +116,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_021018935.2",
@@ -135,7 +140,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_021018955.2",
@@ -158,7 +164,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_021018975.2",
@@ -181,7 +188,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_021019025.2",
@@ -204,7 +212,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_022984785.1",
@@ -227,7 +236,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023373895.1",
@@ -250,7 +260,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023623415.1",
@@ -273,7 +284,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023623695.1",
@@ -296,7 +308,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024220415.1",
@@ -319,7 +332,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025767605.1",
@@ -342,7 +356,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025767625.1",
@@ -365,7 +380,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025767665.1",
@@ -388,7 +404,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025767685.1",
@@ -411,7 +428,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029582195.1",
@@ -434,7 +452,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_030582595.1",
@@ -457,7 +476,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032356445.1",
@@ -480,7 +500,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356465.1",
@@ -503,7 +524,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356485.1",
@@ -526,7 +548,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356505.1",
@@ -549,7 +572,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356545.1",
@@ -572,7 +596,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356565.1",
@@ -595,7 +620,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356585.1",
@@ -618,7 +644,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356605.1",
@@ -641,7 +668,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356665.1",
@@ -664,7 +692,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356685.1",
@@ -687,7 +716,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356705.1",
@@ -710,7 +740,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356725.1",
@@ -733,7 +764,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356745.1",
@@ -756,7 +788,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356765.1",
@@ -779,7 +812,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356785.1",
@@ -802,7 +836,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356805.1",
@@ -825,7 +860,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356825.1",
@@ -848,7 +884,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356845.1",
@@ -871,7 +908,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356865.1",
@@ -894,7 +932,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032356885.1",
@@ -917,7 +956,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_032714595.1",
@@ -940,7 +980,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032714655.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032714675.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032714735.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_032714815.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_035078345.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_035078385.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_035078395.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_035078465.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_044592505.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049862575.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_050230375.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_050230425.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051944405.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_052815135.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_052815155.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056151195.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056506325.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056506565.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_057382305.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382315.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382345.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382365.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382375.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382405.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382425.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382435.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382465.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382485.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382495.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382525.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382545.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382555.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382585.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382605.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382615.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382645.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382665.1",
@@ -1791,7 +1868,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382675.1",
@@ -1814,7 +1892,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382705.1",
@@ -1837,7 +1916,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382725.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382735.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382765.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382785.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382795.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382825.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382845.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382855.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382865.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382905.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382915.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382945.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382965.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057382975.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383005.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383025.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383035.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383065.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383085.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383095.1",
@@ -2297,7 +2396,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383125.1",
@@ -2320,7 +2420,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383145.1",
@@ -2343,7 +2444,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383165.1",
@@ -2366,7 +2468,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383185.1",
@@ -2389,7 +2492,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383195.1",
@@ -2412,7 +2516,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383225.1",
@@ -2435,7 +2540,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383245.1",
@@ -2458,7 +2564,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383265.1",
@@ -2481,7 +2588,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383285.1",
@@ -2504,7 +2612,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383305.1",
@@ -2527,7 +2636,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383315.1",
@@ -2550,7 +2660,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383345.1",
@@ -2573,7 +2684,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383365.1",
@@ -2596,7 +2708,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383675.1",
@@ -2619,7 +2732,8 @@
     "gc_percent": 34.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_057383725.1",
@@ -2642,7 +2756,8 @@
     "gc_percent": 35.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCF_000006335.3",
@@ -2665,7 +2780,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000006335.3",
@@ -2688,7 +2804,8 @@
     "gc_percent": 33.0,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_006942135.1",
@@ -2711,6 +2828,7 @@
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida tropicalis",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   }
 ]

@@ -20,7 +20,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_001643655.1",
@@ -43,7 +44,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_001643665.1",
@@ -66,7 +68,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_001715275.2",
@@ -89,7 +92,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_002234955.1",
@@ -112,7 +116,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_002234985.1",
@@ -135,7 +140,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_003069565.1",
@@ -158,7 +164,8 @@
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_003116565.1",
@@ -181,7 +188,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_012656115.1",
@@ -204,7 +212,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_012656125.1",
@@ -227,7 +236,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_012656165.1",
@@ -250,7 +260,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_012656185.1",
@@ -273,7 +284,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_012656215.1",
@@ -296,7 +308,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_015571995.1",
@@ -319,7 +332,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_015572005.1",
@@ -342,7 +356,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_015572015.1",
@@ -365,7 +380,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_015572025.1",
@@ -388,7 +404,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "agriculture"
   },
   {
     "accession": "GCA_015586125.1",
@@ -411,7 +428,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_018804105.1",
@@ -434,7 +452,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_020498725.1",
@@ -457,7 +476,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498735.1",
@@ -480,7 +500,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498745.1",
@@ -503,7 +524,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498755.1",
@@ -526,7 +548,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498765.1",
@@ -549,7 +572,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498805.1",
@@ -572,7 +596,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498815.1",
@@ -595,7 +620,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498865.1",
@@ -618,7 +644,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498875.1",
@@ -641,7 +668,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498885.1",
@@ -664,7 +692,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498895.1",
@@ -687,7 +716,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498905.1",
@@ -710,7 +740,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498945.1",
@@ -733,7 +764,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498965.1",
@@ -756,7 +788,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020498985.1",
@@ -779,7 +812,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499005.1",
@@ -802,7 +836,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499015.1",
@@ -825,7 +860,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499035.1",
@@ -848,7 +884,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499045.1",
@@ -871,7 +908,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499075.1",
@@ -894,7 +932,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499115.1",
@@ -917,7 +956,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499125.1",
@@ -940,7 +980,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499135.1",
@@ -963,7 +1004,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499155.1",
@@ -986,7 +1028,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499185.1",
@@ -1009,7 +1052,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499195.1",
@@ -1032,7 +1076,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499225.1",
@@ -1055,7 +1100,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499245.1",
@@ -1078,7 +1124,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499255.1",
@@ -1101,7 +1148,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499265.1",
@@ -1124,7 +1172,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499315.1",
@@ -1147,7 +1196,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499325.1",
@@ -1170,7 +1220,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499335.1",
@@ -1193,7 +1244,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499355.1",
@@ -1216,7 +1268,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499395.1",
@@ -1239,7 +1292,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499405.1",
@@ -1262,7 +1316,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499415.1",
@@ -1285,7 +1340,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499455.1",
@@ -1308,7 +1364,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499475.1",
@@ -1331,7 +1388,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499485.1",
@@ -1354,7 +1412,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499495.1",
@@ -1377,7 +1436,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499505.1",
@@ -1400,7 +1460,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499565.1",
@@ -1423,7 +1484,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499575.1",
@@ -1446,7 +1508,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499585.1",
@@ -1469,7 +1532,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499595.1",
@@ -1492,7 +1556,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499605.1",
@@ -1515,7 +1580,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499645.1",
@@ -1538,7 +1604,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499675.1",
@@ -1561,7 +1628,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499685.1",
@@ -1584,7 +1652,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499695.1",
@@ -1607,7 +1676,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499715.1",
@@ -1630,7 +1700,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499755.1",
@@ -1653,7 +1724,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499775.1",
@@ -1676,7 +1748,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499785.1",
@@ -1699,7 +1772,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499805.1",
@@ -1722,7 +1796,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499815.1",
@@ -1745,7 +1820,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499825.1",
@@ -1768,7 +1844,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499865.1",
@@ -1791,7 +1868,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499885.1",
@@ -1814,7 +1892,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499905.1",
@@ -1837,7 +1916,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499915.1",
@@ -1860,7 +1940,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499935.1",
@@ -1883,7 +1964,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499975.1",
@@ -1906,7 +1988,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499985.1",
@@ -1929,7 +2012,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020499995.1",
@@ -1952,7 +2036,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500025.1",
@@ -1975,7 +2060,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500065.1",
@@ -1998,7 +2084,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500075.1",
@@ -2021,7 +2108,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500085.1",
@@ -2044,7 +2132,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500105.1",
@@ -2067,7 +2156,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500115.1",
@@ -2090,7 +2180,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500165.1",
@@ -2113,7 +2204,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500185.1",
@@ -2136,7 +2228,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500195.1",
@@ -2159,7 +2252,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500205.1",
@@ -2182,7 +2276,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500215.1",
@@ -2205,7 +2300,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500235.1",
@@ -2228,7 +2324,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500275.1",
@@ -2251,7 +2348,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500285.1",
@@ -2274,7 +2372,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500295.1",
@@ -2297,7 +2396,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500305.1",
@@ -2320,7 +2420,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500355.1",
@@ -2343,7 +2444,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500365.1",
@@ -2366,7 +2468,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500385.1",
@@ -2389,7 +2492,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500395.1",
@@ -2412,7 +2516,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500445.1",
@@ -2435,7 +2540,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500455.1",
@@ -2458,7 +2564,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500465.1",
@@ -2481,7 +2588,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500475.1",
@@ -2504,7 +2612,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500485.1",
@@ -2527,7 +2636,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500535.1",
@@ -2550,7 +2660,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500545.1",
@@ -2573,7 +2684,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500555.1",
@@ -2596,7 +2708,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500565.1",
@@ -2619,7 +2732,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500595.1",
@@ -2642,7 +2756,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500605.1",
@@ -2665,7 +2780,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500645.1",
@@ -2688,7 +2804,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500655.1",
@@ -2711,7 +2828,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500685.1",
@@ -2734,7 +2852,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500695.1",
@@ -2757,7 +2876,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500705.1",
@@ -2780,7 +2900,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500765.1",
@@ -2803,7 +2924,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500775.1",
@@ -2826,7 +2948,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500785.1",
@@ -2849,7 +2972,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500805.1",
@@ -2872,7 +2996,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500815.1",
@@ -2895,7 +3020,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500845.1",
@@ -2918,7 +3044,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500865.1",
@@ -2941,7 +3068,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500875.1",
@@ -2964,7 +3092,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500905.1",
@@ -2987,7 +3116,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500935.1",
@@ -3010,7 +3140,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500945.1",
@@ -3033,7 +3164,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500965.1",
@@ -3056,7 +3188,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500975.1",
@@ -3079,7 +3212,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020500995.1",
@@ -3102,7 +3236,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501005.1",
@@ -3125,7 +3260,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501045.1",
@@ -3148,7 +3284,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501075.1",
@@ -3171,7 +3308,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501095.1",
@@ -3194,7 +3332,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501105.1",
@@ -3217,7 +3356,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501115.1",
@@ -3240,7 +3380,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501135.1",
@@ -3263,7 +3404,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501145.1",
@@ -3286,7 +3428,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501175.1",
@@ -3309,7 +3452,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501185.1",
@@ -3332,7 +3476,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501235.1",
@@ -3355,7 +3500,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501245.1",
@@ -3378,7 +3524,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501255.1",
@@ -3401,7 +3548,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501265.1",
@@ -3424,7 +3572,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501325.1",
@@ -3447,7 +3596,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501335.1",
@@ -3470,7 +3620,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501345.1",
@@ -3493,7 +3644,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501355.1",
@@ -3516,7 +3668,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501375.1",
@@ -3539,7 +3692,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501405.1",
@@ -3562,7 +3716,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501425.1",
@@ -3585,7 +3740,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501445.1",
@@ -3608,7 +3764,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501465.1",
@@ -3631,7 +3788,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501475.1",
@@ -3654,7 +3812,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501495.1",
@@ -3677,7 +3836,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501535.1",
@@ -3700,7 +3860,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501545.1",
@@ -3723,7 +3884,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501555.1",
@@ -3746,7 +3908,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501575.1",
@@ -3769,7 +3932,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501605.1",
@@ -3792,7 +3956,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501615.1",
@@ -3815,7 +3980,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501635.1",
@@ -3838,7 +4004,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501645.1",
@@ -3861,7 +4028,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501695.1",
@@ -3884,7 +4052,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501705.1",
@@ -3907,7 +4076,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501715.1",
@@ -3930,7 +4100,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501735.1",
@@ -3953,7 +4124,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501765.1",
@@ -3976,7 +4148,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501785.1",
@@ -3999,7 +4172,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501805.1",
@@ -4022,7 +4196,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501815.1",
@@ -4045,7 +4220,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501835.1",
@@ -4068,7 +4244,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501875.1",
@@ -4091,7 +4268,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501885.1",
@@ -4114,7 +4292,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501895.1",
@@ -4137,7 +4316,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501905.1",
@@ -4160,7 +4340,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501935.1",
@@ -4183,7 +4364,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501985.1",
@@ -4206,7 +4388,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020501995.1",
@@ -4229,7 +4412,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502005.1",
@@ -4252,7 +4436,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502025.1",
@@ -4275,7 +4460,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502035.1",
@@ -4298,7 +4484,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502045.1",
@@ -4321,7 +4508,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502095.1",
@@ -4344,7 +4532,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502105.1",
@@ -4367,7 +4556,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502115.1",
@@ -4390,7 +4580,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502125.1",
@@ -4413,7 +4604,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502165.1",
@@ -4436,7 +4628,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502185.1",
@@ -4459,7 +4652,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502215.1",
@@ -4482,7 +4676,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502225.1",
@@ -4505,7 +4700,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502235.1",
@@ -4528,7 +4724,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502245.1",
@@ -4551,7 +4748,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502325.1",
@@ -4574,7 +4772,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502335.1",
@@ -4597,7 +4796,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502365.1",
@@ -4620,7 +4820,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502375.1",
@@ -4643,7 +4844,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502385.1",
@@ -4666,7 +4868,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502425.1",
@@ -4689,7 +4892,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502435.1",
@@ -4712,7 +4916,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502455.1",
@@ -4735,7 +4940,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502485.1",
@@ -4758,7 +4964,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502495.1",
@@ -4781,7 +4988,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502525.1",
@@ -4804,7 +5012,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502545.1",
@@ -4827,7 +5036,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502575.1",
@@ -4850,7 +5060,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502595.1",
@@ -4873,7 +5084,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502605.1",
@@ -4896,7 +5108,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502615.1",
@@ -4919,7 +5132,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502625.1",
@@ -4942,7 +5156,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502675.1",
@@ -4965,7 +5180,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502695.1",
@@ -4988,7 +5204,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502705.1",
@@ -5011,7 +5228,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502715.1",
@@ -5034,7 +5252,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502725.1",
@@ -5057,7 +5276,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502875.1",
@@ -5080,7 +5300,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502985.1",
@@ -5103,7 +5324,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020502995.1",
@@ -5126,7 +5348,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503015.1",
@@ -5149,7 +5372,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503055.1",
@@ -5172,7 +5396,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503065.1",
@@ -5195,7 +5420,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503085.1",
@@ -5218,7 +5444,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503095.1",
@@ -5241,7 +5468,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503105.1",
@@ -5264,7 +5492,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503165.1",
@@ -5287,7 +5516,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503175.1",
@@ -5310,7 +5540,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503185.1",
@@ -5333,7 +5564,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503195.1",
@@ -5356,7 +5588,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503205.1",
@@ -5379,7 +5612,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503245.1",
@@ -5402,7 +5636,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503265.1",
@@ -5425,7 +5660,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503275.1",
@@ -5448,7 +5684,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503295.1",
@@ -5471,7 +5708,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503305.1",
@@ -5494,7 +5732,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503345.1",
@@ -5517,7 +5756,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503365.1",
@@ -5540,7 +5780,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503375.1",
@@ -5563,7 +5804,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503395.1",
@@ -5586,7 +5828,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503435.1",
@@ -5609,7 +5852,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503445.1",
@@ -5632,7 +5876,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503455.1",
@@ -5655,7 +5900,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503465.1",
@@ -5678,7 +5924,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503515.1",
@@ -5701,7 +5948,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503535.1",
@@ -5724,7 +5972,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503545.1",
@@ -5747,7 +5996,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503555.1",
@@ -5770,7 +6020,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503565.1",
@@ -5793,7 +6044,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503595.1",
@@ -5816,7 +6068,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503635.1",
@@ -5839,7 +6092,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503645.1",
@@ -5862,7 +6116,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503665.1",
@@ -5885,7 +6140,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503705.1",
@@ -5908,7 +6164,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503715.1",
@@ -5931,7 +6188,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503725.1",
@@ -5954,7 +6212,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503735.1",
@@ -5977,7 +6236,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503745.1",
@@ -6000,7 +6260,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503795.1",
@@ -6023,7 +6284,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503805.1",
@@ -6046,7 +6308,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503815.1",
@@ -6069,7 +6332,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503825.1",
@@ -6092,7 +6356,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503885.1",
@@ -6115,7 +6380,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503895.1",
@@ -6138,7 +6404,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503905.1",
@@ -6161,7 +6428,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503915.1",
@@ -6184,7 +6452,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020503935.1",
@@ -6207,7 +6476,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_020510485.1",
@@ -6230,7 +6500,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_023620045.1",
@@ -6253,7 +6524,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620055.1",
@@ -6276,7 +6548,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620085.1",
@@ -6299,7 +6572,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620105.1",
@@ -6322,7 +6596,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620135.1",
@@ -6345,7 +6620,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620155.1",
@@ -6368,7 +6644,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620165.1",
@@ -6391,7 +6668,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620175.1",
@@ -6414,7 +6692,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620195.1",
@@ -6437,7 +6716,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620225.1",
@@ -6460,7 +6740,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620235.1",
@@ -6483,7 +6764,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620255.1",
@@ -6506,7 +6788,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620275.1",
@@ -6529,7 +6812,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620295.1",
@@ -6552,7 +6836,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620325.1",
@@ -6575,7 +6860,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620335.1",
@@ -6598,7 +6884,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620365.1",
@@ -6621,7 +6908,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620375.1",
@@ -6644,7 +6932,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620605.1",
@@ -6667,7 +6956,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620755.1",
@@ -6690,7 +6980,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620795.1",
@@ -6713,7 +7004,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620825.1",
@@ -6736,7 +7028,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620835.1",
@@ -6759,7 +7052,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620865.1",
@@ -6782,7 +7076,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620875.1",
@@ -6805,7 +7100,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620895.1",
@@ -6828,7 +7124,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620925.1",
@@ -6851,7 +7148,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620935.1",
@@ -6874,7 +7172,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620975.1",
@@ -6897,7 +7196,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620985.1",
@@ -6920,7 +7220,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023620995.1",
@@ -6943,7 +7244,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023621025.1",
@@ -6966,7 +7268,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023621035.1",
@@ -6989,7 +7292,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023621065.1",
@@ -7012,7 +7316,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_023621075.1",
@@ -7035,7 +7340,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_024220425.1",
@@ -7058,7 +7364,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025118165.1",
@@ -7081,7 +7388,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025201645.1",
@@ -7104,7 +7412,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_025765995.1",
@@ -7127,7 +7436,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766045.1",
@@ -7150,7 +7460,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766085.1",
@@ -7173,7 +7484,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766105.1",
@@ -7196,7 +7508,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_025766145.1",
@@ -7219,7 +7532,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_028752175.1",
@@ -7242,7 +7556,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_028752205.1",
@@ -7265,7 +7580,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618165.1",
@@ -7288,7 +7604,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618175.1",
@@ -7311,7 +7628,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618185.1",
@@ -7334,7 +7652,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618195.1",
@@ -7357,7 +7676,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618205.1",
@@ -7380,7 +7700,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618225.1",
@@ -7403,7 +7724,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618255.1",
@@ -7426,7 +7748,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618275.1",
@@ -7449,7 +7772,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618285.1",
@@ -7472,7 +7796,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618305.1",
@@ -7495,7 +7820,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_029618335.1",
@@ -7518,7 +7844,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_032627265.1",
@@ -7541,7 +7868,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_037040925.1",
@@ -7564,7 +7892,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040126065.1",
@@ -7587,7 +7916,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142845.1",
@@ -7610,7 +7940,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142855.1",
@@ -7633,7 +7964,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142865.1",
@@ -7656,7 +7988,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142875.1",
@@ -7679,7 +8012,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142885.1",
@@ -7702,7 +8036,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142945.1",
@@ -7725,7 +8060,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040142955.1",
@@ -7748,7 +8084,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040142975.1",
@@ -7771,7 +8108,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_040167795.1",
@@ -7794,7 +8132,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_040167805.1",
@@ -7817,7 +8156,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "hospital_clinical"
   },
   {
     "accession": "GCA_044589475.1",
@@ -7840,7 +8180,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_044589545.1",
@@ -7863,7 +8204,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_045820835.1",
@@ -7886,7 +8228,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_046867075.2",
@@ -7909,7 +8252,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_046867235.2",
@@ -7932,7 +8276,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_046867255.2",
@@ -7955,7 +8300,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_048595945.2",
@@ -7978,7 +8324,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_049901915.1",
@@ -8001,7 +8348,8 @@
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051225625.1",
@@ -8024,7 +8372,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051911435.1",
@@ -8047,7 +8396,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_051942955.1",
@@ -8070,7 +8420,8 @@
     "gc_percent": 47.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056582505.1",
@@ -8093,7 +8444,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056582525.1",
@@ -8116,7 +8468,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056582545.1",
@@ -8139,7 +8492,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_056582585.1",
@@ -8162,7 +8516,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "university"
   },
   {
     "accession": "GCA_057531195.1",
@@ -8185,7 +8540,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057538075.1",
@@ -8208,7 +8564,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057539005.1",
@@ -8231,7 +8588,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057541815.1",
@@ -8254,7 +8612,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057542545.1",
@@ -8277,7 +8636,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057543955.1",
@@ -8300,7 +8660,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057547645.1",
@@ -8323,7 +8684,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057549855.1",
@@ -8346,7 +8708,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057551925.1",
@@ -8369,7 +8732,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_057553775.1",
@@ -8392,7 +8756,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_949125165.1",
@@ -8415,7 +8780,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_949125185.1",
@@ -8438,7 +8804,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_949125545.1",
@@ -8461,7 +8828,8 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_000150145.1",
@@ -8484,7 +8852,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_000225625.2",
@@ -8507,7 +8876,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_000225645.2",
@@ -8530,7 +8900,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCF_000002655.1",
@@ -8553,7 +8924,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_000002655.1",
@@ -8576,7 +8948,8 @@
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   },
   {
     "accession": "GCA_001599455.1",
@@ -8599,7 +8972,8 @@
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "GCA_001029325.1",
@@ -8622,6 +8996,7 @@
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical"
+    "priority": "Critical",
+    "submitter_category": "other"
   }
 ]

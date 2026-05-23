@@ -19,7 +19,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598231",
@@ -41,7 +42,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598232",
@@ -63,7 +65,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598234",
@@ -85,7 +88,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598236",
@@ -107,7 +111,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35257000",
@@ -129,7 +134,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245635",
@@ -151,7 +157,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245636",
@@ -173,7 +180,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245637",
@@ -195,7 +203,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245638",
@@ -217,7 +226,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245639",
@@ -239,7 +249,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245640",
@@ -261,7 +272,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245641",
@@ -283,7 +295,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245642",
@@ -305,7 +318,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245643",
@@ -327,7 +341,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245644",
@@ -349,7 +364,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245645",
@@ -371,7 +387,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245646",
@@ -393,7 +410,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245647",
@@ -415,7 +433,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245648",
@@ -437,7 +456,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245649",
@@ -459,7 +479,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245650",
@@ -481,7 +502,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245651",
@@ -503,7 +525,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245652",
@@ -525,7 +548,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245653",
@@ -547,7 +571,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245654",
@@ -569,7 +594,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245655",
@@ -591,7 +617,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245656",
@@ -613,7 +640,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245657",
@@ -635,7 +663,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245658",
@@ -657,7 +686,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245659",
@@ -679,7 +709,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245660",
@@ -701,7 +732,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245661",
@@ -723,7 +755,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245662",
@@ -745,7 +778,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35245663",
@@ -767,7 +801,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "DRR704015",
@@ -789,7 +824,8 @@
     "library_selection": "size fractionation",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "DRR704014",
@@ -811,7 +847,8 @@
     "library_selection": "size fractionation",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "DRR594086",
@@ -833,7 +870,8 @@
     "library_selection": "size fractionation",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "DRR594085",
@@ -855,7 +893,8 @@
     "library_selection": "size fractionation",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR22816638",
@@ -877,7 +916,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR16930958",
@@ -899,7 +939,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930959",
@@ -921,7 +962,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930960",
@@ -943,7 +985,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930961",
@@ -965,7 +1008,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930962",
@@ -987,7 +1031,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930963",
@@ -1009,7 +1054,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930964",
@@ -1031,7 +1077,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930965",
@@ -1053,7 +1100,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930966",
@@ -1075,7 +1123,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930967",
@@ -1097,7 +1146,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930968",
@@ -1119,7 +1169,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930969",
@@ -1141,7 +1192,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930970",
@@ -1163,7 +1215,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930971",
@@ -1185,7 +1238,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930972",
@@ -1207,7 +1261,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930973",
@@ -1229,7 +1284,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930974",
@@ -1251,7 +1307,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930975",
@@ -1273,7 +1330,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930976",
@@ -1295,7 +1353,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930977",
@@ -1317,7 +1376,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930978",
@@ -1339,7 +1399,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930979",
@@ -1361,7 +1422,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930980",
@@ -1383,7 +1445,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930981",
@@ -1405,7 +1468,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930982",
@@ -1427,7 +1491,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR16930983",
@@ -1449,7 +1514,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR10662988",
@@ -1471,7 +1537,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR10662989",
@@ -1493,7 +1560,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR10662990",
@@ -1515,7 +1583,8 @@
     "library_selection": "PCR",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "university"
   },
   {
     "accession": "SRR2007457",
@@ -1537,7 +1606,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR2007447",
@@ -1559,7 +1629,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR2007394",
@@ -1581,7 +1652,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "other"
   },
   {
     "accession": "SRR35598239",
@@ -1603,7 +1675,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35256800",
@@ -1625,7 +1698,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35256801",
@@ -1647,7 +1721,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598235",
@@ -1669,7 +1744,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598237",
@@ -1691,7 +1767,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598238",
@@ -1713,7 +1790,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR35598233",
@@ -1735,7 +1813,8 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "public_health"
   },
   {
     "accession": "SRR4125559",
@@ -1757,7 +1836,8 @@
     "library_selection": "size fractionation",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   },
   {
     "accession": "SRR4125558",
@@ -1779,6 +1859,7 @@
     "library_selection": "RANDOM",
     "source": "sra",
     "fppl_name": "Eumycetoma agents",
-    "priority": "High"
+    "priority": "High",
+    "submitter_category": "research_institute"
   }
 ]
