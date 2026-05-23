@@ -247,6 +247,66 @@ def _collection_years(records: list[dict]) -> dict:
     return dict(years)
 
 
+def _collection_year_counts_by_species(records: list[dict]) -> tuple[dict, dict, dict]:
+    """Collection-year counts grouped: all years counter, by species, by priority."""
+    all_y = Counter()
+    by_species = defaultdict(Counter)
+    by_priority = defaultdict(Counter)
+    for r in records:
+        year = parse_year(r.get("collection_date", ""))
+        if not year:
+            continue
+        all_y[year] += 1
+        by_species[r["fppl_name"]][year] += 1
+        by_priority[r["priority"]][year] += 1
+    return (dict(all_y),
+            {k: dict(v) for k, v in by_species.items()},
+            {k: dict(v) for k, v in by_priority.items()})
+
+
+HOST_CATEGORIES = ["human", "animal", "plant", "environment",
+                   "food", "clinical_other", "unknown"]
+
+
+def _host_category_counts(records: list[dict]) -> dict:
+    """Per-species host_category counts. {species: {category: n}}."""
+    counts = defaultdict(lambda: Counter({c: 0 for c in HOST_CATEGORIES}))
+    for r in records:
+        cat = r.get("host_category") or "unknown"
+        counts[r["fppl_name"]][cat] += 1
+    return {k: dict(v) for k, v in counts.items()}
+
+
+def _raw_host_top_n(records: list[dict], n: int = 15) -> dict:
+    """Per-species top-N raw host strings. {species: [(host, n), ...]}."""
+    by_species = defaultdict(Counter)
+    for r in records:
+        host = r.get("host") or ""
+        if host:
+            by_species[r["fppl_name"]][host] += 1
+    return {k: v.most_common(n) for k, v in by_species.items()}
+
+
+def _isolation_source_top_n(records: list[dict], n: int = 15) -> dict:
+    """Per-species top-N isolation_source strings."""
+    by_species = defaultdict(Counter)
+    for r in records:
+        src = r.get("isolation_source") or ""
+        if src:
+            by_species[r["fppl_name"]][src] += 1
+    return {k: v.most_common(n) for k, v in by_species.items()}
+
+
+def _submitter_top_n(records: list[dict], n: int = 10) -> dict:
+    """Per-species top-N submitters / sequencing centres."""
+    by_species = defaultdict(Counter)
+    for r in records:
+        s = r.get("submitter") or ""
+        if s:
+            by_species[r["fppl_name"]][s] += 1
+    return {k: v.most_common(n) for k, v in by_species.items()}
+
+
 def _merge_counters(*dicts):
     """Merge multiple Counter-like dicts by summing values."""
     merged = Counter()
@@ -305,17 +365,22 @@ def compute_stats(genome_records: list[dict], sra_records: list[dict]) -> dict:
     # Collection year histogram combined
     collection_years = _collection_years(all_records)
 
-    # Genome size & GC% scatter (genomes only — SRA lacks these)
-    scatter_data = []
-    for r in genome_records:
-        size = r.get("genome_size_bp")
-        gc = r.get("gc_percent")
-        if size and gc:
-            scatter_data.append({
-                "size": size, "gc": gc,
-                "species": r["fppl_name"], "priority": r["priority"],
-                "accession": r["accession"],
-            })
+    # Collection-year per species/priority for the headline time chart
+    cy_all, cy_by_species, cy_by_priority = _collection_year_counts_by_species(all_records)
+
+    # Host categories per species (combined, genome-only, sra-only for download)
+    host_cat_combined = _host_category_counts(all_records)
+    host_cat_genomes = _host_category_counts(genome_records)
+    host_cat_sra = _host_category_counts(sra_records)
+
+    # Raw host / isolation_source top-N per species (combined)
+    raw_host_top = _raw_host_top_n(all_records, n=15)
+    raw_isolation_top = _isolation_source_top_n(all_records, n=15)
+
+    # Submitter top-N per species (combined, genomes-only, sra-only)
+    submitters_combined = _submitter_top_n(all_records, n=10)
+    submitters_genomes = _submitter_top_n(genome_records, n=10)
+    submitters_sra = _submitter_top_n(sra_records, n=10)
 
     return {
         "species_names": species_names,
@@ -334,8 +399,19 @@ def compute_stats(genome_records: list[dict], sra_records: list[dict]) -> dict:
         "year_counts_all": c_yc_all,
         "year_counts_by_species": c_yc_sp,
         "year_counts_by_priority": c_yc_pr,
-        "scatter_data": scatter_data,
+        "collection_year_counts_all": cy_all,
+        "collection_year_counts_by_species": cy_by_species,
+        "collection_year_counts_by_priority": cy_by_priority,
         "collection_years": collection_years,
+        "host_category_counts": host_cat_combined,
+        "host_category_counts_genomes": host_cat_genomes,
+        "host_category_counts_sra": host_cat_sra,
+        "raw_host_top": raw_host_top,
+        "raw_isolation_top": raw_isolation_top,
+        "submitters_combined": submitters_combined,
+        "submitters_genomes": submitters_genomes,
+        "submitters_sra": submitters_sra,
+        "host_categories": HOST_CATEGORIES,
         "priority_colors": PRIORITY_COLORS,
         "total_genomes": len(genome_records),
         "total_sra": len(sra_records),
@@ -378,29 +454,13 @@ def build_stacked_bar_data(year_counts_by_group: dict[str, dict], color_map: dic
     return {"years": years, "series": series}
 
 
-def build_scatter_svg_data(scatter_data: list[dict], species_color_map: dict) -> list[dict]:
-    """Prepare scatter plot point data."""
-    if not scatter_data:
-        return []
-
-    points = []
-    for d in scatter_data:
-        points.append({
-            "x": d["size"],
-            "y": d["gc"],
-            "species": d["species"],
-            "priority": d["priority"],
-            "color": species_color_map.get(d["species"], "#999"),
-            "accession": d["accession"],
-        })
-    return points
-
-
 def write_genome_csv(records: list[dict], path: Path):
-    """Write assembled genome records to CSV."""
+    """Write assembled genome records to CSV. Keeps raw NCBI fields + derived host_category."""
     fields = ["accession", "organism_name", "tax_id", "fppl_name", "priority",
               "release_date", "assembly_level", "collection_date", "geo_loc_name",
-              "genome_size_bp", "gc_percent"]
+              "host", "isolation_source", "host_disease", "env_broad_scale",
+              "host_category", "submitter", "biosample_owner", "assembly_submitter",
+              "bioproject_accession", "genome_size_bp", "gc_percent"]
     with open(path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         writer.writeheader()
@@ -408,13 +468,51 @@ def write_genome_csv(records: list[dict], path: Path):
 
 
 def write_sra_csv(records: list[dict], path: Path):
-    """Write SRA run records to CSV."""
+    """Write SRA run records to CSV. Keeps raw NCBI fields + derived host_category."""
     fields = ["accession", "organism_name", "tax_id", "fppl_name", "priority",
-              "release_date", "collection_date", "geo_loc_name"]
+              "release_date", "collection_date", "geo_loc_name",
+              "host", "isolation_source", "host_disease", "env_broad_scale",
+              "host_category", "submitter", "platform", "instrument_model",
+              "library_strategy", "library_source", "library_selection"]
     with open(path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
         writer.writeheader()
         writer.writerows(records)
+
+
+def write_host_category_csv(host_cat_counts: dict, species_priority: dict, path: Path):
+    """Write per-species host category counts as a wide CSV."""
+    fields = ["fppl_name", "priority"] + HOST_CATEGORIES + ["total"]
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for species in sorted(host_cat_counts.keys()):
+            counts = host_cat_counts[species]
+            row = {"fppl_name": species,
+                   "priority": species_priority.get(species, "")}
+            total = 0
+            for cat in HOST_CATEGORIES:
+                n = counts.get(cat, 0)
+                row[cat] = n
+                total += n
+            row["total"] = total
+            writer.writerow(row)
+
+
+def write_submitters_csv(submitters: dict, species_priority: dict, path: Path):
+    """Write per-species top submitters as a long CSV."""
+    fields = ["fppl_name", "priority", "submitter", "record_count"]
+    with open(path, "w", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=fields)
+        writer.writeheader()
+        for species in sorted(submitters.keys()):
+            for submitter, n in submitters[species]:
+                writer.writerow({
+                    "fppl_name": species,
+                    "priority": species_priority.get(species, ""),
+                    "submitter": submitter,
+                    "record_count": n,
+                })
 
 
 def main():
@@ -449,16 +547,19 @@ def main():
     # Compute statistics (combined genome + SRA)
     stats = compute_stats(genome_records, sra_records)
 
-    # Build chart data
-    bar_data_priority = build_stacked_bar_data(
+    # Build chart data. The headline time chart is collection year by species; we
+    # also expose release-date bars and a priority view as alternates.
+    bar_collection_priority = build_stacked_bar_data(
+        stats["collection_year_counts_by_priority"], PRIORITY_COLORS
+    )
+    bar_collection_species = build_stacked_bar_data(
+        stats["collection_year_counts_by_species"], stats["species_color_map"]
+    )
+    bar_release_priority = build_stacked_bar_data(
         stats["year_counts_by_priority"], PRIORITY_COLORS
     )
-    bar_data_species = build_stacked_bar_data(
+    bar_release_species = build_stacked_bar_data(
         stats["year_counts_by_species"], stats["species_color_map"]
-    )
-
-    scatter_points = build_scatter_svg_data(
-        stats["scatter_data"], stats["species_color_map"]
     )
 
     # Render template
@@ -468,9 +569,10 @@ def main():
     html = template.render(
         stats=stats,
         svg_paths=svg_paths,
-        bar_data_priority=bar_data_priority,
-        bar_data_species=bar_data_species,
-        scatter_points=scatter_points,
+        bar_collection_priority=bar_collection_priority,
+        bar_collection_species=bar_collection_species,
+        bar_release_priority=bar_release_priority,
+        bar_release_species=bar_release_species,
         country_data=json.dumps(stats["country_counts_all"]),
         country_data_by_species=json.dumps(stats["country_counts_by_species"]),
         country_data_by_priority=json.dumps(stats["country_counts_by_priority"]),
@@ -491,6 +593,18 @@ def main():
     print(f"Genome CSV written to {BUILD_DIR / 'genomes.csv'} ({len(genome_records)} rows)")
     write_sra_csv(sra_records, BUILD_DIR / "sra_runs.csv")
     print(f"SRA CSV written to {BUILD_DIR / 'sra_runs.csv'} ({len(sra_records)} rows)")
+
+    write_host_category_csv(
+        stats["host_category_counts"], stats["species_priority_map"],
+        BUILD_DIR / "host_categories.csv",
+    )
+    print(f"Host categories CSV written to {BUILD_DIR / 'host_categories.csv'}")
+
+    write_submitters_csv(
+        stats["submitters_combined"], stats["species_priority_map"],
+        BUILD_DIR / "submitters.csv",
+    )
+    print(f"Submitters CSV written to {BUILD_DIR / 'submitters.csv'}")
 
 
 if __name__ == "__main__":

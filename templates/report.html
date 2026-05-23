@@ -214,7 +214,10 @@ footer {
   <div style="display:flex; gap:1rem; flex-wrap:wrap;">
     <a href="genomes.csv" download class="btn" style="text-decoration:none;">Assembled Genomes CSV ({{ "{:,}".format(stats.total_genomes) }} records)</a>
     <a href="sra_runs.csv" download class="btn" style="text-decoration:none;">SRA WGS Runs CSV ({{ "{:,}".format(stats.total_sra) }} records)</a>
+    <a href="host_categories.csv" download class="btn" style="text-decoration:none;">Sampling Context per Species (categories)</a>
+    <a href="submitters.csv" download class="btn" style="text-decoration:none;">Submitters per Species (top 10)</a>
   </div>
+  <p style="color:var(--text-muted); font-size:0.8rem; margin-top:0.5rem;">Per-record CSVs include both raw NCBI fields (<code>host</code>, <code>isolation_source</code>, <code>host_disease</code>, <code>submitter</code>, <code>platform</code> etc.) and a derived <code>host_category</code> column.</p>
 </section>
 
 <!-- Section 1: Summary Tables -->
@@ -351,13 +354,18 @@ footer {
 
 <!-- Section 3: Stacked Bar Chart: Genomes Over Time -->
 <section>
-  <h2>Published Over Time</h2>
-  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Combined genome assembly release dates and SRA run publication dates.</p>
+  <h2>Genomes Over Time</h2>
+  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Year-by-year counts of genome assemblies and SRA WGS runs, stacked by priority group or species. Default axis is <em>collection year</em> (the year the biological sample was taken), which reflects surveillance activity. Switch to <em>release year</em> to see when records were published to NCBI.</p>
   <div class="filter-bar">
-    <label>Group by:</label>
+    <label>Date axis:</label>
+    <select id="bar-date" onchange="updateBarChart()">
+      <option value="collection">Collection year (sample origin)</option>
+      <option value="release">Release year (NCBI publication)</option>
+    </select>
+    <label style="margin-left:1rem;">Group by:</label>
     <select id="bar-filter" onchange="updateBarChart()">
-      <option value="priority">Priority Group</option>
       <option value="species">Species</option>
+      <option value="priority">Priority Group</option>
     </select>
   </div>
   <div class="chart-container" id="bar-chart-container">
@@ -371,48 +379,86 @@ footer {
   </div>
 </section>
 
-<!-- Section 4: Genome Size & GC% Scatter -->
+<!-- Section 4: Sampling Context (host categories) -->
 <section>
-  <h2>Genome Size vs GC Content</h2>
-  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Assembled genomes only. SRA WGS runs are not plotted as raw reads lack assembly-level statistics (genome size, GC content).</p>
+  <h2>Sampling Context by Species</h2>
+  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Where each species has actually been sampled, derived from the BioSample <code>host</code>, <code>isolation_source</code> and <code>host_disease</code> fields. Records are bucketed into coarse categories (human, animal, plant, environment, food, clinical_other, unknown). Raw NCBI values are preserved in the per-record CSV download.</p>
   <div class="filter-bar">
-    <label>Filter:</label>
-    <select id="scatter-filter" onchange="updateScatter()">
-      <option value="all">All Species</option>
-      <optgroup label="Priority Group">
-        <option value="priority:Critical">Critical Priority</option>
-        <option value="priority:High">High Priority</option>
-        <option value="priority:Medium">Medium Priority</option>
-      </optgroup>
-      <optgroup label="Species">
-      {% for name in stats.species_names %}
-        <option value="species:{{ name }}">{{ name }}</option>
-      {% endfor %}
-      </optgroup>
+    <label>Display:</label>
+    <select id="host-display" onchange="renderHostChart()">
+      <option value="absolute">Absolute counts</option>
+      <option value="proportion">Proportions (stacked to 100%)</option>
     </select>
   </div>
-  <div class="chart-container" id="scatter-container">
+  <div class="chart-container" id="host-chart-container">
     <!-- SVG rendered by JS -->
   </div>
-  <div id="scatter-legend" class="legend"></div>
+  <div id="host-legend" class="legend"></div>
   <div class="download-bar">
-    <button class="btn" onclick="downloadSVG('scatter-svg')">Download SVG</button>
-    <button class="btn" onclick="downloadPNG('scatter-svg')">Download PNG</button>
-    <button class="btn" onclick="downloadScatterCSV()">Download CSV</button>
+    <button class="btn" onclick="downloadSVG('host-chart-svg')">Download SVG</button>
+    <button class="btn" onclick="downloadPNG('host-chart-svg')">Download PNG</button>
+    <button class="btn" onclick="downloadHostCSV()">Download CSV (categories)</button>
   </div>
+  <details style="margin-top:1rem;">
+    <summary style="cursor:pointer; color:var(--text-muted); font-size:0.85rem;">Top raw host / isolation_source values per species</summary>
+    <div style="margin-top:0.5rem; max-height:400px; overflow:auto;">
+      <table id="raw-host-table" style="font-size:0.85rem;">
+        <thead><tr><th>Species</th><th>Top hosts (count)</th><th>Top isolation sources (count)</th></tr></thead>
+        <tbody>
+          {% for species in stats.species_names %}
+          <tr>
+            <td><em>{{ species }}</em></td>
+            <td style="font-family:monospace;">
+              {% for host, n in stats.raw_host_top.get(species, []) %}
+                {{ host }} ({{ n }}){% if not loop.last %}; {% endif %}
+              {% else %}
+                <span style="color:var(--text-muted);">none</span>
+              {% endfor %}
+            </td>
+            <td style="font-family:monospace;">
+              {% for src, n in stats.raw_isolation_top.get(species, []) %}
+                {{ src }} ({{ n }}){% if not loop.last %}; {% endif %}
+              {% else %}
+                <span style="color:var(--text-muted);">none</span>
+              {% endfor %}
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </details>
 </section>
 
-<!-- Section 5: Collection Date Timeline -->
+<!-- Section 5: Submitting Centres -->
 <section>
-  <h2>Sample Collection Timeline</h2>
-  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">When biological samples were originally collected from patients or the environment — not when the genome was sequenced or published. Combined genome and SRA BioSample collection dates.</p>
-  <div class="chart-container" id="timeline-container">
-    <!-- SVG rendered by JS -->
+  <h2>Submitting Centres</h2>
+  <p style="color:var(--text-muted); font-size:0.85rem; margin-bottom:1rem;">Who has been depositing genomes and SRA runs for each species. Genome submitter is taken from BioSample <code>owner.name</code> with assembly-level submitter as fallback. SRA submitter is the SUBMISSION <code>center_name</code>. Top 10 per species, combined across genomes and SRA.</p>
+  <div style="max-height:520px; overflow:auto;">
+    <table id="submitters-table" style="font-size:0.9rem;">
+      <thead>
+        <tr><th>Species</th><th>Priority</th><th>Top submitter (count)</th><th>2nd</th><th>3rd</th><th>4th</th><th>5th</th></tr>
+      </thead>
+      <tbody>
+        {% for species in stats.species_names %}
+        {% set subs = stats.submitters_combined.get(species, []) %}
+        <tr>
+          <td><em>{{ species }}</em></td>
+          <td><span class="priority-badge priority-{{ stats.species_priority_map.get(species, '').lower() }}">{{ stats.species_priority_map.get(species, '') }}</span></td>
+          {% for i in range(5) %}
+            {% if i < subs|length %}
+              <td>{{ subs[i][0] }} ({{ subs[i][1] }})</td>
+            {% else %}
+              <td style="color:var(--text-muted);">—</td>
+            {% endif %}
+          {% endfor %}
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
   </div>
-  <div class="download-bar">
-    <button class="btn" onclick="downloadSVG('timeline-svg')">Download SVG</button>
-    <button class="btn" onclick="downloadPNG('timeline-svg')">Download PNG</button>
-    <button class="btn" onclick="downloadTimelineCSV()">Download CSV</button>
+  <div class="download-bar" style="margin-top:1rem;">
+    <button class="btn" onclick="downloadSubmittersCSV()">Download CSV (top 10 per species)</button>
   </div>
 </section>
 
@@ -425,25 +471,30 @@ footer {
   <p>The 19 fungal entities from the <a href="https://www.who.int/publications/i/item/9789240060241" style="color:var(--accent);">WHO Fungal Priority Pathogens List (2022)</a> are queried, grouped into Critical (4), High (7), and Medium (8) priority. For genus-level entries (e.g. <em>Histoplasma</em> spp.), the genus name is queried. For <em>Mucorales</em>, the order name is used. For eumycetoma agents, multiple causative genera are queried (<em>Madurella</em>, <em>Medicopsis</em>, <em>Falciformispora</em>, <em>Trematosphaeria</em>). Where NCBI taxonomy has been updated (e.g. <em>Candida glabrata</em> &rarr; <em>Nakaseomyces glabrata</em>), both old and new names are queried and results deduplicated by accession.</p>
 
   <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">Assembled genomes</h3>
-  <p>Genome assembly metadata is retrieved using the <a href="https://www.ncbi.nlm.nih.gov/datasets/" style="color:var(--accent);">NCBI Datasets CLI</a> (<code>datasets summary genome taxon</code>). Fields extracted per assembly: accession, organism name, taxonomy ID, release date, assembly level, genome size (bp), GC content (%), and BioSample attributes (collection date, geographic location). Both GenBank and RefSeq assemblies are included.</p>
+  <p>Genome assembly metadata is retrieved using the <a href="https://www.ncbi.nlm.nih.gov/datasets/" style="color:var(--accent);">NCBI Datasets CLI</a> (<code>datasets summary genome taxon</code>). Fields extracted per assembly: accession, organism name, taxonomy ID, release date, assembly level, submitter, and BioSample attributes (collection date, geographic location, host, isolation source). Both GenBank and RefSeq assemblies are included.</p>
 
   <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">SRA WGS runs</h3>
-  <p>Sequencing read metadata is retrieved from the NCBI Sequence Read Archive (SRA) via <a href="https://www.ncbi.nlm.nih.gov/books/NBK25500/" style="color:var(--accent);">E-utilities</a> (esearch + efetch). Runs are filtered to <code>library_source=GENOMIC</code> and <code>library_strategy=WGS</code> to include only whole-genome sequencing data. BioSample attributes (collection date, geo_loc_name) are extracted from the inline sample metadata in the SRA XML. Placeholder values ("missing", "not collected", "not applicable", "unknown") are treated as absent.</p>
+  <p>Sequencing read metadata is retrieved from the NCBI Sequence Read Archive (SRA) via <a href="https://www.ncbi.nlm.nih.gov/books/NBK25500/" style="color:var(--accent);">E-utilities</a> (esearch + efetch). Runs are filtered to <code>library_source=GENOMIC</code> and <code>library_strategy=WGS</code> to include only whole-genome sequencing data. BioSample attributes (collection date, geo_loc_name, host, isolation_source, host_disease), the SUBMISSION <code>center_name</code>, the LIBRARY block (strategy, source, selection), and the PLATFORM block (platform, instrument_model) are extracted from the inline sample metadata in the SRA XML. Placeholder values (<code>missing</code>, <code>not collected</code>, <code>not applicable</code>, <code>unknown</code>, etc.) are treated as absent.</p>
+
+  <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">Host categorisation</h3>
+  <p>Each record's BioSample <code>host</code>, <code>isolation_source</code> and <code>host_disease</code> values are joined and matched against keyword lists to assign one of seven coarse categories: <code>human</code>, <code>animal</code>, <code>plant</code>, <code>environment</code>, <code>food</code>, <code>clinical_other</code> (healthcare-associated surfaces and devices), <code>unknown</code>. Both the raw NCBI strings and the derived category are kept in the per-record CSV downloads.</p>
 
   <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">Metadata completeness</h3>
   <p>For each record (genome or SRA), "With Location" indicates a non-empty <code>geo_loc_name</code> BioSample attribute; "With Date" indicates a non-empty <code>collection_date</code>; "With Both" requires both fields present. The data availability table can be filtered by source (Genomes only, SRA only, or combined).</p>
 
   <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">Visualisations</h3>
   <p><strong>Geographic distribution:</strong> The <code>geo_loc_name</code> field is parsed to extract the country (text before the first colon), mapped to ISO 3166-1 alpha-3 codes, and displayed on a Natural Earth 110m equirectangular projection with a log-scale colour gradient. Combined genome + SRA data.</p>
-  <p><strong>Published over time:</strong> Uses genome assembly release dates and SRA run publication dates, stacked by priority group or species.</p>
-  <p><strong>Genome size vs GC content:</strong> Assembled genomes only &mdash; SRA runs lack assembly-level statistics.</p>
-  <p><strong>Sample collection timeline:</strong> Uses BioSample <code>collection_date</code> from both genomes and SRA runs, showing when isolates were originally sampled.</p>
+  <p><strong>Genomes over time:</strong> Year-by-year counts of genome assemblies and SRA WGS runs. Default axis is <code>collection_date</code> (year), stacked by species (default) or priority group. A toggle switches to <code>release_date</code> for the publication view.</p>
+  <p><strong>Sampling context:</strong> Stacked bars per species using the derived host category, with a toggle for absolute counts vs proportions. Raw <code>host</code> and <code>isolation_source</code> values are listed in the per-species table.</p>
+  <p><strong>Submitting centres:</strong> Top submitting organisation per species, ranked by total record count (genomes + SRA). For genomes, the BioSample <code>owner.name</code> is preferred over the assembly-level submitter because RefSeq assemblies have a constant "National Center for Biotechnology Information" submitter that masks the original depositor. For SRA, the SUBMISSION <code>center_name</code> is used.</p>
 
   <h3 style="color:var(--text); font-size:1rem; margin:1rem 0 0.5rem;">Limitations</h3>
   <ul style="padding-left:1.5rem;">
     <li>SRA counts for genus-level queries may include non-pathogenic species within the genus.</li>
     <li>Geographic parsing is approximate &mdash; entries with only sub-national locations (e.g. "California" without country prefix) may be missed.</li>
     <li>Collection dates vary in precision (year only, year-month, or full date); only the year is used for temporal charts.</li>
+    <li>Host categorisation uses keyword matching against free-text fields and is therefore approximate. Ambiguous records fall into the <code>unknown</code> bucket; sanity-check using the raw values in the per-record CSV.</li>
+    <li>Submitter names are not curated. The same organisation can appear under multiple aliases (full name vs initialism vs department). Treat the top-N table as a ranking, not an exact dedup.</li>
     <li>Some assemblies in NCBI are suppressed or superseded but still returned by the Datasets CLI.</li>
   </ul>
 
@@ -465,10 +516,13 @@ const countryDataByPriority = {{ country_data_by_priority }};
 const priorityColors = {{ priority_colors }};
 const speciesColorMap = {{ species_color_map }};
 
-const barDataPriority = {{ bar_data_priority | tojson }};
-const barDataSpecies = {{ bar_data_species | tojson }};
-const scatterPoints = {{ scatter_points | tojson }};
-const collectionYears = {{ stats.collection_years | tojson }};
+const barCollectionPriority = {{ bar_collection_priority | tojson }};
+const barCollectionSpecies = {{ bar_collection_species | tojson }};
+const barReleasePriority = {{ bar_release_priority | tojson }};
+const barReleaseSpecies = {{ bar_release_species | tojson }};
+const hostCategoryCounts = {{ stats.host_category_counts | tojson }};
+const hostCategories = {{ stats.host_categories | tojson }};
+const submittersCombined = {{ stats.submitters_combined | tojson }};
 const completenessData = {{ stats.combined_completeness | tojson }};
 const speciesPriorityMap = {{ stats.species_priority_map | tojson }};
 const iso3ToName = {{ iso3_to_name }};
@@ -607,127 +661,93 @@ function renderBarChart(data) {
 }
 
 function updateBarChart() {
+  const dateAxis = document.getElementById('bar-date').value;
   const mode = document.getElementById('bar-filter').value;
-  renderBarChart(mode === 'priority' ? barDataPriority : barDataSpecies);
+  let data;
+  if (dateAxis === 'release') {
+    data = mode === 'priority' ? barReleasePriority : barReleaseSpecies;
+  } else {
+    data = mode === 'priority' ? barCollectionPriority : barCollectionSpecies;
+  }
+  renderBarChart(data);
 }
 
-// --- Scatter Plot ---
-function renderScatter(filter) {
-  const container = document.getElementById('scatter-container');
-  const legend = document.getElementById('scatter-legend');
+// --- Host Category Stacked Bars per Species ---
+const hostCategoryColors = {
+  human:          '#dc2626',
+  animal:         '#f59e0b',
+  plant:          '#65a30d',
+  environment:    '#06b6d4',
+  food:           '#a855f7',
+  clinical_other: '#ec4899',
+  unknown:        '#475569',
+};
 
-  let points = scatterPoints;
-  if (filter && filter !== 'all') {
-    if (filter.startsWith('priority:')) {
-      const p = filter.split(':')[1];
-      points = scatterPoints.filter(pt => pt.priority === p);
-    } else if (filter.startsWith('species:')) {
-      const s = filter.split(':')[1];
-      points = scatterPoints.filter(pt => pt.species === s);
-    }
-  }
+function renderHostChart() {
+  const container = document.getElementById('host-chart-container');
+  const legendEl = document.getElementById('host-legend');
+  const mode = document.getElementById('host-display').value; // absolute | proportion
 
-  if (!points.length) {
-    container.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:2rem;">No data available</p>';
-    legend.innerHTML = '';
+  const species = Object.keys(hostCategoryCounts).sort();
+  if (!species.length) {
+    container.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:2rem;">No host data available. Run fetch_metadata.py to populate.</p>';
+    legendEl.innerHTML = '';
     return;
   }
 
-  const W = 900, H = 500, pad = {top: 20, right: 20, bottom: 50, left: 70};
+  // Compute totals per species, for ordering
+  const totals = species.map(s => {
+    const c = hostCategoryCounts[s] || {};
+    return hostCategories.reduce((sum, cat) => sum + (c[cat] || 0), 0);
+  });
+  const ordered = species
+    .map((s, i) => ({ s, total: totals[i] }))
+    .sort((a, b) => b.total - a.total);
+
+  const W = 900, rowH = 26, pad = {top: 30, right: 30, bottom: 30, left: 220};
+  const H = pad.top + pad.bottom + ordered.length * rowH;
   const cw = W - pad.left - pad.right;
-  const ch = H - pad.top - pad.bottom;
 
-  const sizes = points.map(p => p.x);
-  const gcs = points.map(p => p.y);
-  const minX = Math.min(...sizes), maxX = Math.max(...sizes);
-  const minY = Math.min(...gcs), maxY = Math.max(...gcs);
-  const rangeX = maxX - minX || 1;
-  const rangeY = maxY - minY || 1;
+  const maxAbs = mode === 'absolute' ? Math.max(...totals, 1) : 1;
 
-  let svg = `<svg id="scatter-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:${W}px;">`;
+  let svg = `<svg id="host-chart-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:${W}px;">`;
   svg += `<rect width="${W}" height="${H}" fill="#1e293b" rx="8"/>`;
 
-  // Grid
-  for (let i = 0; i <= 5; i++) {
-    const y = pad.top + ch * i / 5;
-    const x = pad.left + cw * i / 5;
-    svg += `<line x1="${pad.left}" y1="${y}" x2="${W - pad.right}" y2="${y}" stroke="#334155" stroke-width="0.5"/>`;
-    svg += `<line x1="${x}" y1="${pad.top}" x2="${x}" y2="${pad.top + ch}" stroke="#334155" stroke-width="0.5"/>`;
-    const yVal = (maxY - (maxY - minY) * i / 5).toFixed(1);
-    const xVal = (minX + rangeX * i / 5 / 1e6).toFixed(1);
-    svg += `<text x="${pad.left - 8}" y="${y + 4}" fill="#94a3b8" font-size="10" text-anchor="end">${yVal}%</text>`;
-    svg += `<text x="${x}" y="${pad.top + ch + 16}" fill="#94a3b8" font-size="10" text-anchor="middle">${xVal}Mb</text>`;
-  }
+  // Header
+  svg += `<text x="${pad.left + cw / 2}" y="20" fill="#94a3b8" font-size="11" text-anchor="middle">`;
+  svg += mode === 'proportion' ? 'Proportion of records by sampling context' : 'Number of records by sampling context';
+  svg += `</text>`;
 
-  // Points
-  points.forEach(pt => {
-    const x = pad.left + ((pt.x - minX) / rangeX) * cw;
-    const y = pad.top + ch - ((pt.y - minY) / rangeY) * ch;
-    svg += `<circle cx="${x}" cy="${y}" r="3" fill="${pt.color}" opacity="0.7">`;
-    svg += `<title>${pt.species}\n${pt.accession}\nSize: ${(pt.x / 1e6).toFixed(1)}Mb, GC: ${pt.y.toFixed(1)}%</title></circle>`;
+  ordered.forEach((row, i) => {
+    const y = pad.top + i * rowH;
+    const counts = hostCategoryCounts[row.s] || {};
+    let denom;
+    if (mode === 'proportion') {
+      denom = row.total || 1;
+    } else {
+      denom = maxAbs;
+    }
+    let x = pad.left;
+    // Species label
+    svg += `<text x="${pad.left - 8}" y="${y + rowH / 2 + 4}" fill="#e2e8f0" font-size="11" text-anchor="end" font-style="italic">${row.s}</text>`;
+    svg += `<text x="${W - pad.right + 4}" y="${y + rowH / 2 + 4}" fill="#94a3b8" font-size="10" text-anchor="start">${row.total}</text>`;
+
+    hostCategories.forEach(cat => {
+      const n = counts[cat] || 0;
+      if (!n) return;
+      const w = (n / denom) * cw;
+      svg += `<rect x="${x}" y="${y + 2}" width="${w}" height="${rowH - 4}" fill="${hostCategoryColors[cat]}">`;
+      svg += `<title>${row.s} — ${cat}: ${n}</title></rect>`;
+      x += w;
+    });
   });
 
-  svg += `<text x="${pad.left + cw / 2}" y="${H - 5}" fill="#94a3b8" font-size="12" text-anchor="middle">Genome Size (Mb)</text>`;
-  svg += `<text x="15" y="${pad.top + ch / 2}" fill="#94a3b8" font-size="12" text-anchor="middle" transform="rotate(-90,15,${pad.top + ch / 2})">GC Content (%)</text>`;
   svg += '</svg>';
-
   container.innerHTML = svg;
 
-  // Legend
-  const species = [...new Set(points.map(p => p.species))].sort();
-  legend.innerHTML = species.map(s =>
-    `<div class="legend-item"><div class="legend-swatch" style="background:${speciesColorMap[s] || '#999'}"></div><em>${s}</em></div>`
+  legendEl.innerHTML = hostCategories.map(cat =>
+    `<div class="legend-item"><div class="legend-swatch" style="background:${hostCategoryColors[cat]}"></div>${cat.replace('_', ' ')}</div>`
   ).join('');
-}
-
-function updateScatter() {
-  renderScatter(document.getElementById('scatter-filter').value);
-}
-
-// --- Collection Timeline Histogram ---
-function renderTimeline() {
-  const container = document.getElementById('timeline-container');
-  const years = Object.keys(collectionYears).map(Number).sort((a, b) => a - b);
-  if (!years.length) {
-    container.innerHTML = '<p style="color:var(--text-muted);text-align:center;padding:2rem;">No collection date data available</p>';
-    return;
-  }
-
-  const counts = years.map(y => collectionYears[y]);
-  const maxCount = Math.max(...counts);
-  const W = 900, H = 300, pad = {top: 20, right: 20, bottom: 50, left: 60};
-  const cw = W - pad.left - pad.right;
-  const ch = H - pad.top - pad.bottom;
-  const barW = Math.max(2, Math.min(20, cw / years.length - 2));
-
-  let svg = `<svg id="timeline-svg" viewBox="0 0 ${W} ${H}" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:${W}px;">`;
-  svg += `<rect width="${W}" height="${H}" fill="#1e293b" rx="8"/>`;
-
-  // Y grid
-  for (let i = 0; i <= 4; i++) {
-    const val = Math.round(maxCount * i / 4);
-    const y = pad.top + ch - (ch * i / 4);
-    svg += `<line x1="${pad.left}" y1="${y}" x2="${W - pad.right}" y2="${y}" stroke="#334155" stroke-width="0.5"/>`;
-    svg += `<text x="${pad.left - 8}" y="${y + 4}" fill="#94a3b8" font-size="11" text-anchor="end">${val}</text>`;
-  }
-
-  // Bars
-  years.forEach((year, i) => {
-    const x = pad.left + (i / years.length) * cw + (cw / years.length - barW) / 2;
-    const barH = (counts[i] / maxCount) * ch;
-    const y = pad.top + ch - barH;
-    svg += `<rect x="${x}" y="${y}" width="${barW}" height="${barH}" fill="#06b6d4" rx="1"><title>${year}: ${counts[i]} samples</title></rect>`;
-    const step = Math.max(1, Math.ceil(years.length / 20));
-    if (i % step === 0) {
-      svg += `<text x="${x + barW / 2}" y="${H - pad.bottom + 16}" fill="#94a3b8" font-size="10" text-anchor="middle">${year}</text>`;
-    }
-  });
-
-  svg += `<text x="${pad.left + cw / 2}" y="${H - 5}" fill="#94a3b8" font-size="12" text-anchor="middle">Collection Year</text>`;
-  svg += `<text x="15" y="${pad.top + ch / 2}" fill="#94a3b8" font-size="12" text-anchor="middle" transform="rotate(-90,15,${pad.top + ch / 2})">Samples</text>`;
-  svg += '</svg>';
-
-  container.innerHTML = svg;
 }
 
 // --- Download Helpers ---
@@ -827,32 +847,41 @@ function downloadMapCSV() {
 }
 
 function downloadBarCSV() {
+  const dateAxis = document.getElementById('bar-date').value;
   const mode = document.getElementById('bar-filter').value;
-  const data = mode === 'priority' ? barDataPriority : barDataSpecies;
+  let data;
+  if (dateAxis === 'release') {
+    data = mode === 'priority' ? barReleasePriority : barReleaseSpecies;
+  } else {
+    data = mode === 'priority' ? barCollectionPriority : barCollectionSpecies;
+  }
   if (!data.years || !data.years.length) return;
   const headers = ['Year', ...data.series.map(s => s.name)];
   const rows = data.years.map((year, i) => [year, ...data.series.map(s => s.values[i])]);
-  downloadCSV(headers, rows, 'published_over_time.csv');
+  const fname = dateAxis === 'release' ? 'genomes_by_release_year.csv' : 'genomes_by_collection_year.csv';
+  downloadCSV(headers, rows, fname);
 }
 
-function downloadScatterCSV() {
-  const filter = document.getElementById('scatter-filter').value;
-  let pts = scatterPoints;
-  if (filter && filter !== 'all') {
-    if (filter.startsWith('priority:')) pts = pts.filter(p => p.priority === filter.split(':')[1]);
-    else if (filter.startsWith('species:')) pts = pts.filter(p => p.species === filter.split(':')[1]);
-  }
-  const headers = ['Accession', 'Species', 'Priority', 'Genome Size (bp)', 'GC Content (%)'];
-  const rows = pts.map(p => [p.accession, p.species, p.priority, p.x, p.y]);
-  downloadCSV(headers, rows, 'genome_size_gc.csv');
+function downloadHostCSV() {
+  const headers = ['Species', 'Priority', ...hostCategories, 'Total'];
+  const rows = Object.keys(hostCategoryCounts).sort().map(s => {
+    const c = hostCategoryCounts[s] || {};
+    const cells = hostCategories.map(cat => c[cat] || 0);
+    const total = cells.reduce((a, b) => a + b, 0);
+    return [s, speciesPriorityMap[s] || '', ...cells, total];
+  });
+  downloadCSV(headers, rows, 'sampling_context_by_species.csv');
 }
 
-function downloadTimelineCSV() {
-  const headers = ['Collection Year', 'Sample Count'];
-  const rows = Object.entries(collectionYears)
-    .map(([y, c]) => [parseInt(y), c])
-    .sort((a, b) => a[0] - b[0]);
-  downloadCSV(headers, rows, 'collection_timeline.csv');
+function downloadSubmittersCSV() {
+  const headers = ['Species', 'Priority', 'Rank', 'Submitter', 'Record count'];
+  const rows = [];
+  Object.keys(submittersCombined).sort().forEach(s => {
+    (submittersCombined[s] || []).forEach((entry, i) => {
+      rows.push([s, speciesPriorityMap[s] || '', i + 1, entry[0], entry[1]]);
+    });
+  });
+  downloadCSV(headers, rows, 'submitters_top10_per_species.csv');
 }
 
 // --- Species Table Switcher ---
@@ -1011,8 +1040,7 @@ function initSortableTable(tableId) {
 document.addEventListener('DOMContentLoaded', () => {
   updateMap();
   updateBarChart();
-  renderScatter('all');
-  renderTimeline();
+  renderHostChart();
   renderCompletenessChart();
   initSortableTable('species-table');
 });
