@@ -28,23 +28,47 @@ def _clean(value: str) -> str:
     return v
 
 
-def classify_host(host: str, isolation_source: str, host_disease: str = "") -> str:
+def classify_host(host: str, isolation_source: str, host_disease: str = "",
+                  env_broad_scale: str = "") -> str:
     """Classify a BioSample into a coarse origin category.
 
-    Returns one of: human, animal, plant, environment, food, clinical_other, unknown.
-    Looks at host, isolation_source, and host_disease together. The category is
-    derived; the raw fields are retained alongside it.
+    Returns one of: human, animal, plant, environment, food, laboratory,
+    clinical_other, unknown. Looks at host, isolation_source, host_disease
+    and env_broad_scale together. The category is derived; the raw fields
+    are retained alongside it.
     """
-    blob = " ".join(filter(None, [host, isolation_source, host_disease])).lower()
+    blob = " ".join(filter(None,
+                          [host, isolation_source, host_disease, env_broad_scale])).lower()
     if not blob:
         return "unknown"
 
-    # Human first: most fungal records are clinical
+    # Laboratory-derived strains first: these aren't real-world sampling and
+    # should not count toward host distribution. Catch them before any other
+    # category because the metadata often duplicates a clinical host on top.
+    lab_terms = ("in vitro", "in-vitro", "evolved", "evolution experiment",
+                 "lab experiment", "laboratory experiment", "crispr",
+                 "transformed", "transformant", "mutant strain", "knockout",
+                 "engineered", "synthetic", "passaged", "serial passage",
+                 "adapted", "drug-evolved", "fluconazole evolved",
+                 "voriconazole evolved", "amphotericin evolved",
+                 "lab evolved", "lab-evolved", "in vitro selection",
+                 "lab adapted", "lab-adapted")
+    if any(t in blob for t in lab_terms):
+        return "laboratory"
+
+    # Human: include the short / mis-spelt forms seen in NCBI free text
     human_terms = ("homo sapiens", "human", "patient", "clinical isolate",
+                   "clinical sample", "clinical specimen", "clinical strain",
                    "blood culture", "bronchoalveolar", "sputum", "csf",
                    "cerebrospinal", "nail", "skin scraping", "vaginal", "urine",
-                   "stool", "throat swab", "ear swab")
+                   "stool", "throat swab", "ear swab", "blood", "oropharynx",
+                   "oropharanyx", "pharyngeal", "pulmonary", "lung", "tracheal",
+                   "wound", "bile", "peritoneal")
     if any(t in blob for t in human_terms):
+        return "human"
+
+    # "clinical" alone (after the more specific lab/human matches above)
+    if "clinical" in blob:
         return "human"
 
     # Built-environment / hospital surfaces: still environmental but flag clinical_other
@@ -53,29 +77,75 @@ def classify_host(host: str, isolation_source: str, host_disease: str = "") -> s
     if any(t in blob for t in clinical_other):
         return "clinical_other"
 
-    # Plant
-    plant_terms = ("plant", "leaf", "leaves", "root", "rhizosphere", "stem",
-                   "seed", "fruit", "grain", "wheat", "maize", "corn", "rice",
-                   "banana", "tomato", "potato", "coffee", "cacao", "cotton",
-                   "vine", "tree", "wood", "bark", "mycelium", "phyllosphere",
-                   "triticum", "zea mays", "oryza", "musa", "agriculture",
-                   "crop", "nursery", "greenhouse")
+    # Plant: common English names + lowercase + Latin binomials
+    plant_terms = (
+        # General terms
+        "plant", "leaf", "leaves", "root", "rhizosphere", "stem", "seed",
+        "fruit", "grain", "vine", "tree", "wood", "bark", "mycelium",
+        "phyllosphere", "rhizoplane", "phylloplane", "agriculture", "crop",
+        "nursery", "greenhouse",
+        # Common-name crops
+        "wheat", "maize", "corn", "rice", "banana", "tomato", "potato",
+        "coffee", "cacao", "cocoa", "cotton", "barley", "oat", "oats",
+        "rye", "sorghum", "millet", "soy", "soybean", "pea", "chickpea",
+        "lentil", "bean", "lupin", "alfalfa", "clover", "grape", "grapes",
+        "apple", "pear", "peach", "plum", "cherry", "strawberry", "raspberry",
+        "blueberry", "lettuce", "spinach", "cabbage", "broccoli", "cauliflower",
+        "kale", "onion", "garlic", "leek", "carrot", "celery", "cucumber",
+        "melon", "watermelon", "pumpkin", "squash", "courgette", "zucchini",
+        "pepper", "chili", "chilli", "eggplant", "aubergine", "citrus",
+        "orange", "lemon", "lime", "mango", "papaya", "pineapple", "avocado",
+        "olive", "palm", "pine", "spruce", "fir", "oak", "elm", "willow",
+        "poplar", "eucalyptus", "rubber", "tea", "tobacco", "hop", "hops",
+        "sugarcane", "sugar cane", "cassava", "yam", "ginger", "turmeric",
+        # Latin binomials (genus or genus species) commonly seen
+        "triticum", "zea mays", "oryza", "musa", "cicer arietinum", "lactuca",
+        "fragaria", "cucumis", "lathyrus", "spinacia", "pinus", "citrullus",
+        "allium", "solanum", "citrus", "gossypium", "hordeum", "avena",
+        "medicago", "glycine", "phoenix", "malus", "brassica", "vitis",
+        "olea", "coffea", "theobroma", "saccharum", "humulus", "nicotiana",
+        "hevea", "elaeis", "manihot", "ipomoea", "capsicum", "daucus",
+        "beta vulgaris", "trifolium")
     if any(t in blob for t in plant_terms):
         return "plant"
 
-    # Animal (non-human)
-    animal_terms = ("dog", "cat", "cattle", "bovine", "horse", "equine", "sheep",
-                    "pig", "swine", "porcine", "poultry", "chicken", "bird",
-                    "bat", "rodent", "rat", "mouse", "fish", "amphibian", "frog",
-                    "salamander", "reptile", "snake", "lizard", "insect", "bee",
-                    "mosquito", "wildlife", "animal", "veterinary", "fur",
-                    "felis", "canis")
+    # Animal (non-human): broaden Latin binomials and lower-cased common forms
+    animal_terms = (
+        # General terms
+        "animal", "wildlife", "veterinary", "fur",
+        # Common-name mammals
+        "dog", "puppy", "cat", "kitten", "cattle", "bovine", "cow", "calf",
+        "horse", "equine", "foal", "donkey", "mule", "sheep", "lamb", "ovine",
+        "goat", "caprine", "pig", "swine", "porcine", "piglet", "boar",
+        "rabbit", "rodent", "rat", "mouse", "mice", "hamster", "guinea pig",
+        "ferret", "mink", "bat", "deer", "elk", "moose", "buffalo", "bison",
+        "camel", "llama", "alpaca", "monkey", "macaque", "marmoset", "baboon",
+        "chimpanzee", "gorilla", "lemur",
+        # Birds
+        "poultry", "chicken", "broiler", "layer", "turkey", "duck", "goose",
+        "pigeon", "parrot", "cockatoo", "bird", "owl", "raptor", "eagle",
+        # Aquatic
+        "fish", "salmon", "trout", "tilapia", "carp", "shrimp", "prawn",
+        "lobster", "crab", "oyster", "mussel", "shellfish", "frog", "toad",
+        "amphibian", "salamander",
+        # Reptiles
+        "reptile", "snake", "lizard", "tortoise", "turtle", "iguana", "gecko",
+        # Invertebrates
+        "insect", "bee", "beetle", "ant", "mosquito", "fly", "wasp", "termite",
+        "spider", "tick", "mite",
+        # Latin binomials commonly seen
+        "felis", "canis", "bos taurus", "sus scrofa", "ovis aries", "equus",
+        "macaca", "rattus", "mus musculus", "anas platyrhynchos", "gallus",
+        "meleagris", "danio rerio", "drosophila", "apis mellifera",
+        "caenorhabditis", "cepaea")
     if any(t in blob for t in animal_terms):
         return "animal"
 
-    # Food
-    food_terms = ("food", "cheese", "wine", "beer", "fermented", "dairy",
-                  "yogurt", "kefir", "bread", "kombucha")
+    # Food / fermentation
+    food_terms = ("food", "cheese", "wine", "beer", "fermented", "fermentation",
+                  "dairy", "yogurt", "yoghurt", "kefir", "bread", "kombucha",
+                  "miso", "soy sauce", "sake", "cider", "vinegar",
+                  "mycoprotein", "baijiu", "kimchi")
     if any(t in blob for t in food_terms):
         return "food"
 
@@ -83,8 +153,8 @@ def classify_host(host: str, isolation_source: str, host_disease: str = "") -> s
     env_terms = ("soil", "sediment", "water", "marine", "freshwater",
                  "groundwater", "river", "lake", "ocean", "sea", "air",
                  "dust", "compost", "manure", "mud", "sludge", "wastewater",
-                 "sewage", "environment", "indoor", "outdoor", "biofilm",
-                 "rhizoplane", "phylloplane", "litter", "cave")
+                 "sewage", "environment", "environmental", "indoor", "outdoor",
+                 "biofilm", "litter", "cave", "biome")
     if any(t in blob for t in env_terms):
         return "environment"
 
@@ -231,7 +301,7 @@ def extract_record(report: dict) -> dict | None:
         "isolation_source": isolation_source,
         "host_disease": host_disease,
         "env_broad_scale": env_broad,
-        "host_category": classify_host(host, isolation_source, host_disease),
+        "host_category": classify_host(host, isolation_source, host_disease, env_broad),
         "assembly_submitter": assembly_submitter,
         "biosample_owner": biosample_owner,
         "submitter": biosample_owner or assembly_submitter,
@@ -410,7 +480,7 @@ def fetch_sra_metadata(query: str, min_date: str | None = None) -> list[dict]:
                 "isolation_source": isolation_source,
                 "host_disease": host_disease,
                 "env_broad_scale": env_broad,
-                "host_category": classify_host(host, isolation_source, host_disease),
+                "host_category": classify_host(host, isolation_source, host_disease, env_broad),
                 "submitter": _clean(center),
                 "bioproject_accession": bioproject_accession,
                 "study_accession": study_accession,

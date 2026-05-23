@@ -265,7 +265,7 @@ def _collection_year_counts_by_species(records: list[dict]) -> tuple[dict, dict,
 
 
 HOST_CATEGORIES = ["human", "animal", "plant", "environment",
-                   "food", "clinical_other", "unknown"]
+                   "food", "clinical_other", "laboratory", "unknown"]
 
 
 def _host_category_counts(records: list[dict]) -> dict:
