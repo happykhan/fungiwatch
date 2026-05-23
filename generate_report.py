@@ -472,7 +472,8 @@ def write_sra_csv(records: list[dict], path: Path):
     fields = ["accession", "organism_name", "tax_id", "fppl_name", "priority",
               "release_date", "collection_date", "geo_loc_name",
               "host", "isolation_source", "host_disease", "env_broad_scale",
-              "host_category", "submitter", "platform", "instrument_model",
+              "host_category", "submitter", "bioproject_accession",
+              "study_accession", "platform", "instrument_model",
               "library_strategy", "library_source", "library_selection"]
     with open(path, "w", newline="") as f:
         writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")

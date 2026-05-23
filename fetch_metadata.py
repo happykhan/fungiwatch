@@ -353,6 +353,20 @@ def fetch_sra_metadata(query: str, min_date: str | None = None) -> list[dict]:
                 if exp is not None:
                     center = exp.attrib.get("center_name", "")
 
+            # BioProject + Study accession (Study groups one or more samples;
+            # BioProject is the umbrella project the study sits under). The
+            # BioProject is exposed as an EXTERNAL_ID with namespace="BioProject"
+            # under STUDY.
+            study_accession = ""
+            bioproject_accession = ""
+            study = pkg.find(".//STUDY")
+            if study is not None:
+                study_accession = study.attrib.get("accession", "")
+                for eid in study.findall(".//EXTERNAL_ID"):
+                    if eid.attrib.get("namespace", "").lower() == "bioproject" and eid.text:
+                        bioproject_accession = eid.text.strip()
+                        break
+
             # Library + platform
             library_strategy = ""
             library_source = ""
@@ -398,6 +412,8 @@ def fetch_sra_metadata(query: str, min_date: str | None = None) -> list[dict]:
                 "env_broad_scale": env_broad,
                 "host_category": classify_host(host, isolation_source, host_disease),
                 "submitter": _clean(center),
+                "bioproject_accession": bioproject_accession,
+                "study_accession": study_accession,
                 "platform": platform,
                 "instrument_model": instrument_model,
                 "library_strategy": library_strategy,
