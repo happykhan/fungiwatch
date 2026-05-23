@@ -249,6 +249,8 @@ MAX_RETRIES = 5
 def entrez_request(endpoint: str, params: dict) -> bytes:
     """Make an E-utilities request with rate limiting and retry on transient errors."""
     import http.client
+    import urllib.error
+
     query_str = "&".join(f"{k}={urllib.request.quote(str(v))}" for k, v in params.items())
     url = f"{EUTILS_BASE}/{endpoint}?{query_str}"
 
@@ -260,7 +262,7 @@ def entrez_request(endpoint: str, params: dict) -> bytes:
             with urllib.request.urlopen(req, timeout=120) as resp:
                 return resp.read()
         except (http.client.IncompleteRead, http.client.RemoteDisconnected,
-                urllib.error.URLError, TimeoutError, ConnectionResetError) as e:
+                urllib.error.URLError, TimeoutError, ConnectionResetError, OSError) as e:
             last_err = e
             backoff = 2 ** attempt + 1.0  # 2s, 3s, 5s, 9s, 17s
             print(f"    Transient error ({type(e).__name__}): retrying in {backoff:.0f}s "

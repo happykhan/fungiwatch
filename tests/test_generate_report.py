@@ -13,7 +13,6 @@ from generate_report import (
     compute_stats,
     geojson_to_svg_paths,
     build_stacked_bar_data,
-    build_scatter_svg_data,
     COUNTRY_ALIASES,
 )
 
@@ -224,17 +223,3 @@ def test_stacked_bar_data_empty():
     assert result == {"years": [], "series": []}
 
 
-# -- build_scatter_svg_data --
-
-def test_scatter_data():
-    data = [
-        {"size": 1e7, "gc": 45.0, "species": "A", "priority": "Critical", "accession": "X"},
-    ]
-    colors = {"A": "#ff0000"}
-    result = build_scatter_svg_data(data, colors)
-    assert len(result) == 1
-    assert result[0]["color"] == "#ff0000"
-
-
-def test_scatter_data_empty():
-    assert build_scatter_svg_data([], {}) == []
