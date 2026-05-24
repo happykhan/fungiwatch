@@ -15,13 +15,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA596126",
     "genome_size_bp": 12726212,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCF_000002545.3",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Genolevures Consortium",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA13831",
     "genome_size_bp": 12318245,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000002545.2",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Genolevures Consortium",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA13831",
     "genome_size_bp": 12318245,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466525.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 12602388,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466535.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 12563078,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466565.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 12865870,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466575.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 12784432,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466635.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 14517464,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_001466685.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Oslo University Hospital, Rikshopitalet",
     "biosample_owner": "Oslo University Hospital, Rikshopitalet",
     "submitter": "Oslo University Hospital, Rikshopitalet",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA297263",
     "genome_size_bp": 12820484,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_002219185.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "University of Lausanne",
     "biosample_owner": "University of Lausanne",
     "submitter": "University of Lausanne",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA374542",
     "genome_size_bp": 12709102,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_002219195.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "University of Lausanne",
     "biosample_owner": "University of Lausanne",
     "submitter": "University of Lausanne",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA374542",
     "genome_size_bp": 12708078,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_002259835.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "University of Maryland School of Medicine",
     "biosample_owner": "University of Maryland School of Medicine",
     "submitter": "University of Maryland School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA384935",
     "genome_size_bp": 12248562,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_004332445.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA525402",
     "genome_size_bp": 12237800,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_004332455.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA525402",
     "genome_size_bp": 12236919,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_004332465.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA525402",
     "genome_size_bp": 12251356,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_010111755.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA596126",
     "genome_size_bp": 12726212,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_014217725.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA600925",
     "genome_size_bp": 12696838,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020450195.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA602900",
     "genome_size_bp": 12727606,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020450215.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA630578",
     "genome_size_bp": 12702153,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020450235.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA630579",
     "genome_size_bp": 12727208,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020450265.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Johns Hopkins Medical Institution",
     "biosample_owner": "Johns Hopkins Medical Institution",
     "submitter": "Johns Hopkins Medical Institution",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA630577",
     "genome_size_bp": 12720866,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797185.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12509784,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797195.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12391558,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797205.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12482983,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797215.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12491754,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797225.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12492115,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797325.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12468874,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020797355.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA718446",
     "genome_size_bp": 12311592,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_021498365.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "University of Houston College of Pharmacy",
     "biosample_owner": "University of Houston College of Pharmacy",
     "submitter": "University of Houston College of Pharmacy",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA795464",
     "genome_size_bp": 12150649,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_021498375.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "University of Houston College of Pharmacy",
     "biosample_owner": "University of Houston College of Pharmacy",
     "submitter": "University of Houston College of Pharmacy",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA795468",
     "genome_size_bp": 12144313,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_021498385.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "University of Houston College of Pharmacy",
     "biosample_owner": "University of Houston College of Pharmacy",
     "submitter": "University of Houston College of Pharmacy",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA795468",
     "genome_size_bp": 12137231,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_021498435.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "University of Houston College of Pharmacy",
     "biosample_owner": "University of Houston College of Pharmacy",
     "submitter": "University of Houston College of Pharmacy",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA795468",
     "genome_size_bp": 12136444,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_022702475.2",
@@ -783,13 +783,13 @@
     "assembly_submitter": "CSIR-NATIONAL INSTITUTE FOR INTERDISCIPLINARY SCIENCE AND TECHNOLOGY",
     "biosample_owner": "CSIR-NATIONAL INSTITUTE FOR INTERDISCIPLINARY SCIENCE AND TECHNOLOGY",
     "submitter": "CSIR-NATIONAL INSTITUTE FOR INTERDISCIPLINARY SCIENCE AND TECHNOLOGY",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA774452",
     "genome_size_bp": 12176438,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_023629135.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12193152,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_023629155.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12223951,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_024195175.2",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Uludag University Medical School",
     "biosample_owner": "Uludag University Medical School",
     "submitter": "Uludag University Medical School",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA786916",
     "genome_size_bp": 12053058,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_024665945.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA694431",
     "genome_size_bp": 12234984,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_024665985.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA694431",
     "genome_size_bp": 12227594,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_024666015.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA694431",
     "genome_size_bp": 12206129,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_025331885.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12580898,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_025331905.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12686151,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_025503555.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12188201,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539265.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12633394,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539545.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12580045,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539665.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12468906,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539755.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12710449,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539885.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12337459,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539955.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 11809434,
     "gc_percent": 40.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026539985.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12334482,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026540005.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12656330,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_026540015.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "University of Warwick",
     "biosample_owner": "University of Warwick",
     "submitter": "University of Warwick",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA589840",
     "genome_size_bp": 12593896,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_027480175.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA738673",
     "genome_size_bp": 12192315,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_027480185.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA738673",
     "genome_size_bp": 12208290,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_027480195.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "biosample_owner": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
     "submitter": "Institute for Bioengineering and Biosciences, Instituto Superior Tecnico",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA738673",
     "genome_size_bp": 12192418,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "commercial"
+    "priority": "High"
   },
   {
     "accession": "GCA_030579235.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA736342",
     "genome_size_bp": 12347516,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_037013435.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1065320",
     "genome_size_bp": 12342061,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_037039695.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12124856,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121405.1",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12667348,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121415.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12612779,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121425.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12603380,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121435.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12618042,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121665.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12623351,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121675.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12678823,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121685.1",
@@ -1527,13 +1527,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12703992,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121695.1",
@@ -1551,13 +1551,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12654443,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121705.1",
@@ -1575,13 +1575,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12707427,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_041121715.1",
@@ -1599,13 +1599,13 @@
     "assembly_submitter": "BSC",
     "biosample_owner": "BSC",
     "submitter": "BSC",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717653",
     "genome_size_bp": 12650493,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_043790645.1",
@@ -1623,13 +1623,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1061498",
     "genome_size_bp": 12376877,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_043790665.1",
@@ -1647,13 +1647,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1061498",
     "genome_size_bp": 12291981,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_043790705.1",
@@ -1671,13 +1671,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1061498",
     "genome_size_bp": 12319915,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_043790815.1",
@@ -1695,13 +1695,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1061498",
     "genome_size_bp": 12363198,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_043790835.1",
@@ -1719,13 +1719,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1061498",
     "genome_size_bp": 12386201,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044592685.1",
@@ -1743,13 +1743,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 12306456,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_048569415.1",
@@ -1767,13 +1767,13 @@
     "assembly_submitter": "Institute of Microbiology",
     "biosample_owner": "Institute of Microbiology",
     "submitter": "Institute of Microbiology",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA802031",
     "genome_size_bp": 12645666,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307345.1",
@@ -1791,13 +1791,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12090237,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307425.1",
@@ -1815,13 +1815,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12166194,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_050859445.1",
@@ -1839,13 +1839,13 @@
     "assembly_submitter": "University of Kerbala",
     "biosample_owner": "University of Kerbala",
     "submitter": "University of Kerbala",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1270705",
     "genome_size_bp": 11991938,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_051943915.2",
@@ -1863,13 +1863,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 12011376,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_051944255.2",
@@ -1887,13 +1887,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 12024051,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_051944275.2",
@@ -1911,13 +1911,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 12042804,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_051996735.1",
@@ -1935,13 +1935,13 @@
     "assembly_submitter": "University of Pavia",
     "biosample_owner": "University of Pavia",
     "submitter": "University of Pavia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1189032",
     "genome_size_bp": 12233408,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_051996855.1",
@@ -1959,13 +1959,13 @@
     "assembly_submitter": "University of Pavia",
     "biosample_owner": "University of Pavia",
     "submitter": "University of Pavia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1189032",
     "genome_size_bp": 12164214,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_051996955.1",
@@ -1983,13 +1983,13 @@
     "assembly_submitter": "University of Pavia",
     "biosample_owner": "University of Pavia",
     "submitter": "University of Pavia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1189032",
     "genome_size_bp": 12190525,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_052692795.1",
@@ -2007,13 +2007,13 @@
     "assembly_submitter": "Westerdijk Fungal Biodiversity Institute",
     "biosample_owner": "Westerdijk Fungal Biodiversity Institute",
     "submitter": "Westerdijk Fungal Biodiversity Institute",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA999196",
     "genome_size_bp": 12697892,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_052855765.1",
@@ -2031,13 +2031,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12366113,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_056150915.1",
@@ -2055,13 +2055,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 12644623,
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056150955.1",
@@ -2079,13 +2079,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 13246905,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056150985.1",
@@ -2103,13 +2103,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 12460252,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151015.1",
@@ -2127,13 +2127,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 11753870,
     "gc_percent": 37.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151045.1",
@@ -2151,13 +2151,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 13763372,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151075.1",
@@ -2175,13 +2175,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 13480085,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151105.1",
@@ -2199,13 +2199,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 13149181,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151135.1",
@@ -2223,13 +2223,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 12738564,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151165.1",
@@ -2247,13 +2247,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 13790250,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056151225.1",
@@ -2271,13 +2271,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 12712543,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056669465.1",
@@ -2295,13 +2295,13 @@
     "assembly_submitter": "Instituto Costarricense de Investigacion y Ensenanza en Nutricion y Salud (INCIENSA)",
     "biosample_owner": "Instituto Costarricense de Investigacion y Ensenanza en Nutricion y Salud (INCIENSA)",
     "submitter": "Instituto Costarricense de Investigacion y Ensenanza en Nutricion y Salud (INCIENSA)",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1356828",
     "genome_size_bp": 12265374,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_900096545.1",
@@ -2319,13 +2319,13 @@
     "assembly_submitter": "Technische Universitat Munchen - WZW",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB15305",
     "genome_size_bp": 12296340,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_900166875.1",
@@ -2343,13 +2343,13 @@
     "assembly_submitter": "Technische Universitat Munchen - WZW",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB15305",
     "genome_size_bp": 12296340,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_937870575.1",
@@ -2367,13 +2367,13 @@
     "assembly_submitter": "European Bioinformatics Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB51075",
     "genome_size_bp": 11810450,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000497105.2",
@@ -2391,12 +2391,12 @@
     "assembly_submitter": "Jiangnan University",
     "biosample_owner": "",
     "submitter": "Jiangnan University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA222546",
     "genome_size_bp": 12145350,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Nakaseomyces glabrata",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   }
 ]

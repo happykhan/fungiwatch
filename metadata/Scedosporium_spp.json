@@ -15,13 +15,13 @@
     "assembly_submitter": "LUNAM - Angers University",
     "biosample_owner": "LUNAM - Angers University",
     "submitter": "LUNAM - Angers University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA244532",
     "genome_size_bp": 43437139,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000732125.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "LUNAM - Angers University",
     "biosample_owner": "LUNAM - Angers University",
     "submitter": "LUNAM - Angers University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA244532",
     "genome_size_bp": 43437139,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002158515.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Universidad de los Andes",
     "biosample_owner": "Universidad de los Andes",
     "submitter": "Universidad de los Andes",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA357602",
     "genome_size_bp": 44221183,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_029532445.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "National Centre for Cell Science",
     "biosample_owner": "National Centre for Cell Science",
     "submitter": "National Centre for Cell Science",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA929013",
     "genome_size_bp": 16341242,
     "gc_percent": 56.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_029532475.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "National Centre for Cell Science",
     "biosample_owner": "National Centre for Cell Science",
     "submitter": "National Centre for Cell Science",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA929015",
     "genome_size_bp": 16494989,
     "gc_percent": 56.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_040285505.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Pavol Jozef Safarik University in Kosice",
     "biosample_owner": "Pavol Jozef Safarik University in Kosice",
     "submitter": "Pavol Jozef Safarik University in Kosice",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA983573",
     "genome_size_bp": 43627419,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_052249755.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Kids Research Institute Australia, Perth, Australia",
     "biosample_owner": "The Kids Research Institute Australia",
     "submitter": "The Kids Research Institute Australia",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1249256",
     "genome_size_bp": 43356729,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_982397395.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Indian Biological Data Centre",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB88900",
     "genome_size_bp": 43945035,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_052249765.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Kids Research Institute Australia, Perth, Australia",
     "biosample_owner": "The Kids Research Institute Australia",
     "submitter": "The Kids Research Institute Australia",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1249256",
     "genome_size_bp": 39272335,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000812075.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "Australian National University",
     "biosample_owner": "Australian National University",
     "submitter": "Australian National University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA261653",
     "genome_size_bp": 39890731,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_034774685.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "INAIL-DIT, Research Area",
     "biosample_owner": "INAIL-DIT, Research Area",
     "submitter": "INAIL-DIT, Research Area",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA514915",
     "genome_size_bp": 44094410,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_055860885.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "University of Maryland, Baltimore",
     "biosample_owner": "University of Maryland, Baltimore",
     "submitter": "University of Maryland, Baltimore",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1378979",
     "genome_size_bp": 43552670,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002221725.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "GEIHP, UPRES EA 3142",
     "biosample_owner": "GEIHP, UPRES EA 3142",
     "submitter": "GEIHP, UPRES EA 3142",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA382498",
     "genome_size_bp": 43301991,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_055860855.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "University of Maryland, Baltimore",
     "biosample_owner": "University of Maryland, Baltimore",
     "submitter": "University of Maryland, Baltimore",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1378980",
     "genome_size_bp": 43273774,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002812735.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "GEIHP, UPRES EA 3142",
     "biosample_owner": "GEIHP, UPRES EA 3142, Universite Bretagne Loire, Angers",
     "submitter": "GEIHP, UPRES EA 3142, Universite Bretagne Loire, Angers",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA382498",
     "genome_size_bp": 41189046,
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_034774675.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "INAIL-DIT, Research Area",
     "biosample_owner": "INAIL-DIT, Research Area",
     "submitter": "INAIL-DIT, Research Area",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA514913",
     "genome_size_bp": 42337440,
     "gc_percent": 51.5,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_001931805.1",
@@ -399,12 +399,12 @@
     "assembly_submitter": "Jet Propulsion Laboratory, California Institute of Technology",
     "biosample_owner": "Jet Propulsion Laboratory, California Institute of Technology",
     "submitter": "Jet Propulsion Laboratory, California Institute of Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA355122",
     "genome_size_bp": 40986545,
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Scedosporium spp.",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   }
 ]

@@ -15,13 +15,13 @@
     "assembly_submitter": "TGen North",
     "biosample_owner": "TGen North",
     "submitter": "TGen North",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA245906",
     "genome_size_bp": 27474893,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_982397225.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Indian Biological Data Centre",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB88900",
     "genome_size_bp": 25154110,
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000149815.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17355",
     "genome_size_bp": 27732018,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000149895.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17713",
     "genome_size_bp": 28816906,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150085.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17761",
     "genome_size_bp": 27648536,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_000149335.2",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12883",
     "genome_size_bp": 28947925,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000149335.2",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12883",
     "genome_size_bp": 28947925,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_020976775.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA438145",
     "genome_size_bp": 27810164,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_020976795.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA438145",
     "genome_size_bp": 28562314,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_057381655.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1276095",
     "genome_size_bp": 27982386,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_057381675.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1276095",
     "genome_size_bp": 27050072,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_057381685.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1276095",
     "genome_size_bp": 27550857,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_057381745.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "Northern Arizona University",
     "submitter": "Northern Arizona University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1276095",
     "genome_size_bp": 28020200,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_000151335.2",
@@ -327,13 +327,13 @@
     "assembly_submitter": "TIGR-J. Craig Venter Institute",
     "biosample_owner": "J. Craig Venter Institute",
     "submitter": "J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA9616",
     "genome_size_bp": 27013412,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000151335.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "TIGR-J. Craig Venter Institute",
     "biosample_owner": "J. Craig Venter Institute",
     "submitter": "J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA9616",
     "genome_size_bp": 27013412,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150245.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17793",
     "genome_size_bp": 28618790,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150615.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17795",
     "genome_size_bp": 27289265,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150645.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17797",
     "genome_size_bp": 27712713,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150555.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17791",
     "genome_size_bp": 26589484,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150585.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17785",
     "genome_size_bp": 26116408,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150185.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17763",
     "genome_size_bp": 27848964,
     "gc_percent": 47.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150055.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17783",
     "genome_size_bp": 28146501,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000150215.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17781",
     "genome_size_bp": 25451258,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_018416015.2",
@@ -567,13 +567,13 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "University of Arizona",
     "submitter": "University of Arizona",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664774",
     "genome_size_bp": 28193268,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000170175.2",
@@ -591,13 +591,13 @@
     "assembly_submitter": "Coccidioides Genome Resources Consortium; The Broad Institute Genome Sequencing Platform",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA17787",
     "genome_size_bp": 27583241,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_018416015.2",
@@ -615,12 +615,12 @@
     "assembly_submitter": "Northern Arizona University",
     "biosample_owner": "University of Arizona",
     "submitter": "University of Arizona",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664774",
     "genome_size_bp": 28193268,
     "gc_percent": 46.5,
     "source": "genome",
     "fppl_name": "Coccidioides spp.",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   }
 ]

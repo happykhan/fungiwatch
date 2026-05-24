@@ -15,13 +15,13 @@
     "assembly_submitter": "Oklahoma State University",
     "biosample_owner": "Oklahoma State University",
     "submitter": "Oklahoma State University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA237468",
     "genome_size_bp": 27355096,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_001643655.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Jet Propulsion Laboratory, California Institute of Technology",
     "biosample_owner": "Jet Propulsion Laboratory, California Institute of Technology",
     "submitter": "Jet Propulsion Laboratory, California Institute of Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA319359",
     "genome_size_bp": 28240437,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_001643665.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Jet Propulsion Laboratory, California Institute of Technology",
     "biosample_owner": "Jet Propulsion Laboratory, California Institute of Technology",
     "submitter": "Jet Propulsion Laboratory, California Institute of Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA319359",
     "genome_size_bp": 28526023,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_001715275.2",
@@ -87,13 +87,13 @@
     "assembly_submitter": "Universidad Nacional Agraria La Molina, Peru",
     "biosample_owner": "niversidad Nacional Agraria La Molina,",
     "submitter": "niversidad Nacional Agraria La Molina,",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA298653",
     "genome_size_bp": 27522527,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002234955.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "University of Montreal",
     "biosample_owner": "University of Montreal",
     "submitter": "University of Montreal",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA388488",
     "genome_size_bp": 29478624,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002234985.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "University of Montreal",
     "biosample_owner": "University of Montreal",
     "submitter": "University of Montreal",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA388488",
     "genome_size_bp": 28231324,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_003069565.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Zhejiang University of Technology",
     "biosample_owner": "Zhejiang University of Technology",
     "submitter": "Zhejiang University of Technology",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA450164",
     "genome_size_bp": 33400178,
     "gc_percent": 51.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_003116565.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "personal",
     "biosample_owner": "personal",
     "submitter": "personal",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA449781",
     "genome_size_bp": 27522781,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_012656115.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "UNICAMP",
     "biosample_owner": "UNICAMP",
     "submitter": "UNICAMP",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA592352",
     "genome_size_bp": 28139937,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_012656125.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "UNICAMP",
     "biosample_owner": "UNICAMP",
     "submitter": "UNICAMP",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA592352",
     "genome_size_bp": 28040897,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_012656165.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "UNICAMP",
     "biosample_owner": "UNICAMP",
     "submitter": "UNICAMP",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA592352",
     "genome_size_bp": 28750914,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_012656185.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "UNICAMP",
     "biosample_owner": "UNICAMP",
     "submitter": "UNICAMP",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA592352",
     "genome_size_bp": 28460177,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_012656215.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "UNICAMP",
     "biosample_owner": "UNICAMP",
     "submitter": "UNICAMP",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA592352",
     "genome_size_bp": 28291260,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015571995.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "South China Agricultural University",
     "biosample_owner": "South China Agricultural University",
     "submitter": "South China Agricultural University",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA673120",
     "genome_size_bp": 28366356,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "agriculture"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015572005.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "South China Agricultural University",
     "biosample_owner": "South China Agricultural University",
     "submitter": "South China Agricultural University",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA673120",
     "genome_size_bp": 29052788,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "agriculture"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015572015.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "South China Agricultural University",
     "biosample_owner": "South China Agricultural University",
     "submitter": "South China Agricultural University",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA673120",
     "genome_size_bp": 28631024,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "agriculture"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015572025.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "South China Agricultural University",
     "biosample_owner": "South China Agricultural University",
     "submitter": "South China Agricultural University",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA673120",
     "genome_size_bp": 28193962,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "agriculture"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015586125.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Jet Propulsion Laboratory, California Institute of Technology",
     "biosample_owner": "Jet Propulsion Laboratory, California Institute of Technology",
     "submitter": "Jet Propulsion Laboratory, California Institute of Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA659567",
     "genome_size_bp": 28149552,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_018804105.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "K\u0101k\u0101p\u014d Aspergillosis Research Consortium",
     "biosample_owner": "Massey University",
     "submitter": "Massey University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA726267",
     "genome_size_bp": 28974204,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498725.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28243033,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498735.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27843475,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498745.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28255402,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498755.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28780792,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498765.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28057478,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498805.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28176613,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498815.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28801176,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498865.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28480589,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498875.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28526323,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498885.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28308792,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498895.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28477410,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498905.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28945127,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498945.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28548837,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498965.1",
@@ -783,13 +783,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29747220,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020498985.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28731764,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499005.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29656728,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499015.1",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28874656,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499035.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28980097,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499045.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27622210,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499075.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28540761,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499115.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28856919,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499125.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27870778,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499135.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28155974,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499155.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27359290,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499185.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28196134,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499195.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29540360,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499225.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28402403,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499245.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 30755727,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499255.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28663994,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499265.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28658326,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499315.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27922986,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499325.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28235639,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499335.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28180863,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499355.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29638842,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499395.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27559269,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499405.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27895352,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499415.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28255274,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499455.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27804465,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499475.1",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27997153,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499485.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28027958,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499495.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27629356,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499505.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28261887,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499565.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28346092,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499575.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28260839,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499585.1",
@@ -1527,13 +1527,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28160192,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499595.1",
@@ -1551,13 +1551,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28169123,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499605.1",
@@ -1575,13 +1575,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28234499,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499645.1",
@@ -1599,13 +1599,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 27973087,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499675.1",
@@ -1623,13 +1623,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28790710,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499685.1",
@@ -1647,13 +1647,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28444795,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499695.1",
@@ -1671,13 +1671,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28636847,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499715.1",
@@ -1695,13 +1695,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28504902,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499755.1",
@@ -1719,13 +1719,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29320939,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499775.1",
@@ -1743,13 +1743,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29397117,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499785.1",
@@ -1767,13 +1767,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29074193,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499805.1",
@@ -1791,13 +1791,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28589858,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499815.1",
@@ -1815,13 +1815,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28601938,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499825.1",
@@ -1839,13 +1839,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28485909,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499865.1",
@@ -1863,13 +1863,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28682752,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499885.1",
@@ -1887,13 +1887,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28412967,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499905.1",
@@ -1911,13 +1911,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28356313,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499915.1",
@@ -1935,13 +1935,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28569106,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499935.1",
@@ -1959,13 +1959,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28908513,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499975.1",
@@ -1983,13 +1983,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28348725,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499985.1",
@@ -2007,13 +2007,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28167875,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020499995.1",
@@ -2031,13 +2031,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28147908,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500025.1",
@@ -2055,13 +2055,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29034720,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500065.1",
@@ -2079,13 +2079,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29308037,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500075.1",
@@ -2103,13 +2103,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29775523,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500085.1",
@@ -2127,13 +2127,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28928932,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500105.1",
@@ -2151,13 +2151,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28623764,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500115.1",
@@ -2175,13 +2175,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28824358,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500165.1",
@@ -2199,13 +2199,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28578733,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500185.1",
@@ -2223,13 +2223,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28604347,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500195.1",
@@ -2247,13 +2247,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 28401554,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500205.1",
@@ -2271,13 +2271,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29047967,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500215.1",
@@ -2295,13 +2295,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28077888,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500235.1",
@@ -2319,13 +2319,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29839604,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500275.1",
@@ -2343,13 +2343,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29291325,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500285.1",
@@ -2367,13 +2367,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28882502,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500295.1",
@@ -2391,13 +2391,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28962044,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500305.1",
@@ -2415,13 +2415,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28217744,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500355.1",
@@ -2439,13 +2439,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29180784,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500365.1",
@@ -2463,13 +2463,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28411783,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500385.1",
@@ -2487,13 +2487,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28626499,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500395.1",
@@ -2511,13 +2511,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28491286,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500445.1",
@@ -2535,13 +2535,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28079454,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500455.1",
@@ -2559,13 +2559,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28959711,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500465.1",
@@ -2583,13 +2583,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28399898,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500475.1",
@@ -2607,13 +2607,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28223574,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500485.1",
@@ -2631,13 +2631,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28517128,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500535.1",
@@ -2655,13 +2655,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29524334,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500545.1",
@@ -2679,13 +2679,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 30619450,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500555.1",
@@ -2703,13 +2703,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28515497,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500565.1",
@@ -2727,13 +2727,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29063869,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500595.1",
@@ -2751,13 +2751,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28682044,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500605.1",
@@ -2775,13 +2775,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29392878,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500645.1",
@@ -2799,13 +2799,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28775373,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500655.1",
@@ -2823,13 +2823,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28773727,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500685.1",
@@ -2847,13 +2847,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28661373,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500695.1",
@@ -2871,13 +2871,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28350381,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500705.1",
@@ -2895,13 +2895,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28844010,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500765.1",
@@ -2919,13 +2919,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28275619,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500775.1",
@@ -2943,13 +2943,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28450857,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500785.1",
@@ -2967,13 +2967,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28875295,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500805.1",
@@ -2991,13 +2991,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28374250,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500815.1",
@@ -3015,13 +3015,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29002076,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500845.1",
@@ -3039,13 +3039,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28459965,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500865.1",
@@ -3063,13 +3063,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28092100,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500875.1",
@@ -3087,13 +3087,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28888981,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500905.1",
@@ -3111,13 +3111,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27608923,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500935.1",
@@ -3135,13 +3135,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28295300,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500945.1",
@@ -3159,13 +3159,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28512924,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500965.1",
@@ -3183,13 +3183,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28131686,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500975.1",
@@ -3207,13 +3207,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28210945,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020500995.1",
@@ -3231,13 +3231,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28305380,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501005.1",
@@ -3255,13 +3255,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29362000,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501045.1",
@@ -3279,13 +3279,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29124461,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501075.1",
@@ -3303,13 +3303,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28545058,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501095.1",
@@ -3327,13 +3327,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28548605,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501105.1",
@@ -3351,13 +3351,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28241475,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501115.1",
@@ -3375,13 +3375,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27929182,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501135.1",
@@ -3399,13 +3399,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28222034,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501145.1",
@@ -3423,13 +3423,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28134820,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501175.1",
@@ -3447,13 +3447,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29244949,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501185.1",
@@ -3471,13 +3471,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28505619,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501235.1",
@@ -3495,13 +3495,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28043646,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501245.1",
@@ -3519,13 +3519,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28237350,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501255.1",
@@ -3543,13 +3543,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28247440,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501265.1",
@@ -3567,13 +3567,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28352357,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501325.1",
@@ -3591,13 +3591,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29291638,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501335.1",
@@ -3615,13 +3615,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28643923,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501345.1",
@@ -3639,13 +3639,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27950280,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501355.1",
@@ -3663,13 +3663,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29760572,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501375.1",
@@ -3687,13 +3687,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28464067,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501405.1",
@@ -3711,13 +3711,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28400646,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501425.1",
@@ -3735,13 +3735,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28949945,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501445.1",
@@ -3759,13 +3759,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28122101,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501465.1",
@@ -3783,13 +3783,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28329346,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501475.1",
@@ -3807,13 +3807,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28229341,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501495.1",
@@ -3831,13 +3831,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28974757,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501535.1",
@@ -3855,13 +3855,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28488299,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501545.1",
@@ -3879,13 +3879,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27581182,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501555.1",
@@ -3903,13 +3903,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28453784,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501575.1",
@@ -3927,13 +3927,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29151304,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501605.1",
@@ -3951,13 +3951,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28139393,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501615.1",
@@ -3975,13 +3975,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28680153,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501635.1",
@@ -3999,13 +3999,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27918570,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501645.1",
@@ -4023,13 +4023,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28599260,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501695.1",
@@ -4047,13 +4047,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28776466,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501705.1",
@@ -4071,13 +4071,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28087233,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501715.1",
@@ -4095,13 +4095,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28879096,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501735.1",
@@ -4119,13 +4119,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27933223,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501765.1",
@@ -4143,13 +4143,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28695284,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501785.1",
@@ -4167,13 +4167,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28505666,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501805.1",
@@ -4191,13 +4191,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28468055,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501815.1",
@@ -4215,13 +4215,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27503192,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501835.1",
@@ -4239,13 +4239,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 30007983,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501875.1",
@@ -4263,13 +4263,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28590607,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501885.1",
@@ -4287,13 +4287,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28425878,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501895.1",
@@ -4311,13 +4311,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28196647,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501905.1",
@@ -4335,13 +4335,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29187600,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501935.1",
@@ -4359,13 +4359,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28879625,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501985.1",
@@ -4383,13 +4383,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28653678,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020501995.1",
@@ -4407,13 +4407,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 30116072,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502005.1",
@@ -4431,13 +4431,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28453972,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502025.1",
@@ -4455,13 +4455,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28684295,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502035.1",
@@ -4479,13 +4479,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28665967,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502045.1",
@@ -4503,13 +4503,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28584837,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502095.1",
@@ -4527,13 +4527,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29313889,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502105.1",
@@ -4551,13 +4551,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28774847,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502115.1",
@@ -4575,13 +4575,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29317324,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502125.1",
@@ -4599,13 +4599,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27767854,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502165.1",
@@ -4623,13 +4623,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27648357,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502185.1",
@@ -4647,13 +4647,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27913724,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502215.1",
@@ -4671,13 +4671,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28048065,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502225.1",
@@ -4695,13 +4695,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28255791,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502235.1",
@@ -4719,13 +4719,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28467739,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502245.1",
@@ -4743,13 +4743,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28333876,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502325.1",
@@ -4767,13 +4767,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28788552,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502335.1",
@@ -4791,13 +4791,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28616355,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502365.1",
@@ -4815,13 +4815,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29589490,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502375.1",
@@ -4839,13 +4839,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27978829,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502385.1",
@@ -4863,13 +4863,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28762267,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502425.1",
@@ -4887,13 +4887,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27702772,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502435.1",
@@ -4911,13 +4911,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28103948,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502455.1",
@@ -4935,13 +4935,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27968037,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502485.1",
@@ -4959,13 +4959,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28460188,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502495.1",
@@ -4983,13 +4983,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27880483,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502525.1",
@@ -5007,13 +5007,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28256630,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502545.1",
@@ -5031,13 +5031,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28879767,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502575.1",
@@ -5055,13 +5055,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28324937,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502595.1",
@@ -5079,13 +5079,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27465053,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502605.1",
@@ -5103,13 +5103,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28199381,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502615.1",
@@ -5127,13 +5127,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28694866,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502625.1",
@@ -5151,13 +5151,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27935943,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502675.1",
@@ -5175,13 +5175,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27661008,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502695.1",
@@ -5199,13 +5199,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28628246,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502705.1",
@@ -5223,13 +5223,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27545848,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502715.1",
@@ -5247,13 +5247,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28327385,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502725.1",
@@ -5271,13 +5271,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28209615,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502875.1",
@@ -5295,13 +5295,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28029597,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502985.1",
@@ -5319,13 +5319,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28192916,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020502995.1",
@@ -5343,13 +5343,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27899817,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503015.1",
@@ -5367,13 +5367,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27592659,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503055.1",
@@ -5391,13 +5391,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28218037,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503065.1",
@@ -5415,13 +5415,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29277912,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503085.1",
@@ -5439,13 +5439,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27813052,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503095.1",
@@ -5463,13 +5463,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27907996,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503105.1",
@@ -5487,13 +5487,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28488026,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503165.1",
@@ -5511,13 +5511,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27471615,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503175.1",
@@ -5535,13 +5535,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28764030,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503185.1",
@@ -5559,13 +5559,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28526979,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503195.1",
@@ -5583,13 +5583,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28151001,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503205.1",
@@ -5607,13 +5607,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28176902,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503245.1",
@@ -5631,13 +5631,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29206520,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503265.1",
@@ -5655,13 +5655,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28254843,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503275.1",
@@ -5679,13 +5679,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28460549,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503295.1",
@@ -5703,13 +5703,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29103238,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503305.1",
@@ -5727,13 +5727,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28476041,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503345.1",
@@ -5751,13 +5751,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28742810,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503365.1",
@@ -5775,13 +5775,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28237466,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503375.1",
@@ -5799,13 +5799,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28074625,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503395.1",
@@ -5823,13 +5823,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28155566,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503435.1",
@@ -5847,13 +5847,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28079410,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503445.1",
@@ -5871,13 +5871,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28600000,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503455.1",
@@ -5895,13 +5895,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28247170,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503465.1",
@@ -5919,13 +5919,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27583147,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503515.1",
@@ -5943,13 +5943,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28360234,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503535.1",
@@ -5967,13 +5967,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29273995,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503545.1",
@@ -5991,13 +5991,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28060071,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503555.1",
@@ -6015,13 +6015,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28828458,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503565.1",
@@ -6039,13 +6039,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29094513,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503595.1",
@@ -6063,13 +6063,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28991368,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503635.1",
@@ -6087,13 +6087,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28429573,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503645.1",
@@ -6111,13 +6111,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28528401,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503665.1",
@@ -6135,13 +6135,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28837655,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503705.1",
@@ -6159,13 +6159,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28730191,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503715.1",
@@ -6183,13 +6183,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28015221,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503725.1",
@@ -6207,13 +6207,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28267658,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503735.1",
@@ -6231,13 +6231,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28257875,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503745.1",
@@ -6255,13 +6255,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 29546722,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503795.1",
@@ -6279,13 +6279,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28418434,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503805.1",
@@ -6303,13 +6303,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28638472,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503815.1",
@@ -6327,13 +6327,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 27980984,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503825.1",
@@ -6351,13 +6351,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28794509,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503885.1",
@@ -6375,13 +6375,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28242338,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503895.1",
@@ -6399,13 +6399,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28559176,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503905.1",
@@ -6423,13 +6423,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28981206,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503915.1",
@@ -6447,13 +6447,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28797123,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020503935.1",
@@ -6471,13 +6471,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA697844",
     "genome_size_bp": 28757805,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020510485.1",
@@ -6495,13 +6495,13 @@
     "assembly_submitter": "Leibniz-HKI",
     "biosample_owner": "Leibniz-HKI",
     "submitter": "Leibniz-HKI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA595552",
     "genome_size_bp": 29301658,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620045.1",
@@ -6519,13 +6519,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28666227,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620055.1",
@@ -6543,13 +6543,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 29271003,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620085.1",
@@ -6567,13 +6567,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 29164784,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620105.1",
@@ -6591,13 +6591,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28576441,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620135.1",
@@ -6615,13 +6615,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28829636,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620155.1",
@@ -6639,13 +6639,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28598617,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620165.1",
@@ -6663,13 +6663,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28723079,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620175.1",
@@ -6687,13 +6687,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28596609,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620195.1",
@@ -6711,13 +6711,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28589834,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620225.1",
@@ -6735,13 +6735,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28841320,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620235.1",
@@ -6759,13 +6759,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28542213,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620255.1",
@@ -6783,13 +6783,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28513092,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620275.1",
@@ -6807,13 +6807,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28590117,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620295.1",
@@ -6831,13 +6831,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28590041,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620325.1",
@@ -6855,13 +6855,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28341043,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620335.1",
@@ -6879,13 +6879,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28605564,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620365.1",
@@ -6903,13 +6903,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28488040,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620375.1",
@@ -6927,13 +6927,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28595146,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620605.1",
@@ -6951,13 +6951,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28541510,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620755.1",
@@ -6975,13 +6975,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28569636,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620795.1",
@@ -6999,13 +6999,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28595503,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620825.1",
@@ -7023,13 +7023,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28862430,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620835.1",
@@ -7047,13 +7047,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28578560,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620865.1",
@@ -7071,13 +7071,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28555054,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620875.1",
@@ -7095,13 +7095,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28591582,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620895.1",
@@ -7119,13 +7119,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28822604,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620925.1",
@@ -7143,13 +7143,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28596636,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620935.1",
@@ -7167,13 +7167,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28591908,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620975.1",
@@ -7191,13 +7191,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28757819,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620985.1",
@@ -7215,13 +7215,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28596448,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023620995.1",
@@ -7239,13 +7239,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28597854,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023621025.1",
@@ -7263,13 +7263,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28566500,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023621035.1",
@@ -7287,13 +7287,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 29248331,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023621065.1",
@@ -7311,13 +7311,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28594087,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023621075.1",
@@ -7335,13 +7335,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28572048,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_024220425.1",
@@ -7359,13 +7359,13 @@
     "assembly_submitter": "The University of Manchester",
     "biosample_owner": "The University of Manchester",
     "submitter": "The University of Manchester",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA838920",
     "genome_size_bp": 29257632,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025118165.1",
@@ -7383,13 +7383,13 @@
     "assembly_submitter": "University of Massachusetts Amherst",
     "biosample_owner": "UMass Amherst",
     "submitter": "UMass Amherst",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA825395",
     "genome_size_bp": 28601849,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025201645.1",
@@ -7407,13 +7407,13 @@
     "assembly_submitter": "University of Massachusetts Amherst",
     "biosample_owner": "UMass Amherst",
     "submitter": "UMass Amherst",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA825394",
     "genome_size_bp": 28507736,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025765995.1",
@@ -7431,13 +7431,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28796382,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766045.1",
@@ -7455,13 +7455,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28631319,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766085.1",
@@ -7479,13 +7479,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 29230508,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766105.1",
@@ -7503,13 +7503,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28806448,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766145.1",
@@ -7527,13 +7527,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28683911,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028752175.1",
@@ -7551,13 +7551,13 @@
     "assembly_submitter": "Wageningen University",
     "biosample_owner": "Wageningen University",
     "submitter": "Wageningen University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA768288",
     "genome_size_bp": 28628506,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028752205.1",
@@ -7575,13 +7575,13 @@
     "assembly_submitter": "Wageningen University",
     "biosample_owner": "Wageningen University",
     "submitter": "Wageningen University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA768288",
     "genome_size_bp": 28518620,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618165.1",
@@ -7599,13 +7599,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28634440,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618175.1",
@@ -7623,13 +7623,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28625135,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618185.1",
@@ -7647,13 +7647,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 29530033,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618195.1",
@@ -7671,13 +7671,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28296175,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618205.1",
@@ -7695,13 +7695,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28634364,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618225.1",
@@ -7719,13 +7719,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28526429,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618255.1",
@@ -7743,13 +7743,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 27688059,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618275.1",
@@ -7767,13 +7767,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 27917847,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618285.1",
@@ -7791,13 +7791,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 29052170,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618305.1",
@@ -7815,13 +7815,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 28403650,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029618335.1",
@@ -7839,13 +7839,13 @@
     "assembly_submitter": "Vanderbilt University",
     "biosample_owner": "Vanderbilt University",
     "submitter": "Vanderbilt University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA787571",
     "genome_size_bp": 29705101,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_032627265.1",
@@ -7863,13 +7863,13 @@
     "assembly_submitter": "Tyumen State University",
     "biosample_owner": "Tyumen State University",
     "submitter": "Tyumen State University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA863464",
     "genome_size_bp": 28800470,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037040925.1",
@@ -7887,13 +7887,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 26807262,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040126065.1",
@@ -7911,13 +7911,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078832",
     "genome_size_bp": 28304265,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142845.1",
@@ -7935,13 +7935,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078816",
     "genome_size_bp": 28891284,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142855.1",
@@ -7959,13 +7959,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078800",
     "genome_size_bp": 29164066,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142865.1",
@@ -7983,13 +7983,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078810",
     "genome_size_bp": 29095063,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142875.1",
@@ -8007,13 +8007,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078798",
     "genome_size_bp": 29063333,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142885.1",
@@ -8031,13 +8031,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078813",
     "genome_size_bp": 28627188,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142945.1",
@@ -8055,13 +8055,13 @@
     "assembly_submitter": "University of California, Riverside",
     "biosample_owner": "University of California, Riverside",
     "submitter": "University of California, Riverside",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1078823",
     "genome_size_bp": 28837349,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142955.1",
@@ -8079,13 +8079,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078818",
     "genome_size_bp": 30526740,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040142975.1",
@@ -8103,13 +8103,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078831",
     "genome_size_bp": 29197406,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040167795.1",
@@ -8127,13 +8127,13 @@
     "assembly_submitter": "University of California Riverside",
     "biosample_owner": "University of California Riverside",
     "submitter": "University of California Riverside",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA614926",
     "genome_size_bp": 28150788,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_040167805.1",
@@ -8151,13 +8151,13 @@
     "assembly_submitter": "Geisel School of Medicine at Dartmouth",
     "biosample_owner": "Geisel School of Medicine at Dartmouth",
     "submitter": "Geisel School of Medicine at Dartmouth",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1078828",
     "genome_size_bp": 28701068,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044589475.1",
@@ -8175,13 +8175,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 28253551,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044589545.1",
@@ -8199,13 +8199,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 28428795,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_045820835.1",
@@ -8223,13 +8223,13 @@
     "assembly_submitter": "DOE Joint Genome Institute",
     "biosample_owner": "DOE Joint Genome Institute",
     "submitter": "DOE Joint Genome Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1081109",
     "genome_size_bp": 28501995,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_046867075.2",
@@ -8247,13 +8247,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1191473",
     "genome_size_bp": 28065029,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_046867235.2",
@@ -8271,13 +8271,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1191473",
     "genome_size_bp": 28135400,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_046867255.2",
@@ -8295,13 +8295,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1191473",
     "genome_size_bp": 27958471,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_048595945.2",
@@ -8319,13 +8319,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1191473",
     "genome_size_bp": 27981507,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049901915.1",
@@ -8343,13 +8343,13 @@
     "assembly_submitter": "Central South University Of Forestry And Technology",
     "biosample_owner": "Central South University Of Forestry And Technology",
     "submitter": "Central South University Of Forestry And Technology",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA896716",
     "genome_size_bp": 30576204,
     "gc_percent": 50.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051225625.1",
@@ -8367,13 +8367,13 @@
     "assembly_submitter": "The University of Manchester",
     "biosample_owner": "The University of Manchester",
     "submitter": "The University of Manchester",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA838920",
     "genome_size_bp": 29322347,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051911435.1",
@@ -8391,13 +8391,13 @@
     "assembly_submitter": "October University for Modern Sciences and Arts",
     "biosample_owner": "October University for Modern Sciences and Arts",
     "submitter": "October University for Modern Sciences and Arts",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1293813",
     "genome_size_bp": 27789320,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051942955.1",
@@ -8415,13 +8415,13 @@
     "assembly_submitter": "Donghua university",
     "biosample_owner": "Donghua university",
     "submitter": "Donghua university",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1280271",
     "genome_size_bp": 28576124,
     "gc_percent": 47.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056582505.1",
@@ -8439,13 +8439,13 @@
     "assembly_submitter": "CHULALONGKORN UNIVERSITY",
     "biosample_owner": "Chulalongkorn University",
     "submitter": "Chulalongkorn University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1289420",
     "genome_size_bp": 28498435,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056582525.1",
@@ -8463,13 +8463,13 @@
     "assembly_submitter": "CHULALONGKORN UNIVERSITY",
     "biosample_owner": "Chulalongkorn University",
     "submitter": "Chulalongkorn University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1289420",
     "genome_size_bp": 28185313,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056582545.1",
@@ -8487,13 +8487,13 @@
     "assembly_submitter": "CHULALONGKORN UNIVERSITY",
     "biosample_owner": "Chulalongkorn University",
     "submitter": "Chulalongkorn University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1289420",
     "genome_size_bp": 28084955,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056582585.1",
@@ -8511,13 +8511,13 @@
     "assembly_submitter": "CHULALONGKORN UNIVERSITY",
     "biosample_owner": "Chulalongkorn University",
     "submitter": "Chulalongkorn University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1289420",
     "genome_size_bp": 28282275,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057531195.1",
@@ -8535,13 +8535,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28487733,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057538075.1",
@@ -8559,13 +8559,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28602392,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057539005.1",
@@ -8583,13 +8583,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28419892,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057541815.1",
@@ -8607,13 +8607,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28478859,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057542545.1",
@@ -8631,13 +8631,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28327347,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057543955.1",
@@ -8655,13 +8655,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28429372,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057547645.1",
@@ -8679,13 +8679,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28306735,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057549855.1",
@@ -8703,13 +8703,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28504464,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057551925.1",
@@ -8727,13 +8727,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28479022,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057553775.1",
@@ -8751,13 +8751,13 @@
     "assembly_submitter": "National Health Research Institutes",
     "biosample_owner": "National Health Research Institutes",
     "submitter": "National Health Research Institutes",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB20599",
     "genome_size_bp": 28866842,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_949125165.1",
@@ -8775,13 +8775,13 @@
     "assembly_submitter": "imperial college london",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB59410",
     "genome_size_bp": 28290784,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_949125185.1",
@@ -8799,13 +8799,13 @@
     "assembly_submitter": "imperial college london",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB59410",
     "genome_size_bp": 28238457,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_949125545.1",
@@ -8823,13 +8823,13 @@
     "assembly_submitter": "imperial college london",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB59410",
     "genome_size_bp": 28904936,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000150145.1",
@@ -8847,13 +8847,13 @@
     "assembly_submitter": "J. Craig Venter Institute",
     "biosample_owner": "J. Craig Venter Institute",
     "submitter": "J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA18733",
     "genome_size_bp": 29205420,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000225625.2",
@@ -8871,13 +8871,13 @@
     "assembly_submitter": "JCVI",
     "biosample_owner": "The J. Craig Venter Institute",
     "submitter": "The J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA46347",
     "genome_size_bp": 28759120,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000225645.2",
@@ -8895,13 +8895,13 @@
     "assembly_submitter": "JCVI",
     "biosample_owner": "The J. Craig Venter Institute",
     "submitter": "The J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA52783",
     "genome_size_bp": 28902779,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCF_000002655.1",
@@ -8919,13 +8919,13 @@
     "assembly_submitter": "J. Craig Venter Institute",
     "biosample_owner": "J. Craig Venter Institute",
     "submitter": "J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA131",
     "genome_size_bp": 29384958,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000002655.1",
@@ -8943,13 +8943,13 @@
     "assembly_submitter": "J. Craig Venter Institute",
     "biosample_owner": "J. Craig Venter Institute",
     "submitter": "J. Craig Venter Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA131",
     "genome_size_bp": 29384958,
     "gc_percent": 50.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_001599455.1",
@@ -8967,13 +8967,13 @@
     "assembly_submitter": "RIKEN Center for Life Science Technologies, Division of Genomic Technologies",
     "biosample_owner": "RIKEN Center for Life Science Technologies, Division of Genomic Technologies",
     "submitter": "RIKEN Center for Life Science Technologies, Division of Genomic Technologies",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB3633",
     "genome_size_bp": 28388732,
     "gc_percent": 49.5,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_001029325.1",
@@ -8991,12 +8991,12 @@
     "assembly_submitter": "Youzhi Miao",
     "biosample_owner": "Youzhi Miao",
     "submitter": "Youzhi Miao",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231983",
     "genome_size_bp": 29356075,
     "gc_percent": 49.0,
     "source": "genome",
     "fppl_name": "Aspergillus fumigatus",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   }
 ]

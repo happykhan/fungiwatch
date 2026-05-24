@@ -15,13 +15,13 @@
     "assembly_submitter": "University College Dublin",
     "biosample_owner": "University College Dublin",
     "submitter": "University College Dublin",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA434433",
     "genome_size_bp": 10812555,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_001983325.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "WUR",
     "biosample_owner": "WUR",
     "submitter": "WUR",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA353174",
     "genome_size_bp": 11679144,
     "gc_percent": null,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000764455.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "University of Illinois Urbana-Champaign, Carver Biotechnology Center",
     "biosample_owner": "University of Illinois Urbana-Champaign, Carver Biotechnology Center",
     "submitter": "University of Illinois Urbana-Champaign, Carver Biotechnology Center",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA257499",
     "genome_size_bp": 12940563,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000787615.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "National institute of Advanced Industrial Science and Technology",
     "biosample_owner": "National institute of Advanced Industrial Science and Technology",
     "submitter": "National institute of Advanced Industrial Science and Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJDB3121",
     "genome_size_bp": 10176019,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_001879685.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Kyungpook National University",
     "biosample_owner": "Kyungpook National University",
     "submitter": "Kyungpook National University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA310380",
     "genome_size_bp": 7246798,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_001983325.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "WUR",
     "biosample_owner": "WUR",
     "submitter": "WUR",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA353174",
     "genome_size_bp": 11679144,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002166775.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA381554",
     "genome_size_bp": 10910993,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002798095.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Korea Research Institute of Bioscience and Biotechnology",
     "biosample_owner": "Korea Research Institute of Bioscience and Biotechnology",
     "submitter": "Korea Research Institute of Bioscience and Biotechnology",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA407009",
     "genome_size_bp": 10641342,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_003033855.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "SNUR&DB foundation",
     "biosample_owner": "Seoul nation university",
     "submitter": "Seoul nation university",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA383123",
     "genome_size_bp": 10872628,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_003054405.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "University College Dublin",
     "biosample_owner": "University College Dublin",
     "submitter": "University College Dublin",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA449362",
     "genome_size_bp": 10783073,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_003054445.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "University College Dublin",
     "biosample_owner": "University College Dublin",
     "submitter": "University College Dublin",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA434433",
     "genome_size_bp": 10812555,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_003705515.2",
@@ -279,13 +279,13 @@
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA429441",
     "genome_size_bp": 11659274,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_014873065.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "Chinese Academy of Sciences",
     "biosample_owner": "Chinese Academy of Sciences",
     "submitter": "Chinese Academy of Sciences",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA534013",
     "genome_size_bp": 10966240,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_018105815.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "Hochschule Geisenheim University",
     "biosample_owner": "Hochschule Geisenheim University",
     "submitter": "Hochschule Geisenheim University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA658069",
     "genome_size_bp": 10353625,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_018402865.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
     "biosample_owner": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
     "submitter": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB5634",
     "genome_size_bp": 12850970,
     "gc_percent": 37.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_018402885.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
     "biosample_owner": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
     "submitter": "Research Institute for Sustainable Chemistry, National Institute of Advanced Industrial Science and Technology",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJDB5635",
     "genome_size_bp": 12362690,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_019843505.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "Ascus Biosciences",
     "biosample_owner": "Ascus Biosciences",
     "submitter": "Ascus Biosciences",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA631729",
     "genome_size_bp": 12526740,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "commercial"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_021014275.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Kangwon National University",
     "biosample_owner": "Kangwon National University",
     "submitter": "Kangwon National University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA314285",
     "genome_size_bp": 11033244,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_021233995.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "World Institute of Kimchi",
     "biosample_owner": "World Institute of Kimchi",
     "submitter": "World Institute of Kimchi",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA767192",
     "genome_size_bp": 11140037,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629315.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11590212,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629355.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11100807,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629375.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10595977,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629415.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11081644,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629435.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10973339,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629455.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11278223,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629475.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10679757,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629495.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11082520,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629515.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10793494,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629535.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10623620,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629555.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12204607,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629575.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11334934,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629595.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12212836,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629615.1",
@@ -783,13 +783,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 11152133,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_023629635.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12369802,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_025503585.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10624043,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_025503635.1",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 10676403,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_029290715.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Helmholtz Centre for Environmental Research - UFZ",
     "biosample_owner": "Helmholtz Centre for Environmental Research - UFZ",
     "submitter": "Helmholtz Centre for Environmental Research - UFZ",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA810309",
     "genome_size_bp": 10860096,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_029581905.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Concordia University",
     "biosample_owner": "Concordia University",
     "submitter": "Concordia University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA870168",
     "genome_size_bp": 10952020,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_030264835.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Guangxi University",
     "biosample_owner": "Guangxi University",
     "submitter": "Guangxi University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA926105",
     "genome_size_bp": 10911289,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_030579455.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA736342",
     "genome_size_bp": 10851087,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_031179465.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "Hubei University of Technology",
     "biosample_owner": "Hubei University of Technology",
     "submitter": "Hubei University of Technology",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1009423",
     "genome_size_bp": 10856732,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032359565.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA970939",
     "genome_size_bp": 10522719,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032595395.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "Native Microbials",
     "biosample_owner": "Native Microbials",
     "submitter": "Native Microbials",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA980274",
     "genome_size_bp": 10156224,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032595415.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "Native Microbials",
     "biosample_owner": "Native Microbials",
     "submitter": "Native Microbials",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA980274",
     "genome_size_bp": 12310966,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032595435.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "Native Microbials",
     "biosample_owner": "Native Microbials",
     "submitter": "Native Microbials",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA980274",
     "genome_size_bp": 10498937,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032595455.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "Native Microbials",
     "biosample_owner": "Native Microbials",
     "submitter": "Native Microbials",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA980274",
     "genome_size_bp": 10722160,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_032595495.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "Native Microbials",
     "biosample_owner": "Native Microbials",
     "submitter": "Native Microbials",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA980274",
     "genome_size_bp": 12403174,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_037040875.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 9425494,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_037042275.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 9639002,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_041903555.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "St. Xavier's College (Autonomous), Kolkata",
     "biosample_owner": "St. Xavier's College (Autonomous), Kolkata",
     "submitter": "St. Xavier's College (Autonomous), Kolkata",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1050018",
     "genome_size_bp": 8465229,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_044592665.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 10831317,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_047371045.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "Laval University",
     "biosample_owner": "Laval University",
     "submitter": "Laval University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1018555",
     "genome_size_bp": 10646713,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_047371105.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "Laval University",
     "biosample_owner": "Laval University",
     "submitter": "Laval University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1018555",
     "genome_size_bp": 10659011,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_047371125.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "Laval University",
     "biosample_owner": "Laval University",
     "submitter": "Laval University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1018555",
     "genome_size_bp": 10660096,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_047371135.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "Laval University",
     "biosample_owner": "Laval University",
     "submitter": "Laval University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1018555",
     "genome_size_bp": 10636553,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_048593475.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Vellore Institute of Technology",
     "biosample_owner": "Vellore Institute of Technology",
     "submitter": "Vellore Institute of Technology",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1232393",
     "genome_size_bp": 10813359,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_050084705.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Quadram Institute Bioscience",
     "biosample_owner": "Quadram Institute Bioscience",
     "submitter": "Quadram Institute Bioscience",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1251030",
     "genome_size_bp": 10881549,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_051943935.2",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 10418175,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "hospital_clinical"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_051996165.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "Laval University",
     "biosample_owner": "Laval University",
     "submitter": "Laval University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1018555",
     "genome_size_bp": 10668714,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_937871405.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "European Bioinformatics Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB51073",
     "genome_size_bp": 9649947,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_949610675.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "VRIJE UNIVERSITEIT BRUSSEL",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB57751",
     "genome_size_bp": 11035155,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_949610685.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "VRIJE UNIVERSITEIT BRUSSEL",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB57751",
     "genome_size_bp": 11025938,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_982397425.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "Indian Biological Data Centre",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB88900",
     "genome_size_bp": 9057256,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000286515.1",
@@ -1527,12 +1527,12 @@
     "assembly_submitter": "Universiti Teknologi Malaysia",
     "biosample_owner": "Universiti Teknologi Malaysia",
     "submitter": "Universiti Teknologi Malaysia",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA171021",
     "genome_size_bp": 10448518,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Pichia kudriavzevii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   }
 ]

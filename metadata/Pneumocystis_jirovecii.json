@@ -15,13 +15,13 @@
     "assembly_submitter": "Vital-IT / High Performance Computing Center",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEA68827",
     "genome_size_bp": 8152515,
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_002571455.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Swiss Institute of Bioinformatics",
     "biosample_owner": "Swiss Institute of Bioinformatics",
     "submitter": "Swiss Institute of Bioinformatics",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA382815",
     "genome_size_bp": 8088270,
     "gc_percent": 28.0,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium",
-    "submitter_category": "other"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_001477535.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA223510",
     "genome_size_bp": 8396240,
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_001477535.1",
@@ -87,12 +87,12 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA223510",
     "genome_size_bp": 8396240,
     "gc_percent": 28.5,
     "source": "genome",
     "fppl_name": "Pneumocystis jirovecii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   }
 ]

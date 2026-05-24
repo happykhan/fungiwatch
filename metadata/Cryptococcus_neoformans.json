@@ -15,13 +15,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA312860",
     "genome_size_bp": 18436157,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215755.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA312859",
     "genome_size_bp": 18368897,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002216725.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Washington University in St. Louis",
     "biosample_owner": "Washington University in St. Louis",
     "submitter": "Washington University in St. Louis",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA384617",
     "genome_size_bp": 18889724,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002217545.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193060",
     "genome_size_bp": 18083839,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002220045.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA312861",
     "genome_size_bp": 18619184,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222015.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193058",
     "genome_size_bp": 18606003,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222025.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193054",
     "genome_size_bp": 18568655,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222095.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193057",
     "genome_size_bp": 18602782,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222115.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193055",
     "genome_size_bp": 18516783,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222135.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193062",
     "genome_size_bp": 18560305,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222145.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193056",
     "genome_size_bp": 18557031,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222155.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193061",
     "genome_size_bp": 18505623,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222165.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193053",
     "genome_size_bp": 18521151,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222245.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA193063",
     "genome_size_bp": 18610299,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_003011985.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "Jawaharlal Nehru Centre for Advanced Scientific Research",
     "biosample_owner": "Jawaharlal Nehru Centre for Advanced Scientific Research",
     "submitter": "Jawaharlal Nehru Centre for Advanced Scientific Research",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA395628",
     "genome_size_bp": 18928706,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065285.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 19053773,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065295.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 18890083,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065305.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 18861353,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065315.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 19099673,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065385.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 19047920,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010065405.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 18933914,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010233705.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 19163645,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_010233735.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA517966",
     "genome_size_bp": 19207018,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011057475.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19088103,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011057515.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19299987,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011057545.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19045361,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011057555.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19454758,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011057565.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19125078,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019969275.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18514701,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019969285.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18409689,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019969295.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18227270,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970125.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18421720,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970135.1",
@@ -783,13 +783,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18467852,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970145.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18426390,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970155.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18419377,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970185.1",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18474487,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970275.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18236436,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970285.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18468382,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970295.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18470991,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970315.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18402380,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970345.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18398296,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970415.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18417095,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970445.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18456890,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970455.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18408465,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970465.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18455607,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970475.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18465686,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970565.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18475867,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970585.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18457238,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970605.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18374993,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970615.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18479852,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970625.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18463623,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970715.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18448616,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970725.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18415304,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970755.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18415571,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970785.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18470466,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970795.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18211545,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_019970885.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Pontificia Universidad Javeriana",
     "biosample_owner": "Pontificia Universidad Javeriana",
     "submitter": "Pontificia Universidad Javeriana",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA669191",
     "genome_size_bp": 18483544,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975435.1",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18816916,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975485.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18794668,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975495.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18778437,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975525.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18196397,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975545.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18879901,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975565.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18877040,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975585.1",
@@ -1527,13 +1527,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18880438,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975605.1",
@@ -1551,13 +1551,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18880109,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975615.1",
@@ -1575,13 +1575,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18880862,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975645.1",
@@ -1599,13 +1599,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18879682,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975665.1",
@@ -1623,13 +1623,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18880029,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975675.1",
@@ -1647,13 +1647,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18879988,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020975705.1",
@@ -1671,13 +1671,13 @@
     "assembly_submitter": "RMIT University",
     "biosample_owner": "RMIT University",
     "submitter": "RMIT University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664881",
     "genome_size_bp": 18541876,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_022832995.1",
@@ -1695,13 +1695,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA783275",
     "genome_size_bp": 18957373,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023650535.1",
@@ -1719,13 +1719,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA749953",
     "genome_size_bp": 19745413,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023650555.1",
@@ -1743,13 +1743,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA749953",
     "genome_size_bp": 19744147,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023650575.1",
@@ -1767,13 +1767,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA749953",
     "genome_size_bp": 19045500,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023650595.1",
@@ -1791,13 +1791,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA749953",
     "genome_size_bp": 19090430,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025531435.1",
@@ -1815,13 +1815,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28035211,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025531515.1",
@@ -1839,13 +1839,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 28051506,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028975465.1",
@@ -1863,13 +1863,13 @@
     "assembly_submitter": "Zymo Research Corporation",
     "biosample_owner": "Zymo Research Corporation",
     "submitter": "Zymo Research Corporation",
+    "submitter_category": "commercial",
     "bioproject_accession": "PRJNA933709",
     "genome_size_bp": 26305994,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "commercial"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028982725.1",
@@ -1887,13 +1887,13 @@
     "assembly_submitter": "National Chung Cheng University",
     "biosample_owner": "National Chung Cheng University",
     "submitter": "National Chung Cheng University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA886849",
     "genome_size_bp": 19272264,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_030913545.1",
@@ -1911,13 +1911,13 @@
     "assembly_submitter": "Beijing Youan Hospital, Capital Medical University",
     "biosample_owner": "Beijing Youan Hospital, Capital Medical University",
     "submitter": "Beijing Youan Hospital, Capital Medical University",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA935947",
     "genome_size_bp": 38838249,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840755.1",
@@ -1935,13 +1935,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18574875,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840765.1",
@@ -1959,13 +1959,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18556050,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840775.1",
@@ -1983,13 +1983,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18556423,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840785.1",
@@ -2007,13 +2007,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18570351,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840795.1",
@@ -2031,13 +2031,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18576189,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840855.1",
@@ -2055,13 +2055,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18566079,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840865.1",
@@ -2079,13 +2079,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18565163,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840875.1",
@@ -2103,13 +2103,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18569707,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840885.1",
@@ -2127,13 +2127,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18571066,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840895.1",
@@ -2151,13 +2151,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18545855,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840955.1",
@@ -2175,13 +2175,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18575990,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840965.1",
@@ -2199,13 +2199,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18571608,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840975.1",
@@ -2223,13 +2223,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18564797,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840985.1",
@@ -2247,13 +2247,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18628731,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031840995.1",
@@ -2271,13 +2271,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18492880,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841035.1",
@@ -2295,13 +2295,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18580668,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841055.1",
@@ -2319,13 +2319,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18573571,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841085.1",
@@ -2343,13 +2343,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18573119,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841105.1",
@@ -2367,13 +2367,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18549027,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841185.1",
@@ -2391,13 +2391,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18580476,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841195.1",
@@ -2415,13 +2415,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18578576,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841215.1",
@@ -2439,13 +2439,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18554432,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841235.1",
@@ -2463,13 +2463,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18585150,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841255.1",
@@ -2487,13 +2487,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18632237,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841275.1",
@@ -2511,13 +2511,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18623921,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841295.1",
@@ -2535,13 +2535,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18566438,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841315.1",
@@ -2559,13 +2559,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18572239,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841325.1",
@@ -2583,13 +2583,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18567451,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841345.1",
@@ -2607,13 +2607,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18563542,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841365.1",
@@ -2631,13 +2631,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18549636,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841405.1",
@@ -2655,13 +2655,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18576890,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841415.1",
@@ -2679,13 +2679,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18577187,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841435.1",
@@ -2703,13 +2703,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18568634,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841465.1",
@@ -2727,13 +2727,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18566358,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841475.1",
@@ -2751,13 +2751,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18574938,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841495.1",
@@ -2775,13 +2775,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18572551,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841525.1",
@@ -2799,13 +2799,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18575967,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841545.1",
@@ -2823,13 +2823,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18564850,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841575.1",
@@ -2847,13 +2847,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18569767,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841585.1",
@@ -2871,13 +2871,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18571988,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841605.1",
@@ -2895,13 +2895,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18578550,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841635.1",
@@ -2919,13 +2919,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18547963,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841655.1",
@@ -2943,13 +2943,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18567809,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841665.1",
@@ -2967,13 +2967,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18573221,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841685.1",
@@ -2991,13 +2991,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18575566,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841695.1",
@@ -3015,13 +3015,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18570615,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841715.1",
@@ -3039,13 +3039,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18578831,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841745.1",
@@ -3063,13 +3063,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18568867,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841765.1",
@@ -3087,13 +3087,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18569412,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841795.1",
@@ -3111,13 +3111,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18569788,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841805.1",
@@ -3135,13 +3135,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18576921,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841825.1",
@@ -3159,13 +3159,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18573095,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841845.1",
@@ -3183,13 +3183,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18586479,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841865.1",
@@ -3207,13 +3207,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18568640,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841885.1",
@@ -3231,13 +3231,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18564102,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841915.1",
@@ -3255,13 +3255,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18570741,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841935.1",
@@ -3279,13 +3279,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18561893,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841945.1",
@@ -3303,13 +3303,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18573509,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031841985.1",
@@ -3327,13 +3327,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18576578,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_031842005.1",
@@ -3351,13 +3351,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 18561892,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_043513835.1",
@@ -3375,13 +3375,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1138746",
     "genome_size_bp": 19067414,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_043513845.1",
@@ -3399,13 +3399,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1138746",
     "genome_size_bp": 18968288,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049242505.1",
@@ -3423,13 +3423,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1014009",
     "genome_size_bp": 18791630,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051295775.1",
@@ -3447,13 +3447,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1279653",
     "genome_size_bp": 18074687,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051295785.1",
@@ -3471,13 +3471,13 @@
     "assembly_submitter": "University of Guelph",
     "biosample_owner": "University of Guelph",
     "submitter": "University of Guelph",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1279653",
     "genome_size_bp": 18341335,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051858795.1",
@@ -3495,13 +3495,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682203",
     "genome_size_bp": 18853525,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051858875.1",
@@ -3519,13 +3519,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682203",
     "genome_size_bp": 19434397,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_052625715.1",
@@ -3543,13 +3543,13 @@
     "assembly_submitter": "University of Utah",
     "biosample_owner": "University of Utah",
     "submitter": "University of Utah",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1096649",
     "genome_size_bp": 18861032,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_055769325.1",
@@ -3567,13 +3567,13 @@
     "assembly_submitter": "Prince of Songkla University",
     "biosample_owner": "Prince of Songkla University",
     "submitter": "Prince of Songkla University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1211297",
     "genome_size_bp": 12457094,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_055769345.1",
@@ -3591,13 +3591,13 @@
     "assembly_submitter": "Prince of Songkla University",
     "biosample_owner": "Prince of Songkla University",
     "submitter": "Prince of Songkla University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1211297",
     "genome_size_bp": 18495918,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056608965.1",
@@ -3615,13 +3615,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1141423",
     "genome_size_bp": 18848201,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056621495.1",
@@ -3639,13 +3639,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1081442",
     "genome_size_bp": 18974047,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056622355.1",
@@ -3663,13 +3663,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1076110",
     "genome_size_bp": 18986351,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056622635.1",
@@ -3687,13 +3687,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1103113",
     "genome_size_bp": 18771257,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056632715.1",
@@ -3711,13 +3711,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1077335",
     "genome_size_bp": 19230112,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056632795.1",
@@ -3735,13 +3735,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1076833",
     "genome_size_bp": 18880176,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056632815.1",
@@ -3759,13 +3759,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1103803",
     "genome_size_bp": 19212430,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056632835.1",
@@ -3783,13 +3783,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1076852",
     "genome_size_bp": 18969699,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056632885.1",
@@ -3807,13 +3807,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1103777",
     "genome_size_bp": 19085568,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_057381315.1",
@@ -3831,13 +3831,13 @@
     "assembly_submitter": "COMSATS University Islamabad",
     "biosample_owner": "COMSATS University Islamabad",
     "submitter": "COMSATS University Islamabad",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1119728",
     "genome_size_bp": 19744093,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177155.1",
@@ -3855,13 +3855,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18405114,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177165.1",
@@ -3879,13 +3879,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18447454,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177175.1",
@@ -3903,13 +3903,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18463082,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177185.1",
@@ -3927,13 +3927,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18446098,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177195.1",
@@ -3951,13 +3951,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18377618,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177205.1",
@@ -3975,13 +3975,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18403683,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177215.1",
@@ -3999,13 +3999,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18442244,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_900177225.1",
@@ -4023,13 +4023,13 @@
     "assembly_submitter": "Oxford University Clinical Research Unit",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB17690",
     "genome_size_bp": 18448816,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215885.1",
@@ -4047,13 +4047,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174562",
     "genome_size_bp": 18910907,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002221985.1",
@@ -4071,13 +4071,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174564",
     "genome_size_bp": 18819906,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222375.1",
@@ -4095,13 +4095,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174540",
     "genome_size_bp": 18668348,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222215.1",
@@ -4119,13 +4119,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174563",
     "genome_size_bp": 18811654,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002220445.1",
@@ -4143,13 +4143,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174539",
     "genome_size_bp": 18468517,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215765.1",
@@ -4167,13 +4167,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174548",
     "genome_size_bp": 18636876,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215775.1",
@@ -4191,13 +4191,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174542",
     "genome_size_bp": 18629733,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215705.1",
@@ -4215,13 +4215,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174556",
     "genome_size_bp": 18502290,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222465.1",
@@ -4239,13 +4239,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174553",
     "genome_size_bp": 18851366,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222335.1",
@@ -4263,13 +4263,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174554",
     "genome_size_bp": 18726126,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002234625.1",
@@ -4287,13 +4287,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174558",
     "genome_size_bp": 18793220,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215835.1",
@@ -4311,13 +4311,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174559",
     "genome_size_bp": 19238576,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215825.1",
@@ -4335,13 +4335,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174538",
     "genome_size_bp": 18885614,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002215855.1",
@@ -4359,13 +4359,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174551",
     "genome_size_bp": 18184845,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222405.1",
@@ -4383,13 +4383,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174546",
     "genome_size_bp": 18629901,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222295.1",
@@ -4407,13 +4407,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174547",
     "genome_size_bp": 18648543,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222255.1",
@@ -4431,13 +4431,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174541",
     "genome_size_bp": 18639132,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002224005.1",
@@ -4455,13 +4455,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174543",
     "genome_size_bp": 18452313,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCF_000149245.1",
@@ -4479,13 +4479,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA411",
     "genome_size_bp": 18891193,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000149245.3",
@@ -4503,13 +4503,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA411",
     "genome_size_bp": 18891193,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011801205.1",
@@ -4527,13 +4527,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Duke University",
     "submitter": "Duke University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA577944",
     "genome_size_bp": 19089897,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222455.1",
@@ -4551,13 +4551,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174549",
     "genome_size_bp": 18512298,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222395.1",
@@ -4575,13 +4575,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174545",
     "genome_size_bp": 18447467,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002220035.1",
@@ -4599,13 +4599,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174552",
     "genome_size_bp": 17986510,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525195.1",
@@ -4623,13 +4623,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 19472245,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525155.1",
@@ -4647,13 +4647,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 19484298,
     "gc_percent": 48.5,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525145.1",
@@ -4671,13 +4671,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 18945117,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525215.1",
@@ -4695,13 +4695,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 18829761,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525205.1",
@@ -4719,13 +4719,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 18821713,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525095.1",
@@ -4743,13 +4743,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 19063377,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525135.1",
@@ -4767,13 +4767,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 18973937,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525075.1",
@@ -4791,13 +4791,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 19035351,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525085.1",
@@ -4815,13 +4815,13 @@
     "assembly_submitter": "Duke University",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1222431",
     "genome_size_bp": 19071051,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222315.1",
@@ -4839,13 +4839,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174550",
     "genome_size_bp": 18598528,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222325.1",
@@ -4863,13 +4863,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174555",
     "genome_size_bp": 18573228,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222475.1",
@@ -4887,13 +4887,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174560",
     "genome_size_bp": 18574041,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222225.1",
@@ -4911,13 +4911,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174544",
     "genome_size_bp": 18930238,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002222385.1",
@@ -4935,12 +4935,12 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA174561",
     "genome_size_bp": 18658870,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus neoformans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   }
 ]

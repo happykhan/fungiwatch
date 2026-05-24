@@ -15,13 +15,13 @@
     "assembly_submitter": "University of Exeter",
     "biosample_owner": "University of Exeter",
     "submitter": "University of Exeter",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA660927",
     "genome_size_bp": 17228979,
     "gc_percent": 47.5,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_031841975.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Zhejiang University School of Medicine",
     "biosample_owner": "Zhejiang University School of Medicine",
     "submitter": "Zhejiang University School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA820589",
     "genome_size_bp": 17461700,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "hospital_clinical"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_036428525.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA660464",
     "genome_size_bp": 18044915,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000875815.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA191324",
     "genome_size_bp": 17996826,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000835745.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA191325",
     "genome_size_bp": 17671044,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000935105.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA191330",
     "genome_size_bp": 18032565,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000836355.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA191334",
     "genome_size_bp": 17860310,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "research_institute"
+    "priority": "Medium"
   },
   {
     "accession": "GCF_000185945.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Canada's Michael Smith Genome Sciences Centre",
     "biosample_owner": "University of British Columbia, Michael Smith Laboratories",
     "submitter": "University of British Columbia, Michael Smith Laboratories",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA13692",
     "genome_size_bp": 18374760,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   },
   {
     "accession": "GCA_000185945.1",
@@ -207,12 +207,12 @@
     "assembly_submitter": "Canada's Michael Smith Genome Sciences Centre",
     "biosample_owner": "University of British Columbia, Michael Smith Laboratories",
     "submitter": "University of British Columbia, Michael Smith Laboratories",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA13692",
     "genome_size_bp": 18374760,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Cryptococcus gattii",
-    "priority": "Medium",
-    "submitter_category": "university"
+    "priority": "Medium"
   }
 ]

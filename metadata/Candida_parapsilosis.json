@@ -15,13 +15,13 @@
     "assembly_submitter": "Wellcome Trust Sanger Institute",
     "biosample_owner": "",
     "submitter": "Wellcome Trust Sanger Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEA32889",
     "genome_size_bp": 12998393,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000182765.2",
@@ -39,13 +39,13 @@
     "assembly_submitter": "Wellcome Trust Sanger Institute",
     "biosample_owner": "",
     "submitter": "Wellcome Trust Sanger Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEA32889",
     "genome_size_bp": 12998393,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000982555.2",
@@ -63,13 +63,13 @@
     "assembly_submitter": "CRG",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB5471",
     "genome_size_bp": 13050515,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000982675.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "CRG",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB1685",
     "genome_size_bp": 13025060,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_004026285.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA471744",
     "genome_size_bp": 11566550,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_004026445.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA471744",
     "genome_size_bp": 12563647,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_008764215.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "BGI",
     "biosample_owner": "BGI",
     "submitter": "BGI",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA543692",
     "genome_size_bp": 12904646,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_011316035.2",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Butler, School of Biomolecular and Biomedical Science, UCD Conway Institute",
     "biosample_owner": "University College Dublin",
     "submitter": "University College Dublin",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA563885",
     "genome_size_bp": 13073588,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_014049445.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "US Food and Drug Administration",
     "biosample_owner": "US Food and Drug Administration",
     "submitter": "US Food and Drug Administration",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231221",
     "genome_size_bp": 13253733,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_014049455.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "US Food and Drug Administration",
     "biosample_owner": "US Food and Drug Administration",
     "submitter": "US Food and Drug Administration",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231221",
     "genome_size_bp": 13193707,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_014049495.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "US Food and Drug Administration",
     "biosample_owner": "US Food and Drug Administration",
     "submitter": "US Food and Drug Administration",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231221",
     "genome_size_bp": 13204426,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_014049585.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "US Food and Drug Administration",
     "biosample_owner": "US Food and Drug Administration",
     "submitter": "US Food and Drug Administration",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231221",
     "genome_size_bp": 13325358,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_015344875.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 12895969,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_016735785.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "USM-Health Campus",
     "biosample_owner": "USM-Health Campus",
     "submitter": "USM-Health Campus",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA610714",
     "genome_size_bp": 12872825,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_016735825.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "USM-Health Campus",
     "biosample_owner": "USM-Health Campus",
     "submitter": "USM-Health Campus",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA610714",
     "genome_size_bp": 12843437,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020027075.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717139",
     "genome_size_bp": 7420453,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_020027125.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717139",
     "genome_size_bp": 11852211,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_025531885.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 13003522,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767715.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12862302,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767775.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12861665,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767825.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12869031,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767885.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12865271,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767895.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12881463,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767905.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12852970,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767915.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12854510,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767985.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12866059,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025767995.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12857945,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025768005.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12856229,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_025768045.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12854309,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_029290645.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "Helmholtz Centre for Environmental Research - UFZ",
     "biosample_owner": "Helmholtz Centre for Environmental Research - UFZ",
     "submitter": "Helmholtz Centre for Environmental Research - UFZ",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA810309",
     "genome_size_bp": 12614771,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_030568775.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA736342",
     "genome_size_bp": 12965154,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_032357095.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA970939",
     "genome_size_bp": 12858003,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_032714795.1",
@@ -783,13 +783,13 @@
     "assembly_submitter": "Beijing Institute of Microbiology and Epidemiology",
     "biosample_owner": "Beijing Institute of Microbiology and Epidemiology",
     "submitter": "Beijing Institute of Microbiology and Epidemiology",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA1000740",
     "genome_size_bp": 13002391,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_036288975.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "University College Dublin",
     "biosample_owner": "University College Dublin",
     "submitter": "University College Dublin",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1031570",
     "genome_size_bp": 13066916,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_037040715.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12810859,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_037041095.1",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12869352,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_037041125.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12872276,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_037952885.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Investigador por Mexico-Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico",
     "biosample_owner": "Investigador por Mexico-Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico",
     "submitter": "Investigador por Mexico-Instituto de Biotecnologia, Universidad Nacional Autonoma de Mexico",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1078440",
     "genome_size_bp": 13082619,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_041430605.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1100704",
     "genome_size_bp": 12890070,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044589505.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 12881364,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044589525.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 12965064,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044592705.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 12924066,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044592725.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 12918200,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_044592815.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 13149561,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307105.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12426038,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307225.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12568345,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307305.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12522939,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307445.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12770164,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_049307465.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 12637525,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "other"
+    "priority": "High"
   },
   {
     "accession": "GCA_051362405.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "Nanjing Agriculture University",
     "biosample_owner": "Nanjing Agriculture University",
     "submitter": "Nanjing Agriculture University",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA1260079",
     "genome_size_bp": 13225944,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "agriculture"
+    "priority": "High"
   },
   {
     "accession": "GCA_051944295.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 12822690,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_051944315.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "SkinScience, Zealand University Hospital",
     "biosample_owner": "Zealand University Hospital",
     "submitter": "Zealand University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA1260449",
     "genome_size_bp": 12884426,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_053456525.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "University of Illinois Urbana-Champaign",
     "biosample_owner": "University of Illinois Urbana-Champaign",
     "submitter": "University of Illinois Urbana-Champaign",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1301967",
     "genome_size_bp": 12940177,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_053456535.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "University of Illinois Urbana-Champaign",
     "biosample_owner": "University of Illinois Urbana-Champaign",
     "submitter": "University of Illinois Urbana-Champaign",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1301968",
     "genome_size_bp": 13084032,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054124145.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "Genoscope",
     "biosample_owner": "French National Institute for Agriculture, Food, and Environment (INRAE)",
     "submitter": "French National Institute for Agriculture, Food, and Environment (INRAE)",
+    "submitter_category": "agriculture",
     "bioproject_accession": "PRJEB64630",
     "genome_size_bp": 12593997,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "agriculture"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126345.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 12989391,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126355.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 12991637,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126385.1",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 12979285,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126395.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 12986969,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126425.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 13036562,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_054126445.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1091179",
     "genome_size_bp": 13077079,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775045.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12844998,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775065.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12895354,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775085.1",
@@ -1527,13 +1527,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12803855,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775105.1",
@@ -1551,13 +1551,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12805978,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775125.1",
@@ -1575,13 +1575,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12744318,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775145.1",
@@ -1599,13 +1599,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12869624,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775165.1",
@@ -1623,13 +1623,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12786434,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775185.1",
@@ -1647,13 +1647,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12799316,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775205.1",
@@ -1671,13 +1671,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12780268,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_055775225.1",
@@ -1695,13 +1695,13 @@
     "assembly_submitter": "Universidad Autonoma de Nuevo Leon",
     "biosample_owner": "Universidad Autonoma de Nuevo Leon",
     "submitter": "Universidad Autonoma de Nuevo Leon",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1287628",
     "genome_size_bp": 12854119,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152225.1",
@@ -1719,13 +1719,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12903737,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152265.1",
@@ -1743,13 +1743,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12911101,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152285.1",
@@ -1767,13 +1767,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12905690,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152305.1",
@@ -1791,13 +1791,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12910919,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152325.1",
@@ -1815,13 +1815,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12906012,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152345.1",
@@ -1839,13 +1839,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12907003,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152365.1",
@@ -1863,13 +1863,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12913614,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152385.1",
@@ -1887,13 +1887,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12907278,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152405.1",
@@ -1911,13 +1911,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12916080,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152425.1",
@@ -1935,13 +1935,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12925454,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152445.1",
@@ -1959,13 +1959,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12922374,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152465.1",
@@ -1983,13 +1983,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12906868,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152485.1",
@@ -2007,13 +2007,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12906191,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152505.1",
@@ -2031,13 +2031,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12931563,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152525.1",
@@ -2055,13 +2055,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12913001,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152545.1",
@@ -2079,13 +2079,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12905531,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152565.1",
@@ -2103,13 +2103,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12907274,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152585.1",
@@ -2127,13 +2127,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12919373,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152605.1",
@@ -2151,13 +2151,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12939938,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056152625.1",
@@ -2175,13 +2175,13 @@
     "assembly_submitter": "National Institute for Communicable Diseases",
     "biosample_owner": "National Institute for Communicable Diseases",
     "submitter": "National Institute for Communicable Diseases",
+    "submitter_category": "public_health",
     "bioproject_accession": "PRJNA1137595",
     "genome_size_bp": 12905290,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "public_health"
+    "priority": "High"
   },
   {
     "accession": "GCA_056747355.1",
@@ -2199,13 +2199,13 @@
     "assembly_submitter": "University of Pavia",
     "biosample_owner": "University of Pavia",
     "submitter": "University of Pavia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1189032",
     "genome_size_bp": 12997341,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_900004165.1",
@@ -2223,13 +2223,13 @@
     "assembly_submitter": "CRG",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB5470",
     "genome_size_bp": 13044404,
     "gc_percent": 38.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_903989565.1",
@@ -2247,13 +2247,13 @@
     "assembly_submitter": "Comenius University, Faculty of Mathematics, Physics and Informatics",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB37287",
     "genome_size_bp": 13048447,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_937873065.1",
@@ -2271,13 +2271,13 @@
     "assembly_submitter": "European Bioinformatics Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB51075",
     "genome_size_bp": 12670145,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_947184175.1",
@@ -2295,13 +2295,13 @@
     "assembly_submitter": "qib",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB56866",
     "genome_size_bp": 13082726,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_963989715.1",
@@ -2319,13 +2319,13 @@
     "assembly_submitter": "Comenius University, Faculty of Mathematics, Physics and Informatics",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB65074",
     "genome_size_bp": 13037250,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022755.1",
@@ -2343,13 +2343,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13209714,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022765.1",
@@ -2367,13 +2367,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13437136,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022775.1",
@@ -2391,13 +2391,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13112520,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022785.1",
@@ -2415,13 +2415,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13370779,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022795.1",
@@ -2439,13 +2439,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13536483,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964022805.1",
@@ -2463,13 +2463,13 @@
     "assembly_submitter": "Karolinska Institutet",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB73879",
     "genome_size_bp": 13351021,
     "gc_percent": 39.0,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_964199955.1",
@@ -2487,12 +2487,12 @@
     "assembly_submitter": "Quadram Institute Bioscience",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB77687",
     "genome_size_bp": 13149855,
     "gc_percent": 38.5,
     "source": "genome",
     "fppl_name": "Candida parapsilosis",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   }
 ]

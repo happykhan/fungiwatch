@@ -15,13 +15,13 @@
     "assembly_submitter": "Northern Kentucky University",
     "biosample_owner": "Northern Kentucky University",
     "submitter": "Northern Kentucky University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA623781",
     "genome_size_bp": 30598358,
     "gc_percent": 44.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_017310585.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682645",
     "genome_size_bp": 32477579,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_017607465.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682647",
     "genome_size_bp": 30954031,
     "gc_percent": 44.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCF_000150115.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "WashU",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12635",
     "genome_size_bp": 30438878,
     "gc_percent": 44.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000150115.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "WashU",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12635",
     "genome_size_bp": 30438878,
     "gc_percent": 44.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_017355575.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682644",
     "genome_size_bp": 31073969,
     "gc_percent": 44.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_000151035.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA29161",
     "genome_size_bp": 38922587,
     "gc_percent": 41.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000313325.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Taipei Medical University",
     "biosample_owner": "Taipei Medical University, Urology",
     "submitter": "Taipei Medical University, Urology",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA173806",
     "genome_size_bp": 46124030,
     "gc_percent": 39.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_000151005.2",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA29163",
     "genome_size_bp": 37903857,
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_017310615.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682648",
     "genome_size_bp": 37874276,
     "gc_percent": 42.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCF_000149585.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12654",
     "genome_size_bp": 32988475,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000149585.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute of MIT and Harvard",
     "submitter": "Broad Institute of MIT and Harvard",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA12654",
     "genome_size_bp": 32988475,
     "gc_percent": 46.0,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "research_institute"
+    "priority": "High"
   },
   {
     "accession": "GCA_000170615.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "WashU",
     "biosample_owner": "Washington University School of Medicine, Genome Sequencing Center",
     "submitter": "Washington University School of Medicine, Genome Sequencing Center",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA12653",
     "genome_size_bp": 41285890,
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "hospital_clinical"
+    "priority": "High"
   },
   {
     "accession": "GCA_017607445.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA682643",
     "genome_size_bp": 39406053,
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_051312685.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1196489",
     "genome_size_bp": 39446615,
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   },
   {
     "accession": "GCA_051313235.1",
@@ -375,12 +375,12 @@
     "assembly_submitter": "University of California, San Francisco",
     "biosample_owner": "University of California, San Francisco",
     "submitter": "University of California, San Francisco",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1196486",
     "genome_size_bp": 39440103,
     "gc_percent": 42.5,
     "source": "genome",
     "fppl_name": "Histoplasma spp.",
-    "priority": "High",
-    "submitter_category": "university"
+    "priority": "High"
   }
 ]

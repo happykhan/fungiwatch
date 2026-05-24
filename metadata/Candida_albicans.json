@@ -15,13 +15,13 @@
     "assembly_submitter": "University of Maryland School of Medicine",
     "biosample_owner": "University of Maryland School of Medicine",
     "submitter": "University of Maryland School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA384935",
     "genome_size_bp": 15264541,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002259865.1",
@@ -39,13 +39,13 @@
     "assembly_submitter": "University of Maryland School of Medicine",
     "biosample_owner": "University of Maryland School of Medicine",
     "submitter": "University of Maryland School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA384935",
     "genome_size_bp": 15522240,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002259875.1",
@@ -63,13 +63,13 @@
     "assembly_submitter": "University of Maryland School of Medicine",
     "biosample_owner": "University of Maryland School of Medicine",
     "submitter": "University of Maryland School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA384935",
     "genome_size_bp": 15640028,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002259885.1",
@@ -87,13 +87,13 @@
     "assembly_submitter": "University of Maryland School of Medicine",
     "biosample_owner": "University of Maryland School of Medicine",
     "submitter": "University of Maryland School of Medicine",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA384935",
     "genome_size_bp": 14981595,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002276455.1",
@@ -111,13 +111,13 @@
     "assembly_submitter": "SRTM University",
     "biosample_owner": "SRTM University",
     "submitter": "SRTM University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA305340",
     "genome_size_bp": 17071403,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002835845.1",
@@ -135,13 +135,13 @@
     "assembly_submitter": "Unifesp",
     "biosample_owner": "Unifesp",
     "submitter": "Unifesp",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA395439",
     "genome_size_bp": 14276795,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_002837675.1",
@@ -159,13 +159,13 @@
     "assembly_submitter": "Unifesp",
     "biosample_owner": "Unifesp",
     "submitter": "Unifesp",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA395439",
     "genome_size_bp": 14280018,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_003454735.1",
@@ -183,13 +183,13 @@
     "assembly_submitter": "Teikyo University Institute of Medical Mycology",
     "biosample_owner": "Teikyo University Institute of Medical Mycology",
     "submitter": "Teikyo University Institute of Medical Mycology",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA471195",
     "genome_size_bp": 14425299,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_004026255.1",
@@ -207,13 +207,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA471744",
     "genome_size_bp": 12561678,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890685.1",
@@ -231,13 +231,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543275",
     "genome_size_bp": 13773744,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890695.1",
@@ -255,13 +255,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543257",
     "genome_size_bp": 12507746,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890705.1",
@@ -279,13 +279,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543276",
     "genome_size_bp": 13063188,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890745.1",
@@ -303,13 +303,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543143",
     "genome_size_bp": 15484668,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890765.1",
@@ -327,13 +327,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543141",
     "genome_size_bp": 14699975,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_005890775.1",
@@ -351,13 +351,13 @@
     "assembly_submitter": "University of Georgia",
     "biosample_owner": "University of Georgia",
     "submitter": "University of Georgia",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA543142",
     "genome_size_bp": 15454853,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_011037055.1",
@@ -375,13 +375,13 @@
     "assembly_submitter": "National Cancer Centre Singapore",
     "biosample_owner": "National Cancer Centre Singapore",
     "submitter": "National Cancer Centre Singapore",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA565333",
     "genome_size_bp": 14578683,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_014049485.1",
@@ -399,13 +399,13 @@
     "assembly_submitter": "US Food and Drug Administration",
     "biosample_owner": "US Food and Drug Administration",
     "submitter": "US Food and Drug Administration",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA231221",
     "genome_size_bp": 16936052,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_014825715.1",
@@ -423,13 +423,13 @@
     "assembly_submitter": "UC San Diego",
     "biosample_owner": "UC San Diego",
     "submitter": "UC San Diego",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA625339",
     "genome_size_bp": 14608119,
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015227795.1",
@@ -447,13 +447,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 14455995,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015344825.1",
@@ -471,13 +471,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16183079,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015344855.1",
@@ -495,13 +495,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 15923206,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015344895.1",
@@ -519,13 +519,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 15913359,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345605.1",
@@ -543,13 +543,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16163734,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345625.1",
@@ -567,13 +567,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 14947002,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345665.1",
@@ -591,13 +591,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16570684,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345685.1",
@@ -615,13 +615,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16191533,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345725.1",
@@ -639,13 +639,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 15904973,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345745.1",
@@ -663,13 +663,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16590013,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345785.1",
@@ -687,13 +687,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 15700352,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345795.1",
@@ -711,13 +711,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16841846,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345815.1",
@@ -735,13 +735,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16620036,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_015345835.1",
@@ -759,13 +759,13 @@
     "assembly_submitter": "National University Hospital",
     "biosample_owner": "National University Hospital",
     "submitter": "National University Hospital",
+    "submitter_category": "hospital_clinical",
     "bioproject_accession": "PRJNA664290",
     "genome_size_bp": 16331321,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "hospital_clinical"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_016906495.1",
@@ -783,13 +783,13 @@
     "assembly_submitter": "Charles University",
     "biosample_owner": "Charles University",
     "submitter": "Charles University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA664297",
     "genome_size_bp": 14110658,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020027055.1",
@@ -807,13 +807,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717139",
     "genome_size_bp": 13433872,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020027065.1",
@@ -831,13 +831,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717139",
     "genome_size_bp": 13540857,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_020027085.1",
@@ -855,13 +855,13 @@
     "assembly_submitter": "Jill Banfield's Lab at Berkeley",
     "biosample_owner": "Jill Banfield's Lab at Berkeley",
     "submitter": "Jill Banfield's Lab at Berkeley",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA717139",
     "genome_size_bp": 11647081,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023623345.1",
@@ -879,13 +879,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14434896,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023623395.1",
@@ -903,13 +903,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16790360,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_023623405.1",
@@ -927,13 +927,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14080734,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766345.1",
@@ -951,13 +951,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16471981,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766415.1",
@@ -975,13 +975,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 18701459,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766435.1",
@@ -999,13 +999,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 13483571,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766445.1",
@@ -1023,13 +1023,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14499558,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766475.1",
@@ -1047,13 +1047,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16758447,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766515.1",
@@ -1071,13 +1071,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16410904,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766535.1",
@@ -1095,13 +1095,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16207573,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766575.1",
@@ -1119,13 +1119,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16630100,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025766595.1",
@@ -1143,13 +1143,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14261539,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_025767555.1",
@@ -1167,13 +1167,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 16615469,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028532805.1",
@@ -1191,13 +1191,13 @@
     "assembly_submitter": "NIAB",
     "biosample_owner": "NIAB",
     "submitter": "NIAB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA879282",
     "genome_size_bp": 14975211,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_028532825.1",
@@ -1215,13 +1215,13 @@
     "assembly_submitter": "NIAB",
     "biosample_owner": "NIAB",
     "submitter": "NIAB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA879282",
     "genome_size_bp": 14978321,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931495.1",
@@ -1239,13 +1239,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14561784,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931505.1",
@@ -1263,13 +1263,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14137570,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931515.1",
@@ -1287,13 +1287,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14425317,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931525.1",
@@ -1311,13 +1311,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14442096,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931585.1",
@@ -1335,13 +1335,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14378156,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931595.1",
@@ -1359,13 +1359,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14429997,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931615.1",
@@ -1383,13 +1383,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14655686,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931635.1",
@@ -1407,13 +1407,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14425371,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931665.1",
@@ -1431,13 +1431,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14671158,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931675.1",
@@ -1455,13 +1455,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14657727,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931695.1",
@@ -1479,13 +1479,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14503350,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_029931725.1",
@@ -1503,13 +1503,13 @@
     "assembly_submitter": "Universite Laval",
     "biosample_owner": "Universite Laval",
     "submitter": "Universite Laval",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA889397",
     "genome_size_bp": 14511620,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_030582515.1",
@@ -1527,13 +1527,13 @@
     "assembly_submitter": "UW-Madison",
     "biosample_owner": "UW-Madison",
     "submitter": "UW-Madison",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA736342",
     "genome_size_bp": 14854333,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_032688725.1",
@@ -1551,13 +1551,13 @@
     "assembly_submitter": "University of Illinois Urbana-Champaign",
     "biosample_owner": "University of Illinois Urbana-Champaign",
     "submitter": "University of Illinois Urbana-Champaign",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA935707",
     "genome_size_bp": 14612850,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037039665.1",
@@ -1575,13 +1575,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14110502,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037040415.1",
@@ -1599,13 +1599,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 13111132,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037040515.1",
@@ -1623,13 +1623,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12981620,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037040595.1",
@@ -1647,13 +1647,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 12683802,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_037041175.1",
@@ -1671,13 +1671,13 @@
     "assembly_submitter": "Dalian Medical University",
     "biosample_owner": "Dalian Medical University",
     "submitter": "Dalian Medical University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA833221",
     "genome_size_bp": 14180857,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_041438215.1",
@@ -1695,13 +1695,13 @@
     "assembly_submitter": "SIB Swiss Institute of Bioinformatics",
     "biosample_owner": "SIB Swiss Institute of Bioinformatics",
     "submitter": "SIB Swiss Institute of Bioinformatics",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1074523",
     "genome_size_bp": 14451959,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_041438225.1",
@@ -1719,13 +1719,13 @@
     "assembly_submitter": "SIB Swiss Institute of Bioinformatics",
     "biosample_owner": "SIB Swiss Institute of Bioinformatics",
     "submitter": "SIB Swiss Institute of Bioinformatics",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1074522",
     "genome_size_bp": 14461588,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_042860215.1",
@@ -1743,13 +1743,13 @@
     "assembly_submitter": "Selmecki Lab",
     "biosample_owner": "University of Minnesota",
     "submitter": "University of Minnesota",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA967712",
     "genome_size_bp": 18432275,
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_042860225.1",
@@ -1767,13 +1767,13 @@
     "assembly_submitter": "Selmecki Lab",
     "biosample_owner": "University of Minnesota",
     "submitter": "University of Minnesota",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA967712",
     "genome_size_bp": 17872640,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_042860255.1",
@@ -1791,13 +1791,13 @@
     "assembly_submitter": "Selmecki Lab",
     "biosample_owner": "University of Minnesota",
     "submitter": "University of Minnesota",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA967712",
     "genome_size_bp": 17705203,
     "gc_percent": 34.0,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044592555.1",
@@ -1815,13 +1815,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14419027,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044592615.1",
@@ -1839,13 +1839,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14369510,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044592765.1",
@@ -1863,13 +1863,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14773776,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_044592855.1",
@@ -1887,13 +1887,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14488386,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049307185.1",
@@ -1911,13 +1911,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 13367712,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049307325.1",
@@ -1935,13 +1935,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 13827319,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049997665.1",
@@ -1959,13 +1959,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14643084,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049997695.1",
@@ -1983,13 +1983,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14639551,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_049997725.1",
@@ -2007,13 +2007,13 @@
     "assembly_submitter": "University of the Sunshine Coast",
     "biosample_owner": "University of the Sunshine Coast",
     "submitter": "University of the Sunshine Coast",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1177213",
     "genome_size_bp": 14580692,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_051940765.1",
@@ -2031,13 +2031,13 @@
     "assembly_submitter": "Universiti Malaya",
     "biosample_owner": "Universiti Malaya",
     "submitter": "Universiti Malaya",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA1288670",
     "genome_size_bp": 14609608,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_052855785.1",
@@ -2055,13 +2055,13 @@
     "assembly_submitter": "SRCAMB",
     "biosample_owner": "SRCAMB",
     "submitter": "SRCAMB",
+    "submitter_category": "other",
     "bioproject_accession": "PRJNA269675",
     "genome_size_bp": 14335436,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "other"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525435.1",
@@ -2079,13 +2079,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14908086,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525455.1",
@@ -2103,13 +2103,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14903651,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525475.1",
@@ -2127,13 +2127,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14886598,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525495.1",
@@ -2151,13 +2151,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14893116,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525535.1",
@@ -2175,13 +2175,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14926206,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525565.1",
@@ -2199,13 +2199,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14865660,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525585.1",
@@ -2223,13 +2223,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14896091,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_053525615.1",
@@ -2247,13 +2247,13 @@
     "assembly_submitter": "Lebanese American University",
     "biosample_owner": "Lebanese American University",
     "submitter": "Lebanese American University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1088846",
     "genome_size_bp": 14856816,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150635.1",
@@ -2271,13 +2271,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15495318,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150675.1",
@@ -2295,13 +2295,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15437656,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150765.1",
@@ -2319,13 +2319,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15994989,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150785.1",
@@ -2343,13 +2343,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15681865,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150845.1",
@@ -2367,13 +2367,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15948369,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056150895.1",
@@ -2391,13 +2391,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15355402,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151595.1",
@@ -2415,13 +2415,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15134727,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151625.1",
@@ -2439,13 +2439,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15363114,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151655.1",
@@ -2463,13 +2463,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15477306,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151685.1",
@@ -2487,13 +2487,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15704560,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151705.1",
@@ -2511,13 +2511,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15914054,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_056151785.1",
@@ -2535,13 +2535,13 @@
     "assembly_submitter": "Baylor College of Medicine",
     "biosample_owner": "Baylor College of Medicine",
     "submitter": "Baylor College of Medicine",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA1170939",
     "genome_size_bp": 15622093,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_937870745.1",
@@ -2559,13 +2559,13 @@
     "assembly_submitter": "European Bioinformatics Institute",
     "biosample_owner": "EBI",
     "submitter": "EBI",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJEB51075",
     "genome_size_bp": 13701703,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773845.1",
@@ -2583,13 +2583,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75209",
     "genome_size_bp": 14897039,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000775445.1",
@@ -2607,13 +2607,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75221",
     "genome_size_bp": 14573765,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447595.1",
@@ -2631,13 +2631,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165021",
     "genome_size_bp": 14889980,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447455.1",
@@ -2655,13 +2655,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165033",
     "genome_size_bp": 14638035,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447615.1",
@@ -2679,13 +2679,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165035",
     "genome_size_bp": 14465145,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447575.1",
@@ -2703,13 +2703,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165025",
     "genome_size_bp": 14553017,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447495.1",
@@ -2727,13 +2727,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165039",
     "genome_size_bp": 14785429,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447535.1",
@@ -2751,13 +2751,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165027",
     "genome_size_bp": 14699976,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447515.1",
@@ -2775,13 +2775,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165029",
     "genome_size_bp": 14688178,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447635.1",
@@ -2799,13 +2799,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165037",
     "genome_size_bp": 14691637,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447475.1",
@@ -2823,13 +2823,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165031",
     "genome_size_bp": 14607426,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000691765.2",
@@ -2847,13 +2847,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA200311",
     "genome_size_bp": 14671346,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784695.1",
@@ -2871,13 +2871,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA120431",
     "genome_size_bp": 14716334,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000447555.1",
@@ -2895,13 +2895,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA165023",
     "genome_size_bp": 14727468,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_017309835.1",
@@ -2919,13 +2919,13 @@
     "assembly_submitter": "University of Michigan",
     "biosample_owner": "University of Michigan",
     "submitter": "University of Michigan",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA692229",
     "genome_size_bp": 14754403,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773735.1",
@@ -2943,13 +2943,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75223",
     "genome_size_bp": 14696915,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000775455.1",
@@ -2967,13 +2967,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75211",
     "genome_size_bp": 14516741,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000775465.1",
@@ -2991,13 +2991,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75229",
     "genome_size_bp": 14542907,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773745.1",
@@ -3015,13 +3015,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75217",
     "genome_size_bp": 14473555,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773825.1",
@@ -3039,13 +3039,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75231",
     "genome_size_bp": 14475823,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784515.1",
@@ -3063,13 +3063,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75233",
     "genome_size_bp": 14523568,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000775505.1",
@@ -3087,13 +3087,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75239",
     "genome_size_bp": 14594318,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773805.1",
@@ -3111,13 +3111,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75227",
     "genome_size_bp": 14509911,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784525.1",
@@ -3135,13 +3135,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75219",
     "genome_size_bp": 14791426,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784575.1",
@@ -3159,13 +3159,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75235",
     "genome_size_bp": 14862837,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784595.1",
@@ -3183,13 +3183,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75237",
     "genome_size_bp": 14680338,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000775525.1",
@@ -3207,13 +3207,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75241",
     "genome_size_bp": 14453728,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784505.1",
@@ -3231,13 +3231,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75243",
     "genome_size_bp": 14453368,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784495.1",
@@ -3255,13 +3255,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75245",
     "genome_size_bp": 14622326,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784615.1",
@@ -3279,13 +3279,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75247",
     "genome_size_bp": 14676842,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773725.1",
@@ -3303,13 +3303,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75225",
     "genome_size_bp": 14503432,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000774085.1",
@@ -3327,13 +3327,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75215",
     "genome_size_bp": 14461023,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000773755.1",
@@ -3351,13 +3351,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA75213",
     "genome_size_bp": 14742595,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCF_000182965.3",
@@ -3375,13 +3375,13 @@
     "assembly_submitter": "Stanford University",
     "biosample_owner": "Stanford University",
     "submitter": "Stanford University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA10701",
     "genome_size_bp": 14282666,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000182965.3",
@@ -3399,13 +3399,13 @@
     "assembly_submitter": "Stanford University",
     "biosample_owner": "Stanford University",
     "submitter": "Stanford University",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA10701",
     "genome_size_bp": 14282666,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784635.1",
@@ -3423,13 +3423,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA120009",
     "genome_size_bp": 15213099,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000784655.1",
@@ -3447,13 +3447,13 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Broad Institute",
     "submitter": "Broad Institute",
+    "submitter_category": "research_institute",
     "bioproject_accession": "PRJNA191536",
     "genome_size_bp": 14699893,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "research_institute"
+    "priority": "Critical"
   },
   {
     "accession": "GCA_000149445.2",
@@ -3471,12 +3471,12 @@
     "assembly_submitter": "Broad Institute",
     "biosample_owner": "Department of Biological Sciences, University of Iowa",
     "submitter": "Department of Biological Sciences, University of Iowa",
+    "submitter_category": "university",
     "bioproject_accession": "PRJNA16373",
     "genome_size_bp": 14417669,
     "gc_percent": 33.5,
     "source": "genome",
     "fppl_name": "Candida albicans",
-    "priority": "Critical",
-    "submitter_category": "university"
+    "priority": "Critical"
   }
 ]
