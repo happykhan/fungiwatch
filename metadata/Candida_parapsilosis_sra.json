@@ -41536,5 +41536,30 @@
     "fppl_name": "Candida parapsilosis",
     "priority": "High",
     "submitter_category": "other"
+  },
+  {
+    "accession": "SRR38830248",
+    "organism_name": "Candida parapsilosis",
+    "tax_id": 5480,
+    "release_date": "2026-05-26 06:50:26",
+    "collection_date": "2025-06-03",
+    "geo_loc_name": "Russia: Moscow",
+    "host": "Homo sapiens",
+    "isolation_source": "sputum",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "SRCAMB",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA269675",
+    "study_accession": "SRP051099",
+    "platform": "BGISEQ",
+    "instrument_model": "MGISEQ-2000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "other",
+    "source": "sra",
+    "fppl_name": "Candida parapsilosis",
+    "priority": "High"
   }
 ]
