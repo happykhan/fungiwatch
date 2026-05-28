@@ -99793,7 +99793,7 @@
   },
   {
     "accession": "GCF_000182765.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2011-10-26",
     "assembly_level": "Contig",
@@ -99817,7 +99817,7 @@
   },
   {
     "accession": "GCA_000182765.2",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2011-10-26",
     "assembly_level": "Contig",
@@ -99841,7 +99841,7 @@
   },
   {
     "accession": "GCA_000982555.2",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2014-03-05",
     "assembly_level": "Scaffold",
@@ -99865,7 +99865,7 @@
   },
   {
     "accession": "GCA_000982675.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2014-10-24",
     "assembly_level": "Scaffold",
@@ -99889,7 +99889,7 @@
   },
   {
     "accession": "GCA_004026285.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2019-01-16",
     "assembly_level": "Scaffold",
@@ -99913,7 +99913,7 @@
   },
   {
     "accession": "GCA_004026445.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2019-01-16",
     "assembly_level": "Scaffold",
@@ -99937,7 +99937,7 @@
   },
   {
     "accession": "GCA_008764215.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2019-10-01",
     "assembly_level": "Scaffold",
@@ -99961,7 +99961,7 @@
   },
   {
     "accession": "GCA_011316035.2",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-05-11",
     "assembly_level": "Contig",
@@ -99985,7 +99985,7 @@
   },
   {
     "accession": "GCA_014049445.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-08-03",
     "assembly_level": "Contig",
@@ -100009,7 +100009,7 @@
   },
   {
     "accession": "GCA_014049455.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-08-03",
     "assembly_level": "Contig",
@@ -100033,7 +100033,7 @@
   },
   {
     "accession": "GCA_014049495.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-08-03",
     "assembly_level": "Contig",
@@ -100057,7 +100057,7 @@
   },
   {
     "accession": "GCA_014049585.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-08-03",
     "assembly_level": "Contig",
@@ -100081,7 +100081,7 @@
   },
   {
     "accession": "GCA_015344875.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2020-11-10",
     "assembly_level": "Contig",
@@ -100105,7 +100105,7 @@
   },
   {
     "accession": "GCA_016735785.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2021-01-21",
     "assembly_level": "Scaffold",
@@ -100129,7 +100129,7 @@
   },
   {
     "accession": "GCA_016735825.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2021-01-21",
     "assembly_level": "Scaffold",
@@ -100153,7 +100153,7 @@
   },
   {
     "accession": "GCA_020027075.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2021-09-17",
     "assembly_level": "Scaffold",
@@ -100177,7 +100177,7 @@
   },
   {
     "accession": "GCA_020027125.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2021-09-17",
     "assembly_level": "Contig",
@@ -100201,7 +100201,7 @@
   },
   {
     "accession": "GCA_025531885.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-03",
     "assembly_level": "Scaffold",
@@ -100225,7 +100225,7 @@
   },
   {
     "accession": "GCA_025767715.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100249,7 +100249,7 @@
   },
   {
     "accession": "GCA_025767775.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100273,7 +100273,7 @@
   },
   {
     "accession": "GCA_025767825.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100297,7 +100297,7 @@
   },
   {
     "accession": "GCA_025767885.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100321,7 +100321,7 @@
   },
   {
     "accession": "GCA_025767895.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100345,7 +100345,7 @@
   },
   {
     "accession": "GCA_025767905.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100369,7 +100369,7 @@
   },
   {
     "accession": "GCA_025767915.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100393,7 +100393,7 @@
   },
   {
     "accession": "GCA_025767985.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100417,7 +100417,7 @@
   },
   {
     "accession": "GCA_025767995.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100441,7 +100441,7 @@
   },
   {
     "accession": "GCA_025768005.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100465,7 +100465,7 @@
   },
   {
     "accession": "GCA_025768045.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-10-20",
     "assembly_level": "Scaffold",
@@ -100489,7 +100489,7 @@
   },
   {
     "accession": "GCA_029290645.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2023-03-20",
     "assembly_level": "Scaffold",
@@ -100513,7 +100513,7 @@
   },
   {
     "accession": "GCA_030568775.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2023-07-31",
     "assembly_level": "Scaffold",
@@ -100537,7 +100537,7 @@
   },
   {
     "accession": "GCA_032357095.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2023-10-04",
     "assembly_level": "Contig",
@@ -100561,7 +100561,7 @@
   },
   {
     "accession": "GCA_032714795.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2023-10-16",
     "assembly_level": "Contig",
@@ -100585,7 +100585,7 @@
   },
   {
     "accession": "GCA_036288975.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-01-30",
     "assembly_level": "Complete Genome",
@@ -100609,7 +100609,7 @@
   },
   {
     "accession": "GCA_037040715.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-03-06",
     "assembly_level": "Scaffold",
@@ -100633,7 +100633,7 @@
   },
   {
     "accession": "GCA_037041095.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-03-06",
     "assembly_level": "Scaffold",
@@ -100657,7 +100657,7 @@
   },
   {
     "accession": "GCA_037041125.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-03-06",
     "assembly_level": "Scaffold",
@@ -100681,7 +100681,7 @@
   },
   {
     "accession": "GCA_037952885.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-04-03",
     "assembly_level": "Contig",
@@ -100705,7 +100705,7 @@
   },
   {
     "accession": "GCA_041430605.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-08-22",
     "assembly_level": "Contig",
@@ -100729,7 +100729,7 @@
   },
   {
     "accession": "GCA_044589505.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-11-06",
     "assembly_level": "Contig",
@@ -100753,7 +100753,7 @@
   },
   {
     "accession": "GCA_044589525.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-11-06",
     "assembly_level": "Contig",
@@ -100777,7 +100777,7 @@
   },
   {
     "accession": "GCA_044592705.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-11-06",
     "assembly_level": "Contig",
@@ -100801,7 +100801,7 @@
   },
   {
     "accession": "GCA_044592725.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-11-06",
     "assembly_level": "Contig",
@@ -100825,7 +100825,7 @@
   },
   {
     "accession": "GCA_044592815.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-11-06",
     "assembly_level": "Contig",
@@ -100849,7 +100849,7 @@
   },
   {
     "accession": "GCA_049307105.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-04-04",
     "assembly_level": "Contig",
@@ -100873,7 +100873,7 @@
   },
   {
     "accession": "GCA_049307225.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-04-04",
     "assembly_level": "Contig",
@@ -100897,7 +100897,7 @@
   },
   {
     "accession": "GCA_049307305.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-04-04",
     "assembly_level": "Contig",
@@ -100921,7 +100921,7 @@
   },
   {
     "accession": "GCA_049307445.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-04-04",
     "assembly_level": "Contig",
@@ -100945,7 +100945,7 @@
   },
   {
     "accession": "GCA_049307465.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-04-04",
     "assembly_level": "Contig",
@@ -100969,7 +100969,7 @@
   },
   {
     "accession": "GCA_051362405.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-07-15",
     "assembly_level": "Scaffold",
@@ -100993,7 +100993,7 @@
   },
   {
     "accession": "GCA_051944295.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-08-12",
     "assembly_level": "Scaffold",
@@ -101017,7 +101017,7 @@
   },
   {
     "accession": "GCA_051944315.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-08-12",
     "assembly_level": "Scaffold",
@@ -101041,7 +101041,7 @@
   },
   {
     "accession": "GCA_053456525.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-11-13",
     "assembly_level": "Chromosome",
@@ -101065,7 +101065,7 @@
   },
   {
     "accession": "GCA_053456535.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-11-13",
     "assembly_level": "Complete Genome",
@@ -101089,7 +101089,7 @@
   },
   {
     "accession": "GCA_054124145.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Scaffold",
@@ -101113,7 +101113,7 @@
   },
   {
     "accession": "GCA_054126345.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101137,7 +101137,7 @@
   },
   {
     "accession": "GCA_054126355.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101161,7 +101161,7 @@
   },
   {
     "accession": "GCA_054126385.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101185,7 +101185,7 @@
   },
   {
     "accession": "GCA_054126395.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101209,7 +101209,7 @@
   },
   {
     "accession": "GCA_054126425.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101233,7 +101233,7 @@
   },
   {
     "accession": "GCA_054126445.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-12-22",
     "assembly_level": "Contig",
@@ -101257,7 +101257,7 @@
   },
   {
     "accession": "GCA_055775045.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101281,7 +101281,7 @@
   },
   {
     "accession": "GCA_055775065.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101305,7 +101305,7 @@
   },
   {
     "accession": "GCA_055775085.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101329,7 +101329,7 @@
   },
   {
     "accession": "GCA_055775105.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101353,7 +101353,7 @@
   },
   {
     "accession": "GCA_055775125.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101377,7 +101377,7 @@
   },
   {
     "accession": "GCA_055775145.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Contig",
@@ -101401,7 +101401,7 @@
   },
   {
     "accession": "GCA_055775165.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101425,7 +101425,7 @@
   },
   {
     "accession": "GCA_055775185.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101449,7 +101449,7 @@
   },
   {
     "accession": "GCA_055775205.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Scaffold",
@@ -101473,7 +101473,7 @@
   },
   {
     "accession": "GCA_055775225.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-10",
     "assembly_level": "Contig",
@@ -101497,7 +101497,7 @@
   },
   {
     "accession": "GCA_056152225.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101521,7 +101521,7 @@
   },
   {
     "accession": "GCA_056152265.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101545,7 +101545,7 @@
   },
   {
     "accession": "GCA_056152285.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101569,7 +101569,7 @@
   },
   {
     "accession": "GCA_056152305.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101593,7 +101593,7 @@
   },
   {
     "accession": "GCA_056152325.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101617,7 +101617,7 @@
   },
   {
     "accession": "GCA_056152345.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101641,7 +101641,7 @@
   },
   {
     "accession": "GCA_056152365.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101665,7 +101665,7 @@
   },
   {
     "accession": "GCA_056152385.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101689,7 +101689,7 @@
   },
   {
     "accession": "GCA_056152405.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101713,7 +101713,7 @@
   },
   {
     "accession": "GCA_056152425.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101737,7 +101737,7 @@
   },
   {
     "accession": "GCA_056152445.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101761,7 +101761,7 @@
   },
   {
     "accession": "GCA_056152465.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101785,7 +101785,7 @@
   },
   {
     "accession": "GCA_056152485.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101809,7 +101809,7 @@
   },
   {
     "accession": "GCA_056152505.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101833,7 +101833,7 @@
   },
   {
     "accession": "GCA_056152525.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101857,7 +101857,7 @@
   },
   {
     "accession": "GCA_056152545.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101881,7 +101881,7 @@
   },
   {
     "accession": "GCA_056152565.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101905,7 +101905,7 @@
   },
   {
     "accession": "GCA_056152585.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101929,7 +101929,7 @@
   },
   {
     "accession": "GCA_056152605.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101953,7 +101953,7 @@
   },
   {
     "accession": "GCA_056152625.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-03-19",
     "assembly_level": "Contig",
@@ -101977,7 +101977,7 @@
   },
   {
     "accession": "GCA_056747355.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2026-04-16",
     "assembly_level": "Complete Genome",
@@ -102001,7 +102001,7 @@
   },
   {
     "accession": "GCA_900004165.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2014-10-24",
     "assembly_level": "Scaffold",
@@ -102025,7 +102025,7 @@
   },
   {
     "accession": "GCA_903989565.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2021-10-09",
     "assembly_level": "Contig",
@@ -102049,7 +102049,7 @@
   },
   {
     "accession": "GCA_937873065.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2023-01-12",
     "assembly_level": "Contig",
@@ -102073,7 +102073,7 @@
   },
   {
     "accession": "GCA_947184175.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2022-11-27",
     "assembly_level": "Scaffold",
@@ -102097,7 +102097,7 @@
   },
   {
     "accession": "GCA_963989715.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-03-15",
     "assembly_level": "Complete Genome",
@@ -102121,7 +102121,7 @@
   },
   {
     "accession": "GCA_964022755.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-03",
     "assembly_level": "Contig",
@@ -102145,7 +102145,7 @@
   },
   {
     "accession": "GCA_964022765.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-03",
     "assembly_level": "Contig",
@@ -102169,7 +102169,7 @@
   },
   {
     "accession": "GCA_964022775.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-02",
     "assembly_level": "Contig",
@@ -102193,7 +102193,7 @@
   },
   {
     "accession": "GCA_964022785.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-02",
     "assembly_level": "Contig",
@@ -102217,7 +102217,7 @@
   },
   {
     "accession": "GCA_964022795.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-03",
     "assembly_level": "Contig",
@@ -102241,7 +102241,7 @@
   },
   {
     "accession": "GCA_964022805.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2025-01-03",
     "assembly_level": "Contig",
@@ -102265,7 +102265,7 @@
   },
   {
     "accession": "GCA_964199955.1",
-    "organism_name": "Candida parapsilosis",
+    "organism_name": "Lodderomyces parapsilosis",
     "tax_id": 5480,
     "release_date": "2024-07-19",
     "assembly_level": "Scaffold",
