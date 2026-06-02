@@ -85362,5 +85362,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "DRR870338",
+    "organism_name": "Fusarium sp.",
+    "tax_id": 29916,
+    "release_date": "2025-12-16 08:02:08",
+    "collection_date": "2023-01-05",
+    "geo_loc_name": "missing: data agreement established pre-2023",
+    "host": "",
+    "isolation_source": "Dendrobium nobile",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJDB39478",
+    "study_accession": "DRP016705",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina Genome Analyzer II",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM PCR",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
