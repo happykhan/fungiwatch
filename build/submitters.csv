@@ -25,7 +25,7 @@ Candida auris,Critical,MDH_CSL,2528
 Candida auris,Critical,cdc-ncezid-mdb,2403
 Candida auris,Critical,MDHHS-GS,1769
 Candida auris,Critical,TXDSHS,1735
-Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1571
+Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1585
 Candida auris,Critical,RIPHL,1291
 Candida auris,Critical,NSPHL,1031
 Candida auris,Critical,Minnesota Department of Health Infectious Disease Laboratory Submission Group,830
@@ -158,7 +158,7 @@ Pneumocystis jirovecii,Medium,NIH,2
 Pneumocystis jirovecii,Medium,EBI,1
 Pneumocystis jirovecii,Medium,Swiss Institute of Bioinformatics,1
 Scedosporium spp.,Medium,The Kids Research Institute Australia,6
-Scedosporium spp.,Medium,"University of Maryland, Baltimore",4
+Scedosporium spp.,Medium,"University of Maryland, Baltimore",5
 Scedosporium spp.,Medium,"INAIL-DIT, Research Area",4
 Scedosporium spp.,Medium,LUNAM - Angers University,2
 Scedosporium spp.,Medium,National Centre for Cell Science,2
