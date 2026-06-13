@@ -85387,5 +85387,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39122174",
+    "organism_name": "Fusarium oxysporum",
+    "tax_id": 5507,
+    "release_date": "2026-06-12 01:06:30",
+    "collection_date": "2017-04-01",
+    "geo_loc_name": "Australia:Queensland,Eumundi",
+    "host": "Zingiber officinale",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "The University of Queensland",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1475904",
+    "study_accession": "SRP709027",
+    "platform": "PACBIO_SMRT",
+    "instrument_model": "Revio",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
