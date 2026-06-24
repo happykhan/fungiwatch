@@ -690346,5 +690346,30 @@
     "source": "sra",
     "fppl_name": "Candida auris",
     "priority": "Critical"
+  },
+  {
+    "accession": "SRR39288789",
+    "organism_name": "Candidozyma auris",
+    "tax_id": 498019,
+    "release_date": "2026-06-23 17:27:54",
+    "collection_date": "2026-05",
+    "geo_loc_name": "USA:Central",
+    "host": "Homo sapiens",
+    "isolation_source": "urine",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "Minnesota Department of Health Infectious Disease Laboratory Submission Group",
+    "submitter_category": "public_health",
+    "bioproject_accession": "PRJNA988017",
+    "study_accession": "SRP446779",
+    "platform": "ILLUMINA",
+    "instrument_model": "MiSeq i100",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Candida auris",
+    "priority": "Critical"
   }
 ]

@@ -88212,5 +88212,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39289982",
+    "organism_name": "Fusarium acuminatum",
+    "tax_id": 5515,
+    "release_date": "2026-06-23 21:12:37",
+    "collection_date": "2023-09",
+    "geo_loc_name": "China:Gansu,Dingxi",
+    "host": "Astragalus",
+    "isolation_source": "root tissue",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "Chinese Academy of Agricultural Sciences",
+    "submitter_category": "agriculture",
+    "bioproject_accession": "PRJNA1480852",
+    "study_accession": "SRP712077",
+    "platform": "DNBSEQ",
+    "instrument_model": "DNBSEQ-T7",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
