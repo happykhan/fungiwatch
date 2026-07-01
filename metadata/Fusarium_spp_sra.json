@@ -88237,5 +88237,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39391754",
+    "organism_name": "Fusarium oxysporum",
+    "tax_id": 5507,
+    "release_date": "2026-06-30 13:19:29",
+    "collection_date": "2006",
+    "geo_loc_name": "USA: Ohio",
+    "host": "Homo sapiens",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "Universidad de Cordoba",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA554890",
+    "study_accession": "SRP214968",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "MinION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "size fractionation",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
