@@ -48753,5 +48753,30 @@
     "source": "sra",
     "fppl_name": "Mucorales",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39466267",
+    "organism_name": "Syncephalastrum contaminatum",
+    "tax_id": 2570299,
+    "release_date": "2026-07-06 03:14:47",
+    "collection_date": "2021-08-29",
+    "geo_loc_name": "China: Chengdu, Sichuan",
+    "host": "Homo sapiens",
+    "isolation_source": "sputum",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "West China Hospital, Sichuan University",
+    "submitter_category": "hospital_clinical",
+    "bioproject_accession": "PRJNA1490332",
+    "study_accession": "SRP715360",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Mucorales",
+    "priority": "High"
   }
 ]
