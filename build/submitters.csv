@@ -19,13 +19,13 @@ Candida albicans,Critical,European Bioinformatics Institute,241
 Candida albicans,Critical,Broad Institute,197
 Candida albicans,Critical,BI,180
 Candida albicans,Critical,Public Health Agency of Canada,142
-Candida auris,Critical,UPHL_ID,5066
+Candida auris,Critical,UPHL_ID,5087
 Candida auris,Critical,NVSPHL,4540
 Candida auris,Critical,MDH_CSL,2536
 Candida auris,Critical,cdc-ncezid-mdb,2405
 Candida auris,Critical,MDHHS-GS,1830
 Candida auris,Critical,TXDSHS,1789
-Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1619
+Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1629
 Candida auris,Critical,RIPHL,1566
 Candida auris,Critical,NSPHL,1031
 Candida auris,Critical,Minnesota Department of Health Infectious Disease Laboratory Submission Group,839
@@ -45,10 +45,10 @@ Candida tropicalis,High,Vallabhbhai Patel Chest Institute,133
 Candida tropicalis,High,Institute of Clinical Pathology and Medical Research,83
 Candida tropicalis,High,Canisius-Wilhelmina Hospital,82
 Candida tropicalis,High,University College Dublin,79
+Candida tropicalis,High,"Institute of Urban Environment, Chinese Academy of Sciences",65
 Candida tropicalis,High,Jiangxi Cancer Hospital,56
 Candida tropicalis,High,National University Hospital,53
 Candida tropicalis,High,"Hospital Canselor Tuanku Muhriz, Pusat Perubatan UKM",48
-Candida tropicalis,High,Shanghai Tenth People's Hospital,31
 Coccidioides spp.,Medium,"University of California, San Francisco",96
 Coccidioides spp.,Medium,Translational Genomics Institute,74
 Coccidioides spp.,Medium,TGen North,68

@@ -1,9 +1,9 @@
 fppl_name,priority,human,animal,plant,environment,food,clinical_other,laboratory,unknown,total
 Aspergillus fumigatus,Critical,1333,239,227,830,0,3,79,2222,4933
 Candida albicans,Critical,2412,245,0,10,19,0,475,1570,4731
-Candida auris,Critical,28950,43,16,527,0,7,238,1176,30957
-Candida parapsilosis,High,1629,2,2,6,1,1,90,189,1920
-Candida tropicalis,High,1177,0,10,121,0,0,2,125,1435
+Candida auris,Critical,29022,43,16,527,0,7,238,1177,31030
+Candida parapsilosis,High,1629,2,2,14,1,1,90,190,1929
+Candida tropicalis,High,1177,0,10,182,0,0,2,129,1500
 Coccidioides spp.,Medium,265,2,0,10,0,0,23,128,428
 Cryptococcus gattii,Medium,207,3,7,10,0,0,0,161,388
 Cryptococcus neoformans,Critical,2430,667,128,80,0,0,666,2761,6732
@@ -12,7 +12,7 @@ Fusarium spp.,High,170,420,4056,136,27,4,70,998,5881
 Histoplasma spp.,High,498,19,0,13,0,0,6,58,594
 Lomentospora prolificans,Medium,20,0,0,0,0,0,0,0,20
 Mucorales,High,261,37,33,159,12,0,79,1826,2407
-Nakaseomyces glabrata,High,1618,26,0,0,0,0,109,168,1921
+Nakaseomyces glabrata,High,1618,26,0,29,0,0,109,168,1950
 Paracoccidioides spp.,Medium,90,12,0,2,0,0,0,6,110
 Pichia kudriavzevii,Medium,185,20,25,6,38,0,8,506,788
 Pneumocystis jirovecii,Medium,9,0,0,0,0,0,0,3,12

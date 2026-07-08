@@ -1,9 +1,9 @@
 fppl_name,priority,public_health,hospital_clinical,university,research_institute,agriculture,commercial,other,total
 Aspergillus fumigatus,Critical,386,497,3218,628,9,50,145,4933
 Candida albicans,Critical,530,603,1465,1507,0,3,623,4731
-Candida auris,Critical,27145,1170,1162,323,0,0,1157,30957
-Candida parapsilosis,High,208,649,731,94,3,3,232,1920
-Candida tropicalis,High,7,738,404,261,2,2,21,1435
+Candida auris,Critical,27176,1170,1203,323,0,0,1158,31030
+Candida parapsilosis,High,208,649,731,103,3,3,232,1929
+Candida tropicalis,High,7,738,404,326,2,2,21,1500
 Coccidioides spp.,Medium,28,0,204,175,0,0,21,428
 Cryptococcus gattii,Medium,1,1,87,240,0,0,59,388
 Cryptococcus neoformans,Critical,1,1225,1981,2579,0,1,945,6732
@@ -12,7 +12,7 @@ Fusarium spp.,High,204,0,2661,531,2039,5,441,5881
 Histoplasma spp.,High,83,3,467,27,0,0,14,594
 Lomentospora prolificans,Medium,0,0,20,0,0,0,0,20
 Mucorales,High,0,177,217,1734,14,0,265,2407
-Nakaseomyces glabrata,High,626,373,296,272,1,37,316,1921
+Nakaseomyces glabrata,High,626,373,296,301,1,37,316,1950
 Paracoccidioides spp.,Medium,0,0,67,38,0,0,5,110
 Pichia kudriavzevii,Medium,2,44,205,499,2,1,35,788
 Pneumocystis jirovecii,Medium,0,0,0,9,0,0,3,12
