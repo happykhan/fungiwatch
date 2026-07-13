@@ -36775,6 +36775,23 @@ SRR39567342,Candidozyma auris,498019,Candida auris,Critical,2026-07-10 12:23:54,
 SRR39567343,Candidozyma auris,498019,Candida auris,Critical,2026-07-10 12:46:12,,,Homo sapiens,,,,human,LACPHL,public_health,PRJNA850520,SRP536516,ILLUMINA,NextSeq 1000,WGS,GENOMIC,RANDOM
 SRR39567344,Candidozyma auris,498019,Candida auris,Critical,2026-07-10 12:26:58,,,Homo sapiens,,,,human,LACPHL,public_health,PRJNA850520,SRP536516,ILLUMINA,NextSeq 1000,WGS,GENOMIC,RANDOM
 SRR39567345,Candidozyma auris,498019,Candida auris,Critical,2026-07-10 12:37:27,,,Homo sapiens,,,,human,LACPHL,public_health,PRJNA850520,SRP536516,ILLUMINA,NextSeq 1000,WGS,GENOMIC,RANDOM
+SRR39588632,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:51:49,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588633,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:56:59,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588634,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:45:48,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588635,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:51:49,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588636,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:45:48,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588637,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:51:49,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588638,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:53:51,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588639,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:45:48,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588640,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:58:23,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588641,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:58:23,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588642,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:56:59,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588643,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:58:23,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588644,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:51:49,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588645,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:53:51,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588646,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:45:48,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588647,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:53:51,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
+SRR39588648,Candidozyma auris,498019,Candida auris,Critical,2026-07-12 21:43:08,,,,,,,unknown,Monash University,university,PRJNA1494075,SRP717352,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,PCR
 SRR38443157,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:38,2025-06-16,USA,Homo sapiens,sputum,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
 SRR38443158,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:41,2026-01-05,USA,Homo sapiens,Bronchial washings,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
 SRR38443159,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:40,2025-12-18,USA,Homo sapiens,sputum,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
