@@ -88262,5 +88262,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39547117",
+    "organism_name": "Fusarium",
+    "tax_id": 5506,
+    "release_date": "2026-07-16 00:59:23",
+    "collection_date": "2023-10-14",
+    "geo_loc_name": "Australia: Gold Coast, Queensland",
+    "host": "Araucaria heterophylla",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "Urban",
+    "host_category": "unknown",
+    "submitter": "Griffith University",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1492497",
+    "study_accession": "SRP716587",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "MinION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "unspecified",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
