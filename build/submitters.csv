@@ -21,9 +21,9 @@ Candida albicans,Critical,BI,180
 Candida albicans,Critical,Public Health Agency of Canada,142
 Candida auris,Critical,UPHL_ID,5110
 Candida auris,Critical,NVSPHL,4540
-Candida auris,Critical,MDH_CSL,2539
+Candida auris,Critical,MDH_CSL,2547
 Candida auris,Critical,cdc-ncezid-mdb,2405
-Candida auris,Critical,MDHHS-GS,1846
+Candida auris,Critical,MDHHS-GS,1858
 Candida auris,Critical,TXDSHS,1817
 Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1637
 Candida auris,Critical,RIPHL,1566
@@ -70,7 +70,7 @@ Cryptococcus gattii,Medium,European Bioinformatics Institute,17
 Cryptococcus gattii,Medium,JCVI,12
 Cryptococcus gattii,Medium,UCL,7
 Cryptococcus neoformans,Critical,Broad Institute,1298
-Cryptococcus neoformans,Critical,Duke University,872
+Cryptococcus neoformans,Critical,Duke University,889
 Cryptococcus neoformans,Critical,BI,807
 Cryptococcus neoformans,Critical,Shanghai Tenth People's Hospital,644
 Cryptococcus neoformans,Critical,Oxford University Clinical Research Unit,415

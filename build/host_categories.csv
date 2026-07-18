@@ -1,12 +1,12 @@
 fppl_name,priority,human,animal,plant,environment,food,clinical_other,laboratory,unknown,total
 Aspergillus fumigatus,Critical,1333,239,230,830,0,3,79,2223,4937
 Candida albicans,Critical,2412,245,0,10,19,0,475,1570,4731
-Candida auris,Critical,29164,43,16,527,0,7,238,1217,31212
+Candida auris,Critical,29198,43,16,527,0,7,238,1217,31246
 Candida parapsilosis,High,1629,2,2,14,1,1,90,190,1929
 Candida tropicalis,High,1177,0,10,182,0,0,2,129,1500
 Coccidioides spp.,Medium,265,2,0,10,0,0,23,128,428
 Cryptococcus gattii,Medium,207,3,7,10,0,0,0,161,388
-Cryptococcus neoformans,Critical,2430,667,128,80,0,0,666,2761,6732
+Cryptococcus neoformans,Critical,2430,667,128,80,0,0,666,2778,6749
 Eumycetoma agents,High,86,0,0,2,0,0,0,8,96
 Fusarium spp.,High,170,420,4057,136,27,4,72,1000,5886
 Histoplasma spp.,High,498,19,0,13,0,0,6,58,594
