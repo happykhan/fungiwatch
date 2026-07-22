@@ -1,7 +1,7 @@
 fppl_name,priority,human,animal,plant,environment,food,clinical_other,laboratory,unknown,total
 Aspergillus fumigatus,Critical,1333,239,230,830,0,3,79,2223,4937
 Candida albicans,Critical,2412,245,0,10,19,0,475,1570,4731
-Candida auris,Critical,29216,43,16,527,0,7,238,1217,31264
+Candida auris,Critical,29260,43,16,527,0,7,238,1252,31343
 Candida parapsilosis,High,1629,2,2,14,1,1,90,190,1929
 Candida tropicalis,High,1177,0,10,182,0,0,2,129,1500
 Coccidioides spp.,Medium,265,2,0,10,0,0,23,128,428
