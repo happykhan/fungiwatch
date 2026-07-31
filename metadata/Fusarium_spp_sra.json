@@ -88287,5 +88287,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR39758510",
+    "organism_name": "Fusarium oxysporum",
+    "tax_id": 5507,
+    "release_date": "2026-07-30 00:36:11",
+    "collection_date": "2024-06",
+    "geo_loc_name": "China: Jiangsu, Nanjing, Jiangning District, Hushu",
+    "host": "Chrysanthemum x morifolium",
+    "isolation_source": "",
+    "host_disease": "Fusarium wilt",
+    "env_broad_scale": "cropland biome [ENVO:01000245]",
+    "host_category": "plant",
+    "submitter": "Nanjing Agricultural University",
+    "submitter_category": "agriculture",
+    "bioproject_accession": "PRJNA1498819",
+    "study_accession": "SRP720197",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
