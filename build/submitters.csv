@@ -19,16 +19,16 @@ Candida albicans,Critical,European Bioinformatics Institute,241
 Candida albicans,Critical,Broad Institute,197
 Candida albicans,Critical,BI,180
 Candida albicans,Critical,Public Health Agency of Canada,142
-Candida auris,Critical,UPHL_ID,5132
+Candida auris,Critical,UPHL_ID,5153
 Candida auris,Critical,NVSPHL,4635
 Candida auris,Critical,MDH_CSL,2555
 Candida auris,Critical,cdc-ncezid-mdb,2405
 Candida auris,Critical,MDHHS-GS,1878
-Candida auris,Critical,TXDSHS,1831
+Candida auris,Critical,TXDSHS,1845
 Candida auris,Critical,Wisconsin State Laboratory of Hygiene,1677
 Candida auris,Critical,RIPHL,1592
 Candida auris,Critical,NSPHL,1031
-Candida auris,Critical,Minnesota Department of Health Infectious Disease Laboratory Submission Group,866
+Candida auris,Critical,Minnesota Department of Health Infectious Disease Laboratory Submission Group,874
 Candida parapsilosis,High,University College Dublin,375
 Candida parapsilosis,High,First Affiliated Hospital of Sun Yat-sen University,182
 Candida parapsilosis,High,Shenzhen Institute of Advanced Technology Chinese Academy of Science,125
@@ -83,12 +83,12 @@ Eumycetoma agents,High,cdc-ncezid-mdb,68
 Eumycetoma agents,High,Umm Al Qura University,6
 Eumycetoma agents,High,ErasmusMC,4
 Eumycetoma agents,High,EBI,4
+Eumycetoma agents,High,"Medical Mycology Research Center, Chiba University",3
 Eumycetoma agents,High,Medical Mycology Research Center,2
 Eumycetoma agents,High,Westerdijk Fungal Biodiversity Institute,2
 Eumycetoma agents,High,National Center for Emerging and Zoonotic Infectious Diseases- Mycotic Diseases Branch,2
 Eumycetoma agents,High,DOE Joint Genome Institute,2
 Eumycetoma agents,High,Chiba University,2
-Eumycetoma agents,High,"Medical Mycology Research Center, Chiba University",2
 Fusarium spp.,High,Cook Lab - University of California at Davis,588
 Fusarium spp.,High,Wageningen University and Research,564
 Fusarium spp.,High,CSIRO,329
