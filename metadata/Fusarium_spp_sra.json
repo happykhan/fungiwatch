@@ -88312,5 +88312,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40013404",
+    "organism_name": "Fusarium oxysporum f. sp. cubense",
+    "tax_id": 61366,
+    "release_date": "2026-08-05 02:53:07",
+    "collection_date": "2025",
+    "geo_loc_name": "Bangladesh: Bogura",
+    "host": "Musa sp. (Banana)",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "Diseased banana plant",
+    "host_category": "plant",
+    "submitter": "Bangladesh Agricultural University",
+    "submitter_category": "agriculture",
+    "bioproject_accession": "PRJNA1503127",
+    "study_accession": "SRP722115",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq X",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
