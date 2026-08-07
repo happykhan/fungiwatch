@@ -48903,5 +48903,30 @@
     "source": "sra",
     "fppl_name": "Mucorales",
     "priority": "High"
+  },
+  {
+    "accession": "ERR17672331",
+    "organism_name": "Lichtheimia sp.",
+    "tax_id": 2420204,
+    "release_date": "2026-08-06 13:32:18",
+    "collection_date": "",
+    "geo_loc_name": "",
+    "host": "",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "unknown",
+    "submitter": "Indian Biological Data Centre",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJEB123122",
+    "study_accession": "ERP203119",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM PCR",
+    "source": "sra",
+    "fppl_name": "Mucorales",
+    "priority": "High"
   }
 ]

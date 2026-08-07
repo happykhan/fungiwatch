@@ -1,7 +1,7 @@
 fppl_name,priority,human,animal,plant,environment,food,clinical_other,laboratory,unknown,total
-Aspergillus fumigatus,Critical,1335,239,230,830,0,3,79,2223,4939
+Aspergillus fumigatus,Critical,1335,239,230,830,0,3,79,2224,4940
 Candida albicans,Critical,2413,245,0,10,19,0,519,1570,4776
-Candida auris,Critical,29713,43,16,529,0,7,238,1254,31800
+Candida auris,Critical,29754,43,16,529,0,7,238,1254,31841
 Candida parapsilosis,High,1660,2,2,14,1,1,90,190,1960
 Candida tropicalis,High,1177,0,10,182,0,0,2,129,1500
 Coccidioides spp.,Medium,265,2,0,10,0,0,23,128,428
@@ -11,10 +11,10 @@ Eumycetoma agents,High,87,0,0,2,0,0,0,8,97
 Fusarium spp.,High,170,420,4071,137,27,4,72,1000,5901
 Histoplasma spp.,High,498,19,0,13,0,0,6,58,594
 Lomentospora prolificans,Medium,20,0,0,0,0,0,0,0,20
-Mucorales,High,262,37,36,159,12,0,79,1829,2414
+Mucorales,High,262,37,36,159,12,0,79,1830,2415
 Nakaseomyces glabrata,High,1799,27,0,29,0,0,141,170,2166
 Paracoccidioides spp.,Medium,90,12,0,2,0,0,0,6,110
 Pichia kudriavzevii,Medium,185,20,25,6,38,0,8,506,788
 Pneumocystis jirovecii,Medium,9,0,0,0,0,0,0,3,12
-Scedosporium spp.,Medium,23,0,3,7,0,0,0,3,36
+Scedosporium spp.,Medium,23,0,3,7,0,0,0,4,37
 Talaromyces marneffei,Medium,372,5,0,0,0,0,0,4,381
