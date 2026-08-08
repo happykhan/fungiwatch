@@ -88337,5 +88337,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR34749323",
+    "organism_name": "Fusarium fujikuroi",
+    "tax_id": 5127,
+    "release_date": "2026-08-07 00:07:02",
+    "collection_date": "2022-04",
+    "geo_loc_name": "China:Jinan",
+    "host": "Zingiber officinale Rosc.",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "University of Jinan",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1297417",
+    "study_accession": "SRP604188",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina HiSeq 4000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
