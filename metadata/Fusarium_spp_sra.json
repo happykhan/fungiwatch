@@ -88362,5 +88362,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40085369",
+    "organism_name": "Fusarium oxysporum f. sp. cubense",
+    "tax_id": 61366,
+    "release_date": "2026-08-08 15:45:47",
+    "collection_date": "2025",
+    "geo_loc_name": "Bangladesh: Jessore",
+    "host": "Musa sp.",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "Agricultural biome",
+    "host_category": "plant",
+    "submitter": "Bangladesh Agricultural University",
+    "submitter_category": "agriculture",
+    "bioproject_accession": "PRJNA1503127",
+    "study_accession": "SRP722115",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq X",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
