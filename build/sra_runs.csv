@@ -55305,6 +55305,22 @@ SRR39758510,Fusarium oxysporum,5507,Fusarium spp.,High,2026-07-30 00:36:11,2024-
 SRR40013404,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2026-08-05 02:53:07,2025,Bangladesh: Bogura,Musa sp. (Banana),,,Diseased banana plant,plant,Bangladesh Agricultural University,agriculture,PRJNA1503127,SRP722115,ILLUMINA,Illumina NovaSeq X,WGS,GENOMIC,RANDOM
 SRR34749323,Fusarium fujikuroi,5127,Fusarium spp.,High,2026-08-07 00:07:02,2022-04,China:Jinan,Zingiber officinale Rosc.,,,,plant,University of Jinan,university,PRJNA1297417,SRP604188,ILLUMINA,Illumina HiSeq 4000,WGS,GENOMIC,RANDOM
 SRR40085369,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2026-08-08 15:45:47,2025,Bangladesh: Jessore,Musa sp.,,,Agricultural biome,plant,Bangladesh Agricultural University,agriculture,PRJNA1503127,SRP722115,ILLUMINA,Illumina NovaSeq X,WGS,GENOMIC,RANDOM
+SRR40087258,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:26:27,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087259,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:30:49,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087260,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:23:50,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087261,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:23:50,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087262,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:47:37,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087263,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:52:00,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087264,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:30:49,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087265,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:37:00,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087266,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:30:49,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087267,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:34:50,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087268,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:30:49,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087269,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:37:00,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087270,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:37:00,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087271,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:30:49,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087272,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:23:50,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
+SRR40087273,Fusarium oxysporum,5507,Fusarium spp.,High,2026-08-09 07:34:50,,,,,,,unknown,USDA,agriculture,PRJNA1510050,SRP725515,ELEMENT,Element AVITI,WGS,GENOMIC,RANDOM
 SRR36102999,Candida tropicalis,5482,Candida tropicalis,High,2025-11-19 18:06:17,2024,Iraq: Karbala,Homo sapiens,Mouth,Candidiasis,,human,University of Kerbala,university,,,DNBSEQ,DNBSEQ-T7,WGS,GENOMIC,PCR
 SRR36094885,Candida tropicalis,5482,Candida tropicalis,High,2025-11-18 23:04:13,2024,Iraq: Karbala,Homo sapiens,Mouth,Candidiasis,,human,University of Kerbala,university,,,DNBSEQ,DNBSEQ-T7,WGS,GENOMIC,PCR
 SRR35899138,Candida tropicalis,5482,Candida tropicalis,High,2025-10-29 20:21:52,,,,,,,unknown,JGI,research_institute,,,ILLUMINA,Illumina NovaSeq 6000,WGS,GENOMIC,RANDOM
