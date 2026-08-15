@@ -91087,5 +91087,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40175724",
+    "organism_name": "Fusarium sp. IMII-1",
+    "tax_id": 3387622,
+    "release_date": "2026-08-14 16:14:51",
+    "collection_date": "2023",
+    "geo_loc_name": "Peru: Colcamar",
+    "host": "Prunus sp.",
+    "isolation_source": "peach fruits",
+    "host_disease": "wilt",
+    "env_broad_scale": "Yunga",
+    "host_category": "plant",
+    "submitter": "UNIVERSIDAD NACIONAL TORIBIO RODRIGUEZ DE MENDOZA DE AMAZONAS",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1192322",
+    "study_accession": "SRP727281",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "other",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
