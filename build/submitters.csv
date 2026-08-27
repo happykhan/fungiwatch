@@ -21,7 +21,7 @@ Candida albicans,Critical,BI,180
 Candida albicans,Critical,Public Health Agency of Canada,142
 Candida auris,Critical,UPHL_ID,5216
 Candida auris,Critical,NVSPHL,4635
-Candida auris,Critical,MDH_CSL,2559
+Candida auris,Critical,MDH_CSL,2561
 Candida auris,Critical,cdc-ncezid-mdb,2405
 Candida auris,Critical,MDHHS-GS,1961
 Candida auris,Critical,TXDSHS,1865
@@ -98,7 +98,7 @@ Fusarium spp.,High,BI,238
 Fusarium spp.,High,"AGRIBIO, CENTRE FOR AGRIBIOSCIENC",202
 Fusarium spp.,High,United States Department of Agriculture,188
 Fusarium spp.,High,USDA-ARS,173
-Fusarium spp.,High,"US Department of Agriculture, Agriculture Research Service",168
+Fusarium spp.,High,Agriculture and Agri-Foods Canada,169
 Histoplasma spp.,High,"University of California, San Francisco",251
 Histoplasma spp.,High,University of North Carolina at Chapel Hill,103
 Histoplasma spp.,High,University of Brasilia,62

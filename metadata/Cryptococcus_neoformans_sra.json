@@ -150498,5 +150498,30 @@
     "source": "sra",
     "fppl_name": "Cryptococcus neoformans",
     "priority": "Critical"
+  },
+  {
+    "accession": "SRR40341823",
+    "organism_name": "Cryptococcus neoformans",
+    "tax_id": 5207,
+    "release_date": "2026-08-26 02:14:25",
+    "collection_date": "",
+    "geo_loc_name": "South Korea: Seoul",
+    "host": "",
+    "isolation_source": "laboratory strain",
+    "host_disease": "",
+    "env_broad_scale": "laboratory environment",
+    "host_category": "animal",
+    "submitter": "Yonsei University",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1459063",
+    "study_accession": "SRP695860",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Cryptococcus neoformans",
+    "priority": "Critical"
   }
 ]
