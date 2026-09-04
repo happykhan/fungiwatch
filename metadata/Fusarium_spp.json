@@ -8088,10 +8088,10 @@
     "priority": "High"
   },
   {
-    "accession": "GCA_057929635.1",
+    "accession": "GCA_057929635.2",
     "organism_name": "Fusarium avenaceum",
     "tax_id": 40199,
-    "release_date": "2026-06-04",
+    "release_date": "2026-09-01",
     "assembly_level": "Chromosome",
     "collection_date": "2022",
     "geo_loc_name": "China:Xizang",
@@ -8105,7 +8105,7 @@
     "submitter": "Jiangsu Academy of Agricultural Sciences",
     "submitter_category": "agriculture",
     "bioproject_accession": "PRJNA1380331",
-    "genome_size_bp": 46980454,
+    "genome_size_bp": 42260544,
     "gc_percent": 48.0,
     "source": "genome",
     "fppl_name": "Fusarium spp.",
