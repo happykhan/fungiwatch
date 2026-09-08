@@ -16674,5 +16674,30 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium"
+  },
+  {
+    "accession": "SRR40549598",
+    "organism_name": "Pichia kudriavzevii",
+    "tax_id": 4909,
+    "release_date": "2026-09-07 09:40:49",
+    "collection_date": "",
+    "geo_loc_name": "",
+    "host": "cheese",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "food",
+    "submitter": "Zhejiang Gongshang University",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1498244",
+    "study_accession": "SRP719838",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq X Plus",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Pichia kudriavzevii",
+    "priority": "Medium"
   }
 ]
