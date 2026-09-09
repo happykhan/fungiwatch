@@ -32239,5 +32239,30 @@
     "source": "sra",
     "fppl_name": "Candida tropicalis",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40561521",
+    "organism_name": "Candida tropicalis",
+    "tax_id": 5482,
+    "release_date": "2026-09-08 07:27:01",
+    "collection_date": "",
+    "geo_loc_name": "India",
+    "host": "Homo sapiens",
+    "isolation_source": "urine",
+    "host_disease": "Invasive candidiasis",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "M S Ramaiah Institute of Technology",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA754257",
+    "study_accession": "SRP333816",
+    "platform": "ILLUMINA",
+    "instrument_model": "NextSeq 500",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "PCR",
+    "source": "sra",
+    "fppl_name": "Candida tropicalis",
+    "priority": "High"
   }
 ]
