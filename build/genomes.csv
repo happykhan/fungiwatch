@@ -1901,18 +1901,248 @@ GCA_000497105.2,Nakaseomyces glabratus CCTCC M202019,1406948,Nakaseomyces glabra
 GCA_013420885.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2020-07-16,Scaffold,1967,Panama,Homo sapiens,Body,,,human,Northern Kentucky University,university,Northern Kentucky University,Northern Kentucky University,PRJNA623781,30598358,44.0
 GCA_017310585.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2021-03-09,Complete Genome,2004,USA:Missouri,Homo sapiens,,,,human,"University of California, San Francisco",university,"University of California, San Francisco","University of California, San Francisco",PRJNA682645,32477579,46.0
 GCA_017607465.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2021-03-30,Contig,1900/1967,Panama,Homo sapiens,,,,human,"University of California, San Francisco",university,"University of California, San Francisco","University of California, San Francisco",PRJNA682647,30954031,44.5
+GCA_988206145.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38266376,43.0
+GCA_988206155.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38295451,43.0
+GCA_988206165.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38132842,43.0
+GCA_988206175.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38295396,43.0
+GCA_988206195.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37995864,43.0
+GCA_988206205.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38275190,43.0
+GCA_988206215.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31262968,45.0
+GCA_988206225.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38004843,43.0
+GCA_988206235.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38231390,43.0
+GCA_988206245.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38204702,43.0
+GCA_988206255.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38147525,43.0
+GCA_988206265.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38228616,43.0
+GCA_988206275.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38180825,43.0
+GCA_988206285.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38319010,43.0
+GCA_988206305.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38194725,43.0
+GCA_988206315.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38022209,43.0
+GCA_988206325.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38123324,43.0
+GCA_988206335.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38065360,43.0
+GCA_988206345.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38235527,43.0
+GCA_988206355.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38161292,43.0
+GCA_988206365.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2004,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29299085,46.0
+GCA_988206375.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37189813,43.0
+GCA_988206385.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2004,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29597718,45.5
+GCA_988206395.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38279502,43.0
+GCA_988206405.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38298085,43.0
+GCA_988206415.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38282612,43.0
+GCA_988206425.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38305164,43.0
+GCA_988206435.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31455819,44.5
+GCA_988206445.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1967,Panama,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30293253,44.0
+GCA_988206455.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31224408,45.0
+GCA_988206465.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38213358,43.0
+GCA_988206475.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38279034,43.0
+GCA_988206485.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38034192,43.0
+GCA_988206495.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38288248,43.0
+GCA_988206505.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38158713,43.0
+GCA_988206515.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38294403,43.0
+GCA_988206525.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31124409,45.0
+GCA_988206535.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38294843,43.0
+GCA_988206545.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38290566,43.0
+GCA_988206555.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38208471,43.0
+GCA_988206565.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38215203,43.0
+GCA_988206575.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38228770,43.0
+GCA_988206585.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38262348,43.0
+GCA_988206595.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38255759,43.0
+GCA_988206615.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1973,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38249419,43.0
+GCA_988206625.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38208634,43.0
+GCA_988206635.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38218199,43.0
+GCA_988206645.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38208857,43.0
+GCA_988206655.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38161668,43.0
+GCA_988206665.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38224223,43.0
 GCA_988206675.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38232125,43.0
+GCA_988206685.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38170804,43.0
+GCA_988206695.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38210558,43.0
+GCA_988206705.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38158116,43.0
+GCA_988206715.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38174891,43.0
+GCA_988206735.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1967,Panama,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30443794,44.0
+GCA_988206745.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31396740,44.5
+GCA_988206755.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31367441,44.5
+GCA_988206765.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31576682,44.5
+GCA_988206775.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38281875,43.0
+GCA_988206785.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38234432,43.0
+GCA_988206795.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38269214,43.0
+GCA_988206805.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38228595,43.0
+GCA_988206815.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38218796,43.0
+GCA_988206825.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38283006,43.0
+GCA_988206835.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38099566,43.0
+GCA_988206865.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38235708,43.0
+GCA_988206875.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38238539,43.0
+GCA_988206885.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38159206,43.0
+GCA_988206895.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38271121,43.0
+GCA_988206905.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38166253,43.0
+GCA_988206915.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38268358,43.0
+GCA_988206925.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38037748,43.0
+GCA_988206935.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38125519,43.0
+GCA_988206945.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38223455,43.0
+GCA_988206955.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36694998,43.5
+GCA_988206965.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38247822,43.0
+GCA_988206985.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38222905,43.0
+GCA_988206995.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38247858,43.0
+GCA_988207005.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38249683,43.0
+GCA_988207015.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38329201,43.0
+GCA_988207035.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38043226,43.0
+GCA_988207045.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38257675,43.0
+GCA_988207065.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38241745,43.0
+GCA_988207075.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37988393,43.0
 GCA_988207085.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38010495,43.0
+GCA_988207095.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38145527,43.0
+GCA_988207105.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38262809,43.0
+GCA_988207205.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36802196,42.5
+GCA_988207215.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2017,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32412142,43.5
+GCA_988207225.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29933585,45.5
+GCA_988207255.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2017,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32472188,43.5
+GCA_988207265.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39077843,43.0
+GCA_988207305.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31851069,43.5
+GCA_988207325.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,33807233,43.0
+GCA_988207335.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38555504,43.0
+GCA_988207345.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30140011,44.5
+GCA_988207355.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2010,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32038552,43.5
+GCA_988207375.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38638059,43.0
+GCA_988207385.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,34736327,44.0
+GCA_988207405.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,Guatemala,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32305380,43.5
+GCA_988207415.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38665158,43.0
+GCA_988207425.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2017,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32960842,43.0
+GCA_988207435.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39184339,43.0
+GCA_988207445.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2003,Canada,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,42164464,42.5
+GCA_988207455.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38855437,43.0
+GCA_988207465.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38572333,43.0
+GCA_988207475.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2022,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30431522,44.0
+GCA_988207485.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29358000,44.5
+GCA_988207495.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39654532,43.0
+GCA_988207505.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2000,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31780432,43.0
+GCA_988207525.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2011,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29977273,44.5
+GCA_988207535.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1984,Brazil,,soil,,,environment,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30817848,43.5
+GCA_988207545.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,40553390,42.5
+GCA_988207555.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38835008,43.0
+GCA_988207565.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,India,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29777477,47.0
+GCA_988207575.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cameroon,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,43039917,41.0
+GCA_988207585.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1984,Brazil,,soil,,,environment,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30791266,43.5
 GCA_988207615.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38363982,43.0
+GCA_988207625.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38532582,43.0
+GCA_988207645.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,India,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29705848,47.0
+GCA_988207655.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,33622533,42.5
+GCA_988207665.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29931170,45.5
+GCA_988207675.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29920567,46.0
+GCA_988207685.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,India,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29887039,47.0
+GCA_988207695.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2022,India,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29596927,47.0
+GCA_988207745.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31359010,43.5
+GCA_988207755.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38842535,43.0
+GCA_988207765.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37952969,43.0
+GCA_988207775.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32575390,43.5
+GCA_988207785.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Rattus norvegicus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39413052,42.5
+GCA_988207795.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38622218,43.0
+GCA_988207865.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Democratic Republic of the Congo,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38499857,43.5
+GCA_988207875.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2010,South Africa,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38010844,42.0
+GCA_988207885.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cameroon,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37803783,42.0
+GCA_988207895.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,South Africa,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38687518,43.0
+GCA_988207985.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2003,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38141801,43.0
+GCA_988207995.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38331740,43.0
+GCA_988208105.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37765110,43.0
+GCA_988208115.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38081611,43.0
+GCA_988208205.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1967,Panama,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30387254,44.0
+GCA_988208215.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30206282,44.0
+GCA_988208225.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39171075,43.0
+GCA_988208235.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2011,Guatemala,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32882345,42.0
+GCA_988208305.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2007,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30303367,44.0
+GCA_988208335.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2017,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30137361,44.5
+GCA_988208345.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31633303,43.5
+GCA_988208405.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,Suriname,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32922702,43.5
+GCA_988208415.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2010,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32792249,43.5
+GCA_988208425.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2012,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32721045,43.5
+GCA_988208435.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2010,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31988547,43.5
+GCA_988208465.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2009,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30264186,44.5
+GCA_988208475.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38763638,43.0
+GCA_988208505.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,Suriname,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32929830,43.5
+GCA_988208515.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29620323,46.0
+GCA_988208525.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29575350,46.0
+GCA_988208535.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2012,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30879075,43.5
+GCA_988208545.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2000,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31263837,43.5
+GCA_988208555.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,South Africa,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37865214,42.0
+GCA_988208565.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,South Africa,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38311988,42.0
+GCA_988208595.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31935425,43.0
+GCA_988208605.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2022,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30360524,44.5
+GCA_988208615.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2008,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37612689,43.5
+GCA_988208625.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2022,Panama,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30453995,44.0
+GCA_988208635.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2011,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30375770,43.5
+GCA_988208645.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2012,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31630153,43.0
+GCA_988208655.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2011,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,26484994,46.5
+GCA_988208665.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,USA,,Canis lupus familiaris,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30089235,45.5
+GCA_988208675.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30005754,45.5
+GCA_988208685.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38224293,43.0
+GCA_988208695.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,Nigeria,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38448895,42.0
+GCA_988208705.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,South Africa,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37672297,42.0
+GCA_988208715.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cote d'Ivoire,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,41530322,41.0
+GCA_988208735.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31764482,43.0
+GCA_988208745.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,33184251,43.0
+GCA_988208755.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,33238130,43.0
+GCA_988208765.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2006,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30990018,43.5
+GCA_988208775.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2007,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32628527,43.0
+GCA_988208785.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38534281,43.0
+GCA_988208795.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,Nicaragua,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32861151,42.0
 GCA_988208825.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cameroon,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38988175,41.5
+GCA_988208835.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cote d'Ivoire,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37830355,42.0
+GCA_988208855.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38933421,43.0
+GCA_988208865.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37596587,43.0
+GCA_988208875.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30053579,45.5
+GCA_988208885.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38595693,43.0
+GCA_988208895.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2012,Brazil,,Canis lupus familiaris,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30205054,43.5
+GCA_988208955.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31534574,43.5
+GCA_988208975.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39215373,43.0
+GCA_988208985.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39111310,43.0
+GCA_988208995.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2009,Spain,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,33280898,42.5
+GCA_988209305.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,Spain,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32749529,42.0
+GCA_988209315.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,French Guiana,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,35399589,43.5
+GCA_988209405.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38396880,43.0
+GCA_988209435.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2003,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38562521,43.0
+GCA_988209505.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,49194258,41.0
+GCA_988209515.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38199155,43.0
+GCA_988209525.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31042841,43.5
+GCA_988209535.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31798684,43.5
+GCA_988209555.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2021,Venezuela,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,31269385,43.5
+GCA_988209605.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39027790,43.0
+GCA_988209615.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37913006,43.0
+GCA_988209625.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38384130,43.0
+GCA_988209635.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,42804321,42.0
+GCA_988209655.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32000535,43.0
+GCA_988209675.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29581130,46.0
+GCA_988209685.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29545221,45.5
+GCA_988209705.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29600911,46.0
+GCA_988209715.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2023,Cameroon,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36980428,42.5
+GCA_988209735.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2015,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30023469,46.0
+GCA_988209745.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29489249,46.0
+GCA_988209755.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1967,Panama,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,30400550,44.0
+GCA_988209765.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1983,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36686116,43.5
+GCA_988209775.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,1981,Colombia,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32067491,43.5
+GCA_988209805.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2012,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36043909,43.5
+GCA_988209815.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2016,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,36484667,43.5
+GCA_988209825.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37712707,43.0
+GCA_988209835.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2011,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29497403,46.0
+GCA_988209845.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2018,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,32885925,43.5
+GCA_988209855.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38511922,43.0
+GCA_988209865.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38480064,43.0
+GCA_988209875.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39169358,43.0
+GCA_988209885.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2019,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38323036,43.0
+GCA_988209895.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,,USA,,Didelphis�virginiana,,,unknown,EBI,research_institute,EBI,University of Surrey,PRJEB124226,39600386,42.5
+GCA_988209905.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29957935,45.5
 GCA_988209915.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2006,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,40074822,42.5
+GCA_988209925.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,46046595,39.5
+GCA_988209945.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2020,India,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29741408,47.0
+GCA_988209955.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29722943,45.5
+GCA_988209965.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29722253,45.5
+GCA_988209975.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2010,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,38850374,43.0
+GCA_988209985.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2013,USA,,Felis catus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29908512,45.5
+GCA_988209995.1,Histoplasma capsulatum,5037,Histoplasma spp.,High,2026-09-09,Contig,2014,USA,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37965754,43.0
 GCF_000150115.1,Histoplasma capsulatum G186AR,447093,Histoplasma spp.,High,2009-03-23,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,WashU,PRJNA12635,30438878,44.5
 GCA_000150115.1,Histoplasma capsulatum G186AR,447093,Histoplasma spp.,High,2009-03-23,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,WashU,PRJNA12635,30438878,44.5
 GCA_017355575.1,Histoplasma capsulatum G186AR,447093,Histoplasma spp.,High,2021-03-09,Complete Genome,1900/1967,Panama,Homo sapiens,,,,human,"University of California, San Francisco",university,"University of California, San Francisco","University of California, San Francisco",PRJNA682644,31073969,44.0
 GCA_000151035.1,Histoplasma capsulatum H143,544712,Histoplasma spp.,High,2009-06-19,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA29161,38922587,41.5
 GCA_000313325.1,Histoplasma capsulatum var. capsulatum Tmu,1226784,Histoplasma spp.,High,2012-11-19,Contig,2011-12,Taiwan: Taipei City,Homo sapiens,right adrenal gland from a male Taiwanese patient with histoplasmosis having traveled to the USA and China within the last 3 years,,,human,"Taipei Medical University, Urology",university,"Taipei Medical University, Urology",Taipei Medical University,PRJNA173806,46124030,39.5
+GCA_988207115.1,Histoplasma capsulatum var. duboisii,149546,Histoplasma spp.,High,2026-09-09,Contig,1975,Belgium,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,37312327,42.0
 GCA_000151005.2,Histoplasma capsulatum var. duboisii H88,544711,Histoplasma spp.,High,2011-02-28,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA29163,37903857,42.0
 GCA_017310615.1,Histoplasma capsulatum var. duboisii H88,544711,Histoplasma spp.,High,2021-03-09,Complete Genome,1900/1975,Belgium,Homo sapiens,,,,human,"University of California, San Francisco",university,"University of California, San Francisco","University of California, San Francisco",PRJNA682648,37874276,42.0
+GCA_988209725.1,Histoplasma capsulatum var. farciminosum,149547,Histoplasma spp.,High,2026-09-09,Contig,2019,South Africa,,Equus�caballus,,,animal,EBI,research_institute,EBI,University of Surrey,PRJEB124226,44615505,41.0
 GCF_000149585.1,Histoplasma mississippiense,2059318,Histoplasma spp.,High,2007-07-02,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA12654,32988475,46.0
 GCA_000149585.1,Histoplasma mississippiense,2059318,Histoplasma spp.,High,2007-07-02,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA12654,32988475,46.0
 GCA_051312685.1,Histoplasma ohiense,2902605,Histoplasma spp.,High,2025-07-14,Complete Genome,1900/1973,USA:Louisiana,Homo sapiens,the sample came from strain G217B with spontaneous chromosome rearrangement during laboratory passage from frozen stocks,,,laboratory,"University of California, San Francisco",university,"University of California, San Francisco","University of California, San Francisco",PRJNA1196489,39446615,42.5
@@ -3602,8 +3832,8 @@ GCA_034509825.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2023-
 GCA_045838155.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2024-12-09,Contig,2013-11-01,Malaysia: Kuala Terengganu,Musa acuminata,,Fusarium wilt,plant biome,plant,Universiti Malaya,other,Universiti Malaya,Universiti Malaya,PRJNA1014205,44929932,47.5
 GCA_045838205.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2024-12-09,Contig,2013-11-01,Malaysia: Kuala Terengganu,Musa acuminata,,Fusarium wilt,plant biome,plant,Universiti Malaya,other,Universiti Malaya,Universiti Malaya,PRJNA1014205,46474414,47.5
 GCA_052818615.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2025-09-24,Scaffold,2023-12-29,India: Cumbum,,Plant tissue,,ENVO:00000428,plant,Annamalai university,university,Annamalai university,Annamalai university,PRJNA1304040,61455500,48.5
-GCA_053754955.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2025-11-28,Chromosome,2013,Taiwan,Infected Pisang Awak banana,Pseudostem,,,plant,National Taiwan University,university,National Taiwan University,"Innovative Translational Agricultural Research (ITAR), Academia Sinica",PRJNA1271724,50233457,48.0
-GCA_053754965.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2025-11-28,Chromosome,2004,Taiwan,Infected Cavendish banana,Pseudostem,,,plant,National Taiwan University,university,National Taiwan University,"Innovative Translational Agricultural Research (ITAR), Academia Sinica",PRJNA1271724,48152668,47.5
+GCA_053754955.2,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2025-11-28,Chromosome,2013,Taiwan,Infected Pisang Awak banana,Pseudostem,,,plant,National Taiwan University,university,National Taiwan University,"Innovative Translational Agricultural Research (ITAR), Academia Sinica",PRJNA1271724,50233457,48.0
+GCA_053754965.2,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2025-11-28,Chromosome,2004,Taiwan,Infected Cavendish banana,Pseudostem,,,plant,National Taiwan University,university,National Taiwan University,"Innovative Translational Agricultural Research (ITAR), Academia Sinica",PRJNA1271724,48152668,47.5
 GCA_060230935.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2026-08-18,Scaffold,2025,Bangladesh: Rajbari,Musa sp.,,,Agricultural biome,plant,Bangladesh Agricultural University,agriculture,Bangladesh Agricultural University,Bangladesh Agricultural University,PRJNA1503127,47700535,47.5
 GCA_060231055.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2026-08-18,Scaffold,2025,Bangladesh: Jessore,Musa sp.,,,Agricultural biome,plant,Bangladesh Agricultural University,agriculture,Bangladesh Agricultural University,Bangladesh Agricultural University,PRJNA1503127,49961861,47.5
 GCA_060231075.1,Fusarium oxysporum f. sp. cubense,61366,Fusarium spp.,High,2026-08-18,Scaffold,2025,Bangladesh: Rajshahi,Musa sp.,,,Agricultural biome,plant,Bangladesh Agricultural University,agriculture,Bangladesh Agricultural University,Bangladesh Agricultural University,PRJNA1503127,50053242,48.0
@@ -4777,6 +5007,7 @@ GCA_001713695.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Mediu
 GCA_056247935.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,,Brazil,Homo sapiens,,,,human,University of North Carolina at Chapel Hill,university,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,PRJNA1417289,30574569,43.5
 GCA_056248015.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,,Brazil,Homo sapiens,,,,human,University of North Carolina at Chapel Hill,university,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,PRJNA1417289,30241532,44.0
 GCA_056248035.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-03-23,Contig,,Brazil,Homo sapiens,,,,human,University of North Carolina at Chapel Hill,university,University of North Carolina at Chapel Hill,University of North Carolina at Chapel Hill,PRJNA1417289,29969168,44.0
+GCA_988205465.1,Paracoccidioides brasiliensis,121759,Paracoccidioides spp.,Medium,2026-09-09,Contig,,Brazil,,Homo sapiens,,,human,EBI,research_institute,EBI,University of Surrey,PRJEB124226,29402480,44.0
 GCA_000150475.2,Paracoccidioides brasiliensis Pb03,482561,Paracoccidioides spp.,Medium,2014-11-13,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA27779,29062735,44.5
 GCF_000150735.1,Paracoccidioides brasiliensis Pb18,502780,Paracoccidioides spp.,Medium,2014-10-24,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA28733,29952540,44.5
 GCA_000150735.2,Paracoccidioides brasiliensis Pb18,502780,Paracoccidioides spp.,Medium,2014-10-24,Scaffold,,,,,,,unknown,Broad Institute of MIT and Harvard,research_institute,Broad Institute of MIT and Harvard,Broad Institute,PRJNA28733,29952540,44.5

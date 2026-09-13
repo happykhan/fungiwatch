@@ -100,6 +100,7 @@ Fusarium spp.,High,United States Department of Agriculture,188
 Fusarium spp.,High,USDA-ARS,173
 Fusarium spp.,High,Agriculture and Agri-Foods Canada,169
 Histoplasma spp.,High,"University of California, San Francisco",251
+Histoplasma spp.,High,EBI,235
 Histoplasma spp.,High,University of North Carolina at Chapel Hill,103
 Histoplasma spp.,High,University of Brasilia,62
 Histoplasma spp.,High,Centers for Disease Control and Prevention,48
@@ -108,7 +109,6 @@ Histoplasma spp.,High,"University of North Carolina, Chapel Hill",30
 Histoplasma spp.,High,Northern Arizona University,18
 Histoplasma spp.,High,AB ProvLab,11
 Histoplasma spp.,High,BI,11
-Histoplasma spp.,High,Broad Institute of MIT and Harvard,6
 Lomentospora prolificans,Medium,Johns Hopkins University,10
 Lomentospora prolificans,Medium,Murdoch University,7
 Lomentospora prolificans,Medium,"University of Maryland, Baltimore",3
@@ -141,6 +141,7 @@ Paracoccidioides spp.,Medium,Corporacion Para Investigaciones Biologicas,5
 Paracoccidioides spp.,Medium,Universidad de Antioquia,4
 Paracoccidioides spp.,Medium,Instituto de Medicina Regional de la Universidad Nacional del Nordeste,3
 Paracoccidioides spp.,Medium,Broad Institute,2
+Paracoccidioides spp.,Medium,EBI,1
 Pichia kudriavzevii,Medium,JGI,461
 Pichia kudriavzevii,Medium,Fudan university,86
 Pichia kudriavzevii,Medium,University College Dublin,35
