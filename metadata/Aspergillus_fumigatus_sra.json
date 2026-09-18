@@ -105285,5 +105285,30 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical"
+  },
+  {
+    "accession": "SRR40719897",
+    "organism_name": "Aspergillus fumigatus",
+    "tax_id": 746128,
+    "release_date": "2026-09-17 08:44:05",
+    "collection_date": "",
+    "geo_loc_name": "United Kingdom: Birmingham",
+    "host": "Homo sapiens",
+    "isolation_source": "heat and moisture exchange filter",
+    "host_disease": "suspected ventilator-associated pneumonia, VAP positive",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "University of Birmingham",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1528729",
+    "study_accession": "SRP737567",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "GridION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Aspergillus fumigatus",
+    "priority": "Critical"
   }
 ]

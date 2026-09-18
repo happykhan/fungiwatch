@@ -92587,5 +92587,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40726919",
+    "organism_name": "Fusarium solani",
+    "tax_id": 169388,
+    "release_date": "2026-09-17 20:03:34",
+    "collection_date": "2025",
+    "geo_loc_name": "Iraq: Karbala",
+    "host": "Solanum lycopersicum",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "terrestrial biome [ENVO:00000446]",
+    "host_category": "plant",
+    "submitter": "karbala University",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1521429",
+    "study_accession": "SRP737760",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina HiSeq 2500",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
