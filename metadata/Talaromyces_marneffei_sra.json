@@ -8439,5 +8439,30 @@
     "fppl_name": "Talaromyces marneffei",
     "priority": "Medium",
     "submitter_category": "university"
+  },
+  {
+    "accession": "SRR33263808",
+    "organism_name": "Talaromyces marneffei",
+    "tax_id": 37727,
+    "release_date": "2026-09-22 15:30:29",
+    "collection_date": "1956",
+    "geo_loc_name": "Viet Nam",
+    "host": "Animal",
+    "isolation_source": "Rhizomys cinensis",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "animal",
+    "submitter": "Westerdijk Fungal Biodiversity Institute",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA1254301",
+    "study_accession": "SRP580599",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "GridION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Talaromyces marneffei",
+    "priority": "Medium"
   }
 ]
