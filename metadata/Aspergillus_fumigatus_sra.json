@@ -105335,5 +105335,30 @@
     "source": "sra",
     "fppl_name": "Aspergillus fumigatus",
     "priority": "Critical"
+  },
+  {
+    "accession": "DRR1095652",
+    "organism_name": "Aspergillus fumigatus",
+    "tax_id": 746128,
+    "release_date": "2026-09-25 11:26:01",
+    "collection_date": "1905-07-08",
+    "geo_loc_name": "missing: data agreement established pre-2023",
+    "host": "",
+    "isolation_source": "Peanut rhizosphere soil",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJDB43097",
+    "study_accession": "DRP019673",
+    "platform": "ILLUMINA",
+    "instrument_model": "HiSeq X Ten",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "PCR",
+    "source": "sra",
+    "fppl_name": "Aspergillus fumigatus",
+    "priority": "Critical"
   }
 ]
