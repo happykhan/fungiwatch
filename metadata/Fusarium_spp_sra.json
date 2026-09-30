@@ -92762,5 +92762,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40904644",
+    "organism_name": "Fusarium sp. 411A",
+    "tax_id": 3895872,
+    "release_date": "2026-09-29 14:35:30",
+    "collection_date": "",
+    "geo_loc_name": "USA: Arizona, Tucson, University of Arizona campus",
+    "host": "Funaria hygrometrica",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "Subtropical/Hot Desert",
+    "host_category": "unknown",
+    "submitter": "University of Arizona",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1527509",
+    "study_accession": "SRP741041",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
