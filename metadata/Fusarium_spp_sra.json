@@ -92787,5 +92787,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40976366",
+    "organism_name": "Fusarium sp. GI_3",
+    "tax_id": 3898899,
+    "release_date": "2026-10-01 15:15:55",
+    "collection_date": "2024-10-12",
+    "geo_loc_name": "South Africa: Johannesburg",
+    "host": "",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "anthropogenic biome [ENVO_01000248]|built environment biome [ENVO_01001259]",
+    "host_category": "animal",
+    "submitter": "University of South Africa",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1537496",
+    "study_accession": "SRP741820",
+    "platform": "DNBSEQ",
+    "instrument_model": "DNBSEQ-G400",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]

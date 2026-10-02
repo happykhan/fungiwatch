@@ -2,13 +2,13 @@ fppl_name,priority,submitter,record_count
 Aspergillus fumigatus,Critical,University of Birmingham,638
 Aspergillus fumigatus,Critical,Leibniz-HKI,504
 Aspergillus fumigatus,Critical,Imperial College London,391
+Aspergillus fumigatus,Critical,NORWEGIAN VETERINARY INSTITUTE,313
 Aspergillus fumigatus,Critical,UMass Amherst,302
 Aspergillus fumigatus,Critical,Wageningen University,270
 Aspergillus fumigatus,Critical,radboudumc,245
 Aspergillus fumigatus,Critical,University of Georgia,227
 Aspergillus fumigatus,Critical,Yunnan University,226
 Aspergillus fumigatus,Critical,Centers for Disease Control and Prevention,203
-Aspergillus fumigatus,Critical,Wageningen University & Research,193
 Candida albicans,Critical,Institut Pasteur,772
 Candida albicans,Critical,SRG,380
 Candida albicans,Critical,Chinese Center for Disease Control and Prevention,370
@@ -21,7 +21,7 @@ Candida albicans,Critical,BI,180
 Candida albicans,Critical,Public Health Agency of Canada,142
 Candida auris,Critical,UPHL_ID,5285
 Candida auris,Critical,NVSPHL,4635
-Candida auris,Critical,MDH_CSL,2600
+Candida auris,Critical,MDH_CSL,2607
 Candida auris,Critical,cdc-ncezid-mdb,2405
 Candida auris,Critical,MDHHS-GS,2040
 Candida auris,Critical,TXDSHS,1916
@@ -136,6 +136,7 @@ Paracoccidioides spp.,Medium,Northern Arizona University,31
 Paracoccidioides spp.,Medium,BI,31
 Paracoccidioides spp.,Medium,University of North Carolina at Chapel Hill,22
 Paracoccidioides spp.,Medium,University of Brasilia,7
+Paracoccidioides spp.,Medium,Broad Institute of MIT and Harvard,5
 Paracoccidioides spp.,Medium,Corporacion Para Investigaciones Biologicas,5
 Paracoccidioides spp.,Medium,Universidad de Antioquia,4
 Paracoccidioides spp.,Medium,Instituto de Medicina Regional de la Universidad Nacional del Nordeste,3
