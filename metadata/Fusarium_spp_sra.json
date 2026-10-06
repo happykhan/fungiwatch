@@ -92812,5 +92812,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40822301",
+    "organism_name": "Fusarium sp. CBI-S043",
+    "tax_id": 3835550,
+    "release_date": "2026-10-05 16:48:17",
+    "collection_date": "2023-04-21",
+    "geo_loc_name": "USA: Watkinsville Georgia",
+    "host": "Panicum virgatum",
+    "isolation_source": "Soil core",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "environment",
+    "submitter": "Oak Ridge National Laboratory",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA1511305",
+    "study_accession": "SRP739615",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "MinION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
