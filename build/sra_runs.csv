@@ -38792,6 +38792,27 @@ SRR41042928,Candidozyma auris,498019,Candida auris,Critical,2026-10-06 18:17:19,
 SRR41042929,Candidozyma auris,498019,Candida auris,Critical,2026-10-06 18:17:19,2026-07-30,USA:Mountain,Homo sapiens,other,,,human,UPHL_ID,public_health,PRJNA847553,SRP379640,ILLUMINA,NextSeq 2000,WGS,GENOMIC,RANDOM
 SRR41042931,Candidozyma auris,498019,Candida auris,Critical,2026-10-06 18:13:51,2026-08-31,USA:Mountain,Homo sapiens,urine,,,human,UPHL_ID,public_health,PRJNA847553,SRP379640,ILLUMINA,NextSeq 2000,WGS,GENOMIC,RANDOM
 SRR41042933,Candidozyma auris,498019,Candida auris,Critical,2026-10-06 18:08:38,2026-08-16,USA:Mountain,Homo sapiens,urine,,,human,UPHL_ID,public_health,PRJNA847553,SRP379640,ILLUMINA,NextSeq 2000,WGS,GENOMIC,RANDOM
+SRR40524074,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694722,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694723,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694724,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694725,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Hemodialysis,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694726,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694727,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694728,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694729,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2024,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694730,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694731,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694732,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694733,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694734,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694735,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694736,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694737,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694738,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694739,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2025,Colombia,,Surface,,,unknown,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694740,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2023,Colombia,,water,,,environment,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
+SRR37694741,Candidozyma auris,498019,Candida auris,Critical,2026-10-09 00:01:08,2020,Colombia,,water,,,environment,INS,other,PRJNA1439863,SRP685165,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
 SRR38443157,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:38,2025-06-16,USA,Homo sapiens,sputum,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
 SRR38443158,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:41,2026-01-05,USA,Homo sapiens,Bronchial washings,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
 SRR38443159,Aspergillus fumigatus,746128,Aspergillus fumigatus,Critical,2026-05-08 04:10:40,2025-12-18,USA,Homo sapiens,sputum,,,human,cdc-ncezid-mdb,public_health,,,ILLUMINA,Illumina MiSeq,WGS,GENOMIC,RANDOM
