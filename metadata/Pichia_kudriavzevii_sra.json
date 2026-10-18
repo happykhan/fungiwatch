@@ -16699,5 +16699,30 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium"
+  },
+  {
+    "accession": "SRR41235231",
+    "organism_name": "Pichia kudriavzevii",
+    "tax_id": 4909,
+    "release_date": "2026-10-17 19:25:26",
+    "collection_date": "2021-02-01",
+    "geo_loc_name": "USA",
+    "host": "Homo sapiens",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "JMI Laboratories",
+    "submitter_category": "commercial",
+    "bioproject_accession": "PRJNA1544115",
+    "study_accession": "SRP746708",
+    "platform": "ILLUMINA",
+    "instrument_model": "NextSeq 1000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Pichia kudriavzevii",
+    "priority": "Medium"
   }
 ]
