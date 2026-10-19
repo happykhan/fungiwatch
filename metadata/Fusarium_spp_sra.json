@@ -92912,5 +92912,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR40838818",
+    "organism_name": "Fusarium graminearum",
+    "tax_id": 5518,
+    "release_date": "2026-10-19 00:03:29",
+    "collection_date": "2022-07-07",
+    "geo_loc_name": "USA: Westport, Oregon",
+    "host": "Populus deltoides D-124",
+    "isolation_source": "Endophyte from the root",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "Oak Ridge National Laboratory",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA1476749",
+    "study_accession": "SRP739873",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "MinION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]

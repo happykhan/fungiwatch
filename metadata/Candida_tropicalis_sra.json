@@ -32814,5 +32814,30 @@
     "source": "sra",
     "fppl_name": "Candida tropicalis",
     "priority": "High"
+  },
+  {
+    "accession": "SRR41235322",
+    "organism_name": "Candida tropicalis",
+    "tax_id": 5482,
+    "release_date": "2026-10-18 21:27:32",
+    "collection_date": "2017-10-21",
+    "geo_loc_name": "Hungary",
+    "host": "Homo sapiens",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "human",
+    "submitter": "JMI Laboratories",
+    "submitter_category": "commercial",
+    "bioproject_accession": "PRJNA1544115",
+    "study_accession": "SRP746708",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina MiSeq",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Candida tropicalis",
+    "priority": "High"
   }
 ]
