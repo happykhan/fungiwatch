@@ -92937,5 +92937,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR41252525",
+    "organism_name": "Fusarium equiseti",
+    "tax_id": 61235,
+    "release_date": "2026-10-19 16:14:54",
+    "collection_date": "2024-01",
+    "geo_loc_name": "China: Henan Province",
+    "host": "Nicotiana tabacum",
+    "isolation_source": "fields in Nanyang city",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "Ghent University",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1544891",
+    "study_accession": "SRP747140",
+    "platform": "DNBSEQ",
+    "instrument_model": "DNBSEQ-T7",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
