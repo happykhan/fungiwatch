@@ -42811,5 +42811,30 @@
     "source": "sra",
     "fppl_name": "Candida parapsilosis",
     "priority": "High"
+  },
+  {
+    "accession": "SRR41323885",
+    "organism_name": "Lodderomyces parapsilosis",
+    "tax_id": 5480,
+    "release_date": "2026-10-22 11:55:51",
+    "collection_date": "2022",
+    "geo_loc_name": "Brazil: Niteroi",
+    "host": "",
+    "isolation_source": "Wastewater Treatment Plant",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "plant",
+    "submitter": "Oswaldo Cruz Institute",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA1489661",
+    "study_accession": "SRP748466",
+    "platform": "ILLUMINA",
+    "instrument_model": "NextSeq 1000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Candida parapsilosis",
+    "priority": "High"
   }
 ]
