@@ -16724,5 +16724,30 @@
     "source": "sra",
     "fppl_name": "Pichia kudriavzevii",
     "priority": "Medium"
+  },
+  {
+    "accession": "SRR41399959",
+    "organism_name": "Pichia kudriavzevii",
+    "tax_id": 4909,
+    "release_date": "2026-10-27 12:04:01",
+    "collection_date": "2023-07-20",
+    "geo_loc_name": "India: Tamil Nadu",
+    "host": "Zingiber officinale",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "soil",
+    "host_category": "plant",
+    "submitter": "Vellore Institute of Technology",
+    "submitter_category": "other",
+    "bioproject_accession": "PRJNA1232393",
+    "study_accession": "SRP749686",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "RANDOM",
+    "source": "sra",
+    "fppl_name": "Pichia kudriavzevii",
+    "priority": "Medium"
   }
 ]
