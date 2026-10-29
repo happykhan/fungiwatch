@@ -92962,5 +92962,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR41426502",
+    "organism_name": "Fusarium solani",
+    "tax_id": 169388,
+    "release_date": "2026-10-28 12:41:02",
+    "collection_date": "2025-10-10",
+    "geo_loc_name": "India: haryana",
+    "host": "Populus deltoides",
+    "isolation_source": "",
+    "host_disease": "",
+    "env_broad_scale": "",
+    "host_category": "unknown",
+    "submitter": "CCS Haryana Agricultural University Hisar Haryana India",
+    "submitter_category": "agriculture",
+    "bioproject_accession": "PRJNA1551671",
+    "study_accession": "SRP750130",
+    "platform": "ILLUMINA",
+    "instrument_model": "Illumina NovaSeq 6000",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "PCR",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]

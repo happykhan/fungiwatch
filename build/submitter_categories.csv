@@ -1,17 +1,17 @@
 fppl_name,priority,public_health,hospital_clinical,university,research_institute,agriculture,commercial,other,total
-Aspergillus fumigatus,Critical,386,500,3245,631,9,50,496,5317
+Aspergillus fumigatus,Critical,388,500,3246,631,9,50,496,5320
 Candida albicans,Critical,530,603,1522,1509,0,22,645,4831
-Candida auris,Critical,29404,1253,1456,325,0,14,1561,34013
+Candida auris,Critical,29456,1253,1456,325,0,14,1604,34108
 Candida parapsilosis,High,208,649,732,103,3,4,264,1963
-Candida tropicalis,High,7,738,427,326,2,16,22,1538
+Candida tropicalis,High,7,738,456,326,2,16,22,1567
 Coccidioides spp.,Medium,28,0,204,175,0,0,21,428
 Cryptococcus gattii,Medium,1,1,87,240,0,0,59,388
 Cryptococcus neoformans,Critical,1,1226,2020,2579,0,1,945,6772
 Eumycetoma agents,High,68,0,11,10,0,0,8,97
-Fusarium spp.,High,204,2,2730,532,2319,5,461,6253
+Fusarium spp.,High,204,2,2730,532,2320,5,462,6255
 Histoplasma spp.,High,83,3,468,27,0,0,14,595
 Lomentospora prolificans,Medium,0,0,20,0,0,0,0,20
-Mucorales,High,0,181,224,1735,14,0,273,2427
+Mucorales,High,0,182,224,1735,14,0,273,2428
 Nakaseomyces glabrata,High,626,554,330,302,1,111,320,2244
 Paracoccidioides spp.,Medium,0,0,67,40,0,0,5,112
 Pichia kudriavzevii,Medium,2,44,206,499,2,2,36,791
