@@ -1,0 +1,50 @@
+name: Sync private GitLab copy
+
+on:
+  push:
+    branches: [main]
+  workflow_run:
+    workflows: [Daily data update]
+    types: [completed]
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fungiwatch-gitlab-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out latest main and complete history
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Configure repository-scoped SSH access
+        env:
+          GITLAB_SSH_KEY: ${{ secrets.FUNGIWATCH_GITLAB_SSH_KEY }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -n "$GITLAB_SSH_KEY"
+          umask 077
+          printf '%s\n' "$GITLAB_SSH_KEY" > "$RUNNER_TEMP/fungiwatch-gitlab-key"
+          printf '%s\n' 'gitlab.com ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIAfuCHKVTjquxvt6CM6tdG4SLp1Btn/nOeHHE5UOzRdf' > "$RUNNER_TEMP/fungiwatch-known-hosts"
+      - name: Fast-forward private GitLab main
+        shell: bash
+        run: |
+          set -euo pipefail
+          export GIT_SSH_COMMAND="ssh -F /dev/null -i '$RUNNER_TEMP/fungiwatch-gitlab-key' -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes -o BatchMode=yes -o UserKnownHostsFile='$RUNNER_TEMP/fungiwatch-known-hosts'"
+          git push git@gitlab.com:cgps/websites/fungiwatch.git HEAD:refs/heads/main
+      - name: Remove temporary SSH key
+        if: always()
+        shell: bash
+        run: rm -f "$RUNNER_TEMP/fungiwatch-gitlab-key" "$RUNNER_TEMP/fungiwatch-known-hosts"
