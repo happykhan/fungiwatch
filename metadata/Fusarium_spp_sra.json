@@ -92987,5 +92987,30 @@
     "source": "sra",
     "fppl_name": "Fusarium spp.",
     "priority": "High"
+  },
+  {
+    "accession": "SRR41533913",
+    "organism_name": "Fusarium verticillioides",
+    "tax_id": 117187,
+    "release_date": "2026-11-04 06:41:23",
+    "collection_date": "2009",
+    "geo_loc_name": "Mexico: Sinaloa, Valle del Fuerte",
+    "host": "Zea mays",
+    "isolation_source": "diseased root tissue of Zea mays",
+    "host_disease": "",
+    "env_broad_scale": "agricultural field",
+    "host_category": "plant",
+    "submitter": "Universidad de Cordoba",
+    "submitter_category": "university",
+    "bioproject_accession": "PRJNA1438776",
+    "study_accession": "SRP752329",
+    "platform": "OXFORD_NANOPORE",
+    "instrument_model": "MinION",
+    "library_strategy": "WGS",
+    "library_source": "GENOMIC",
+    "library_selection": "size fractionation",
+    "source": "sra",
+    "fppl_name": "Fusarium spp.",
+    "priority": "High"
   }
 ]
